@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I have no clean course materials for AI to work from?",
+  "description": "Begin with a course brief, learner interviews, existing notes, FAQs, customer questions, and a list of outcomes. Ask AI to identify missing information rather t",
+  "url": "https://runmyaibusiness.com/faq/what-if-i-have-no-clean-course-materials-for-ai-to-work-from",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I have no clean course materials for AI to work from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not upload an entire proprietary curriculum, client manual, or paid resource until you understand the AI provider’s terms, retention practices, access controls, and permitted use. Start with a redacted sample and clear instructions about what the assistant may quote, transform, or summarize. Keep an offline master copy and record which materials informed each lesson. If the terms are unclear, use original notes or a controlled workflow instead of assuming the material is protected.",
+        "description": "Begin with a course brief, learner interviews, existing notes, FAQs, customer questions, and a list of outcomes. Ask AI to identify missing information rather than inventing it. Build and approve the outline first, then create lessons from verified material as you develop it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

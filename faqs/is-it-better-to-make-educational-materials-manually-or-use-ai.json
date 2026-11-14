@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to make educational materials manually or use AI?",
+  "description": "Use a hybrid process. Let AI organize research and draft variations, while a person sets objectives, checks accuracy, adapts instruction, reviews accessibility,",
+  "url": "https://runmyaibusiness.com/faq/is-it-better-to-make-educational-materials-manually-or-use-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to make educational materials manually or use AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best workflow is often a combination: AI handles research organization, first drafts, variations, and routine formatting, while a person handles goals, judgment, accuracy, voice, ethics, and approval. Run My AI Biz describes coordinated assistants for research, course development, presentations, video, and launch work, with the owner directing and reviewing the process. Context: fully manual work gives maximum control but consumes more time; fully automated work is faster but harder to trust. Key factors: subject risk, content volume, available expertise, deadline, budget, and need for personalization. Practical guidance: mark each task as draft, recommend, or approve so responsibilities are clear. Keep people involved at the points where an error could mislead learners or affect a purchase. This hybrid approach is usually more practical than treating AI as either an all-purpose author or something to avoid entirely.",
+        "description": "Use a hybrid process. Let AI organize research and draft variations, while a person sets objectives, checks accuracy, adapts instruction, reviews accessibility, and approves the final material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

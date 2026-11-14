@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How accurate is AI-generated course content, and how do I catch mistakes?",
+  "description": "Treat AI output as a draft, not an authority. Provide reliable source material, ask it to flag uncertainty, and independently verify facts, statistics, quotatio",
+  "url": "https://runmyaibusiness.com/faq/how-accurate-is-ai-generated-course-content-and-how-do-i-catch-mistakes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How accurate is AI-generated course content, and how do I catch mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated course content still needs fact-checking, source review, and subject-matter judgment. Give the assistant approved references or documents and require it to distinguish sourced information from examples or suggestions. Check dates, statistics, quotations, product details, and claims about results before publication. Run My AI Biz’s stated workflow principles include source verification and restrictions against invented statistics, proof, or income claims, which are especially relevant when course content discusses business opportunities.",
+        "description": "Treat AI output as a draft, not an authority. Provide reliable source material, ask it to flag uncertainty, and independently verify facts, statistics, quotations, examples, and current product information. Use a review checklist before lessons, quizzes, or sales materials go live."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

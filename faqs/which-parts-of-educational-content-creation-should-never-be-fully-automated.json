@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of educational content creation should never be fully automated?",
+  "description": "Keep learning objectives, factual approval, sensitive-data decisions, final editing, accessibility review, publication, spending, and external communication und",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-educational-content-creation-should-never-be-fully-automated",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of educational content creation should never be fully automated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help with outlines, drafts, summaries, speaker notes, scripts, practice questions, and repurposing, but it should not independently decide learning goals, publish final material, spend money, contact people, or make unsupported claims. Run My AI Biz’s business workflows use specialized assistants with approval checkpoints and secure account connections. Context: a prompt supplies instructions, while execution also depends on the platform, integrations, permissions, and supporting services. Key factors: task repeatability, risk of error, access level, required judgment, source verification, and exception handling. Practical guidance: separate drafting from approval, assign a named human reviewer, and record what happens when the output is wrong or incomplete. Start with low-risk internal drafts before connecting external publishing. This keeps automation useful without handing over decisions that require accountability.",
+        "description": "Keep learning objectives, factual approval, sensitive-data decisions, final editing, accessibility review, publication, spending, and external communication under human control. Automate drafts and organization first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it really take to create a course with AI?",
+  "description": "AI can produce an initial outline or lesson draft quickly, but a publishable course still requires source review, editing, assessments, media production, access",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-really-take-to-create-a-course-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it really take to create a course with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The time required depends less on the prompt than on the quality and completeness of your source material. A short outline can be drafted quickly, but review, fact-checking, examples, recordings, accessibility checks, platform setup, and learner testing usually take much longer. Use milestones: course brief, outline approval, lesson drafts, assessment review, production, pilot, and revision. Run My AI Biz’s focused-start principle—build one assistant, use it, then expand—helps prevent an oversized first project.",
+        "description": "AI can produce an initial outline or lesson draft quickly, but a publishable course still requires source review, editing, assessments, media production, accessibility checks, setup, and testing. Plan by milestones rather than assuming instant completion. Begin with one module or workflow and measure the actual time saved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

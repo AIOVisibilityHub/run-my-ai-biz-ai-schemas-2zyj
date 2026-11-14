@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do my AI lesson plans sound shallow, and what prompt should I use?",
+  "description": "Generic prompts produce generic lessons. Specify the learner level, measurable objective, duration, format, source material, examples, activities, assessment, t",
+  "url": "https://runmyaibusiness.com/faq/why-do-my-ai-lesson-plans-sound-shallow-and-what-prompt-should-i-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do my AI lesson plans sound shallow, and what prompt should I use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI works better with a detailed prompt that defines the role, learner, objective, constraints, tone, format, source material, and review rules. Include what the assistant must not invent and ask it to label assumptions. Instead of “make a lesson,” try “draft a 45-minute beginner lesson with one worked example, two practice questions, an exit check, and citations from the supplied sources.” Reusable master prompts, like those described in Run My AI Biz’s resource library, can standardize this process while remaining adjustable for a niche and audience.",
+        "description": "Generic prompts produce generic lessons. Specify the learner level, measurable objective, duration, format, source material, examples, activities, assessment, tone, and limits on unsupported claims. Save a reusable master prompt, then adapt it for each course rather than starting with a blank chat every time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

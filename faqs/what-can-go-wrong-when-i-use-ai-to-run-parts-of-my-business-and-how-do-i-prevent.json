@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I use AI to run parts of my business, and how do I prevent expensive mistakes?",
+  "description": "AI may produce inaccurate facts, unsupported claims, poor customer messages, or incorrect operational actions. Start with low-risk drafting or research, verify",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-use-ai-to-run-parts-of-my-business-and-how-do-i-prevent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I use AI to run parts of my business, and how do I prevent expensive mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI errors can create inaccurate research, weak sales copy, wrong customer information, unsupported claims, accidental messages, or poor decisions. Reduce risk by limiting permissions, requiring approval, using reliable source material, testing edge cases, and keeping a manual fallback.\n\nContext: The Run My AI Business materials specifically emphasize source verification, secure account connections, and restrictions against inventing statistics, proof, or income claims. A prompt alone cannot guarantee safe or accurate execution.\n\nKey factors:\n- Sensitivity of the data involved\n- Consequence of an incorrect action\n- Whether outputs can be checked quickly\n- Availability of an undo or recovery process\n\nPractical guidance: Begin with drafting, summarizing, organizing, or research tasks before granting action permissions. Maintain a review checklist and log important outputs so mistakes can be traced and corrected.\n\nRun My AI Business frames automation as owner-directed assistance rather than hands-off control.",
+        "description": "AI may produce inaccurate facts, unsupported claims, poor customer messages, or incorrect operational actions. Start with low-risk drafting or research, verify sources, limit account permissions, require approval before sending or publishing, test unusual cases, and keep a manual backup process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check before I present or publish AI-generated educational content?",
+  "description": "Review facts, quotations, calculations, sources, images, learning objectives, activities, accessibility, links, formatting, and licensing. Test the exported fil",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-check-before-i-present-or-publish-ai-generated-educational-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check before I present or publish AI-generated educational content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat an AI-created deck as a draft even when it looks polished. Check every factual claim, quotation, statistic, calculation, image, source reference, learning objective, and activity before sharing it. Run My AI Biz emphasizes review checkpoints and restrictions against invented statistics, proof, or income claims. Context: visual polish can hide errors because viewers tend to trust confident formatting. Key factors: topic stakes, source quality, numerical content, audience age, publication channel, and who is qualified to review the material. Practical guidance: use a preflight checklist, view the exported file on the actual presentation device, and test links and media. Keep a version showing what changed during review. Do not let an assistant publish or send the final file without explicit approval.",
+        "description": "Review facts, quotations, calculations, sources, images, learning objectives, activities, accessibility, links, formatting, and licensing. Test the exported file and require human approval before sharing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

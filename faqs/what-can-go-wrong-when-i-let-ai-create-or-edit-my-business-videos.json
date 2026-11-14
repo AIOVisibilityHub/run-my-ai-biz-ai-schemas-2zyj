@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I let AI create or edit my business videos?",
+  "description": "AI may introduce false claims, distorted visuals, incorrect product details, unnatural speech, caption errors, or rights problems. Review facts, likenesses, log",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-let-ai-create-or-edit-my-business-videos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I let AI create or edit my business videos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated footage should be treated as a draft until you check its factual, visual, audio, and rights implications. Common failures include unreadable signs, distorted hands, inconsistent characters, incorrect product details, unnatural speech, missing context, and invented claims. If the video supports a course, newsletter, sales page, or lead magnet, compare every factual statement with an approved source and remove unsupported proof or statistics. Key review points are identity and likeness, logos, music, stock assets, captions, translations, and the final call to action. Keep a simple approval record showing the source files, prompts or instructions, edits, and final reviewer. Run My AI Business specifically presents AI workflows as educational tools requiring owner oversight rather than guaranteed finished content.",
+        "description": "AI may introduce false claims, distorted visuals, incorrect product details, unnatural speech, caption errors, or rights problems. Review facts, likenesses, logos, music, stock assets, translations, and calls to action. Keep source files and an approval record, and never publish an unreviewed draft."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

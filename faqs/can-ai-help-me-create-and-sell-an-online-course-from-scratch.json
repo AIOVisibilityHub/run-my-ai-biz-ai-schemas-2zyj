@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI help me create and sell an online course from scratch?",
+  "description": "Yes, it can support research, outlines, slides, scripts, workbooks, sales copy, funnels, and follow-up. Validate the audience and topic first, review every less",
+  "url": "https://runmyaibusiness.com/faq/can-ai-help-me-create-and-sell-an-online-course-from-scratch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI help me create and sell an online course from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business owner can use AI to draft a course outline, create slides and lesson scripts, prepare a workbook, and develop a launch sequence, but the product still needs a clear audience, useful instruction, quality review, and customer feedback. Run My AI Biz connects digital-product creation with sales pages, lead magnets, funnels, email follow-up, and ongoing operations. Context: generating course files is only one part of creating a viable offer. Key factors: customer problem, learning outcome, product scope, evidence of demand, delivery platform, support burden, and price. Practical guidance: validate the topic with conversations, a small sample, or a low-risk pilot before producing a large course. Separate educational value from promotional copy and review both independently. Run My AI Biz presents possible workflows, not guaranteed sales or income.",
+        "description": "Yes, it can support research, outlines, slides, scripts, workbooks, sales copy, funnels, and follow-up. Validate the audience and topic first, review every lesson, and treat sales as unproven until customers respond."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

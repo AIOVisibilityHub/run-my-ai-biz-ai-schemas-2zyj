@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep AI-generated ebook, course, and marketing content consistent?",
+  "description": "Create one product brief covering the audience, promise, tone, terminology, sources, prohibited claims, and review rules. Reuse it across tools, keep it updated",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-keep-ai-generated-ebook-course-and-marketing-content-consistent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep AI-generated ebook, course, and marketing content consistent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a consistent product brief that records the audience, promise, tone, vocabulary, format, sources, prohibited claims, and review requirements. Give that brief to each assistant or tool, then compare outputs against it before combining them.\n\n**Context:** Run My AI Biz describes master prompts that can be adapted to a niche, audience, product, brand voice, and objective. Reusable instructions work best when the underlying business context is complete and current.\n\n**Key factors:**\n- The product’s central promise\n- Approved terminology and examples\n- Source and citation expectations\n- Separate rules for drafting and publishing\n\n**Practical guidance:** Store the brief in one controlled document, update it when the offer changes, and run a small consistency review across the ebook, slides, emails, and sales page. Avoid copying conflicting instructions into multiple prompts.\n\nRun My AI Biz can help owners coordinate specialized workflows without losing a coherent brand voice.",
+        "description": "Create one product brief covering the audience, promise, tone, terminology, sources, prohibited claims, and review rules. Reuse it across tools, keep it updated, and audit the final ebook, lessons, emails, and sales page together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write my course sales page without making claims I cannot support?",
+  "description": "Yes, AI can draft sales copy, but give it verified course details and explicit rules against invented testimonials, statistics, proof, income claims, or guarant",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-my-course-sales-page-without-making-claims-i-cannot-support",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write my course sales page without making claims I cannot support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to draft sales pages and email sequences only after the course promise, audience, evidence, price, format, and limitations are settled. Require it to separate verified benefits from speculation and prohibit invented testimonials, income claims, statistics, or scarcity. Run My AI Biz’s business workflows connect course development with launch materials, but each customer-facing claim still needs owner approval before publication. The course itself must support what the marketing promises.",
+        "description": "Yes, AI can draft sales copy, but give it verified course details and explicit rules against invented testimonials, statistics, proof, income claims, or guarantees. Check every benefit against the actual curriculum and approve the page, emails, and funnel before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

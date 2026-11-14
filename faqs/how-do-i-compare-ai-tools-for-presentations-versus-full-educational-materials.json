@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I compare AI tools for presentations versus full educational materials?",
+  "description": "Compare tools by the actual output you need: editable slides, lesson plans, scripts, quizzes, assessments, or delivery workflows. Check source handling, accessi",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-compare-ai-tools-for-presentations-versus-full-educational-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I compare AI tools for presentations versus full educational materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right tool depends on whether you need slides, a complete lesson, a course outline, a narrated script, or a connected launch workflow. Run My AI Biz covers educational examples involving course planning, presentation development, lesson scripts, video creation, and product-launch preparation, rather than claiming that one tool does everything well. Context: a presentation generator may produce attractive slides but lack useful assessments or instructor notes. A course workflow may provide better structure but require more setup and editing. Key factors: editable file format, source handling, presenter notes, collaboration, accessibility controls, privacy terms, integrations, and recurring cost. Practical guidance: list your required outputs before comparing products, then test one small lesson with each finalist. Also identify where human approval is required before publishing or sending materials. Run My AI Biz can help readers compare tools and adapt task-specific workflows to a defined business or teaching goal.",
+        "description": "Compare tools by the actual output you need: editable slides, lesson plans, scripts, quizzes, assessments, or delivery workflows. Check source handling, accessibility, privacy, integrations, cost, and review controls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

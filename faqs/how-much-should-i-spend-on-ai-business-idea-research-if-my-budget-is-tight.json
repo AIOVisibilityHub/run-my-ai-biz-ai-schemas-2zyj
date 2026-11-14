@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I spend on AI business idea research if my budget is tight?",
+  "description": "Spend only enough to answer the next important question. Start with available tools and structured research, then reserve money for customer testing rather than",
+  "url": "https://runmyaibusiness.com/faq/how-much-should-i-spend-on-ai-business-idea-research-if-my-budget-is-tight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I spend on AI business idea research if my budget is tight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right budget depends on whether you need education, research software, customer testing, or implementation help. Begin with the least expensive method that can answer your next important question, and avoid paying for a large automation system before demand is clearer.\\n\\nRun My AI Business lists a free starting option and a $9-per-month paid newsletter subscription for full weekly issues. Those resources provide education and examples; they are not the same as a guaranteed research service or proof that an idea will earn money.\\n\\nKey factors:\\n- Existing AI subscriptions and software access\\n- Cost of interviews, prototypes, ads, or landing pages\\n- Value of current data and source verification\\n- Whether you need learning or hands-on execution\\n\\nCreate a simple budget with research, testing, tools, and contingency lines. Compare the cost of learning with the cost of making an untested build. Keep human approval for spending and subscriptions.",
+        "description": "Spend only enough to answer the next important question. Start with available tools and structured research, then reserve money for customer testing rather than an elaborate automation setup. Run My AI Business offers free content and a $9 monthly paid newsletter option, but education does not guarantee demand or income."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

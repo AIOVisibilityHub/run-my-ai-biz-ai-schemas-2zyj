@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use ChatGPT, an AI course builder, or an online course platform?",
+  "description": "Use a general AI assistant for flexible drafting, an AI authoring tool for structured lessons and media, and a course platform for hosting, payments, delivery,",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-chatgpt-an-ai-course-builder-or-an-online-course-platform",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use ChatGPT, an AI course builder, or an online course platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A course platform and an AI authoring tool solve different problems. An authoring tool may help draft lessons, interactions, and exports, while a platform may host content, process enrollments, deliver email, and track learners. Some tools combine both, but feature and pricing differences matter. Compare whether you need SCORM or xAPI export, learner analytics, assessments, payments, communities, integrations, and control after cancellation; current comparisons show major differences in export and tracking options.",
+        "description": "Use a general AI assistant for flexible drafting, an AI authoring tool for structured lessons and media, and a course platform for hosting, payments, delivery, and learner tracking. Some products combine roles. Decide first whether you need exports, analytics, assessments, integrations, or selling features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

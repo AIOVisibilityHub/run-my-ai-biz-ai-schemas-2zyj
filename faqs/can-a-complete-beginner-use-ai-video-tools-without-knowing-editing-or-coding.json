@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a complete beginner use AI video tools without knowing editing or coding?",
+  "description": "Yes. Beginners can start with a defined brief and use AI for scripts, captions, rough edits, or repurposing. Coding is not required for many workflows, but you",
+  "url": "https://runmyaibusiness.com/faq/can-a-complete-beginner-use-ai-video-tools-without-knowing-editing-or-coding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a complete beginner use AI video tools without knowing editing or coding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A beginner does not need to master every video tool at once. Learn a small workflow: provide a clear brief, generate or organize a draft, inspect the result, revise instructions, and export only after a human review. In Run My AI Business’s educational approach, a specialized video assistant can support lesson scripts, presentations, or digital-product content while the owner controls the business context and final decisions. Useful preparation includes a brand-voice sample, audience description, approved terminology, visual references, and a list of prohibited claims. Expect several revision rounds, especially for pacing, pronunciation, captions, and continuity. Begin with one assistant or one defined task, then expand when the process is reliable.",
+        "description": "Yes. Beginners can start with a defined brief and use AI for scripts, captions, rough edits, or repurposing. Coding is not required for many workflows, but you still need to review pacing, pronunciation, visuals, facts, permissions, and export settings. Start with one small project instead of several tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

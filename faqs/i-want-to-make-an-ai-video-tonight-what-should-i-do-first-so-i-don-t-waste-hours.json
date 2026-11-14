@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I want to make an AI video tonight—what should I do first so I don’t waste hours?",
+  "description": "Define the audience, platform, length, and purpose first. Gather your source material, make a short outline, and use AI for a draft script or shot list. Test on",
+  "url": "https://runmyaibusiness.com/faq/i-want-to-make-an-ai-video-tonight-what-should-i-do-first-so-i-don-t-waste-hours",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I want to make an AI video tonight—what should I do first so I don’t waste hours?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the video’s job, audience, platform, and desired action; then collect reliable source material and create a short outline. AI can turn that outline into a script, shot list, narration draft, caption file, or editing checklist, but those outputs require review. Before using a Run My AI Business workflow, decide whether the video supports a newsletter, course, lead magnet, sales funnel, or social post because each purpose changes the length and call to action. Key factors include available footage, voice or avatar preferences, aspect ratio, accessibility, and approval responsibilities. Produce a small draft before building a larger automation. A focused workflow is easier to refine than trying to automate an entire video business at once.",
+        "description": "Define the audience, platform, length, and purpose first. Gather your source material, make a short outline, and use AI for a draft script or shot list. Test one brief video before creating a larger workflow, then manually check facts, visuals, captions, audio, and permissions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

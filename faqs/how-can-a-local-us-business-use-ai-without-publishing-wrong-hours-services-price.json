@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can a local US business use AI without publishing wrong hours, services, prices, or community information?",
+  "description": "Give AI verified business details, service areas, hours, approved offers, and communication rules, then require human review before publication. Check every loc",
+  "url": "https://runmyaibusiness.com/faq/how-can-a-local-us-business-use-ai-without-publishing-wrong-hours-services-price",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can a local US business use AI without publishing wrong hours, services, prices, or community information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support a local business by drafting website content, preparing review responses, organizing inquiries, researching local prospects, and creating promotional materials. It should not invent local facts, publish unreviewed claims, or make commitments about pricing, timing, or service availability.\n\nContext: Run My AI Business includes examples involving local business websites, local newsletters, sponsorship research, and local activity resources. These workflows depend on accurate location-specific information and business approval.\n\nKey factors:\n- Accuracy of local details\n- Business service area and availability\n- Customer communication standards\n- Review and publication controls\n\nPractical guidance: Supply the verified service area, hours, offerings, contact process, and approved wording. Check every location-specific statement before publication and maintain a simple update schedule for details that can change.\n\nThe business’s educational examples can help local owners adapt general workflows without copying them blindly.",
+        "description": "Give AI verified business details, service areas, hours, approved offers, and communication rules, then require human review before publication. Check every local claim, avoid invented pricing or availability, and maintain an update schedule for information that changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

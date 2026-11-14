@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I compare several AI-generated business ideas without getting overwhelmed?",
+  "description": "Choose criteria first: customer urgency, reachable demand, competition, delivery ability, cost, workload, and testability. Ask AI to compare each idea against t",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-compare-several-ai-generated-business-ideas-without-getting-overwhelmed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I compare several AI-generated business ideas without getting overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to compare alternatives, not to choose automatically. The best option usually balances customer urgency, reachable demand, competition, delivery ability, startup cost, and your willingness to keep serving that audience.\\n\\nRun My AI Business’s examples support comparing business models such as digital products, paid newsletters, affiliate marketing, website services, and directories. These are possible applications, not evidence that each model is profitable or appropriate for every owner.\\n\\nKey factors:\\n- Speed and cost of a first test\\n- Required expertise and ongoing workload\\n- Customer acquisition difficulty\\n- Revenue timing and repeat-purchase potential\\n\\nAsk AI to score options against criteria you choose, show the evidence behind each score, and perform a failure analysis. Then test the leading option with the smallest credible experiment. Retain the option with the strongest evidence, not the most exciting description.",
+        "description": "Choose criteria first: customer urgency, reachable demand, competition, delivery ability, cost, workload, and testability. Ask AI to compare each idea against the same criteria, show supporting evidence, and identify failure risks. Test the strongest evidence-backed option rather than the most exciting idea."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

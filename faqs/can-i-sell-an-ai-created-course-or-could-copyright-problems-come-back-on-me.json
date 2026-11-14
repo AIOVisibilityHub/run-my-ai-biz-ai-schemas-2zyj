@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sell an AI-created course, or could copyright problems come back on me?",
+  "description": "You may use AI to draft course material, but selling it does not remove your responsibility for originality, permissions, licenses, and attribution. Use authori",
+  "url": "https://runmyaibusiness.com/faq/can-i-sell-an-ai-created-course-or-could-copyright-problems-come-back-on-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sell an AI-created course, or could copyright problems come back on me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help brainstorm explanations, but it may reproduce wording, ideas, images, or structures that create copyright or licensing concerns. Use your own source material, request original examples, record where references came from, and confirm permissions for any third-party content. Do not treat an AI-generated answer as proof that a commercial image, quotation, video, or dataset is free to use. Before selling a course, review every asset and attribution requirement.",
+        "description": "You may use AI to draft course material, but selling it does not remove your responsibility for originality, permissions, licenses, and attribution. Use authorized source material, create original examples, document references, and review generated text, images, audio, and video before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

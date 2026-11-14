@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI make good quizzes and assessments for my course?",
+  "description": "AI can draft quiz questions and answer explanations, but you must verify correctness, difficulty, ambiguity, and alignment with the lesson objective. Mix recall",
+  "url": "https://runmyaibusiness.com/faq/can-ai-make-good-quizzes-and-assessments-for-my-course",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI make good quizzes and assessments for my course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can produce quizzes, but quantity is not the same as assessment quality. Tell it the objective, difficulty, question type, allowed references, explanation requirements, and answer rationale. Check every answer, remove clues that make guessing easy, and include authentic tasks when the course teaches a practical skill. For a business course, a learner might analyze an offer, draft a sequence, or correct a workflow rather than merely recall definitions.",
+        "description": "AI can draft quiz questions and answer explanations, but you must verify correctness, difficulty, ambiguity, and alignment with the lesson objective. Mix recall with practical tasks, review every answer, and test the assessment with a real learner before release."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

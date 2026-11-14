@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should AI do in course creation, and what should a human still handle?",
+  "description": "Let AI assist with outlines, drafts, variations, summaries, scripts, and quiz ideas. Keep human control over learning outcomes, source verification, inclusivity",
+  "url": "https://runmyaibusiness.com/faq/what-should-ai-do-in-course-creation-and-what-should-a-human-still-handle",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should AI do in course creation, and what should a human still handle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is usually strongest at producing a fast first draft, reorganizing supplied material, generating alternatives, and creating routine quiz or script variations. It is weaker at judging whether a concept is culturally appropriate, instructionally sufficient, factually current, or suitable for a particular learner. A human should set outcomes, approve the sequence, verify content, test the activities, and make final publication decisions. Run My AI Biz’s model treats assistants as specialized workflow support rather than replacements for owner judgment.",
+        "description": "Let AI assist with outlines, drafts, variations, summaries, scripts, and quiz ideas. Keep human control over learning outcomes, source verification, inclusivity, assessment quality, learner fit, pricing, publishing, and consequential decisions. AI speeds production; it does not replace instructional judgment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use an AI voice, avatar, cloned customer, or generated music in a business video?",
+  "description": "Only after checking permission and usage rights for the voice, likeness, footage, music, logos, scripts, and testimonials. Keep an asset register with sources a",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-an-ai-voice-avatar-cloned-customer-or-generated-music-in-a-business-vi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use an AI voice, avatar, cloned customer, or generated music in a business video?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Obtain appropriate permission before cloning or materially altering a person’s voice, face, or performance, and disclose synthetic or substantially altered media when the audience could reasonably be misled. A business should also verify permission for music, footage, photographs, logos, scripts, and customer testimonials. AI tools may offer commercial-use terms, but those terms do not automatically give you rights to every input or guarantee that generated material is free from disputes. For a Run My AI Business project, maintain an asset register listing the source, permission, license, restrictions, and intended use. Avoid making a person appear to endorse an offer unless that endorsement is genuine and authorized. When rights are uncertain, replace the asset rather than quietly publishing it.",
+        "description": "Only after checking permission and usage rights for the voice, likeness, footage, music, logos, scripts, and testimonials. Keep an asset register with sources and restrictions, disclose material synthetic alterations when appropriate, and avoid implying endorsement without clear authorization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

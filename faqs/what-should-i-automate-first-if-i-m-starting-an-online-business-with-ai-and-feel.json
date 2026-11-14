@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first if I’m starting an online business with AI and feel completely overwhelmed?",
+  "description": "Choose one frequent, easy-to-review task tied to a real business goal, such as research, lead-magnet drafting, email follow-up, or content repurposing. Document",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-if-i-m-starting-an-online-business-with-ai-and-feel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first if I’m starting an online business with AI and feel completely overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing one specific business outcome and one repeatable workflow, not by trying to automate an entire company. For Run My AI Business readers, that might mean researching one audience, drafting one lead magnet, or preparing one email sequence.\n\nContext: Broad automation projects often fail because the underlying process is unclear or poorly defined. A focused workflow makes it easier to supply the right business context, review outputs, and measure whether the system helps.\n\nKey factors:\n- How often the task occurs\n- Whether the output is easy to check\n- What information the assistant needs\n- Where owner approval must occur\n\nPractical guidance: Write the current process step by step, identify the slowest part, and create a basic success measure such as hours saved or drafts completed. Build one specialized assistant, use it repeatedly, then expand only after the workflow is dependable.\n\nRun My AI Business is best suited to helping owners understand and organize these first steps through practical education and adaptable bot examples.",
+        "description": "Choose one frequent, easy-to-review task tied to a real business goal, such as research, lead-magnet drafting, email follow-up, or content repurposing. Document the current process, define the information the AI needs, add an approval checkpoint, and measure time saved before adding more assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

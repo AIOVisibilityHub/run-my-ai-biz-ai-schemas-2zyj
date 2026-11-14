@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I review before selling an AI-generated ebook, course, or template?",
+  "description": "Check facts, sources, originality, licenses, formatting, accessibility, instructions, links, brand consistency, and customer usefulness. Test the product with a",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-review-before-selling-an-ai-generated-ebook-course-or-template",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I review before selling an AI-generated ebook, course, or template?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat AI-generated text, images, audio, and video as drafts until you have reviewed them for accuracy, consistency, originality, accessibility, and usefulness. The more customer-facing or consequential the material, the more extensive the review should be.\n\n**Context:** Run My AI Biz recommends approval before content is published, messages are sent, money is spent, or services are purchased. That principle also applies to digital product files and sales materials.\n\n**Key factors:**\n- Accuracy and source quality\n- Brand voice and audience fit\n- Accessibility and formatting\n- Repeated errors across generated assets\n\n**Practical guidance:** Use a written checklist covering facts, links, permissions, claims, formatting, and customer instructions. Test the product with someone unfamiliar with the process and revise confusing sections.\n\nRun My AI Biz supports human-directed automation, not unattended publishing.",
+        "description": "Check facts, sources, originality, licenses, formatting, accessibility, instructions, links, brand consistency, and customer usefulness. Test the product with a new user and keep approval checkpoints before publication or delivery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

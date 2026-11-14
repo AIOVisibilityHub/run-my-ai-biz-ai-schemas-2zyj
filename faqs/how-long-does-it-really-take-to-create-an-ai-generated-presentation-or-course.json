@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it really take to create an AI-generated presentation or course?",
+  "description": "AI can produce an initial outline or draft quickly, but a finished educational package takes longer for fact-checking, editing, design, accessibility, and learn",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-really-take-to-create-an-ai-generated-presentation-or-course",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it really take to create an AI-generated presentation or course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A realistic first draft can take minutes, but a classroom-ready or customer-ready package usually takes longer because review, editing, design, accessibility checks, and testing remain necessary. Run My AI Biz’s workflows can help divide work among research, course-building, presentation, video, and launch assistants, but the underlying platform and integrations affect speed. Context: generating text is often faster than validating it or adapting it to a specific audience. A short deck with supplied source material is simpler than a multi-module course with exercises and assessments. Key factors: length, subject complexity, source availability, visual requirements, number of revisions, and whether several formats are needed. Practical guidance: request a small sample first, approve the structure, and then expand. Set a review deadline separate from the drafting deadline so speed does not replace quality control. This staged process fits Run My AI Biz’s recommendation to begin with one manageable workflow.",
+        "description": "AI can produce an initial outline or draft quickly, but a finished educational package takes longer for fact-checking, editing, design, accessibility, and learner testing. Start with a short sample before producing everything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

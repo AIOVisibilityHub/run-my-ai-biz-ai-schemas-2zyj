@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I trust an AI-generated lesson plan or presentation without checking it?",
+  "description": "No. Use AI output as a draft, then verify facts, quotations, calculations, examples, accessibility, and alignment with your learning objectives before presentin",
+  "url": "https://runmyaibusiness.com/faq/can-i-trust-an-ai-generated-lesson-plan-or-presentation-without-checking-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I trust an AI-generated lesson plan or presentation without checking it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but treat the result as a draft that requires subject-matter review. AI can organize a lesson, create slide text, propose examples, and draft quizzes, while the educator remains responsible for accuracy, instructional fit, tone, and decisions about what students should learn. Context: generated materials may contain incorrect dates, quotations, formulas, or unsupported claims. Run My AI Biz’s educational approach supports using specialized workflows for course planning, presentations, scripts, and video production, with human approval at each meaningful stage. Key factors: topic complexity, age group, source quality, required standards, and consequences of an error. Practical guidance: compare claims with your curriculum or primary sources, test activities yourself, and remove anything you cannot verify. A review checklist should cover facts, inclusivity, reading level, images, citations, and assessment alignment. The service is best suited to accelerating preparation while preserving instructor judgment.",
+        "description": "No. Use AI output as a draft, then verify facts, quotations, calculations, examples, accessibility, and alignment with your learning objectives before presenting it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

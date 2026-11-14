@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI generate leads for my online business while I sleep?",
+  "description": "AI can research prospects, draft lead magnets, and prepare outreach, but it cannot guarantee qualified leads or sales. Verify contacts, personalize the message,",
+  "url": "https://runmyaibusiness.com/faq/can-ai-generate-leads-for-my-online-business-while-i-sleep",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI generate leads for my online business while I sleep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help create a lead magnet and outreach draft, but it cannot guarantee leads, replies, or sales. Run My AI Biz includes examples for local activities PDFs, affiliate checklists, sponsor prospecting, and researched outreach, with the expectation that messages are reviewed before use.\n\nContext: Lead generation depends on audience fit, the usefulness of the resource, list quality, channel rules, timing, and the relevance of the message. Bulk, generic outreach can damage trust and waste time.\n\nKey factors:\n- A specific problem the lead magnet solves.\n- A credible connection between the free resource and paid offer.\n- Verified prospect information and appropriate contact methods.\n- Tracking for sign-ups, replies, and qualified conversations.\n\nPractical guidance: Test one audience segment with a small, personalized batch. Review every contact and claim, then improve the resource or message based on actual responses.\n\nRun My AI Biz focuses on researched, owner-approved outreach rather than guaranteed lead volume.",
+        "description": "AI can research prospects, draft lead magnets, and prepare outreach, but it cannot guarantee qualified leads or sales. Verify contacts, personalize the message, review it before sending, and track responses so you can improve the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

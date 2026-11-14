@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI to create an online course without ending up with generic lessons?",
+  "description": "Give AI a specific audience, learner outcome, level, format, and source material before requesting lessons. Have it draft the structure first, then review each",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-to-create-an-online-course-without-ending-up-with-generic-lesson",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI to create an online course without ending up with generic lessons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft a course structure, lesson objectives, explanations, activities, quizzes, scripts, slides, and supporting emails, but it should not decide what learners must know without your review. Start with the audience, transformation, prerequisites, and measurable outcomes. For Run My AI Biz’s course-planning workflow, provide those details before asking an assistant to create modules. Review every factual claim, example, activity, and assessment for accuracy and relevance. A focused assistant can reduce blank-page work while keeping the creator responsible for the instructional decisions.",
+        "description": "Give AI a specific audience, learner outcome, level, format, and source material before requesting lessons. Have it draft the structure first, then review each module for accuracy, usefulness, tone, activities, and assessment quality. Run My AI Biz’s approach favors a focused course-building workflow instead of asking one prompt to produce everything at once."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

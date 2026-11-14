@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it still worth creating digital products with AI when everyone else is doing it?",
+  "description": "It can be, if the product solves a specific problem better or more clearly than generic alternatives. Differentiate through original examples, tested processes,",
+  "url": "https://runmyaibusiness.com/faq/is-it-still-worth-creating-digital-products-with-ai-when-everyone-else-is-doing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it still worth creating digital products with AI when everyone else is doing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the product needs a distinct audience, problem, structure, examples, and reason to choose it. AI makes it easier for others to produce generic material, so differentiation usually comes from useful judgment, tested processes, original experience, better organization, or ongoing updates.\n\n**Context:** Run My AI Biz frames AI as support for offer development, research, and execution rather than as a substitute for a meaningful customer outcome. A customizable workflow is more valuable when it reflects a specific business context.\n\n**Key factors:**\n- Specificity of the customer segment\n- Originality of examples and process\n- Ease of implementation\n- Support or updates after purchase\n\n**Practical guidance:** Review competing products, identify what buyers still struggle to do, and build around that gap. Include practical instructions and quality checks instead of padding the product with more AI-generated pages.\n\nRun My AI Biz can help creators develop focused offers in a crowded market.",
+        "description": "It can be, if the product solves a specific problem better or more clearly than generic alternatives. Differentiate through original examples, tested processes, focused audiences, useful implementation guidance, and updates—not by adding more pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

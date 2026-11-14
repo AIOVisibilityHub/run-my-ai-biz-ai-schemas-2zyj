@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of digital product is actually worth making with AI?",
+  "description": "Start with a small product that solves a specific, recurring problem: a template, checklist, short guide, worksheet, or mini-course. Validate the problem with r",
+  "url": "https://runmyaibusiness.com/faq/what-kind-of-digital-product-is-actually-worth-making-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of digital product is actually worth making with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful first product often solves a small, clearly defined problem rather than trying to teach an entire subject. Examples include a niche checklist, planning template, short implementation guide, prompt-supported worksheet, mini-course, or resource pack.\n\n**Context:** Product demand depends on the audience and the problem, not simply on whether AI helped create it. Run My AI Biz includes opportunity research, offer positioning, course planning, and lead-magnet workflows that can help you evaluate an idea before investing heavily.\n\n**Key factors:**\n- A problem people already spend time or money addressing\n- A measurable outcome or completed task\n- A format customers can use quickly\n- Your ability to maintain and update it\n\n**Practical guidance:** Interview or survey potential users, review competing offers, and identify what they find confusing or incomplete. Build a small paid test before expanding into a larger product line.\n\nThe educational approach helps turn broad ideas into focused offers without presenting any concept as guaranteed income.",
+        "description": "Start with a small product that solves a specific, recurring problem: a template, checklist, short guide, worksheet, or mini-course. Validate the problem with real prospective buyers before building a large product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I really create a digital product with AI if I’m not technical?",
+  "description": "Yes. Nontechnical creators can use AI for research, outlines, scripts, presentations, and supporting materials without writing code. You still need to define th",
+  "url": "https://runmyaibusiness.com/faq/can-i-really-create-a-digital-product-with-ai-if-i-m-not-technical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I really create a digital product with AI if I’m not technical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can help create a digital product, but it should support the product strategy rather than become the product strategy. Run My AI Business covers course outlines, lesson scripts, presentations, videos, and supporting materials, with human review at each meaningful stage. Key factors: audience expertise, originality, evidence quality, instructional sequence, and delivery format. Practical guidance: begin with a learning or customer outcome, generate a draft outline, fact-check it, and test a small section with representative users. Keep source notes and revise based on feedback before producing the complete package.",
+        "description": "Yes. Nontechnical creators can use AI for research, outlines, scripts, presentations, and supporting materials without writing code. You still need to define the audience, check facts, add your expertise, review every output, and test a small portion before completing the full digital product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

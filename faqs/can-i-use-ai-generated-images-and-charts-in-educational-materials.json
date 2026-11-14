@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI-generated images and charts in educational materials?",
+  "description": "Possibly, after checking usage rights, factual accuracy, source data, accessibility, and visual quality. Prefer verified data and licensed or original visuals,",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-generated-images-and-charts-in-educational-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI-generated images and charts in educational materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated images, icons, charts, and diagrams require the same scrutiny as generated text. Check whether the tool permits the intended use, verify data behind every chart, inspect people and labels for errors, and ensure meaningful visuals have useful alternative descriptions. Context: a polished visual can still contain incorrect anatomy, geography, labels, proportions, or implied evidence. Run My AI Biz’s content workflows can support presentation and course production, but output should not be treated as automatically accurate or rights-cleared. Key factors: commercial use, source data, audience age, cultural representation, trademarks, accessibility, and whether the visual could mislead learners. Practical guidance: prefer original diagrams built from verified data and use licensed image libraries when rights are clearer. Keep source notes for charts and replace suspicious visuals. Have a subject-matter reviewer inspect specialized illustrations.",
+        "description": "Possibly, after checking usage rights, factual accuracy, source data, accessibility, and visual quality. Prefer verified data and licensed or original visuals, and replace images with unclear ownership or misleading details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

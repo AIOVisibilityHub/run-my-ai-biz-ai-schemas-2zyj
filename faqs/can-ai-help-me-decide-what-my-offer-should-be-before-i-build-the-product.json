@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI help me decide what my offer should be before I build the product?",
+  "description": "Yes. AI can turn customer research into offer options, positioning statements, and landing-page drafts. Define the audience, painful situation, desired result,",
+  "url": "https://runmyaibusiness.com/faq/can-ai-help-me-decide-what-my-offer-should-be-before-i-build-the-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI help me decide what my offer should be before I build the product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft a value proposition, but customers determine whether it is meaningful. A strong statement identifies a specific audience, painful situation, desired result, and reason your approach differs from existing options.\\n\\nRun My AI Business includes offer-positioning and landing-page-review examples that can turn research into several message options. Treat those drafts as hypotheses and test them with the language of real prospects rather than choosing the most polished wording.\\n\\nKey factors:\\n- Customer wording for the problem\\n- Specific outcome rather than vague benefit\\n- Proof you can honestly provide\\n- Clear distinction from alternatives\\n\\nAsk AI for versions aimed at different segments and to flag unsupported promises. Put the strongest version on a simple page or outreach message. Measure responses, questions, sign-ups, and paid actions rather than compliments alone.",
+        "description": "Yes. AI can turn customer research into offer options, positioning statements, and landing-page drafts. Define the audience, painful situation, desired result, honest proof, and difference from alternatives. Test the message with real prospects before creating the full product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

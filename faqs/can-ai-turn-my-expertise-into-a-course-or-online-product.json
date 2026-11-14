@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI turn my expertise into a course or online product?",
+  "description": "Yes. AI can help structure a course, draft lessons, create slides, suggest exercises, and prepare supporting materials. Your expertise remains essential for exa",
+  "url": "https://runmyaibusiness.com/faq/can-ai-turn-my-expertise-into-a-course-or-online-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI turn my expertise into a course or online product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help turn expertise into a course, guide, template, checklist, or workshop, but the creator must supply the insight, examples, standards, and customer context. Run My AI Business specifically discusses course outlines, slides, lesson scripts, videos, and supporting materials. Key factors: learner outcome, logical sequence, originality, accessibility, and practice or implementation support. Practical guidance: create the curriculum around a measurable transformation, ask AI for alternative explanations and exercises, then review every lesson for accuracy and usefulness before recording or selling it.",
+        "description": "Yes. AI can help structure a course, draft lessons, create slides, suggest exercises, and prepare supporting materials. Your expertise remains essential for examples, accuracy, standards, and customer relevance. Build around a measurable learner outcome and test a lesson before producing the entire course."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

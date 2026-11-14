@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I make AI-generated lessons feel like they were made for my audience?",
+  "description": "Give AI real audience questions, vocabulary, goals, examples, constraints, and preferred voice. Adapt explanations and practice—not just names or colors—and rev",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-make-ai-generated-lessons-feel-like-they-were-made-for-my-audience",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make AI-generated lessons feel like they were made for my audience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Personalize AI output by supplying your audience’s real questions, vocabulary, goals, examples, constraints, and preferred voice instead of asking for a generic lesson. Run My AI Biz emphasizes conversational workflows and adaptable master prompts that can be tailored to a niche, audience, product, and objective. Context: personalization is more than changing names or colors; it requires changing explanations and examples to match the learner. Key factors: prior knowledge, culture, industry, language, delivery format, local context, and learner feedback. Practical guidance: collect recurring questions from support messages, interviews, or class discussions and use them to shape examples and practice. Review generated scenarios for stereotypes or assumptions. Keep a reusable prompt template, but replace the audience and source details for each distinct group.",
+        "description": "Give AI real audience questions, vocabulary, goals, examples, constraints, and preferred voice. Adapt explanations and practice—not just names or colors—and review scenarios for assumptions or stereotypes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it really take to launch an AI-powered online business if I’m doing this part time?",
+  "description": "There is no dependable universal timeline. A focused offer with existing content can move faster than a new course, funnel, website, and email system built toge",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-really-take-to-launch-an-ai-powered-online-business-if-i-m-doin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it really take to launch an AI-powered online business if I’m doing this part time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A realistic launch sequence is usually idea research, audience and offer definition, product or service preparation, sales materials, funnel setup, testing, and promotion. The calendar depends on scope, platform choices, how much content already exists, and how quickly you can review and revise.\n\nContext: AI can shorten drafting and coordination work, but it does not remove decisions, testing, account setup, or quality control. A 38-bot library should be treated as adaptable blueprints, not a promise that every workflow is ready to launch immediately.\n\nKey factors:\n- Product complexity\n- Number of connected tools\n- Review and revision time\n- Whether demand has already been tested\n\nPractical guidance: Create a minimum launch checklist and assign an owner decision to every step. Launch a small version first, record what required manual correction, and improve the workflow before adding optional features.\n\nRun My AI Business can help readers understand the sequence without presenting a fixed timeline.",
+        "description": "There is no dependable universal timeline. A focused offer with existing content can move faster than a new course, funnel, website, and email system built together. Break the launch into research, offer, product, sales materials, setup, testing, and promotion, then release a small version before expanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

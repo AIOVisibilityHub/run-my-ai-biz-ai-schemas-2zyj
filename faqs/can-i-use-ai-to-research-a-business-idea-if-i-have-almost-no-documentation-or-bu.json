@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to research a business idea if I have almost no documentation or business plan yet?",
+  "description": "Yes. Start with a plain-language brief describing the idea, audience, problem, constraints, and uncertainties. Ask AI to identify missing information and create",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-research-a-business-idea-if-i-have-almost-no-documentation-or-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to research a business idea if I have almost no documentation or business plan yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can begin without perfect documentation, but weak inputs produce weaker conclusions. Describe what you know, label guesses, and ask AI to create a research-gap list rather than filling missing facts with invented details.\\n\\nRun My AI Business’s conversational approach is suitable for starting in ordinary language, without requiring coding. Its workflows still depend on accurate business context, suitable tools, connected services, and human review.\\n\\nKey factors:\\n- What is known versus assumed\\n- Which facts are essential to the decision\\n- Whether current sources exist\\n- What can be tested directly\\n\\nStart with a one-page brief containing the idea, audience, problem, constraints, and uncertainties. Ask for interview prompts and a low-cost experiment. Add documentation as you learn instead of delaying all action until the plan looks complete.",
+        "description": "Yes. Start with a plain-language brief describing the idea, audience, problem, constraints, and uncertainties. Ask AI to identify missing information and create research questions instead of guessing. Then gather evidence through interviews, competitor checks, and a small experiment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

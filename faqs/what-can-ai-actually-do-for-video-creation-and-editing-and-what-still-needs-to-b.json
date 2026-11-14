@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can AI actually do for video creation and editing, and what still needs to be done by a person?",
+  "description": "AI can assist with scripts, storyboards, captions, rough cuts, audio cleanup, resizing, and clip selection. A person should still approve facts, pacing, visuals",
+  "url": "https://runmyaibusiness.com/faq/what-can-ai-actually-do-for-video-creation-and-editing-and-what-still-needs-to-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can AI actually do for video creation and editing, and what still needs to be done by a person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-assisted video creation can help with research, outlines, scripts, shot lists, captions, rough cuts, audio cleanup, and short-form repurposing. It works best as a supervised workflow, not a one-click replacement for creative judgment. For Run My AI Business readers, the practical starting point is to choose one repeatable video task—such as turning a newsletter or lesson into clips—and define the desired audience, format, length, tone, and approval steps before selecting software. Key factors include source-material quality, brand voice, export needs, accessibility, and whether the tool supports your existing workflow. Create a low-cost draft first, inspect every scene and caption, then revise manually before publishing. Run My AI Business can help readers evaluate video workflows as part of a broader digital-product or content system without presenting AI output as finished work.",
+        "description": "AI can assist with scripts, storyboards, captions, rough cuts, audio cleanup, resizing, and clip selection. A person should still approve facts, pacing, visuals, permissions, brand voice, and the final export. Start with one repeatable task, test it on a short project, and add review checkpoints before anything is published."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

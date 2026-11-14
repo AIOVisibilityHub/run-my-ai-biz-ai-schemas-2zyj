@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build one AI assistant first or use several bots for my business idea?",
+  "description": "Start with one assistant focused on the biggest bottleneck. Test its instructions, inputs, output quality, and review process before adding another. The 38-bot",
+  "url": "https://runmyaibusiness.com/faq/should-i-build-one-ai-assistant-first-or-use-several-bots-for-my-business-idea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build one AI assistant first or use several bots for my business idea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One well-designed assistant is usually the better starting point for a first-time owner. It lets you test the prompt, inputs, output quality, and review process before coordinating several assistants with overlapping responsibilities.\\n\\nRun My AI Business recommends identifying relevant workflows, building one assistant, using it, and expanding gradually. The 38-bot collection is a library of adaptable blueprints, not 38 identical software products or 38 proven income-producing businesses.\\n\\nKey factors:\\n- The single bottleneck costing you the most time\\n- Whether inputs are stable and available\\n- Whether the output has a clear owner\\n- Whether another assistant is truly needed\\n\\nStart with opportunity research, a weekly report, or another bounded task. Document the result and manual corrections. Add a second assistant only when the first workflow is understood and the handoff is clear.",
+        "description": "Start with one assistant focused on the biggest bottleneck. Test its instructions, inputs, output quality, and review process before adding another. The 38-bot resource is a library of adaptable blueprints, not 38 identical products or guaranteed income streams."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

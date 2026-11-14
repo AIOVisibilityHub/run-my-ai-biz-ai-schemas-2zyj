@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to start an AI business, and how do I know if the automation is worth paying for?",
+  "description": "Budget for AI access, connected tools, website or email platforms, payment processing, and any educational or resource subscriptions. Start with one measurable",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-start-an-ai-business-and-how-do-i-know-if-the-automatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to start an AI business, and how do I know if the automation is worth paying for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost depends on which parts you use: education, AI platforms, automation or integration services, website and email tools, payment systems, and any paid resources. Separate recurring subscriptions from one-time setup costs before deciding whether the project fits your budget.\n\nContext: Run My AI Business describes a free newsletter option and a paid newsletter subscription listed at $9 per month, while the separately promoted mastermind and its resources are distinct offerings. Prices and third-party charges should be confirmed before purchase.\n\nKey factors:\n- Existing tools you already pay for\n- Number of workflows and integrations\n- Usage limits and overage charges\n- Whether a manual process is cheaper at your current volume\n\nPractical guidance: Start with one measurable workflow and track time saved, output quality, and new costs for a trial period. Do not assume a larger bot collection creates better value if only one or two workflows address an immediate need.\n\nThe business’s educational content can help compare use cases before committing to a broader system.",
+        "description": "Budget for AI access, connected tools, website or email platforms, payment processing, and any educational or resource subscriptions. Start with one measurable workflow, record current effort and results, then compare those figures with recurring costs. More assistants are not automatically better value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

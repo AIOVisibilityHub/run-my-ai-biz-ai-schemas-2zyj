@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a small business automate first with AI?",
+  "description": "Start with a repetitive, low-risk task such as research collection, routine drafting, link checking, project updates, or payment-reminder preparation. Choose wo",
+  "url": "https://runmyaibusiness.com/faq/what-should-a-small-business-automate-first-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a small business automate first with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business can automate repetitive preparation and checking work, but it should not hand over the entire operation without safeguards. Run My AI Biz describes examples for research, content drafts, customer-support first responses, billing reminders, project updates, and server-health reporting.\n\nContext: Automation is most dependable when the inputs, output format, exceptions, and approval owner are explicit. Public discussions also highlight maintenance problems such as expired logins, platform changes, and unusual customer situations.\n\nKey factors:\n- How predictable the task is.\n- What happens when information is missing or unusual.\n- Whether the workflow can pause for approval.\n- How failures, access changes, and platform updates are monitored.\n\nPractical guidance: Start with a weekly task and define a fallback for errors. Review logs and outputs on a set schedule before increasing the workflow’s permissions.\n\nRun My AI Biz presents automation as owner-directed support, not unattended management.",
+        "description": "Start with a repetitive, low-risk task such as research collection, routine drafting, link checking, project updates, or payment-reminder preparation. Choose work with predictable inputs, define exceptions, and require approval before customer-facing or financial actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

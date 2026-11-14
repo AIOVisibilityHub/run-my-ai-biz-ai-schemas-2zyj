@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which AI video tool is best for me—script-to-video, text-based editing, or a normal editor with AI features?",
+  "description": "Choose by task. Script-to-video suits narrated explainers, text-based editing suits transcript-driven cuts, generative tools suit selected visual changes, and t",
+  "url": "https://runmyaibusiness.com/faq/which-ai-video-tool-is-best-for-me-script-to-video-text-based-editing-or-a-norma",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which AI video tool is best for me—script-to-video, text-based editing, or a normal editor with AI features?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right choice depends on the job, not on which tool has the longest feature list. Script-to-video platforms may help with narrated explainers; text-based editors can speed transcript-based cuts; generative tools can create or alter selected scenes; and conventional editors remain useful for final compositing and precise control. Community users commonly combine an AI tool with an editor such as CapCut or DaVinci Resolve rather than expecting one platform to handle everything. Compare caption accuracy, timeline control, voice options, commercial-use terms, export quality, watermarks, storage, integrations, and learning effort. Run My AI Business readers should match the tool to the intended workflow—course lesson, newsletter clip, lead magnet, or social post—before committing to a subscription. Test the same short source file in two candidates and compare the finished result, not just the demo.",
+        "description": "Choose by task. Script-to-video suits narrated explainers, text-based editing suits transcript-driven cuts, generative tools suit selected visual changes, and traditional editors provide final control. Compare captions, exports, commercial terms, watermarks, integrations, and revision effort using the same short test project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

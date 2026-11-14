@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build my entire sales funnel, or do I still need to do the work?",
+  "description": "AI can draft the main funnel components, but you still need to define the offer, check claims, test links and delivery, review emails, and measure results. Trea",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-my-entire-sales-funnel-or-do-i-still-need-to-do-the-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build my entire sales funnel, or do I still need to do the work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft a lead magnet, opt-in page, bridge page, thank-you page, and follow-up emails, but the funnel still needs a clear offer, accurate promises, functioning links, and a relevant audience. Run My AI Biz’s examples show how these pieces can be planned together rather than generated as disconnected copy.\n\nContext: A polished funnel can still fail if the lead magnet is weak, the audience is poorly matched, the call to action is unclear, or the delivery and tracking systems break. Automated publishing should remain disabled until the sequence is reviewed.\n\nKey factors:\n- Alignment between the lead magnet and paid offer.\n- One clear next action on each page or email.\n- Correct forms, links, tags, delivery, and unsubscribe handling.\n- Review of claims, tone, and audience fit.\n\nPractical guidance: Test the funnel yourself from opt-in through delivery and follow-up. Measure sign-ups and meaningful actions, then revise one element at a time.\n\nRun My AI Biz teaches funnel coordination while leaving performance decisions to the business owner.",
+        "description": "AI can draft the main funnel components, but you still need to define the offer, check claims, test links and delivery, review emails, and measure results. Treat generated pages as working drafts, not an automatic sales system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

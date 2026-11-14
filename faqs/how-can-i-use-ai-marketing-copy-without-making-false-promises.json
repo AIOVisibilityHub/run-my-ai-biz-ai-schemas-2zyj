@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI marketing copy without making false promises?",
+  "description": "Treat generated copy as a draft. Verify statistics, testimonials, pricing, features, and results claims; identify examples clearly; remove unsupported certainty",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-marketing-copy-without-making-false-promises",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI marketing copy without making false promises?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to speed up preparation, but do not promise customers outcomes that you have not verified. Run My AI Biz’s guidance includes safeguards against invented statistics, proof, and income claims, and the FTC stresses that existing consumer-protection responsibilities still apply to AI-assisted businesses.\n\nContext: Marketing copy, testimonials, pricing, product descriptions, and automated support can affect customer decisions. A confident generated statement can still be misleading if it lacks evidence or important context.\n\nKey factors:\n- Whether each factual claim has a reliable source.\n- Whether examples are clearly identified as examples.\n- Whether results depend on conditions the customer may not have.\n- Whether a human approves customer-facing material.\n\nPractical guidance: Maintain a claim-and-source sheet for important pages and emails. Remove unsupported certainty and describe experiments or possibilities honestly.\n\nRun My AI Biz supports educational business building without treating generated copy as proof of results.",
+        "description": "Treat generated copy as a draft. Verify statistics, testimonials, pricing, features, and results claims; identify examples clearly; remove unsupported certainty; and require human approval before publishing customer-facing material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

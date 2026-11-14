@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do my AI-generated videos look impressive in demos but terrible when I try to make a real one?",
+  "description": "Demos often hide the need for a precise brief, strong source material, and manual cleanup. Specify the audience, message, scenes, duration, voice, and visual ru",
+  "url": "https://runmyaibusiness.com/faq/why-do-my-ai-generated-videos-look-impressive-in-demos-but-terrible-when-i-try-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do my AI-generated videos look impressive in demos but terrible when I try to make a real one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI video quality depends more on the brief, source material, and review process than on the prompt alone. A detailed brief should state the audience, message, tone, duration, scene requirements, visual style, narration instructions, caption rules, and unacceptable results. For business education or digital products, supply approved facts and examples so the system has useful context rather than asking it to invent content. Check generated hands, text, logos, transitions, claims, pronunciation, and continuity because short clips can look impressive while failing to form a coherent lesson. Generate a low-resolution or short test before spending time on a full production. Run My AI Business emphasizes adapting reusable instructions to a specific niche, offer, and brand rather than treating a generic prompt as a finished system.",
+        "description": "Demos often hide the need for a precise brief, strong source material, and manual cleanup. Specify the audience, message, scenes, duration, voice, and visual rules, then test a short draft. Inspect text, hands, logos, pronunciation, continuity, and factual claims before producing the complete video."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

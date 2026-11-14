@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if AI made my course quickly but students still are not finishing it?",
+  "description": "Collect learner feedback and completion data, then inspect unclear instructions, lesson length, practice gaps, technical friction, and promise-to-content mismat",
+  "url": "https://runmyaibusiness.com/faq/what-if-ai-made-my-course-quickly-but-students-still-are-not-finishing-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if AI made my course quickly but students still are not finishing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI creates a polished course that nobody finishes, the problem may be design rather than writing. Ask learners where they stopped, which tasks felt unclear, and what outcome they expected. Review lesson length, instructions, practice opportunities, sequence, technical friction, and the gap between sales promise and actual content. Use AI to cluster feedback and propose revisions, but confirm changes with learner evidence instead of accepting its diagnosis automatically.",
+        "description": "Collect learner feedback and completion data, then inspect unclear instructions, lesson length, practice gaps, technical friction, and promise-to-content mismatch. AI can organize feedback and suggest revisions, but test changes with learners. Faster content production does not guarantee engagement or completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

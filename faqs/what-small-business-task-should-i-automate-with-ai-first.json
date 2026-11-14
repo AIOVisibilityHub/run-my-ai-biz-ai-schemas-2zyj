@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What small business task should I automate with AI first?",
+  "description": "Choose a repetitive, low-risk task with clear inputs and outputs, such as research collection, draft preparation, content repurposing, or routine reminders. Doc",
+  "url": "https://runmyaibusiness.com/faq/what-small-business-task-should-i-automate-with-ai-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What small business task should I automate with AI first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing a workflow you repeat often and that has clear inputs and outputs, such as weekly research, newsletter drafting, content repurposing, prospect organization, or routine payment reminders. Keep approval required for external messages, publishing, spending, and account changes.\n\n**Context:** Run My AI Biz describes specialized assistants coordinated by a chief-of-staff-style assistant, but successful execution still depends on integrations, permissions, and supporting services.\n\n**Key factors:**\n- Repetition and time spent\n- Error cost if the task fails\n- Data sensitivity\n- Whether a human can review exceptions\n\n**Practical guidance:** Document the current manual process, automate one step, compare the result with your old method, and add safeguards before expanding. Do not automate a process you cannot explain.\n\nRun My AI Biz encourages focused implementation instead of trying to automate an entire business at once.",
+        "description": "Choose a repetitive, low-risk task with clear inputs and outputs, such as research collection, draft preparation, content repurposing, or routine reminders. Document the process, automate one step, review results, and expand only after it works reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

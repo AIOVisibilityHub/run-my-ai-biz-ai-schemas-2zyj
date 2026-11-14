@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What platform should I use to sell a digital product I created with AI?",
+  "description": "Choose based on product format, checkout, delivery, email integrations, fees, data access, support, and technical effort. List must-have features first, test th",
+  "url": "https://runmyaibusiness.com/faq/what-platform-should-i-use-to-sell-a-digital-product-i-created-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What platform should I use to sell a digital product I created with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a platform that matches your product format, audience, payment needs, delivery method, email workflow, and willingness to handle technical setup. There is no universally best platform for every creator, and the lowest initial price may not be the lowest total cost.\n\n**Context:** Run My AI Biz discusses checkout, delivery, funnels, email follow-up, websites, and platform setup as separate parts of a launch workflow. Platform capabilities and pricing can change, so review current terms directly before deciding.\n\n**Key factors:**\n- Digital-file, course, membership, or software delivery\n- Transaction and subscription charges\n- Export, email, and integration options\n- Customer support and data access\n\n**Practical guidance:** List required features before comparing vendors, test the buyer experience from checkout through delivery, and confirm what happens if you cancel. Avoid selecting a platform solely because an AI tool recommends it.\n\nRun My AI Biz can help organize the comparison criteria without endorsing one universal solution.",
+        "description": "Choose based on product format, checkout, delivery, email integrations, fees, data access, support, and technical effort. List must-have features first, test the complete buyer experience, and review current pricing and cancellation terms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI help me create and sell an online course if I’m not a professional content creator?",
+  "description": "AI can help outline a course, draft lessons, prepare slides, generate exercises, and organize launch materials. You remain responsible for expertise, accuracy,",
+  "url": "https://runmyaibusiness.com/faq/can-ai-help-me-create-and-sell-an-online-course-if-i-m-not-a-professional-conten",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI help me create and sell an online course if I’m not a professional content creator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but treat AI as a drafting and organizing aid rather than a substitute for your experience or customer insight. It can outline a course, create lesson drafts, suggest exercises, prepare slides, and organize launch materials, while you verify accuracy, teaching quality, originality, and audience fit.\n\nContext: The Run My AI Business resource library includes course-building, presentation, lesson-script, and video-production examples that can be combined with research and launch workflows.\n\nKey factors:\n- Accuracy of the subject matter\n- Your right to use source material\n- Learner outcomes and exercises\n- Review time for every module\n\nPractical guidance: Create a content map first, then develop one module as a pilot. Test it with representative learners, revise unclear sections, and keep a record of sources and original contributions.\n\nThe business’s educational materials can help connect product creation with marketing and launch preparation.",
+        "description": "AI can help outline a course, draft lessons, prepare slides, generate exercises, and organize launch materials. You remain responsible for expertise, accuracy, originality, audience fit, and quality control. Pilot one module, obtain feedback, revise it, then build the rest around proven learner needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI creates a terrible digital product draft?",
+  "description": "Find the cause before regenerating: unclear audience, weak sources, vague instructions, unsuitable format, or excessive scope. Tighten the brief, provide exampl",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-ai-creates-a-terrible-digital-product-draft",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI creates a terrible digital product draft?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI produces a weak first draft, do not simply ask for more words. Diagnose the failure: unclear audience, incomplete source material, vague instructions, wrong format, unsupported claims, or unrealistic scope. Then revise the brief and regenerate only the affected section.\n\n**Context:** Run My AI Biz presents master prompts as adaptable instructions that require business context, review, and refinement. Prompt quality alone cannot correct missing expertise or unreliable sources.\n\n**Key factors:**\n- The desired customer outcome\n- Specific examples and constraints\n- Reliable reference material\n- A measurable quality standard\n\n**Practical guidance:** Give AI one task at a time, include a model of the expected structure, and request a critique before rewriting. Preserve useful human edits instead of replacing the entire document after every revision.\n\nRun My AI Biz encourages iterative, owner-directed workflows rather than blind regeneration.",
+        "description": "Find the cause before regenerating: unclear audience, weak sources, vague instructions, unsuitable format, or excessive scope. Tighten the brief, provide examples and constraints, revise one section at a time, and preserve useful human edits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

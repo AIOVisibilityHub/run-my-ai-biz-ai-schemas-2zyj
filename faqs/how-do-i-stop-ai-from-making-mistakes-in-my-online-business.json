@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making mistakes in my online business?",
+  "description": "Do not let AI publish, contact customers, spend money, or make important claims without review. Require source checks, use approval checkpoints, limit sensitive",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-mistakes-in-my-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making mistakes in my online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat AI output as a draft that requires review, especially for facts, statistics, customer promises, pricing, links, and instructions. Run My AI Biz’s stated safeguards include source verification and restrictions against inventing proof or income claims.\n\nContext: AI can sound confident while being wrong or incomplete. The FTC says businesses remain responsible for consumer-protection obligations and that there is no general AI exemption from existing rules.\n\nKey factors:\n- The consequence of an error in the specific workflow.\n- Whether claims can be checked against reliable sources.\n- Whether personal, customer, payment, or confidential data is involved.\n- Whether the assistant is allowed to act or only prepare drafts.\n\nPractical guidance: Use approval checkpoints, maintain a source list, and sample outputs regularly. Keep sensitive information out of prompts unless the service’s data practices and permissions are understood.\n\nRun My AI Biz encourages useful automation with human control over consequential decisions.",
+        "description": "Do not let AI publish, contact customers, spend money, or make important claims without review. Require source checks, use approval checkpoints, limit sensitive data, test outputs regularly, and keep a clear record of what the assistant is allowed to do."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

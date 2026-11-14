@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does AI keep writing bland sales copy for my business, and how do I fix it?",
+  "description": "AI copy is usually bland when the prompt lacks a specific audience, offer, customer language, proof, tone, exclusions, and desired action. Provide those details",
+  "url": "https://runmyaibusiness.com/faq/why-does-ai-keep-writing-bland-sales-copy-for-my-business-and-how-do-i-fix-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does AI keep writing bland sales copy for my business, and how do I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI-generated copy sounds generic, the problem is often incomplete context, an unclear audience, or no defined brand guidance. Supply customer language, offer details, examples of acceptable tone, prohibited claims, formatting requirements, and the action the reader should take.\n\nContext: Run My AI Business emphasizes conversational workflows and adapting assistants to an owner’s niche, audience, products, voice, and objectives. Generic prompts produce generic material because the assistant lacks those distinctions.\n\nKey factors:\n- Specific customer and situation\n- Concrete offer and proof\n- Brand vocabulary and exclusions\n- Required review standard\n\nPractical guidance: Give the assistant a strong brief, request several alternatives, and edit the best draft with real customer language. Save the approved patterns as reusable instructions, but continue checking facts and claims.\n\nThe newsletter’s practical examples can help readers improve prompts through iteration.",
+        "description": "AI copy is usually bland when the prompt lacks a specific audience, offer, customer language, proof, tone, exclusions, and desired action. Provide those details, request several versions, choose one to edit, and save the approved patterns as reusable instructions while checking every factual claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

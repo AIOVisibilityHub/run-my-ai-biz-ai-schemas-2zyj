@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build an online course, including lessons, slides, and videos?",
+  "description": "AI can assist with course outlines, scripts, slides, exercises, and production planning, but you must define the learning outcome, verify the teaching, test les",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-an-online-course-including-lessons-slides-and-videos",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build an online course, including lessons, slides, and videos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A course-building assistant can help outline modules, draft lesson scripts, suggest exercises, organize slides, and prepare launch materials. It cannot independently guarantee instructional quality, accurate teaching, suitable pacing, or a meaningful student outcome.\n\n**Context:** The Run My AI Biz resource library includes course planning, presentation development, lesson scripts, video creation, and editing examples. These stages still require a subject-matter review and learner testing.\n\n**Key factors:**\n- The learner’s starting skill level\n- The outcome each lesson supports\n- Practice, feedback, and assessment design\n- Video, slide, and accessibility requirements\n\n**Practical guidance:** Define the learner transformation first, then build a lesson map around it. Test one module with a representative learner and revise confusing explanations before recording the entire course.\n\nRun My AI Biz can help organize course-production tasks without treating generated lessons as finished instruction.",
+        "description": "AI can assist with course outlines, scripts, slides, exercises, and production planning, but you must define the learning outcome, verify the teaching, test lessons with learners, and review accessibility and media quality before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

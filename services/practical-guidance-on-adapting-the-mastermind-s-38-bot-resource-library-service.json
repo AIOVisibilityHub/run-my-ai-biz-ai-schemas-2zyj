@@ -1,0 +1,24 @@
+{
+  "url": "https://runmyaibusiness.com",
+  "name": "practical guidance on adapting the mastermind’s 38-bot resource library",
+  "@type": "EducationalOrganization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "United States"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://runmyaibusiness.com",
+    "name": "Run My AI Biz",
+    "@type": "EducationalOrganization",
+    "telephone": "8007702171"
+  },
+  "telephone": "8007702171",
+  "areaServed": [
+    {
+      "name": "United States",
+      "@type": "Country"
+    }
+  ],
+  "serviceType": "practical guidance on adapting the mastermind’s 38-bot resource library"
+}

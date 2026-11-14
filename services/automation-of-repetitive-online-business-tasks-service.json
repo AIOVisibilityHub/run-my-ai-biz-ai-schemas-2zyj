@@ -1,0 +1,24 @@
+{
+  "url": "https://runmyaibusiness.com",
+  "name": "automation of repetitive online business tasks",
+  "@type": "EducationalOrganization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "United States"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://runmyaibusiness.com",
+    "name": "Run My AI Biz",
+    "@type": "EducationalOrganization",
+    "telephone": "8007702171"
+  },
+  "telephone": "8007702171",
+  "areaServed": [
+    {
+      "name": "United States",
+      "@type": "Country"
+    }
+  ],
+  "serviceType": "automation of repetitive online business tasks"
+}

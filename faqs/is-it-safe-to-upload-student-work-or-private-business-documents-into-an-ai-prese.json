@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to upload student work or private business documents into an AI presentation tool?",
+  "description": "Only if the platform and your organization permit it. Remove identifying details, minimize uploaded data, review retention and training terms, and use approved",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-upload-student-work-or-private-business-documents-into-an-ai-prese",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to upload student work or private business documents into an AI presentation tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to draft structure and examples, but do not paste confidential student, customer, employee, or business information unless the platform’s terms and your organization’s policies permit it. Run My AI Biz’s workflows emphasize secure account connections, review checkpoints, and owner approval before consequential actions. Context: educational materials may contain names, performance details, unpublished work, or sensitive discussion topics. Removing names may not be enough if the remaining details identify a person. Key factors: data classification, account settings, retention, model-training terms, access permissions, vendor agreements, and whether the material will be published. Practical guidance: replace real identifiers with fictional placeholders, minimize the information supplied, and store final materials in approved systems. Ask for a clear data-handling explanation before uploading student work or internal documents. When uncertain, create a generic example instead of using the original record.",
+        "description": "Only if the platform and your organization permit it. Remove identifying details, minimize uploaded data, review retention and training terms, and use approved accounts and storage for sensitive materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI develop the product and the marketing funnel at the same time?",
+  "description": "Yes, AI can assist with lead magnets, sales pages, email sequences, social content, and funnel planning, but the funnel should follow a validated offer. Define",
+  "url": "https://runmyaibusiness.com/faq/can-ai-develop-the-product-and-the-marketing-funnel-at-the-same-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI develop the product and the marketing funnel at the same time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft sales pages, lead magnets, email sequences, social posts, and funnel components, but those materials should be built from a validated offer and reviewed for accuracy and fit. Run My AI Business describes workflows connecting an opt-in page, lead magnet, bridge page, thank-you page, and follow-up email. Key factors: one clear promise, audience awareness, evidence, call to action, delivery path, and consistency across assets. Practical guidance: create the offer brief first, have AI map each asset to one customer stage, and test links, forms, emails, and fulfillment before sending traffic.",
+        "description": "Yes, AI can assist with lead magnets, sales pages, email sequences, social content, and funnel planning, but the funnel should follow a validated offer. Define the audience and promise first, map each asset to a customer stage, and test every form, link, email, and delivery step before promotion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

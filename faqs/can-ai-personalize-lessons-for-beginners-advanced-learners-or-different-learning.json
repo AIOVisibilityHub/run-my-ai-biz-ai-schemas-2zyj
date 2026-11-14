@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI personalize lessons for beginners, advanced learners, or different learning styles?",
+  "description": "AI can draft leveled explanations, extra practice, extensions, and alternative formats, but personalization should reflect real learner needs rather than labels",
+  "url": "https://runmyaibusiness.com/faq/can-ai-personalize-lessons-for-beginners-advanced-learners-or-different-learning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI personalize lessons for beginners, advanced learners, or different learning styles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask AI to create multiple versions of an explanation, example, practice task, or reading level, but do not assume that rewriting alone creates meaningful differentiation. Identify what varies: prior knowledge, language complexity, pacing, modality, scaffolding, or challenge. Keep the core outcome consistent and provide accessible alternatives where possible. Review each version for unintended stereotypes, missing context, and equal opportunity to demonstrate learning.",
+        "description": "AI can draft leveled explanations, extra practice, extensions, and alternative formats, but personalization should reflect real learner needs rather than labels alone. Keep the same core outcome, vary scaffolding and challenge, and review every version for accuracy, accessibility, bias, and usefulness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

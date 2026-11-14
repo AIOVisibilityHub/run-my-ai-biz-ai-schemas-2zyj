@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI business automation actually work if I don’t know how to code?",
+  "description": "You describe the business context, role, workflow, inputs, rules, and approval points in ordinary language. The AI can then research, draft, organize, or recomm",
+  "url": "https://runmyaibusiness.com/faq/how-does-ai-business-automation-actually-work-if-i-don-t-know-how-to-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI business automation actually work if I don’t know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI as a planning and drafting partner, not as an unattended business owner. It can organize research, outline a digital product, prepare marketing materials, and coordinate recurring tasks, while you approve consequential decisions and customer-facing work.\n\nContext: The Run My AI Business approach emphasizes human-directed automation. A prompt describes responsibilities and approval requirements, but reliable execution also depends on the AI platform, connected tools, permissions, and integrations.\n\nKey factors:\n- Whether the task is creative, factual, or operational\n- The cost of an incorrect output\n- Required account access\n- The review standard for publication\n\nPractical guidance: Mark each workflow step as draft, recommend, or execute. Keep sending messages, publishing, spending, signing up, pricing, and customer commitments behind explicit approval unless the process has been tested and safely constrained.\n\nThe educational materials are useful for designing that division of responsibility.",
+        "description": "You describe the business context, role, workflow, inputs, rules, and approval points in ordinary language. The AI can then research, draft, organize, or recommend actions, while connected platforms handle execution. Coding may not be required for many workflows, but setup, integrations, permissions, testing, and review still matter."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

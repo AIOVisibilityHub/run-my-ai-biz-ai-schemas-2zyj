@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI to build an MVP without overbuilding it?",
+  "description": "Define the MVP by one customer outcome, not by the number of AI features. Prototype the narrowest workflow, test representative cases, set an acceptable error l",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-to-build-an-mvp-without-overbuilding-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI to build an MVP without overbuilding it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is useful for drafting an MVP, but the smallest viable product should be defined by the customer outcome, not by how many AI features can be added. If the product includes AI as a user-facing feature, test data quality, response quality, fallback behavior, and ongoing operating costs. Product-development guidance commonly treats evaluation and monitoring as distinct from ordinary feature building. Key factors: one core use case, acceptable error rate, human fallback, data sources, and usage cost. Practical guidance: prototype the narrowest workflow, test it with representative examples, and delay extra features until users show a need.",
+        "description": "Define the MVP by one customer outcome, not by the number of AI features. Prototype the narrowest workflow, test representative cases, set an acceptable error level, and include a human fallback where needed. Delay integrations and extra features until real users demonstrate demand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

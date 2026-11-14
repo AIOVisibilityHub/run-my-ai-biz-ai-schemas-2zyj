@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I need slides tonight—how can I use AI quickly without creating a mess?",
+  "description": "Cut scope, provide trusted source material, and ask for a concise draft with notes and one activity. Reserve time for fact-checking, accessibility checks, forma",
+  "url": "https://runmyaibusiness.com/faq/i-need-slides-tonight-how-can-i-use-ai-quickly-without-creating-a-mess",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I need slides tonight—how can I use AI quickly without creating a mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the deadline is urgent, reduce scope rather than skipping review. Ask AI for a concise outline, a limited number of slides, speaker notes, and a short activity based on sources you already trust. Run My AI Biz supports focused workflows and staged approval, which is more dependable than asking several assistants to create an entire package at once. Context: rushed content is especially vulnerable to invented facts, broken formatting, inaccessible visuals, and inconsistent objectives. Key factors: audience risk, topic sensitivity, available source material, required file format, review capacity, and whether the material will be recorded or published. Practical guidance: use a must-have checklist covering objective, factual claims, visuals, accessibility, and final export. Have another person review high-risk sections if possible. Publish a smaller accurate lesson rather than a larger unverified one.",
+        "description": "Cut scope, provide trusted source material, and ask for a concise draft with notes and one activity. Reserve time for fact-checking, accessibility checks, formatting, and a final human review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

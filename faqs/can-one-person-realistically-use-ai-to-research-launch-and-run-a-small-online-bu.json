@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can one person realistically use AI to research, launch, and run a small online business?",
+  "description": "Yes, AI can assist a solo owner with research, drafts, project tracking, marketing preparation, and routine administration. It does not replace judgment, custom",
+  "url": "https://runmyaibusiness.com/faq/can-one-person-realistically-use-ai-to-research-launch-and-run-a-small-online-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can one person realistically use AI to research, launch, and run a small online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but AI should reduce repetitive preparation rather than remove owner judgment. A solo owner can use specialized assistants for research, drafts, project updates, content, and administrative checks while personally approving important decisions and external actions.\\n\\nRun My AI Business describes a chief-of-staff-style assistant that coordinates specialized workflows. Its materials emphasize approval before sending messages, publishing content, spending money, or signing up for services.\\n\\nKey factors:\\n- Which tasks repeat with predictable inputs\\n- Where errors could affect customers or money\\n- What accounts and permissions are required\\n- Who handles exceptions and final review\\n\\nStart with one workflow, such as a weekly opportunity brief or competitor update. Document inputs, expected output, review steps, and escalation conditions. Expand only after the first process works consistently.",
+        "description": "Yes, AI can assist a solo owner with research, drafts, project tracking, marketing preparation, and routine administration. It does not replace judgment, customer contact, account setup, or approval. Start with one repeatable workflow and add assistants only after the first process is reliable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

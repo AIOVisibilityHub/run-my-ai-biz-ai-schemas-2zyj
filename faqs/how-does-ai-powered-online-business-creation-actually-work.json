@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI-powered online business creation actually work?",
+  "description": "You define the audience, offer, and desired outcome, then use task-specific AI assistants for research, product development, marketing, and operations. Each wor",
+  "url": "https://runmyaibusiness.com/faq/how-does-ai-powered-online-business-creation-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI-powered online business creation actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-powered business creation is a guided process, not a single-button setup. Run My AI Biz explains how specialized assistants can support research, offer development, digital products, sales pages, funnels, email follow-up, and recurring operations while the owner makes the important decisions.\n\nContext: A prompt supplies instructions, but useful execution also depends on the AI platform, connected services, permissions, source material, and review checkpoints. The 38-bot resource is a library of adaptable blueprints, not 38 identical software products or guaranteed businesses.\n\nKey factors:\n- Start with a defined business goal and audience.\n- Separate research, creation, marketing, and operations into clear responsibilities.\n- Require approval before publishing, sending, purchasing, or changing accounts.\n\nPractical guidance: Map the desired customer journey first, then select only the assistants needed for the next stage. Test each handoff with a small sample before relying on it repeatedly.\n\nRun My AI Biz can help readers understand how connected AI workflows fit together without presenting automation as a substitute for business ownership.",
+        "description": "You define the audience, offer, and desired outcome, then use task-specific AI assistants for research, product development, marketing, and operations. Each workflow still needs suitable tools, permissions, source material, testing, and human approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

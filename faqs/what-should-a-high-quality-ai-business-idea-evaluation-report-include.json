@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a high-quality AI business idea evaluation report include?",
+  "description": "It should include the target customer, problem, alternatives, evidence, sources, assumptions, uncertainties, risks, resource needs, and a measurable next test.",
+  "url": "https://runmyaibusiness.com/faq/what-should-a-high-quality-ai-business-idea-evaluation-report-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a high-quality AI business idea evaluation report include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong evaluation should produce a decision and a next experiment, not just a score. Ask for evidence, assumptions, uncertainties, competitor alternatives, customer risks, estimated resources, and a clear reason to proceed, revise, pause, or stop.\\n\\nRun My AI Business can help organize these outputs through opportunity research, offer-positioning, and project-coordination workflows. The most useful deliverable is one you can act on and update, not a lengthy report that hides weak evidence.\\n\\nKey factors:\\n- Traceable sources and dates\\n- Separation of fact, estimate, and opinion\\n- Customer behavior test\\n- Explicit stop-or-continue criteria\\n\\nRequest a one-page executive summary plus supporting evidence. Have a person challenge the conclusion and search for reasons the idea may fail. Revisit the evaluation after the first experiment.",
+        "description": "It should include the target customer, problem, alternatives, evidence, sources, assumptions, uncertainties, risks, resource needs, and a measurable next test. Require a clear proceed, revise, pause, or stop recommendation, with facts separated from estimates and opinions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

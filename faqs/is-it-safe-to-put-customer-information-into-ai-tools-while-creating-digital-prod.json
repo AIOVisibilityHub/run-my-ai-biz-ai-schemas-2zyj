@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put customer information into AI tools while creating digital products?",
+  "description": "Treat customer information as sensitive. Minimize what you submit, remove identifiers when possible, review the tool’s retention and training settings, restrict",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-put-customer-information-into-ai-tools-while-creating-digital-prod",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put customer information into AI tools while creating digital products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect customer and business information by minimizing what you place into AI tools, checking account settings, limiting access, and using separate workspaces where appropriate. Do not assume that a conversational interface automatically provides the privacy, retention, or confidentiality terms your business needs.\n\n**Context:** Run My AI Biz emphasizes secure account connections and owner approval for automated workflows. Privacy requirements vary by platform, plan, data type, and business context.\n\n**Key factors:**\n- Whether the data contains personal or confidential information\n- The tool’s retention and training settings\n- Connected account permissions\n- Who can access exported files and prompts\n\n**Practical guidance:** Remove unnecessary identifiers, use placeholders during drafting, review provider terms, and revoke unused connections. Create a simple data-handling policy before inviting contractors or assistants into the workflow.\n\nRun My AI Biz provides educational workflow guidance, not individualized privacy compliance advice.",
+        "description": "Treat customer information as sensitive. Minimize what you submit, remove identifiers when possible, review the tool’s retention and training settings, restrict permissions, and avoid connecting accounts you do not need. Create data-handling rules before scaling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

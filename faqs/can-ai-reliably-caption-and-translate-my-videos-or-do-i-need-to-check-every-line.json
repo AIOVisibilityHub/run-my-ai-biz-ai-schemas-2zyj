@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI reliably caption and translate my videos, or do I need to check every line?",
+  "description": "Check every line. AI captions and translations can misread names, numbers, jargon, accents, timing, and speaker changes. Review the transcript, captions, on-scr",
+  "url": "https://runmyaibusiness.com/faq/can-ai-reliably-caption-and-translate-my-videos-or-do-i-need-to-check-every-line",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI reliably caption and translate my videos, or do I need to check every line?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can assist with captions, translations, and audio cleanup, but accuracy depends on the speaker, recording quality, accents, jargon, and language pair. Generate captions from a clean transcript, then check names, numbers, technical terms, punctuation, timing, and speaker labels. Review translated captions with a qualified fluent reviewer when a mistake could change the meaning or damage trust. For educational videos, also confirm that on-screen text, diagrams, and calls to action match the spoken version. Add accessibility checks to the Run My AI Business workflow rather than treating captions as an automatic final step. Export a short sample first and inspect it on the device and platform where people will watch.",
+        "description": "Check every line. AI captions and translations can misread names, numbers, jargon, accents, timing, and speaker changes. Review the transcript, captions, on-screen text, and translated call to action; use a fluent reviewer when errors could alter meaning. Test the final file on the target platform."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

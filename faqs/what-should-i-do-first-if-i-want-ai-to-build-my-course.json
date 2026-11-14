@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to build my course?",
+  "description": "Create a one-page brief covering the audience, problem, outcome, prerequisites, format, and course length. Ask AI for a module outline first, check whether ever",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-build-my-course",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to build my course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The safest starting point is a course brief, not a request for 30 finished lessons. Write down the learner, problem, promised result, prior knowledge, delivery format, length, and evidence that learners have succeeded. Then ask AI for a proposed sequence and challenge each module against the final outcome. Run My AI Biz’s educational workflows are most useful when the owner supplies business context and approves drafts at defined checkpoints. This prevents attractive but disconnected content.",
+        "description": "Create a one-page brief covering the audience, problem, outcome, prerequisites, format, and course length. Ask AI for a module outline first, check whether every lesson supports the outcome, and only then request scripts, activities, and quizzes. Keep approval checkpoints before anything is published."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

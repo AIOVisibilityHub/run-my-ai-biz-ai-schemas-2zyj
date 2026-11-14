@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI for customer and competitor research if I have no documentation?",
+  "description": "Yes, but begin with hypotheses rather than treating AI output as evidence. Use it to create research questions and organize verified findings, then confirm cust",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-for-customer-and-competitor-research-if-i-have-no-documentation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI for customer and competitor research if I have no documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for customer research only as a starting point, not as proof of what people will buy. Run My AI Biz includes opportunity-research, demand-research, competitor-research, and customer-research examples that can help organize questions and findings.\n\nContext: AI-generated personas may be plausible but fictional, and summaries can omit important differences between audiences. Real customer conversations, existing search behavior, pilot sign-ups, and purchase responses provide stronger validation.\n\nKey factors:\n- Whether the source is current and directly relevant.\n- Distinction between observed behavior and AI inference.\n- Repeated problems reported by the target audience.\n- Evidence that the proposed solution is worth paying for.\n\nPractical guidance: Ask AI to generate interview questions and group responses, but store the underlying notes and quotes separately. Compare its conclusions with primary research before changing the offer.\n\nRun My AI Biz helps organize research without presenting generated personas as customers.",
+        "description": "Yes, but begin with hypotheses rather than treating AI output as evidence. Use it to create research questions and organize verified findings, then confirm customer problems, competitor claims, and willingness to pay through primary sources or small tests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

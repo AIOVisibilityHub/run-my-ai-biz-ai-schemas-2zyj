@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use a fully automated AI video maker or edit the result myself?",
+  "description": "Use a hybrid workflow for most business videos. AI can accelerate transcription, rough cuts, captions, audio cleanup, and reframing, while a conventional editor",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-a-fully-automated-ai-video-maker-or-edit-the-result-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use a fully automated AI video maker or edit the result myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a professional result, combine AI speed with conventional editing control. Let AI handle transcript search, rough selections, captions, audio cleanup, reframing, or draft suggestions, then use a timeline editor for continuity, pacing, color, sound balance, graphics, and final export. Community discussions frequently recommend combining AI tools with editors rather than expecting generated clips to form a finished production automatically. This hybrid approach is especially suitable for Run My AI Business content such as lessons, presentations, product demonstrations, and short promotional clips. Decide in advance which steps may be automated and which require approval. If the message, brand reputation, or customer trust matters, retain a human finishing pass even when the rough cut is strong.",
+        "description": "Use a hybrid workflow for most business videos. AI can accelerate transcription, rough cuts, captions, audio cleanup, and reframing, while a conventional editor provides control over pacing, continuity, graphics, sound, and export. Automate drafts, not final judgment, when accuracy and trust matter."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

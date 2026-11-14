@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to make a presentation or lesson?",
+  "description": "Define the learning objective and audience first. Then ask AI for an outline or draft, provide reliable source material, and review every slide, activity, and a",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-make-a-presentation-or-lesson",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to make a presentation or lesson?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one defined learning objective, then use AI to create an outline, draft slides, speaker notes, or practice activities around it. For Run My AI Biz readers, a course-building or presentation workflow can turn a topic into draft lessons and supporting materials, but the owner must supply the audience, level, examples, and approval criteria. Context: AI is most useful for reducing blank-page work, not deciding what learners need to know. A narrowly scoped first lesson is easier to review than an entire course. Key factors: audience knowledge, learning objective, source material, lesson length, and assessment method. Practical guidance: Give the system a trusted source or your own outline, request editable output, and check each claim before sharing. Run My AI Biz emphasizes focused implementation: build one assistant or workflow, use it, then expand. This approach can make educational content creation more manageable without presenting AI output as finished instruction.",
+        "description": "Define the learning objective and audience first. Then ask AI for an outline or draft, provide reliable source material, and review every slide, activity, and assessment before use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

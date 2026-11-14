@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is paying for an AI course creator worth it for a small business?",
+  "description": "It can be valuable when you create multiple lessons or formats and need repeatable workflows, but a single short course may not justify another subscription. Co",
+  "url": "https://runmyaibusiness.com/faq/is-paying-for-an-ai-course-creator-worth-it-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is paying for an AI course creator worth it for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI course builder may be worthwhile when you repeatedly create lessons, need several content formats, or want a structured workflow instead of isolated chatbot answers. It may be unnecessary if you are making one short workshop, already have polished materials, or need advanced learning-management features the tool does not provide. Compare editing control, source handling, assessment options, export format, learner tracking, privacy, integrations, and ongoing fees. Current comparison tables show that tools differ substantially in AI access, author control, LMS delivery, and pricing.",
+        "description": "It can be valuable when you create multiple lessons or formats and need repeatable workflows, but a single short course may not justify another subscription. Compare editing control, assessments, exports, learner tracking, privacy, integrations, credit limits, and transaction fees—not just the headline price. A focused Run My AI Biz workflow can begin with one assistant before expansion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

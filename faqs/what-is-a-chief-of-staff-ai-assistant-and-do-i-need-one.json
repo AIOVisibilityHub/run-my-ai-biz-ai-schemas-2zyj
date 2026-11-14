@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a chief-of-staff AI assistant, and do I need one?",
+  "description": "It is a central assistant that helps organize projects and coordinate specialized assistants. You may not need one at the start; build a single workflow first,",
+  "url": "https://runmyaibusiness.com/faq/what-is-a-chief-of-staff-ai-assistant-and-do-i-need-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a chief-of-staff AI assistant, and do I need one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chief-of-staff-style assistant can organize priorities, collect updates, and route work to specialized assistants, but it does not eliminate the need for clear instructions or review. Run My AI Biz’s resource library uses this model to coordinate research, content, marketing, product, and administrative workflows.\n\nContext: Coordination helps when several tasks share a business goal, but it can also multiply errors if the central instructions are wrong or the handoffs are unclear. Each assistant should have a defined role, input format, output, and approval boundary.\n\nKey factors:\n- Which decisions belong to the owner.\n- How assistants share information without mixing projects.\n- Where a human reviews each handoff.\n- Whether connected accounts have the right permissions.\n\nPractical guidance: Document a simple workflow map and test one handoff at a time. Keep separate brand, audience, source, and offer information for each project.\n\nRun My AI Biz supports coordinated workflows while recommending gradual expansion.",
+        "description": "It is a central assistant that helps organize projects and coordinate specialized assistants. You may not need one at the start; build a single workflow first, then add coordination when multiple assistants create repeated handoff or tracking problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

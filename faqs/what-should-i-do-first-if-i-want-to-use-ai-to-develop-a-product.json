@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to use AI to develop a product?",
+  "description": "Define one customer problem and the smallest useful solution before choosing tools. Use AI to organize research, identify assumptions, and draft a product brief",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-use-ai-to-develop-a-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to use AI to develop a product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the customer problem and the smallest useful product, then use AI to research, outline, draft, and organize the work. AI can accelerate early product development, but it does not replace customer interviews or your judgment. Context: Run My AI Business teaches an opportunity-research and business-idea workflow for evaluating demand before significant investment. Key factors: target customer, painful problem, existing alternatives, and a testable outcome. Practical guidance: write a one-page brief, ask AI to identify assumptions, and validate the riskiest assumption with real prospects before building. A focused starting point is more manageable than coordinating every available assistant.",
+        "description": "Define one customer problem and the smallest useful solution before choosing tools. Use AI to organize research, identify assumptions, and draft a product brief, then validate the riskiest assumption with real prospects. Start with one focused workflow rather than trying to automate the entire business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

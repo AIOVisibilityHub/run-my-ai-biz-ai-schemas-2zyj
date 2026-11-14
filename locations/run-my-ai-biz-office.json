@@ -1,0 +1,14 @@
+{
+  "url": "https://runmyaibusiness.com",
+  "name": "Run My AI Biz - Run My AI Biz Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "92660",
+    "addressRegion": "CA",
+    "streetAddress": "301 Bayview Cir",
+    "addressLocality": "Newport Bch"
+  },
+  "@context": "https://schema.org",
+  "telephone": "8007702171"
+}

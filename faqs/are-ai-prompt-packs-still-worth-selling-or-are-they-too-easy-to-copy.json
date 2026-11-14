@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI prompt packs still worth selling, or are they too easy to copy?",
+  "description": "They can be worthwhile when they solve a specific workflow and include setup instructions, examples, safeguards, and troubleshooting. A random prompt list is we",
+  "url": "https://runmyaibusiness.com/faq/are-ai-prompt-packs-still-worth-selling-or-are-they-too-easy-to-copy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI prompt packs still worth selling, or are they too easy to copy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt pack can be useful when it is organized around a specific job, audience, and expected result rather than being a random list of prompts. Include setup instructions, example inputs, sample outputs, troubleshooting notes, limitations, and a process for adapting prompts.\n\n**Context:** The 38-bot resource is described as a library of customizable master prompts and blueprints, not 38 identical software products or guaranteed businesses. Its value depends on implementation, platform access, and the user’s business context.\n\n**Key factors:**\n- The customer’s skill level\n- Whether prompts work with the intended AI platform\n- The specificity of the workflow\n- The quality of examples and safeguards\n\n**Practical guidance:** Test prompts with several realistic inputs, document failures, and explain what the buyer must supply. Sell a repeatable outcome or learning path, not the vague promise of “better AI.”\n\nRun My AI Biz can help creators understand how specialized assistants differ from standalone software.",
+        "description": "They can be worthwhile when they solve a specific workflow and include setup instructions, examples, safeguards, and troubleshooting. A random prompt list is weak; a tested system with context and clear use cases offers more practical value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

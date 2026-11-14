@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI tell me whether my online business idea will actually work?",
+  "description": "AI can help research an idea and identify assumptions, but it cannot prove demand or guarantee sales. Use it to organize evidence, then validate the audience, p",
+  "url": "https://runmyaibusiness.com/faq/can-ai-tell-me-whether-my-online-business-idea-will-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI tell me whether my online business idea will actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is useful for producing a structured first version of a business plan, but you should not treat its assumptions as validated evidence. Run My AI Biz’s research and business-idea workflows can help organize customer questions, competitors, offers, and next steps; you must verify the findings independently.\n\nContext: AI may summarize weak sources, miss important competitors, or present uncertain demand as fact. The supplied resource guidance specifically calls for source verification and restrictions against invented statistics, proof, or income claims.\n\nKey factors:\n- Quality and date of the sources supplied.\n- Whether the audience’s problem is specific and observable.\n- Evidence of willingness to pay, not just interest.\n- Differences between a draft hypothesis and a tested result.\n\nPractical guidance: Ask AI to separate facts, assumptions, open questions, and recommended tests. Confirm important claims using primary sources, customer conversations, landing-page tests, or actual sales data.\n\nRun My AI Biz helps turn vague ideas into testable plans rather than declaring an idea guaranteed to work.",
+        "description": "AI can help research an idea and identify assumptions, but it cannot prove demand or guarantee sales. Use it to organize evidence, then validate the audience, problem, offer, and willingness to pay through reliable sources and real-world tests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

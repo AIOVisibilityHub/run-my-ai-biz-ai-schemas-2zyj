@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether AI-assisted product development is working?",
+  "description": "Measure a real outcome: time saved, correction rate, research quality, sign-ups, activation, completion, repeat use, or sales. Record a baseline before using AI",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-measure-whether-ai-assisted-product-development-is-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether AI-assisted product development is working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI product workflow should be measured by business and customer outcomes, not by the number of prompts or drafts completed. Track measures such as research time saved, correction rate, content completion, user satisfaction, sign-ups, activation, completion, repeat use, or sales, depending on the product. Run My AI Business frames AI applications as support for testing and decision-making rather than guaranteed growth. Key factors: baseline performance, target outcome, measurement period, and cost of the workflow. Practical guidance: choose one primary metric and two quality checks before implementation, then review results regularly.",
+        "description": "Measure a real outcome: time saved, correction rate, research quality, sign-ups, activation, completion, repeat use, or sales. Record a baseline before using AI, choose one primary metric and two quality checks, and include tool and review costs so apparent productivity gains are not misleading."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

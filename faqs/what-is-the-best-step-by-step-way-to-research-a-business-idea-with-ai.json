@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best step-by-step way to research a business idea with AI?",
+  "description": "Use five stages: define the audience and problem, research complaints and competitors, compare existing offers, shape a specific offer, and run a low-cost deman",
+  "url": "https://runmyaibusiness.com/faq/what-is-the-best-step-by-step-way-to-research-a-business-idea-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best step-by-step way to research a business idea with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for broad research first, then narrow the work to a specific customer and problem. A useful sequence is audience discovery, complaint and solution research, competitor comparison, offer design, and a low-cost demand test.\\n\\nThe Run My AI Business model fits this sequence because its resource examples cover opportunity research, offer positioning, landing-page review, and launch preparation. Community practitioners often recommend broad searches, deeper examination of recurring complaints and prices, and then a validation test.\\n\\nKey factors:\\n- Search terms customers actually use\\n- Competitor gaps customers mention\\n- Price expectations and buying context\\n- Your skills, budget, and available time\\n\\nHave AI produce a research plan before asking for conclusions. Save source links and quotations outside the final summary, check dates, and mark unsupported assumptions. Once one opportunity looks promising, build only the next necessary asset rather than automating every business function.",
+        "description": "Use five stages: define the audience and problem, research complaints and competitors, compare existing offers, shape a specific offer, and run a low-cost demand test. Ask AI to expose assumptions and organize evidence, then verify important findings before committing money or building a full product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

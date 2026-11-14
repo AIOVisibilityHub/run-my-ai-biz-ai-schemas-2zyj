@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI-generated presentations automatically accessible for students with disabilities?",
+  "description": "No. Check contrast, font size, reading order, alternative text, captions, transcripts, and screen-reader compatibility. Provide a text or editable version and t",
+  "url": "https://runmyaibusiness.com/faq/are-ai-generated-presentations-automatically-accessible-for-students-with-disabi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI-generated presentations automatically accessible for students with disabilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume an AI-generated deck is accessible just because its text looks readable. Check contrast, font size, heading structure, reading order, captions or transcripts, alternative text for meaningful images, and whether the exported format works with assistive technology. Context: image-based slides may hide text from screen readers, and automatically selected visuals may lack useful descriptions. Key factors: delivery platform, file format, learner needs, audio or video content, color dependence, and whether a text alternative is available. Practical guidance: provide an editable or text-based version alongside a presentation, describe charts in notes or a handout, and test the file with accessibility tools. Run My AI Biz’s educational workflows can draft supporting scripts and materials, but accessibility review remains a separate responsibility. Confirm requirements with the relevant school, employer, or program before distribution.",
+        "description": "No. Check contrast, font size, reading order, alternative text, captions, transcripts, and screen-reader compatibility. Provide a text or editable version and test the final file with accessibility tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use a ready-made AI prompt, customize a bot, or pay someone to build automation for me?",
+  "description": "Use a ready-made prompt for a simple, well-defined task; customize it when your audience, workflow, voice, or approval rules differ; consider outside setup help",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-a-ready-made-ai-prompt-customize-a-bot-or-pay-someone-to-build-auto",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use a ready-made AI prompt, customize a bot, or pay someone to build automation for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom workflow is worthwhile when your process, audience, terminology, approval rules, or connected tools differ from generic examples. A ready-made template may be faster when the task is simple and your needs closely match the documented workflow.\n\nContext: The 38-bot resource provides customizable master prompts that define an assistant’s role, workflow, responsibilities, and approval requirements. The prompts are blueprints that must be adapted to your niche, offers, voice, and objectives.\n\nKey factors:\n- How much your process differs from a standard pattern\n- Number of integrations required\n- Cost of errors\n- Expected frequency of use\n\nPractical guidance: Start with the smallest useful customization: business context, audience, output format, sources, and approval rules. Test it on real examples and add complexity only when a recurring problem justifies it.\n\nRun My AI Business can help owners understand the tradeoff between adaptable prompts and more extensive setup.",
+        "description": "Use a ready-made prompt for a simple, well-defined task; customize it when your audience, workflow, voice, or approval rules differ; consider outside setup help when integrations or permissions become complex. Test a small version first and expand only when recurring use justifies the effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

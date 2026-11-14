@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI-assisted product development worth it for a one-person business?",
+  "description": "It can be worthwhile when AI improves a frequent, measurable task such as research, drafting, repurposing, or project organization. Track your current time and",
+  "url": "https://runmyaibusiness.com/faq/is-ai-assisted-product-development-worth-it-for-a-one-person-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI-assisted product development worth it for a one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can reduce repetitive drafting and research time, but it does not automatically create a profitable business or eliminate the need for customer development. Its value is strongest when it makes a recurring process faster, clearer, or easier to repeat. Small-business discussions often focus on identifying the specific task that AI should improve rather than adopting AI broadly. Key factors: frequency, time currently spent, error cost, output consistency, and measurable business value. Practical guidance: track baseline time and quality for two weeks, run the AI workflow, and compare the results before committing to a larger system.",
+        "description": "It can be worthwhile when AI improves a frequent, measurable task such as research, drafting, repurposing, or project organization. Track your current time and output quality, test one workflow, and compare the results. AI is less valuable when setup and correction take longer than the original task."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

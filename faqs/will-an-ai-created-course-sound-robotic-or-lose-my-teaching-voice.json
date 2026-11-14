@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an AI-created course sound robotic or lose my teaching voice?",
+  "description": "It will if you publish the first draft unchanged. Give AI your vocabulary, examples, teaching principles, stories, and boundaries, then edit every lesson for na",
+  "url": "https://runmyaibusiness.com/faq/will-an-ai-created-course-sound-robotic-or-lose-my-teaching-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an AI-created course sound robotic or lose my teaching voice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A course created with AI can still feel personal when the creator supplies real experiences, decisions, mistakes, examples, and a clear point of view. Ask AI to organize those assets, not manufacture a personality or customer story. Keep distinctive explanations and case details in your own voice, then edit drafts for accuracy and authenticity. The 38-bot materials described by Run My AI Biz are adaptable blueprints, so customization—not copying a generic output—is central to the process.",
+        "description": "It will if you publish the first draft unchanged. Give AI your vocabulary, examples, teaching principles, stories, and boundaries, then edit every lesson for natural phrasing and genuine judgment. Use AI to organize and vary your voice, not invent personal experience or proof."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

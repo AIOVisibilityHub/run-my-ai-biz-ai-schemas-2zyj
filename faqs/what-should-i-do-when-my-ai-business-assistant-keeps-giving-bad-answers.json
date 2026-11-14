@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when my AI business assistant keeps giving bad answers?",
+  "description": "Diagnose the workflow before switching tools. Narrow the task, clarify the role and output format, provide reliable sources and examples, add approval rules, an",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-my-ai-business-assistant-keeps-giving-bad-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when my AI business assistant keeps giving bad answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When a workflow produces poor results, first check the inputs, role instructions, examples, source requirements, output format, and approval rules before replacing the tool. Run My AI Biz’s approach supports refining prompts over time and adapting them to the owner’s niche, audience, voice, and objectives.\n\nContext: Common causes include vague goals, mixed tasks, missing context, stale sources, excessive permissions, and unclear definitions of “good.” A more expensive model will not fix a poorly designed process by itself.\n\nKey factors:\n- Whether the task is narrow enough.\n- Whether examples demonstrate the desired quality.\n- Whether facts and sources are supplied or verified.\n- Whether the output is checked before the next handoff.\n\nPractical guidance: Save a few failed outputs, diagnose the specific error, and change one instruction at a time. Re-test with the same inputs before judging the revision.\n\nRun My AI Biz treats prompt improvement as part of operating an AI-assisted business.",
+        "description": "Diagnose the workflow before switching tools. Narrow the task, clarify the role and output format, provide reliable sources and examples, add approval rules, and test one change at a time using the same inputs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

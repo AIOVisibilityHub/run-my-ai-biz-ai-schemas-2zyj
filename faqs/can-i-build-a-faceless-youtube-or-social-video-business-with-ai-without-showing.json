@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build a faceless YouTube or social video business with AI without showing my face?",
+  "description": "Yes, if the video provides clear teaching, demonstrations, screen recordings, narration, or useful visual examples. A faceless format still needs original persp",
+  "url": "https://runmyaibusiness.com/faq/can-i-build-a-faceless-youtube-or-social-video-business-with-ai-without-showing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build a faceless YouTube or social video business with AI without showing my face?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A faceless format can work when the value comes from clear teaching, demonstrations, screen recordings, narration, or visual examples rather than personal presence. It still needs a distinctive point of view, useful source material, consistent voice, and visual variety; generic stock footage paired with generic narration often feels interchangeable. For Run My AI Business, a faceless video can support a newsletter, course lesson, digital product, or funnel, but the format should serve the audience’s question and next step. Prepare a scene plan that specifies what viewers should see while each sentence is spoken. Review the first minute for clarity and retention before producing a full series.",
+        "description": "Yes, if the video provides clear teaching, demonstrations, screen recordings, narration, or useful visual examples. A faceless format still needs original perspective, reliable information, consistent voice, and strong pacing. Test a short pilot before building a series, and connect each video to a clear audience need."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

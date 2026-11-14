@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I use AI to research competitors without copying them or trusting bad information?",
+  "description": "Use AI to compare publicly available offers, audiences, pricing signals, customer complaints, and positioning. Require sources and dates, separate fact from int",
+  "url": "https://runmyaibusiness.com/faq/how-should-i-use-ai-to-research-competitors-without-copying-them-or-trusting-bad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I use AI to research competitors without copying them or trusting bad information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a competitor review to understand customer alternatives, positioning, pricing signals, delivery methods, and complaints—not to copy another company. AI can organize public information, but it may misread features or combine details from different businesses.\\n\\nRun My AI Business includes competitor research and landing-page review among its educational use cases. A useful comparison should distinguish verified facts from interpretation and should preserve each competitor’s identity rather than blending brands.\\n\\nKey factors:\\n- What problem each offer solves\\n- Who it serves and how it reaches them\\n- Evidence of customer dissatisfaction\\n- Gaps you can address legitimately\\n\\nProvide AI with named competitors and official pages to check. Ask for a table with source, date, confidence, and unanswered questions. Use the result to find a defensible difference, then test whether customers care about it.",
+        "description": "Use AI to compare publicly available offers, audiences, pricing signals, customer complaints, and positioning. Require sources and dates, separate fact from interpretation, and verify important details on official pages. Use the analysis to identify a customer-relevant difference, not to reproduce another business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

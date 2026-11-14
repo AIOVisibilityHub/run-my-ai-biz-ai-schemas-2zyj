@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to give AI before asking it to create my business launch plan?",
+  "description": "Provide your audience, problem, offer, delivery method, goals, budget, time, skills, existing assets, preferred tools, sales channel, and constraints. Ask the A",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-to-give-ai-before-asking-it-to-create-my-business-lau",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to give AI before asking it to create my business launch plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI business plan should include the audience, problem, offer, delivery method, acquisition channel, revenue model, operating tasks, tools, risks, validation tests, and launch milestones. Ask AI to expose assumptions and propose ways to test them rather than simply producing an attractive document.\n\nContext: Run My AI Business covers business planning, opportunity research, offer positioning, product development, marketing, funnels, and ongoing management. These areas work best when connected to one defined business objective.\n\nKey factors:\n- Who specifically has the problem\n- What evidence supports demand\n- How delivery will work\n- Which tasks require owner approval\n\nPractical guidance: Supply your actual constraints, including time, budget, skills, existing assets, and preferred platform. Review every recommendation, ask for alternatives, and turn the plan into a short list of testable next actions.\n\nThe educational content can provide a practical structure for building that plan.",
+        "description": "Provide your audience, problem, offer, delivery method, goals, budget, time, skills, existing assets, preferred tools, sales channel, and constraints. Ask the AI to identify assumptions, risks, missing information, and validation tests. A detailed context produces a more useful plan than a broad prompt."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

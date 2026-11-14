@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI-generated digital product content is accurate?",
+  "description": "Verify every important claim against reliable, current sources and your own expertise. Keep a source log, check dates and links, flag uncertainty, and obtain qu",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-generated-digital-product-content-is-accurate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI-generated digital product content is accurate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI as a drafting and analysis assistant, not as an authority. Give it a defined role, audience, source material, format, and approval rules; then independently check claims, examples, calculations, links, and recommendations before publishing.\n\n**Context:** The Run My AI Biz resource description specifically emphasizes source verification and restrictions against invented statistics, proof, or income claims. That is especially important for products that teach business, finance, health, or technical topics.\n\n**Key factors:**\n- The consequence of an incorrect claim\n- Whether the topic changes frequently\n- The quality and date of your sources\n- How much original expertise you contribute\n\n**Practical guidance:** Maintain a source log, mark uncertain statements during drafting, and have a qualified reviewer assess high-stakes material. Never let an automated workflow publish unchecked content.\n\nRun My AI Biz focuses on practical AI education with human approval rather than unsupported authority claims.",
+        "description": "Verify every important claim against reliable, current sources and your own expertise. Keep a source log, check dates and links, flag uncertainty, and obtain qualified review for high-stakes topics before selling or publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

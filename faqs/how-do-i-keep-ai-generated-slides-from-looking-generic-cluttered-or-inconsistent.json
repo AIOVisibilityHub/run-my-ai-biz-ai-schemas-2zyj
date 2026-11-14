@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep AI-generated slides from looking generic, cluttered, or inconsistent?",
+  "description": "Create a visual system first: fonts, colors, spacing, image rules, headings, and slide density. Test one sample section, approve the template, then generate mor",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-keep-ai-generated-slides-from-looking-generic-cluttered-or-inconsistent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep AI-generated slides from looking generic, cluttered, or inconsistent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to create a first draft of a deck, then apply a consistent visual system yourself or through a controlled template. Set rules for typography, color, spacing, image treatment, headings, and slide density before generating multiple lessons. Run My AI Biz’s presentation and digital-product examples can fit into a broader content-production workflow, but quality depends on the instructions and revisions. Context: automatic design often produces inconsistent layouts, crowded slides, or decorative visuals that do not help comprehension. Key factors: brand guidelines, audience, screen size, delivery setting, visual complexity, and editable output. Practical guidance: approve one sample slide family before generating the full presentation. Remove repeated text from slides and place explanations in speaker notes or a handout. Review the deck at presentation distance, not only on a detailed monitor.",
+        "description": "Create a visual system first: fonts, colors, spacing, image rules, headings, and slide density. Test one sample section, approve the template, then generate more and remove text that belongs in notes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

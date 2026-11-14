@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need to research my business idea properly?",
+  "description": "Provide the target customer, painful problem, proposed offer, business model, location if relevant, budget, skills, competitors, timeline, and decision criteria",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-to-research-my-business-idea-properly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need to research my business idea properly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Feed AI enough context to distinguish a serious evaluation from generic brainstorming. At minimum, provide the intended customer, problem, proposed outcome, geography if material, business model, budget, skills, time limit, competitors you know, and what evidence would change your mind.\\n\\nFor Run My AI Business workflows, also specify the desired output: interview questions, competitor table, offer options, risk register, or test plan. A reusable master prompt should define the assistant’s role, sources, workflow, approval points, and restrictions.\\n\\nKey factors:\\n- Clear definitions of customer and problem\\n- Explicit research date range\\n- Allowed and disallowed assumptions\\n- A decision rule for proceeding or stopping\\n\\nGive information in stages and ask the assistant to identify gaps before concluding. Replace confidential names and account details with neutral descriptions. Review every factual claim before using it publicly.",
+        "description": "Provide the target customer, painful problem, proposed offer, business model, location if relevant, budget, skills, competitors, timeline, and decision criteria. Also specify sources, date limits, output format, and approval rules. Ask AI to identify missing information before it evaluates the opportunity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

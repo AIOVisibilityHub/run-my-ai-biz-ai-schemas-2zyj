@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to give an AI assistant my customer list, business files, or email account?",
+  "description": "Do not share sensitive information automatically. Check the AI provider and integration settings, minimize the data supplied, remove identifying details when po",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-give-an-ai-assistant-my-customer-list-business-files-or-email-acco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to give an AI assistant my customer list, business files, or email account?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep personal and confidential information out of prompts unless the platform, account settings, and business process are appropriate for handling it. Use the minimum necessary information, remove identifying details where possible, restrict connected accounts, and understand how outputs are stored or shared.\n\nContext: Run My AI Business emphasizes secure account connections and owner control, but the specific privacy protections depend on the AI provider, integrations, and settings you choose. Educational examples do not replace reviewing each platform’s terms and controls.\n\nKey factors:\n- Type and sensitivity of the data\n- Provider retention and access settings\n- Third-party integrations\n- Who can review or export outputs\n\nPractical guidance: Create a data-handling checklist before building assistants. Separate public business information from confidential records, test with dummy data, and require approval before an assistant accesses or transmits sensitive material.\n\nThe business’s practical education can help owners identify these setup questions early.",
+        "description": "Do not share sensitive information automatically. Check the AI provider and integration settings, minimize the data supplied, remove identifying details when possible, limit account permissions, and test with dummy records. Create a simple data-handling checklist before connecting customer lists, files, or email."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

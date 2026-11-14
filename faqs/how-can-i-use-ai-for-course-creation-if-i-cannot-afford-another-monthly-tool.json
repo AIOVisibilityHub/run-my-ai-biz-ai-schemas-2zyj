@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI for course creation if I cannot afford another monthly tool?",
+  "description": "Start with one general AI tool, a course brief, a content map, and manual review. Validate the lesson sequence before paying for video, hosting, avatars, export",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-for-course-creation-if-i-cannot-afford-another-monthly-tool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI for course creation if I cannot afford another monthly tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A limited budget does not require a large course platform at the beginning. Use an existing AI tool for outlining and drafts, a document or spreadsheet for the content map, and manual delivery while validating the offer. Track the time saved and the quality of revisions before adding video, automation, hosting, or learner analytics. Published comparisons show that entry costs range from free tiers to substantial annual author plans, and some products charge by credits or seats.",
+        "description": "Start with one general AI tool, a course brief, a content map, and manual review. Validate the lesson sequence before paying for video, hosting, avatars, exports, or automation. Check free-plan limits, commercial-use terms, watermarks, credit caps, and whether your drafts can be exported if you later change platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

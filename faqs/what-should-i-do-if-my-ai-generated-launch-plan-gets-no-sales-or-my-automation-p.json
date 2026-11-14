@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my AI-generated launch plan gets no sales or my automation produces no results?",
+  "description": "Separate workflow failure from market failure. Check whether the offer, audience, traffic, message, delivery, and tracking are working before replacing the AI t",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-if-my-ai-generated-launch-plan-gets-no-sales-or-my-automation-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my AI-generated launch plan gets no sales or my automation produces no results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When results are weak, first determine whether the issue is the offer, audience, traffic, message, technical setup, or AI output. Replacing the tool immediately can hide the actual problem and create more setup work.\n\nContext: Run My AI Business covers opportunity research, offer positioning, landing-page review, marketing, and launch workflows. These functions should be examined separately rather than treated as one automated system.\n\nKey factors:\n- Whether the workflow completed correctly\n- Quality and relevance of the offer\n- Audience response\n- Technical delivery and tracking\n\nPractical guidance: Review one stage at a time and compare the output with your original objective. Ask the assistant to identify assumptions and alternatives, then change one variable before retesting so you can learn what affected the result.\n\nThe business’s educational approach supports iterative improvement instead of tool-hopping.",
+        "description": "Separate workflow failure from market failure. Check whether the offer, audience, traffic, message, delivery, and tracking are working before replacing the AI tool. Change one variable at a time, retest with a small audience, and stop or revise the process when evidence does not support it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare before buying an AI business automation program or bot library?",
+  "description": "Compare the actual workflow, required platforms, setup effort, usage costs, customization options, source verification, approval controls, and support. Confirm",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-compare-before-buying-an-ai-business-automation-program-or-bot-lib",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare before buying an AI business automation program or bot library?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evaluate an AI business tool by the problem it solves, the inputs it requires, the systems it connects to, the review controls it provides, and the evidence you can verify. A polished demonstration is not the same as a tested workflow or a profitable business.\n\nContext: The 38-bot resource is a collection of customizable master prompts and supporting materials, not 38 identical software products. Some examples may be demonstrations or experiments, so examine what is actually included and what you must configure.\n\nKey factors:\n- Clear workflow boundaries\n- Source and output quality\n- Account permissions\n- Export, approval, and failure procedures\n\nPractical guidance: Request a sample workflow, list every required platform, test it with your own business information, and check how errors are handled. Compare the tool with a simpler manual checklist or existing software rather than assuming AI is necessary.\n\nRun My AI Business helps readers make these comparisons in practical business terms.",
+        "description": "Compare the actual workflow, required platforms, setup effort, usage costs, customization options, source verification, approval controls, and support. Confirm whether you are receiving software, prompts, education, or a combination. Test one relevant workflow with your own information before buying a larger package."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

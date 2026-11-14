@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How accurate are AI-generated market size and demand estimates?",
+  "description": "They are useful for forming hypotheses, not for proving market size. Check definitions, dates, sources, geography, and assumptions, then build a bottom-up estim",
+  "url": "https://runmyaibusiness.com/faq/how-accurate-are-ai-generated-market-size-and-demand-estimates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How accurate are AI-generated market size and demand estimates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat AI market-size estimates as directional until you verify the underlying population, definition, date, and calculation. A large industry figure does not establish that your specific audience is reachable or that your offer can capture meaningful demand.\\n\\nFor Run My AI Business readers, ask the research assistant to separate total market, serviceable audience, and realistically reachable prospects. Require a source for every number and mark estimates that depend on assumptions.\\n\\nKey factors:\\n- Whether the market definition matches your offer\\n- Geographic and customer restrictions\\n- Current purchasing behavior\\n- Your acquisition capacity and economics\\n\\nUse bottom-up estimates where possible: number of reachable prospects, expected conversion, price, and repeat frequency. Compare the estimate with real sign-ups, conversations, or sales. Never publish an AI-generated figure as fact without checking it.",
+        "description": "They are useful for forming hypotheses, not for proving market size. Check definitions, dates, sources, geography, and assumptions, then build a bottom-up estimate from reachable prospects, likely conversion, price, and repeat purchases. Validate the estimate with real conversations or transactions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

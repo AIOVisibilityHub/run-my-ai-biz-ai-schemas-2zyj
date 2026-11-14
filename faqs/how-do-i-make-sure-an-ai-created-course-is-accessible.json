@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make sure an AI-created course is accessible?",
+  "description": "Request accessible structure from the start, including headings, plain language, captions, transcripts, image descriptions, readable contrast, and keyboard-frie",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-make-sure-an-ai-created-course-is-accessible",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make sure an AI-created course is accessible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated text does not automatically make a course accessible. Provide meaningful headings, readable language, descriptive link text, captions or transcripts for audio and video, useful image descriptions, keyboard-friendly materials, and adequate contrast. Test the actual files and platform, because accessibility can be lost during export or conversion. Ask the assistant for an accessibility checklist, then verify the finished learner experience with appropriate testing.",
+        "description": "Request accessible structure from the start, including headings, plain language, captions, transcripts, image descriptions, readable contrast, and keyboard-friendly materials. Inspect the final exported files and platform because formatting can change. Treat AI’s checklist as a starting point, not proof of accessibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

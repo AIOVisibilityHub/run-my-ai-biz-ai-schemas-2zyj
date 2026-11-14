@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write a business plan for me in one afternoon?",
+  "description": "AI can draft a structured plan in an afternoon, but it cannot validate the assumptions for you. Require sections for customer evidence, competitors, costs, risk",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-a-business-plan-for-me-in-one-afternoon",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write a business plan for me in one afternoon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can produce a useful business plan quickly, but speed should apply to drafting and organizing—not skipping validation. Run My AI Biz can help structure customer research, competitors, offers, positioning, milestones, and workflows, while the owner confirms the assumptions.\n\nContext: A plan becomes more valuable when it identifies what is known, what is uncertain, and how each uncertainty will be tested. Vague prompts tend to generate broad ideas and generic projections.\n\nKey factors:\n- Specific customer segment and problem.\n- Evidence supporting demand and competitive differentiation.\n- Clear offer, delivery method, and acquisition channel.\n- Milestones tied to observable results rather than optimistic forecasts.\n\nPractical guidance: Ask for a plan with separate sections for evidence, assumptions, risks, tests, and decision points. Update it after customer conversations, pilot results, and cost checks.\n\nRun My AI Biz emphasizes practical planning instead of polished but unsupported forecasts.",
+        "description": "AI can draft a structured plan in an afternoon, but it cannot validate the assumptions for you. Require sections for customer evidence, competitors, costs, risks, tests, milestones, and open questions, then revise the plan as real information arrives."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

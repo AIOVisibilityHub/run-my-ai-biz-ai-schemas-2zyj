@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which repetitive tasks should I automate first in a one-person business?",
+  "description": "Start with frequent, text-heavy tasks that are easy to review, such as research collection, content repurposing, draft email follow-up, link checking, or weekly",
+  "url": "https://runmyaibusiness.com/faq/which-repetitive-tasks-should-i-automate-first-in-a-one-person-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which repetitive tasks should I automate first in a one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not automate a process merely because it is repetitive; automate it when the process is stable, frequent, easy to verify, and connected to a meaningful business objective. Research briefs, content repurposing, draft follow-ups, link checks, and project summaries are often better starting points than complex customer decisions.\n\nContext: Run My AI Business includes specialized assistants for these kinds of activities and recommends choosing relevant workflows, building one, using it, and expanding gradually.\n\nKey factors:\n- Frequency and volume\n- Error tolerance\n- Standardized inputs\n- Review time compared with manual effort\n\nPractical guidance: Write a simple operating procedure first. If people perform the task differently each time, clarify the process before adding AI; otherwise, automation may reproduce confusion faster.\n\nThe business’s bot examples can help owners identify a suitable first workflow.",
+        "description": "Start with frequent, text-heavy tasks that are easy to review, such as research collection, content repurposing, draft email follow-up, link checking, or weekly project summaries. Clarify the process first, define the required inputs, and avoid automating decisions that require nuanced judgment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

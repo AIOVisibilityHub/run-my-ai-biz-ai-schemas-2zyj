@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to upload customer recordings, private interviews, or unreleased course videos into an AI editor?",
+  "description": "Not automatically. Check the tool’s data-use, retention, training, deletion, and access terms first. Remove unnecessary personal information, test with non-sens",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-upload-customer-recordings-private-interviews-or-unreleased-course",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to upload customer recordings, private interviews, or unreleased course videos into an AI editor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not upload sensitive material merely because a tool accepts the file. Review the provider’s data-use, retention, training, deletion, account-access, and business-plan terms before submitting customer recordings, unreleased products, private conversations, or internal documents. Remove unnecessary personal information and use a separate project or account when practical. For Run My AI Business workflows, identify which inputs are public, internal, confidential, or customer-owned before connecting any assistant or integration. Confirm who may access recordings, transcripts, voice samples, and generated assets, and establish a deletion routine. If the provider’s terms are unclear, keep the material offline or use a less sensitive test file until you can make an informed decision.",
+        "description": "Not automatically. Check the tool’s data-use, retention, training, deletion, and access terms first. Remove unnecessary personal information, test with non-sensitive footage, limit connected accounts, and document who can access recordings, transcripts, voice samples, and generated files."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

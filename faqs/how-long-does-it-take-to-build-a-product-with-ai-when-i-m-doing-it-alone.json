@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a product with AI when I’m doing it alone?",
+  "description": "AI can shorten research and drafting, but a realistic schedule must include validation, revisions, platform setup, and quality checks. Break the work into a bri",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-build-a-product-with-ai-when-i-m-doing-it-alone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a product with AI when I’m doing it alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small, focused product experiment can often be organized faster than a complete business system, but the actual schedule depends on research, revisions, integrations, and review. Do not promise a launch date based only on how quickly AI generates drafts. Run My AI Business recommends building one assistant, using it, and expanding only after the workflow works. Key factors: product complexity, amount of original research, feedback cycles, platform setup, and your available time. Practical guidance: set weekly deliverables for the brief, prototype, test, and launch assets, with extra time for fact-checking and corrections.",
+        "description": "AI can shorten research and drafting, but a realistic schedule must include validation, revisions, platform setup, and quality checks. Break the work into a brief, prototype, user test, and launch materials. The more complex the product and integrations, the longer the process will take."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

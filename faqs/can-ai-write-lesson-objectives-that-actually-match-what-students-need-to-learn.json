@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write lesson objectives that actually match what students need to learn?",
+  "description": "AI can draft useful objectives when you describe the learner’s final performance. Use observable verbs, require an activity that practices the skill, and includ",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-lesson-objectives-that-actually-match-what-students-need-to-learn",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write lesson objectives that actually match what students need to learn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the lesson objectives are observable and specific. Replace vague goals such as “understand marketing” with actions such as “compare two offers and justify one choice.” Ask AI to align each activity and assessment with that action, then test whether a learner could demonstrate it. A course assistant can propose Bloom-style verbs, practice tasks, and rubrics, but the subject expert should confirm that the sequence reflects real-world competence.",
+        "description": "AI can draft useful objectives when you describe the learner’s final performance. Use observable verbs, require an activity that practices the skill, and include an assessment that measures the same action. Check every objective for relevance, level, and alignment with the course promise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before setting up an AI assistant or workflow for video creation?",
+  "description": "Prepare the audience, goal, platform, length, tone, source material, visual rules, approved facts, rights information, output format, and reviewer. Add a checkl",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-before-setting-up-an-ai-assistant-or-workflow-for-vid",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before setting up an AI assistant or workflow for video creation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good AI video workflow should include a brief, source folder, prompt or instruction set, draft stage, review checklist, approval gate, export settings, and an archive. Define who supplies facts, who checks the script, who verifies rights, and who approves publication. The Run My AI Business context supports specialized assistants and coordinated workflows, but a prompt alone cannot replace suitable software, integrations, permissions, or human review. Start with one assistant or one task, measure the result, and add complexity only after the basic process is dependable. Keep versioned scripts, captions, project files, and final exports so corrections can be made without recreating the entire video.",
+        "description": "Prepare the audience, goal, platform, length, tone, source material, visual rules, approved facts, rights information, output format, and reviewer. Add a checklist for captions, audio, continuity, branding, links, and publication approval. Store versioned drafts and final files so the process remains repeatable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

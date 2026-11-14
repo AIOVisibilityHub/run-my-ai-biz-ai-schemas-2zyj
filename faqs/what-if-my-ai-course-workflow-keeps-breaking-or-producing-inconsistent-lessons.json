@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my AI course workflow keeps breaking or producing inconsistent lessons?",
+  "description": "Check source quality, prompt rules, context limits, permissions, integrations, output format, and review handoffs. Split the process into smaller deliverables,",
+  "url": "https://runmyaibusiness.com/faq/what-if-my-ai-course-workflow-keeps-breaking-or-producing-inconsistent-lessons",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my AI course workflow keeps breaking or producing inconsistent lessons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a workflow stalls, check the input quality, prompt instructions, connected tools, account permissions, output format, and review handoff before blaming the model. Break the work into smaller stages and require a defined deliverable at each stage. Run My AI Biz’s business-specific guidance stresses that prompts alone do not guarantee execution; supporting platforms, integrations, permissions, and oversight are also required. Keep a manual fallback so a technical failure does not stop course delivery.",
+        "description": "Check source quality, prompt rules, context limits, permissions, integrations, output format, and review handoffs. Split the process into smaller deliverables, save approved examples, and define what happens when information is missing. Keep a manual fallback because a prompt alone cannot guarantee reliable execution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

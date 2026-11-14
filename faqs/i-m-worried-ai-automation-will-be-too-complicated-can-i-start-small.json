@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m worried AI automation will be too complicated—can I start small?",
+  "description": "Yes. Start with one repetitive, low-risk workflow such as research summaries, content outlines, link checks, or draft preparation. Document the current steps, d",
+  "url": "https://runmyaibusiness.com/faq/i-m-worried-ai-automation-will-be-too-complicated-can-i-start-small",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m worried AI automation will be too complicated—can I start small?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to automate every stage or build a custom AI system to begin. Start with a repetitive task such as research collection, content outlining, link checking, or draft preparation, then add review and exception handling. Run My AI Business recommends selecting relevant assistants, building one, using it, and expanding gradually. Key factors: task frequency, clear inputs, predictable outputs, error cost, and available integrations. Practical guidance: record the current manual process, identify one measurable bottleneck, and automate only the portion that can be checked reliably.",
+        "description": "Yes. Start with one repetitive, low-risk workflow such as research summaries, content outlines, link checks, or draft preparation. Document the current steps, define an acceptable output, add a human review point, and expand only after the first workflow is dependable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

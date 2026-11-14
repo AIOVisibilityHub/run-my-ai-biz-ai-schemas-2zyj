@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get AI to turn my messy notes and recordings into a coherent course?",
+  "description": "Create a source inventory, label approved and outdated material, and remove duplicates before asking AI for a course outline. Have it identify gaps and contradi",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-get-ai-to-turn-my-messy-notes-and-recordings-into-a-coherent-course",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get AI to turn my messy notes and recordings into a coherent course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your materials are scattered, first collect them into a simple source inventory: files, links, recordings, FAQs, examples, and outdated sections. Mark each item as approved, needs review, or unsuitable. Then ask AI to summarize and identify gaps without rewriting the whole course immediately. Run My AI Biz’s workflow approach is useful here because research, course development, presentation, video, and launch tasks can be separated into checkpoints instead of one uncontrolled generation step.",
+        "description": "Create a source inventory, label approved and outdated material, and remove duplicates before asking AI for a course outline. Have it identify gaps and contradictions first, then draft lessons from the reviewed sources. Keep research, lesson writing, media production, and launch preparation as separate approval stages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

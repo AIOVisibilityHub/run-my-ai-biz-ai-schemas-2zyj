@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which course-creation tasks should I automate first, and which should stay manual?",
+  "description": "Automate repeatable, low-risk tasks with clear inputs, such as outlines, draft scripts, quiz variations, summaries, and content repurposing. Keep curriculum dec",
+  "url": "https://runmyaibusiness.com/faq/which-course-creation-tasks-should-i-automate-first-and-which-should-stay-manual",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which course-creation tasks should I automate first, and which should stay manual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use an AI assistant when the task is repeatable, the inputs are clear, and a human can review the result. Good candidates include turning approved notes into lesson drafts, generating practice variations, summarizing learner feedback, preparing slide outlines, and repurposing a lesson into an email. Keep outcome decisions, sensitive data, publication, spending, and unusual cases under human control. Run My AI Biz’s resource library includes coordination examples, but integrations and permissions still determine what actually works.",
+        "description": "Automate repeatable, low-risk tasks with clear inputs, such as outlines, draft scripts, quiz variations, summaries, and content repurposing. Keep curriculum decisions, sensitive data, factual approval, publishing, spending, and exceptions manual. Start with one workflow and measure quality before connecting more assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

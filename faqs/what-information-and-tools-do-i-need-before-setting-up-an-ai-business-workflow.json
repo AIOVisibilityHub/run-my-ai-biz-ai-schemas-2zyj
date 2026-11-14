@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information and tools do I need before setting up an AI business workflow?",
+  "description": "Prepare a clear goal, audience, task definition, examples, trusted sources, desired output format, approval rules, and the accounts or services the workflow mus",
+  "url": "https://runmyaibusiness.com/faq/what-information-and-tools-do-i-need-before-setting-up-an-ai-business-workflow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information and tools do I need before setting up an AI business workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI workflow usually requires more than a prompt: an appropriate AI platform, connected services, permissions, source material, structured inputs, review checkpoints, and a way to monitor results. Run My AI Biz’s master prompts define roles and processes, but execution depends on the surrounding setup.\n\nContext: Some assistants may need email, hosting, payment, scheduling, document, analytics, or content tools. Each connection can add cost, security considerations, failure points, and maintenance.\n\nKey factors:\n- The assistant’s actual responsibility.\n- Required inputs and output destinations.\n- Account permissions and data handling.\n- Manual approval and exception procedures.\n\nPractical guidance: Draw the workflow from input to final result before selecting integrations. Build a minimum version, test it with sample data, and add connections only when they solve a demonstrated problem.\n\nRun My AI Biz helps explain the difference between instructions and a functioning business system.",
+        "description": "Prepare a clear goal, audience, task definition, examples, trusted sources, desired output format, approval rules, and the accounts or services the workflow must use. Map the process first, then add only the integrations required for the initial version."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

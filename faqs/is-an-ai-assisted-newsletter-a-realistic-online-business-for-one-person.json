@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is an AI-assisted newsletter a realistic online business for one person?",
+  "description": "It can be realistic when the topic, audience, sources, and publishing schedule are manageable. AI can assist with research, drafting, and repurposing, but the p",
+  "url": "https://runmyaibusiness.com/faq/is-an-ai-assisted-newsletter-a-realistic-online-business-for-one-person",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an AI-assisted newsletter a realistic online business for one person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A newsletter can be a practical starting model when you have a clear topic, a consistent publishing capacity, and a way to reach potential subscribers. Run My AI Biz’s newsletter teaches AI applications, tool comparisons, pricing explanations, examples, and quick-start ideas, but publishing still requires editorial judgment and source checking.\n\nContext: AI can help research topics, draft issues, repurpose content, and suggest subscriber-growth ideas. It should not be allowed to invent sources, copy material improperly, or publish unchecked claims.\n\nKey factors:\n- A distinct audience and recurring information need.\n- Reliable sources and an editorial review routine.\n- A sustainable publishing schedule.\n- A clear reason for readers to subscribe or pay.\n\nPractical guidance: Build a small editorial calendar and create one repeatable research-to-draft workflow. Review sources, links, tone, and calls to action before each issue.\n\nRun My AI Biz demonstrates newsletter workflows while keeping quality control with the publisher.",
+        "description": "It can be realistic when the topic, audience, sources, and publishing schedule are manageable. AI can assist with research, drafting, and repurposing, but the publisher must verify information, maintain a distinct voice, and decide what readers should receive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

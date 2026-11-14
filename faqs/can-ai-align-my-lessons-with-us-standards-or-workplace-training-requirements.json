@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI align my lessons with US standards or workplace training requirements?",
+  "description": "Yes, AI can create a draft alignment map when you provide the exact standards or internal objectives, but it cannot prove alignment by itself. Require evidence",
+  "url": "https://runmyaibusiness.com/faq/can-ai-align-my-lessons-with-us-standards-or-workplace-training-requirements",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI align my lessons with US standards or workplace training requirements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI course draft can support a US teacher or trainer, but it does not automatically match local standards, district expectations, professional requirements, or an organization’s approved curriculum. Supply the relevant framework or internal objectives and ask AI to map each lesson to it without inventing alignment claims. Keep the mapping in a review table with the exact objective, evidence, activity, and assessment. A subject expert should approve the final match before instruction.",
+        "description": "Yes, AI can create a draft alignment map when you provide the exact standards or internal objectives, but it cannot prove alignment by itself. Require evidence for each claimed match, verify wording and version, and obtain subject-expert approval before using the course."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI video creation really cost if I’m on a tight small-business budget?",
+  "description": "Budget for more than the monthly subscription: credits, voice or stock assets, storage, exports, and possible editing software can add to the total. Test free p",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-ai-video-creation-really-cost-if-i-m-on-a-tight-small-business-bud",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI video creation really cost if I’m on a tight small-business budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI video costs can include a subscription, usage credits, stock media, voice generation, storage, exports, and a separate finishing editor. Public industry comparisons report that creator plans commonly fall into a broad monthly range, while usage-based generation may charge by output duration; prices and limits change, so check the current plan before buying. A free tier can be useful for testing, but watermarks, low export limits, or restricted commercial rights may make it unsuitable for customer-facing work. For a Run My AI Business workflow, calculate the cost per finished video rather than the advertised monthly fee. Record how many drafts, minutes, exports, and manual hours each project consumes. Choose the least expensive option that meets your quality, rights, and workflow requirements, then reassess after a real pilot.",
+        "description": "Budget for more than the monthly subscription: credits, voice or stock assets, storage, exports, and possible editing software can add to the total. Test free plans first, calculate cost per finished video, and check watermark and commercial-use restrictions before relying on a tool for paid content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

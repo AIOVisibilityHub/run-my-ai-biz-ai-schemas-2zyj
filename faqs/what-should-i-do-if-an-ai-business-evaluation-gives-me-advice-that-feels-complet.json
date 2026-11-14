@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if an AI business evaluation gives me advice that feels completely wrong?",
+  "description": "Audit the inputs, sources, prompt, assumptions, and decision criteria. Ask AI to explain its reasoning, identify missing evidence, and provide alternative inter",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-if-an-ai-business-evaluation-gives-me-advice-that-feels-complet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if an AI business evaluation gives me advice that feels completely wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI gives a poor recommendation, first inspect the inputs, sources, prompt, and decision criteria instead of assuming the entire concept is bad. Ask for an error analysis, missing evidence, alternative interpretations, and a revised test.\\n\\nRun My AI Business promotes iterative refinement: owners provide context, review drafts, request changes, and improve instructions over time. A specialized assistant should also have restrictions against inventing statistics, proof, or income claims.\\n\\nKey factors:\\n- Whether the research was current and relevant\\n- Whether the assistant misunderstood the customer\\n- Whether assumptions were presented as facts\\n- Whether the wrong question was asked\\n\\nSave the original output and mark each error. Correct the business brief, add source requirements, and ask for a smaller, more specific analysis. If the evidence still conflicts, test the customer problem directly before making a decision.",
+        "description": "Audit the inputs, sources, prompt, assumptions, and decision criteria. Ask AI to explain its reasoning, identify missing evidence, and provide alternative interpretations. Correct the brief, narrow the question, and test the disputed point with real prospects rather than forcing the original recommendation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

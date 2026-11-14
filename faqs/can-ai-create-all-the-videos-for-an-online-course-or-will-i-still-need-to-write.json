@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI create all the videos for an online course, or will I still need to write and edit them?",
+  "description": "AI can assist with outlines, scripts, slide notes, narration drafts, captions, quizzes, and promotional clips, but you should still set learning goals and revie",
+  "url": "https://runmyaibusiness.com/faq/can-ai-create-all-the-videos-for-an-online-course-or-will-i-still-need-to-write",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI create all the videos for an online course, or will I still need to write and edit them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support a course video pipeline by turning approved lesson goals into outlines, scripts, slide notes, narration drafts, captions, quizzes, and short promotional clips. It should not decide learning objectives, invent expertise, or replace instructional review. For Run My AI Business readers, connect the video assistant to the course-building and launch workflow only after the lesson structure and audience are clear. Key factors include learner level, screen demonstrations, accessibility, source accuracy, assessment quality, and whether the video advances the lesson rather than merely adding motion. Review every lesson for factual accuracy, teaching sequence, examples, and calls to action. Pilot one module before producing the entire course.",
+        "description": "AI can assist with outlines, scripts, slide notes, narration drafts, captions, quizzes, and promotional clips, but you should still set learning goals and review the teaching. Pilot one module, verify facts and examples, check accessibility, and confirm that each video supports the lesson instead of adding unnecessary visuals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

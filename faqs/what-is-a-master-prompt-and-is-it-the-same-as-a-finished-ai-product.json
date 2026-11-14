@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a master prompt, and is it the same as a finished AI product?",
+  "description": "A master prompt is a reusable instruction blueprint for an AI assistant. It can define roles, steps, inputs, outputs, and approval rules, but it is not automati",
+  "url": "https://runmyaibusiness.com/faq/what-is-a-master-prompt-and-is-it-the-same-as-a-finished-ai-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a master prompt, and is it the same as a finished AI product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A master prompt is a reusable set of instructions that defines an assistant’s role, responsibilities, workflow, inputs, outputs, boundaries, and approval requirements. It is a blueprint, not a guaranteed software product or autonomous business. Run My AI Business presents customizable master prompts through an external resource library and encourages adaptation to the owner’s niche and goals. Key factors: platform capabilities, integrations, permissions, source material, and the quality of your instructions. Practical guidance: change one variable at a time, save versions, test edge cases, and document what the assistant cannot do.",
+        "description": "A master prompt is a reusable instruction blueprint for an AI assistant. It can define roles, steps, inputs, outputs, and approval rules, but it is not automatically a finished software product. Actual performance also depends on the AI platform, connected tools, permissions, data, and testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

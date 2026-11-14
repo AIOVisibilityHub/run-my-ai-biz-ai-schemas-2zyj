@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I use AI to develop a product?",
+  "description": "AI may produce incorrect facts, generic content, biased recommendations, privacy problems, or a product nobody wants. Reduce risk with verified sources, limited",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-use-ai-to-develop-a-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I use AI to develop a product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated content can be inaccurate, repetitive, biased, or poorly matched to customer needs, and confidential information may be exposed if tools are used carelessly. Treat AI output as a draft requiring review, not as verified expertise. Run My AI Business emphasizes source checking, secure account connections, and restrictions against inventing statistics, proof, or income claims. Key factors: data sensitivity, source quality, model limitations, permissions, and the consequences of an error. Practical guidance: create a review checklist, avoid unnecessary confidential data, and require approval before publishing, sending messages, spending money, or signing up for services.",
+        "description": "AI may produce incorrect facts, generic content, biased recommendations, privacy problems, or a product nobody wants. Reduce risk with verified sources, limited data access, review checklists, user testing, and approval gates before publication, purchases, outreach, or account changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

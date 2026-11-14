@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is an AI-generated business plan good enough to start a business?",
+  "description": "It can organize research and next steps, but it is not proof that the business will work. Require sources, assumptions, risks, resource requirements, and a real",
+  "url": "https://runmyaibusiness.com/faq/is-an-ai-generated-business-plan-good-enough-to-start-a-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an AI-generated business plan good enough to start a business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI-generated business plan is useful when it exposes assumptions, assigns research tasks, and connects the offer to a testable operating plan. It is weak when it is treated as proof, filled with unsupported numbers, or written before the customer problem is understood.\\n\\nRun My AI Business approaches planning through specialized workflows for opportunity research, offers, products, funnels, and operations. This can make a plan more actionable, provided each assistant has defined inputs, review points, and realistic dependencies.\\n\\nKey factors:\\n- Evidence behind customer and market claims\\n- Specific next actions and owners\\n- Financial assumptions and downside risks\\n- Fit between the plan and available resources\\n\\nAsk AI for a concise decision document rather than a long narrative. Require an assumption register, evidence table, experiment plan, and stop-or-continue criteria. Update the document after each test.",
+        "description": "It can organize research and next steps, but it is not proof that the business will work. Require sources, assumptions, risks, resource requirements, and a real-world test. A concise plan tied to measurable experiments is more useful than a polished document full of unsupported projections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

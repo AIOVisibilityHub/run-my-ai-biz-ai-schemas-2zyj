@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I have a business idea and want AI to tell me whether it is worth pursuing?",
+  "description": "Define the customer, problem, offer, and assumptions first. Use AI to organize competitor and demand research, then verify its claims through customer conversat",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-have-a-business-idea-and-want-ai-to-tell-me-whether",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I have a business idea and want AI to tell me whether it is worth pursuing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the customer, painful problem, proposed offer, and evidence you need before spending money. AI can organize competitor, audience, pricing, and demand research, but it cannot replace conversations with potential buyers or a small real-world test.\\n\\nFor Run My AI Business readers, an opportunity-research or business-idea assistant can turn a rough concept into research questions, compare alternatives, and identify assumptions. Treat its output as a working brief, not a verdict; AI may be inaccurate or rely on incomplete information.\\n\\nKey factors:\\n- Who experiences the problem and how often\\n- What customers use now\\n- Whether people pay for comparable solutions\\n- What you can deliver credibly\\n\\nGive the assistant your audience, constraints, location if relevant, and desired business model. Then verify important claims and test a landing page, interview script, waitlist, or paid pilot. A focused first assistant is usually more useful than building an elaborate system immediately.",
+        "description": "Define the customer, problem, offer, and assumptions first. Use AI to organize competitor and demand research, then verify its claims through customer conversations and a small test such as a waitlist, landing page, or paid pilot. Run My AI Business’s opportunity-research approach is best used as decision support, not as a guaranteed verdict."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

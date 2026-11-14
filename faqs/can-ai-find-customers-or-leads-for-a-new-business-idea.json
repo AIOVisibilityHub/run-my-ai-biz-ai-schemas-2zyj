@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find customers or leads for a new business idea?",
+  "description": "AI can identify possible prospects, organize public information, and draft relevant outreach, but it cannot guarantee qualified leads or sales. Verify each pros",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-customers-or-leads-for-a-new-business-idea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find customers or leads for a new business idea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft outreach lists and messages, but it cannot guarantee that prospects are suitable, interested, or legally reachable. Research each prospect, explain the relevance, personalize carefully, and obtain approval before sending anything.\\n\\nRun My AI Business includes prospect-research and outreach-preparation examples for newsletters, websites, and sponsorships. These workflows are intended to prepare researched prospects and drafts, not promise leads, sales, or permission to contact everyone identified.\\n\\nKey factors:\\n- Fit with the customer profile\\n- Accuracy and freshness of contact information\\n- Relevance of the proposed offer\\n- Applicable communication and privacy requirements\\n\\nAsk AI to record why each prospect fits and what evidence supports that conclusion. Remove duplicates and uncertain entries, then review the message for accuracy and tone. Keep sending, spending, and follow-up decisions under owner control.",
+        "description": "AI can identify possible prospects, organize public information, and draft relevant outreach, but it cannot guarantee qualified leads or sales. Verify each prospect, explain the fit, remove uncertain records, and approve messages before sending. Treat the workflow as preparation, not automatic customer acquisition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

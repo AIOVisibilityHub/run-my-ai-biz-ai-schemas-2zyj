@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI help me market and sell a digital product without sounding fake?",
+  "description": "Use AI to draft audience-specific sales pages, lead magnets, emails, and social content, then rewrite for accuracy and a natural voice. Remove invented proof or",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-help-me-market-and-sell-a-digital-product-without-sounding-fake",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI help me market and sell a digital product without sounding fake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help with sales pages, lead magnets, email sequences, social posts, webinar drafts, and campaign planning, but marketing assets must accurately represent the product. Do not let AI invent testimonials, customer results, scarcity, statistics, or income claims.\n\n**Context:** The Run My AI Biz resource description includes funnel components such as opt-in pages, bridge pages, thank-you pages, and email follow-up, with review before live actions. The funnel should clarify a real offer rather than compensate for a weak one.\n\n**Key factors:**\n- The customer’s awareness and buying stage\n- The product’s actual promise and proof\n- Email consent and platform rules\n- The distinction between drafts and published claims\n\n**Practical guidance:** Create one clear call to action, test links and forms, and read every message as a skeptical customer would. Track sign-ups, purchases, refunds, and questions to identify friction.\n\nRun My AI Biz teaches connected launch workflows while avoiding guaranteed conversion claims.",
+        "description": "Use AI to draft audience-specific sales pages, lead magnets, emails, and social content, then rewrite for accuracy and a natural voice. Remove invented proof or exaggerated promises, test every link, and let real customer questions guide revisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

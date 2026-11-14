@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an AI business system keep working after I set it up once?",
+  "description": "Not necessarily. Logins expire, platforms change, sources age, and unusual cases require human handling. Review permissions, links, costs, prompts, and outputs",
+  "url": "https://runmyaibusiness.com/faq/will-an-ai-business-system-keep-working-after-i-set-it-up-once",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an AI business system keep working after I set it up once?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can reduce repetitive work, but it does not remove the need to maintain accounts, integrations, source lists, workflows, and customer processes. Run My AI Biz covers recurring operations such as content preparation, billing checks, support drafts, project tracking, and website-related tasks.\n\nContext: Connected services can change, credentials can expire, and exceptional customer situations may not match the original instructions. Public automation discussions identify maintenance as a substantial part of dependable operation.\n\nKey factors:\n- Frequency of platform and integration changes.\n- Clear ownership of error handling.\n- Monitoring, logs, and notification rules.\n- A current backup or manual process.\n\nPractical guidance: Schedule a recurring review of permissions, links, prompts, outputs, and costs. Keep a written procedure for pausing the automation and completing the task manually.\n\nRun My AI Biz presents ongoing management as part of responsible automation, not as a one-time setup.",
+        "description": "Not necessarily. Logins expire, platforms change, sources age, and unusual cases require human handling. Review permissions, links, costs, prompts, and outputs regularly, and keep a manual fallback for important tasks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

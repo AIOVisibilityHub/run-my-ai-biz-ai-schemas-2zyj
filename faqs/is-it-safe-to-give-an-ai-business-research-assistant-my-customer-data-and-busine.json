@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to give an AI business-research assistant my customer data and business plans?",
+  "description": "Not automatically. Avoid credentials, payment data, customer records, and proprietary material unless the tool’s retention, sharing, security, and permissions a",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-give-an-ai-business-research-assistant-my-customer-data-and-busine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to give an AI business-research assistant my customer data and business plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not paste customer records, payment information, confidential plans, credentials, or proprietary material into an AI tool until you understand its data practices and permissions. Use anonymized examples and the minimum information needed for the task.\\n\\nSmall-business guidance identifies privacy and security as material AI concerns, and security advice warns that tools may store inputs, share them with third parties, or expose more data than intended if settings and permissions are not reviewed.\\n\\nKey factors:\\n- Whether inputs are retained or used for model improvement\\n- Which staff, integrations, and apps can access data\\n- Account security and authentication\\n- Deletion and vendor-offboarding procedures\\n\\nCreate a simple approved-data policy before building an assistant. Separate public research from private business information, restrict connected accounts, and require human review before any customer-facing use. For sensitive or regulated information, obtain appropriate professional guidance.",
+        "description": "Not automatically. Avoid credentials, payment data, customer records, and proprietary material unless the tool’s retention, sharing, security, and permissions are understood. Use anonymized inputs, limit connected access, and create an approved-data policy before adding private information to a workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

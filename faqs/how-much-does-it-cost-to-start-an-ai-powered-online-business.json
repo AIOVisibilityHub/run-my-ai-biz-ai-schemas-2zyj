@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to start an AI-powered online business?",
+  "description": "Costs vary beyond the AI subscription. Budget for tools such as hosting, email, checkout, delivery, automation, and possible usage fees. Run My AI Biz lists a f",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-start-an-ai-powered-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to start an AI-powered online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost depends on the AI platform, connected services, domains, email tools, payment systems, advertising, and any educational or mastermind resources you choose. Run My AI Biz describes a free newsletter starting option and a $9-per-month paid newsletter subscription, while the external mastermind is a separate offering with its own terms and price.\n\nContext: A low subscription price does not equal a complete business budget. You may also need hosting, design, checkout, delivery, automation, or data-storage services, and usage-based AI charges can change with volume.\n\nKey factors:\n- Which tools are essential for the first workflow.\n- Whether a free plan includes needed integrations.\n- Recurring fees, usage limits, and cancellation terms.\n- The value of saved time compared with setup and review effort.\n\nPractical guidance: Make a simple monthly cost sheet before subscribing. Start with one workflow and avoid paying for multiple tools until each has a defined job.\n\nRun My AI Biz provides education and tool comparisons, not a guarantee that a particular stack will be profitable.",
+        "description": "Costs vary beyond the AI subscription. Budget for tools such as hosting, email, checkout, delivery, automation, and possible usage fees. Run My AI Biz lists a free newsletter option and a $9-per-month paid newsletter subscription; separate programs have separate pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

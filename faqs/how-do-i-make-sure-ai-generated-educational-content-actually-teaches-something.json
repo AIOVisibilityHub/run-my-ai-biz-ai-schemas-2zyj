@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make sure AI-generated educational content actually teaches something?",
+  "description": "Build around a measurable objective, explanation, example, practice activity, feedback, and assessment. Match the reading level and prior knowledge, then test t",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-make-sure-ai-generated-educational-content-actually-teaches-something",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make sure AI-generated educational content actually teaches something?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the materials are designed for learning rather than merely filled with text. Ask AI to create a clear objective, explanation, worked example, practice task, feedback prompt, and short check for understanding; then adapt each item to the learner’s level. Run My AI Biz’s course and presentation examples can support this structured workflow. Context: attractive slides alone do not prove that students understand or can apply the subject. Key factors: prior knowledge, cognitive load, pacing, examples, practice, feedback, and assessment alignment. Practical guidance: limit each section to one main idea, use speaker notes for explanation, and include an activity that reveals misunderstanding. Test the lesson with one learner or colleague before broad release. A focused workflow is easier to improve than a large package produced all at once.",
+        "description": "Build around a measurable objective, explanation, example, practice activity, feedback, and assessment. Match the reading level and prior knowledge, then test the lesson with a learner before wider use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will using AI for lesson slides or course content count as cheating or plagiarism?",
+  "description": "It depends on the applicable policy and how AI was used. Use it as a drafting aid, add original teaching judgment, verify sources, preserve revision records, an",
+  "url": "https://runmyaibusiness.com/faq/will-using-ai-for-lesson-slides-or-course-content-count-as-cheating-or-plagiaris",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will using AI for lesson slides or course content count as cheating or plagiarism?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to propose an outline, examples, discussion questions, or practice prompts, then rewrite and personalize the material so it reflects your own teaching judgment and the learners’ needs. Do not submit or sell unreviewed output as if it were entirely your original work when a policy requires disclosure or independent creation. Context: AI detectors are imperfect, and a detector result alone does not establish how content was produced. Run My AI Biz frames prompts as adaptable blueprints requiring user direction, review, and refinement. Key factors: assignment rules, originality expectations, citation practices, amount of AI assistance, and whether the output contains copied or unsupported material. Practical guidance: retain drafts, source notes, prompts, and revision history. Add original examples, explanations, activities, and feedback rather than making cosmetic edits only. Ask the relevant institution or customer what use is permitted before delivery.",
+        "description": "It depends on the applicable policy and how AI was used. Use it as a drafting aid, add original teaching judgment, verify sources, preserve revision records, and disclose assistance when required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

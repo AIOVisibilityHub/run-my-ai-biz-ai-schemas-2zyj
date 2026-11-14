@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write and run my ads without me checking them?",
+  "description": "AI can draft ad variations and campaign plans, but you should review claims, audience fit, landing-page alignment, budget, disclosures, and tracking before laun",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-and-run-my-ads-without-me-checking-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write and run my ads without me checking them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help create advertising drafts, but do not let it make unsupported performance claims or launch spending automatically. Run My AI Biz includes advertising and campaign-planning examples, while its broader safeguards call for approval before spending money or publishing.\n\nContext: Advertising requires a clear offer, audience, budget, creative testing plan, landing-page match, and accurate disclosures where applicable. Generated variations are hypotheses, not evidence that an ad will perform.\n\nKey factors:\n- Whether the landing page delivers what the ad promises.\n- Budget limits and stop conditions.\n- Accuracy of testimonials, statistics, pricing, and results claims.\n- Measurement of qualified actions rather than impressions alone.\n\nPractical guidance: Start with small, controlled tests and define who can approve copy and spend. Pause campaigns when tracking is broken or the message does not match the offer.\n\nRun My AI Biz positions AI as campaign support, not an automatic media buyer.",
+        "description": "AI can draft ad variations and campaign plans, but you should review claims, audience fit, landing-page alignment, budget, disclosures, and tracking before launch. Keep spending approval with a person and use small tests with clear stop conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

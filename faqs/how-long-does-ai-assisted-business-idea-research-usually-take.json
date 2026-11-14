@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does AI-assisted business idea research usually take?",
+  "description": "A rough AI-assisted review may take a few hours, but meaningful validation takes longer because you need current evidence and real customer behavior. Timing dep",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-ai-assisted-business-idea-research-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does AI-assisted business idea research usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A first-pass AI evaluation can take hours, but dependable validation usually takes longer because it requires current research and responses from real prospects. The slowest part is often recruiting the right people and testing whether they take action, not generating a report.\\n\\nRun My AI Business can help structure recurring research briefs and organize next steps, but its educational workflows do not guarantee a fixed timetable. Live web research is useful because AI systems may otherwise rely on older training data, as one idea-validation discussion notes.\\n\\nKey factors:\\n- How specific the audience and problem are\\n- Availability of current competitor and pricing information\\n- Access to interviewees or prospects\\n- Whether you test interest or actual payment\\n\\nSet a short research sprint with a defined deliverable, such as a competitor matrix and interview guide. After that, reserve time for outreach and a real-world test. Avoid treating a polished report as completion.",
+        "description": "A rough AI-assisted review may take a few hours, but meaningful validation takes longer because you need current evidence and real customer behavior. Timing depends on research scope, audience access, and whether you test sign-ups, interviews, preorders, or payment instead of relying on opinions alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

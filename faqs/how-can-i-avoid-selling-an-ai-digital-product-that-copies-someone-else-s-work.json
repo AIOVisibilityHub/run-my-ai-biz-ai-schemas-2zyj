@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I avoid selling an AI digital product that copies someone else’s work?",
+  "description": "Use original research and wording, avoid copying distinctive examples or branding, verify commercial licenses for images and fonts, and inspect AI output for cl",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-avoid-selling-an-ai-digital-product-that-copies-someone-else-s-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I avoid selling an AI digital product that copies someone else’s work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not copy competitors’ product text, distinctive branding, examples, templates, images, or proprietary materials into an AI prompt or final product. Create your own structure, wording, examples, and visual direction, and verify that any external asset permits commercial use.\n\n**Context:** AI can reproduce protected expression or produce output that resembles existing work. Its assistance does not make copied material safe to sell.\n\n**Key factors:**\n- Whether the source is public, licensed, or restricted\n- How closely your output resembles the source\n- Whether images, fonts, or templates have commercial permission\n- Whether customer data was included in prompts\n\n**Practical guidance:** Use original research, cite sources where appropriate, maintain an asset-license folder, and manually inspect generated visuals and text. Remove anything you cannot explain or license.\n\nRun My AI Biz promotes verification checkpoints and does not treat automation as a substitute for responsible review.",
+        "description": "Use original research and wording, avoid copying distinctive examples or branding, verify commercial licenses for images and fonts, and inspect AI output for close resemblance. Keep records of sources, permissions, prompts, and your edits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

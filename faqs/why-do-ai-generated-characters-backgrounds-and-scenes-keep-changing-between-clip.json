@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do AI-generated characters, backgrounds, and scenes keep changing between clips?",
+  "description": "Generative tools do not reliably preserve continuity unless you define recurring character, wardrobe, setting, camera, color, and format rules. Use consistent r",
+  "url": "https://runmyaibusiness.com/faq/why-do-ai-generated-characters-backgrounds-and-scenes-keep-changing-between-clip",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do AI-generated characters, backgrounds, and scenes keep changing between clips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help you create a storyboard, but it cannot guarantee that generated shots will match across scenes. Reduce inconsistency by defining recurring characters, wardrobe, setting, camera style, color palette, aspect ratio, and prohibited changes before generating clips. Use reference images or source footage only when you have the necessary rights, and expect to replace weak shots rather than endlessly patch them. Plan difficult compositing or text-heavy scenes for the editing stage because generated text and fine details often need manual correction. In a Run My AI Business workflow, store these visual rules in the project instructions so future drafts begin closer to the intended style. Approve a short sequence before producing the whole video.",
+        "description": "Generative tools do not reliably preserve continuity unless you define recurring character, wardrobe, setting, camera, color, and format rules. Use consistent references where permitted, expect manual replacement or compositing, and approve a short sequence before generating the full project. Add the visual rules to reusable project instructions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

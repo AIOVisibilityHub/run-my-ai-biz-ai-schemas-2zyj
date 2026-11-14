@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I need to decide by tomorrow—can AI quickly evaluate a business idea without wasting my time?",
+  "description": "Yes, for a focused first pass. Ask AI for the customer problem, alternatives, major risks, unknowns, and one immediate test. Label facts versus assumptions, ver",
+  "url": "https://runmyaibusiness.com/faq/i-need-to-decide-by-tomorrow-can-ai-quickly-evaluate-a-business-idea-without-was",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I need to decide by tomorrow—can AI quickly evaluate a business idea without wasting my time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A rushed evaluation can still be useful if you narrow the question and protect verification time. Ask AI to produce a rapid brief covering the customer, problem, alternatives, risks, and one immediate test; do not attempt a complete business plan overnight.\\n\\nRun My AI Business’s task-specific assistants can help prepare research, offer, and launch materials, but consequential actions should remain subject to owner approval. A quick report is especially risky when it includes current prices, regulations, market statistics, or claims about competitors.\\n\\nKey factors:\\n- What decision must be made now\\n- Which assumptions could cause expensive mistakes\\n- Whether current sources are available\\n- What evidence can be collected within the deadline\\n\\nUse a red, yellow, and green list: verified, needs checking, and unknown. Make only reversible commitments until the key unknowns are tested. Follow up with deeper research after the urgent decision.",
+        "description": "Yes, for a focused first pass. Ask AI for the customer problem, alternatives, major risks, unknowns, and one immediate test. Label facts versus assumptions, verify time-sensitive claims, and avoid irreversible spending or public claims until the important gaps are checked."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

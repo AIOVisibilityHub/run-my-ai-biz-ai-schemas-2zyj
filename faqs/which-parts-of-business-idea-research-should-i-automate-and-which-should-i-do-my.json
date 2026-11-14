@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of business idea research should I automate and which should I do myself?",
+  "description": "Automate repeatable research collection, sorting, comparison, and first drafts. Personally handle customer interpretation, strategic choices, sensitive data, sp",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-business-idea-research-should-i-automate-and-which-should-i-do-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of business idea research should I automate and which should I do myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose automation only for work that is repetitive, bounded, and easy to review. Keep strategy, customer interpretation, final claims, spending, publishing, account access, and unusual cases under human control.\\n\\nRun My AI Business specifically emphasizes approval before messages go out, content is published, money is spent, or services are joined. Its resource library also distinguishes prompts from the platforms, integrations, permissions, and supporting services required for execution.\\n\\nKey factors:\\n- Cost of an error\\n- Repeatability of the task\\n- Quality of available inputs\\n- Ease of detecting and correcting mistakes\\n\\nMap each workflow as input, AI task, human checkpoint, output, and exception path. Begin with research summaries or draft preparation. Automate further only after reviewing repeated outputs and tightening instructions.",
+        "description": "Automate repeatable research collection, sorting, comparison, and first drafts. Personally handle customer interpretation, strategic choices, sensitive data, spending, publishing, and exceptions. Define inputs, outputs, review checkpoints, and escalation rules before connecting accounts or allowing external actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to create a digital product with AI?",
+  "description": "Choose one specific customer problem and create the smallest useful product that addresses it. Use AI for research, outlining, drafting, and organization, but v",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-create-a-digital-product-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to create a digital product with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one narrowly defined customer problem and a small product that solves it, such as a checklist, template, short guide, or prompt-assisted worksheet. AI can help research the audience, outline the product, draft materials, and organize launch tasks, but you should review every claim and decide what the customer actually needs.\n\n**Context:** A focused first product is easier to test than a large course or collection. Run My AI Biz emphasizes choosing one workflow, using it, and expanding only after the process works for you.\n\n**Key factors:**\n- The audience’s specific pain point\n- Your subject knowledge and ability to verify outputs\n- The product format and delivery method\n- The amount of human review required\n\n**Practical guidance:** Write a one-sentence promise, create a simple outline, and test the idea with prospective buyers before building a large library. Keep a record of sources and revisions.\n\nRun My AI Biz can help you understand how research, product development, and launch tasks fit together without treating AI output as a finished business.",
+        "description": "Choose one specific customer problem and create the smallest useful product that addresses it. Use AI for research, outlining, drafting, and organization, but verify the content and retain control over the final offer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

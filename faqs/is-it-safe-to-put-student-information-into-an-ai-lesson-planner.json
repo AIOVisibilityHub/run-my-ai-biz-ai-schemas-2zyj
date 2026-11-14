@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put student information into an AI lesson planner?",
+  "description": "Avoid entering identifiable student records or confidential material unless you have verified the tool’s data terms and your organization permits it. De-identif",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-put-student-information-into-an-ai-lesson-planner",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put student information into an AI lesson planner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not paste confidential student records, private client information, unpublished intellectual property, or sensitive business data into an AI service unless the service’s terms and your organization’s policy permit it. Remove names and identifying details, minimize the data, and use fictional examples where possible. For a US course business, establish a written rule for what may enter the assistant, who can access outputs, and how drafts are stored. Run My AI Biz’s human-oversight model supports secure account connections and owner review, but those safeguards do not replace careful data handling.",
+        "description": "Avoid entering identifiable student records or confidential material unless you have verified the tool’s data terms and your organization permits it. De-identify examples, minimize inputs, restrict access, and keep a human review step. Do not assume a prompt-based workflow automatically protects private information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I use AI to evaluate a business idea?",
+  "description": "AI may produce outdated, inaccurate, biased, or invented research and can expose sensitive information if inputs are handled poorly. Require sources, assumption",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-use-ai-to-evaluate-a-business-idea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I use AI to evaluate a business idea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is useful for generating alternatives, organizing evidence, spotting missing questions, and comparing business models. It is less reliable for confidential data, unsupported market-size claims, invented statistics, and confident conclusions based on weak sources.\\n\\nRun My AI Business emphasizes source verification, approval checkpoints, and restrictions against inventing proof or income claims. Broader small-business guidance also identifies inaccurate outputs and privacy or security concerns as important AI risks.\\n\\nKey factors:\\n- Source freshness and quality\\n- Whether claims can be independently checked\\n- Sensitivity of the information you provide\\n- Consequences if the recommendation is wrong\\n\\nAsk for citations, uncertainty labels, assumptions, and disconfirming evidence. Do not paste private customer information, payment details, or proprietary plans unless the tool’s handling is understood. Use your own judgment for the final decision.",
+        "description": "AI may produce outdated, inaccurate, biased, or invented research and can expose sensitive information if inputs are handled poorly. Require sources, assumptions, uncertainty labels, and human review. Keep private data out of prompts unless you understand the tool’s storage and sharing practices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

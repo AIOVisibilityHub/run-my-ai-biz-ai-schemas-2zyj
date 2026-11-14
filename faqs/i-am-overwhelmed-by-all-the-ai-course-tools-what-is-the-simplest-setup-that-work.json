@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I am overwhelmed by all the AI course tools—what is the simplest setup that works?",
+  "description": "Choose one audience, one problem, one outcome, and one course format. Start with a course brief, one lesson-planning assistant or prompt, a source folder, and a",
+  "url": "https://runmyaibusiness.com/faq/i-am-overwhelmed-by-all-the-ai-course-tools-what-is-the-simplest-setup-that-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I am overwhelmed by all the AI course tools—what is the simplest setup that works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep the first project narrow: one audience, one problem, one measurable result, and one delivery format. Build the course outline, a repeatable lesson prompt, a review checklist, and one complete pilot module before adding specialized assistants. Run My AI Biz’s recommended progression is to identify relevant workflows, build one assistant, use it, and expand only after the process works. This reduces coordination overhead and exposes missing inputs early.",
+        "description": "Choose one audience, one problem, one outcome, and one course format. Start with a course brief, one lesson-planning assistant or prompt, a source folder, and a human review checklist. Complete one pilot module before adding video, marketing, automation, or multiple specialized assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

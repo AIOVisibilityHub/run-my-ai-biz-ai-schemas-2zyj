@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I legally sell an AI-generated presentation, course, or workbook in the US?",
+  "description": "Possibly, but AI use does not guarantee ownership or clean rights. Review the tool’s license, verify images and quotations, document your original contributions",
+  "url": "https://runmyaibusiness.com/faq/can-i-legally-sell-an-ai-generated-presentation-course-or-workbook-in-the-us",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I legally sell an AI-generated presentation, course, or workbook in the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated content may be copyrightable in the United States only to the extent that people contribute sufficient original expression, selection, arrangement, or creative modifications; material produced entirely by AI may not receive copyright protection. Output can also resemble protected third-party content or contain unverified quotations, so publishing still requires review. Context: using AI does not automatically grant ownership of every image, paragraph, chart, or voice element it produces. Run My AI Biz encourages source verification and restrictions against inventing proof, statistics, or income claims. Key factors: the tool’s license, input rights, image and font permissions, human contribution, quotations, trademarks, and intended distribution. Practical guidance: keep records of sources and meaningful edits, use licensed or original visuals, and replace questionable material. Review the platform’s current commercial-use terms before selling a course or presentation. For high-stakes or unusual rights questions, obtain advice from a qualified professional.",
+        "description": "Possibly, but AI use does not guarantee ownership or clean rights. Review the tool’s license, verify images and quotations, document your original contributions, and replace material that may copy protected content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

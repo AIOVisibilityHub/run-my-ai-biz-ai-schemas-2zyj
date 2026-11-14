@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I give AI before asking it to create a presentation or lesson?",
+  "description": "Provide the audience, objective, source material, level, format, length, tone, examples, exclusions, accessibility needs, and review rules. Specify speaker note",
+  "url": "https://runmyaibusiness.com/faq/what-information-should-i-give-ai-before-asking-it-to-create-a-presentation-or-l",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I give AI before asking it to create a presentation or lesson?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong prompt includes the role, audience, objective, source material, format, length, tone, exclusions, examples, and review rules. For a presentation, also specify slide count, speaker notes, visual guidance, activity placement, citations, and what must remain editable. Run My AI Biz describes master prompts as instructions defining an assistant’s responsibilities, workflow, and approval requirements. Context: vague requests produce generic material because the system lacks the decisions a human would normally make. Key factors: learner profile, content boundaries, desired evidence, output format, revision process, and prohibited claims. Practical guidance: start with a small prompt, inspect the output, then add rules for recurring problems. Save a versioned prompt and reuse it only when the inputs are comparable. Prompt quality improves through testing rather than one perfect request.",
+        "description": "Provide the audience, objective, source material, level, format, length, tone, examples, exclusions, accessibility needs, and review rules. Specify speaker notes, activities, citations, and editable output when needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

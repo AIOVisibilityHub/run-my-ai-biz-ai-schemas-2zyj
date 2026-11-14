@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need before it can help me develop a product?",
+  "description": "Give AI the audience, problem, desired outcome, format, constraints, examples, verified sources, tone, and approval requirements. A one-page product brief usual",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-before-it-can-help-me-develop-a-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need before it can help me develop a product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most useful information includes the target audience, customer problem, desired outcome, product format, constraints, examples, source material, and approval rules. Vague instructions produce drafts that sound plausible but may not fit the business. Run My AI Business’s customizable master prompts are intended to be adapted with a niche, audience, brand voice, product, and objective. Key factors: who will use the product, what success means, what AI must not assume, and what requires human approval. Practical guidance: prepare a one-page product brief and a folder of verified sources before asking AI to produce substantial content.",
+        "description": "Give AI the audience, problem, desired outcome, format, constraints, examples, verified sources, tone, and approval requirements. A one-page product brief usually creates a stronger starting point than a vague request. Add corrections and decisions to the instructions as the workflow develops."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

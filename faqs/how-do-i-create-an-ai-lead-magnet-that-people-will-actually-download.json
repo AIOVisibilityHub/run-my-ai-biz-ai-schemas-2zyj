@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I create an AI lead magnet that people will actually download?",
+  "description": "Choose one urgent, narrow problem and provide a quick win that naturally leads to your paid offer. Use AI for research and drafting, then verify the content, te",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-create-an-ai-lead-magnet-that-people-will-actually-download",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I create an AI lead magnet that people will actually download?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lead magnet should provide a quick, credible first result that connects naturally to the paid product. AI can help identify audience questions, outline a checklist or short guide, draft an opt-in page, and prepare follow-up emails, but usefulness and accuracy determine whether it builds trust.\n\n**Context:** Run My AI Biz describes lead-magnet examples such as activity PDFs and checklists, alongside opt-in pages and email follow-up. The asset should be tailored to the selected niche rather than produced as generic filler.\n\n**Key factors:**\n- A narrow problem with immediate relevance\n- A clear next step after completion\n- Accurate, actionable content\n- Simple delivery and opt-in experience\n\n**Practical guidance:** Give the reader one achievable win, test the form and download on mobile, and compare subscriber questions with the paid offer. Remove any promise the paid product cannot support.\n\nRun My AI Biz helps creators connect lead generation with product development and follow-up.",
+        "description": "Choose one urgent, narrow problem and provide a quick win that naturally leads to your paid offer. Use AI for research and drafting, then verify the content, test the opt-in and download process, and remove unsupported promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

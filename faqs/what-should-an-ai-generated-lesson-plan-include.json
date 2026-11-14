@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an AI-generated lesson plan include?",
+  "description": "Request an objective, prerequisite check, explanation, example, guided practice, independent task, assessment, timing, materials, differentiation, and recap. As",
+  "url": "https://runmyaibusiness.com/faq/what-should-an-ai-generated-lesson-plan-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an AI-generated lesson plan include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI lesson plan should include the learner outcome, opening hook, explanation, worked example, practice task, check for understanding, estimated time, materials, differentiation options, and closing recap. Ask for teacher notes separately from student-facing content so the plan is easier to edit. Then compare the lesson with the previous and next lessons to prevent repetition or missing prerequisites. Run My AI Biz’s course-development examples can support lesson scripts and presentations, but the creator must decide which activities fit the audience.",
+        "description": "Request an objective, prerequisite check, explanation, example, guided practice, independent task, assessment, timing, materials, differentiation, and recap. Ask for teacher notes and learner-facing content separately. Review the lesson against the surrounding sequence before using it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

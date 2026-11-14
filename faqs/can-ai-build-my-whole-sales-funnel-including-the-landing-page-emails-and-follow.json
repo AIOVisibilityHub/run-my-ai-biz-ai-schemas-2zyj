@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build my whole sales funnel, including the landing page, emails, and follow-up?",
+  "description": "AI can draft funnel assets and organize the sequence, but you must define the audience and offer, connect the platforms, test forms and links, verify claims, an",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-my-whole-sales-funnel-including-the-landing-page-emails-and-follow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build my whole sales funnel, including the landing page, emails, and follow-up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft the components of a funnel, including an opt-in page, lead magnet, bridge page, thank-you page, sales copy, and email sequence. It cannot ensure that the funnel is persuasive, technically connected, compliant with platform requirements, or matched to genuine customer demand.\n\nContext: The resource library includes funnel examples that connect lead generation with affiliate or digital-product offers. The workflows still require platform setup, link testing, source review, and approval before publication.\n\nKey factors:\n- One clear audience and offer\n- Consistent promise across pages\n- Working forms, links, and delivery\n- Follow-up timing and owner review\n\nPractical guidance: Map the customer journey on one page before asking AI to draft copy. Test every form and link yourself, review claims and disclosures, and use a small audience before sending broad traffic.\n\nRun My AI Business can help explain how the pieces fit together without promising conversion results.",
+        "description": "AI can draft funnel assets and organize the sequence, but you must define the audience and offer, connect the platforms, test forms and links, verify claims, and approve final copy. Build the customer path first, then use AI to produce and revise each component consistently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

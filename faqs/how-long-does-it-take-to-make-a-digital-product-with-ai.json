@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to make a digital product with AI?",
+  "description": "There is no dependable one-size-fits-all timeline. A simple template or checklist may be much faster than a researched course with videos and a sales funnel. Pl",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-make-a-digital-product-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to make a digital product with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can reduce drafting and organizing time, but the total timeline depends on the product’s complexity, your source material, review process, and delivery setup. A simple checklist may move quickly, while a course with lessons, slides, videos, exercises, and a funnel requires substantially more work.\n\n**Context:** Run My AI Biz describes separate workflows for research, course development, video production, and launch preparation. Connecting those stages helps organize the work, but it does not remove decisions or quality checks.\n\n**Key factors:**\n- Product length and number of formats\n- Amount of original research required\n- Editing and fact-checking needs\n- Checkout, email, and delivery setup\n\n**Practical guidance:** Set milestones for validation, outline, first draft, review, packaging, and launch. Produce a minimum viable version first, then add modules or bonuses after customers reveal what they need.\n\nRun My AI Biz can help you plan the workflow while keeping timing expectations realistic.",
+        "description": "There is no dependable one-size-fits-all timeline. A simple template or checklist may be much faster than a researched course with videos and a sales funnel. Plan separate milestones for validation, drafting, review, packaging, and delivery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

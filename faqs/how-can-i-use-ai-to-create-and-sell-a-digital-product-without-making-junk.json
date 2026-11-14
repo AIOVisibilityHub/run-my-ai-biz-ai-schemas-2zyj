@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI to create and sell a digital product without making junk?",
+  "description": "Use AI for research organization, outlining, drafts, scripts, and launch materials, then add expertise and review every important claim. Define the learner, out",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-to-create-and-sell-a-digital-product-without-making-junk",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI to create and sell a digital product without making junk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to draft a digital product, then add your own expertise, examples, structure, fact checks, and customer feedback. Run My AI Biz covers course outlines, presentations, lesson scripts, videos, and launch materials, but an AI draft is not automatically accurate, original, useful, or ready to sell.\n\nContext: The strongest product workflow separates research, teaching design, production, review, and launch preparation. A course-building assistant can work with research and video assistants, but each stage needs clear standards.\n\nKey factors:\n- A defined learner and specific transformation.\n- Accurate, current, and properly sourced material.\n- Original examples and a consistent instructional sequence.\n- Accessibility, formatting, delivery, and support requirements.\n\nPractical guidance: Create a detailed product brief before asking for lessons. Review every factual claim and test the material with a small audience before building a larger catalog.\n\nRun My AI Biz frames AI as a production partner, not the owner of the product’s expertise or quality.",
+        "description": "Use AI for research organization, outlining, drafts, scripts, and launch materials, then add expertise and review every important claim. Define the learner, outcome, format, and quality standard before generating content, and test a small version with real users."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

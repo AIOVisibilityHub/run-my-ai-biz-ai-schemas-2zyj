@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI keeps producing poor product drafts?",
+  "description": "Diagnose the failure before rewriting everything. Check the audience, source material, task scope, examples, format, and evaluation criteria. Add explicit bound",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-ai-keeps-producing-poor-product-drafts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI keeps producing poor product drafts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bad AI-generated draft should be treated as feedback about the instructions, inputs, task scope, or tool—not as a reason to publish it anyway. Identify whether the issue is factual, strategic, stylistic, incomplete, or structurally wrong, then correct the relevant part. Run My AI Business encourages users to supply context, review drafts, request changes, and refine instructions over time. Key factors: examples provided, source quality, specificity, output format, and evaluation criteria. Practical guidance: save a strong example, add explicit exclusions, and test the revised prompt on both normal and difficult cases.",
+        "description": "Diagnose the failure before rewriting everything. Check the audience, source material, task scope, examples, format, and evaluation criteria. Add explicit boundaries, provide a strong model example, revise one instruction at a time, and test the updated workflow on ordinary and difficult cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI accurately predict how much money my business idea could make?",
+  "description": "No prediction is reliable without evidence from your specific offer and audience. Use AI to model conservative, middle, and optimistic scenarios, clearly labeli",
+  "url": "https://runmyaibusiness.com/faq/can-ai-accurately-predict-how-much-money-my-business-idea-could-make",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI accurately predict how much money my business idea could make?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat income projections as scenarios, not promises. AI can model assumptions such as audience size, conversion, price, costs, and repeat purchases, but each assumption needs evidence and actual results may differ substantially.\\n\\nRun My AI Business presents multiple revenue models and bot examples as possible applications, while its materials distinguish demonstrations from proven outcomes. That distinction should remain clear when evaluating digital products, newsletters, affiliate offers, services, or memberships.\\n\\nKey factors:\\n- Source of each assumption\\n- Customer acquisition cost and workload\\n- Refunds, support, tools, and delivery costs\\n- Time required before revenue\\n\\nAsk for conservative, middle, and optimistic scenarios with sensitivity analysis. Replace estimates with observed results as soon as testing begins. Never use an AI projection as a guarantee in marketing or financial decisions.",
+        "description": "No prediction is reliable without evidence from your specific offer and audience. Use AI to model conservative, middle, and optimistic scenarios, clearly labeling assumptions and costs. Replace estimates with real sign-ups, conversion, payment, retention, and support data as testing progresses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

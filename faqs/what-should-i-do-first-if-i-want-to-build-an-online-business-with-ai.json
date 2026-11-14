@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to build an online business with AI?",
+  "description": "Choose one audience, one problem, and one repeatable task. Start with a focused workflow—such as opportunity research, newsletter drafting, or lead follow-up—th",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-build-an-online-business-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to build an online business with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one customer problem, one audience, and one measurable workflow rather than trying to create an entirely hands-off company. Run My AI Biz’s focused approach is to choose a relevant workflow, build one assistant, use it, and expand only after the process works reliably.\n\nContext: AI can help with research, offer planning, drafts, and recurring administration, but it does not replace customer judgment or responsibility. Public discussions commonly warn that “fully AI-run” business claims exaggerate what current systems can reliably do.\n\nKey factors:\n- Choose a task with repeatable inputs and a clear finished result.\n- Define who approves content, spending, messages, and publication.\n- Check whether the required platform connections and permissions exist.\n\nPractical guidance: Begin with an opportunity-research, newsletter, content-repurposing, or follow-up workflow. Record errors and revise the instructions before adding another assistant.\n\nRun My AI Biz is best suited to a focused, educational starting point rather than a promise of instant business creation.",
+        "description": "Choose one audience, one problem, and one repeatable task. Start with a focused workflow—such as opportunity research, newsletter drafting, or lead follow-up—then review its output and improve the instructions before adding more assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find customers for a new product, or will the leads be unreliable?",
+  "description": "AI can help identify and organize potential customers, sponsors, or partners, but leads still require verification and judgment. Check the source, relevance, co",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-customers-for-a-new-product-or-will-the-leads-be-unreliable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find customers for a new product, or will the leads be unreliable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support customer research and outreach preparation, but it should not fabricate prospects, personalize messages from unsupported assumptions, or send outreach without review. Run My AI Business includes examples for researching potential customers, sponsors, and partners, with appropriate review before contact. Key factors: source quality, relevance, permission, message accuracy, and follow-up handling. Practical guidance: keep a record of how each prospect was identified, verify contact details, write a useful reason for reaching out, and approve each message until the process is demonstrably reliable.",
+        "description": "AI can help identify and organize potential customers, sponsors, or partners, but leads still require verification and judgment. Check the source, relevance, contact details, and reason for outreach. Review messages before sending, and do not treat generated prospect lists as guaranteed leads or sales."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

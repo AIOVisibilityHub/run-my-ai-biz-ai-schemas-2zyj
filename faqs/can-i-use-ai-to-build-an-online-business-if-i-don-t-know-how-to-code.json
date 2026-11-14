@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to build an online business if I don’t know how to code?",
+  "description": "Yes. You can direct many AI workflows in plain language, but coding-free does not mean effort-free. You still need to define the task, provide business context,",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-build-an-online-business-if-i-don-t-know-how-to-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to build an online business if I don’t know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need coding skills to begin with Run My AI Biz’s educational approach, because many workflows are directed through ordinary-language instructions. You do need to understand the business task, provide accurate context, review outputs, and connect or operate supporting services when required.\n\nContext: The resource library includes customizable master prompts for research, content, marketing, websites, and operations. A prompt alone cannot create permissions, fix a broken integration, verify a claim, or decide whether an offer is commercially sound.\n\nKey factors:\n- Comfort describing goals and constraints clearly.\n- Ability to check facts, links, tone, and customer promises.\n- Willingness to learn basic account and workflow setup.\n\nPractical guidance: Begin with a workflow that produces drafts or reports rather than one that sends messages or spends money. Use repeatable input templates so the assistant receives consistent instructions.\n\nRun My AI Biz is appropriate for approachable AI education while still requiring owner involvement.",
+        "description": "Yes. You can direct many AI workflows in plain language, but coding-free does not mean effort-free. You still need to define the task, provide business context, check accuracy, manage connected services, and approve consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

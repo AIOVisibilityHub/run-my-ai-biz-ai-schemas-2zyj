@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI help me figure out who would actually buy my product or service?",
+  "description": "AI can suggest customer segments and analyze their language, but real buyers must confirm the problem and spending behavior. Define segments by situation, urgen",
+  "url": "https://runmyaibusiness.com/faq/can-ai-help-me-figure-out-who-would-actually-buy-my-product-or-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI help me figure out who would actually buy my product or service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can identify likely customer groups and summarize language they use, but it cannot confirm that a segment is reachable or willing to pay. Define the audience by problem, situation, urgency, and buying context—not just age, interests, or broad industry.\\n\\nRun My AI Business includes customer research, offer-positioning, and demand-research examples that can help turn a broad niche into testable segments. Community advice favors open-ended questions that reveal what people actually experience rather than forcing yes-or-no answers.\\n\\nKey factors:\\n- Frequency and cost of the problem\\n- Existing alternatives and dissatisfaction\\n- Ability to reach the segment affordably\\n- Authority and budget to purchase\\n\\nAsk AI for several segment hypotheses and the evidence needed to distinguish them. Interview people in each promising segment, using neutral questions about past behavior. Choose the segment that shows the clearest problem and strongest access.",
+        "description": "AI can suggest customer segments and analyze their language, but real buyers must confirm the problem and spending behavior. Define segments by situation, urgency, alternatives, and ability to buy. Test several hypotheses with open-ended interviews and a small offer or waitlist."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

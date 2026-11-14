@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are the 38 AI bots real businesses, or just prompts?",
+  "description": "They are adaptable bot blueprints and resources for functions such as planning, research, marketing, websites, and operations—not 38 guaranteed businesses. Thei",
+  "url": "https://runmyaibusiness.com/faq/are-the-38-ai-bots-real-businesses-or-just-prompts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are the 38 AI bots real businesses, or just prompts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 38-bot resource should be understood as a collection of adaptable prompt blueprints and supporting materials, not a set of 38 finished businesses. Some examples cover planning, research, content, marketing, websites, and operations; their usefulness depends on customization, tools, integrations, and execution.\n\nContext: The supplied business description distinguishes demonstrations and experimental examples from proven outcomes. A bot can suggest a business model or create drafts without establishing demand, revenue, or a complete technical system.\n\nKey factors:\n- Whether the prompt for the needed function is included or referenced elsewhere.\n- How much adaptation your niche and audience require.\n- Which external platforms the workflow depends on.\n- What evidence exists beyond a demonstration.\n\nPractical guidance: Select one relevant blueprint, rewrite its goals and approval rules for your business, and test it with realistic inputs. Evaluate the resulting workflow, not the number of examples in the collection.\n\nRun My AI Biz presents the resource as an educational starting point rather than a catalog of guaranteed income streams.",
+        "description": "They are adaptable bot blueprints and resources for functions such as planning, research, marketing, websites, and operations—not 38 guaranteed businesses. Their results depend on customization, connected tools, permissions, review, and the owner’s execution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

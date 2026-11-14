@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to develop a product if my business processes are undocumented?",
+  "description": "Yes, but document one real process before asking AI to automate it. Capture the inputs, decisions, exceptions, outputs, and definition of done. Use AI to organi",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-develop-a-product-if-my-business-processes-are-undocumented",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to develop a product if my business processes are undocumented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have no documentation, start by capturing the process from memory and observing the work as it happens. AI can help turn notes, recordings, checklists, and examples into a draft workflow, but it should not invent missing business rules. Run My AI Business emphasizes supplying context and retaining review checkpoints. Key factors: who performs each step, required inputs, decisions, exceptions, and the final definition of done. Practical guidance: document one completed example from start to finish, mark uncertain steps, and ask the owner or subject expert to approve the workflow before reuse.",
+        "description": "Yes, but document one real process before asking AI to automate it. Capture the inputs, decisions, exceptions, outputs, and definition of done. Use AI to organize those notes into a draft workflow, then have the person who performs the work verify every step and missing rule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

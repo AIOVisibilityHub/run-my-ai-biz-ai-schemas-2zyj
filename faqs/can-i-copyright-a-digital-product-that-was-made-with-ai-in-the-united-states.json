@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I copyright a digital product that was made with AI in the United States?",
+  "description": "Possibly, but not every AI-generated element is protected. Human-written, edited, arranged, or creatively selected portions may qualify, while purely machine-ge",
+  "url": "https://runmyaibusiness.com/faq/can-i-copyright-a-digital-product-that-was-made-with-ai-in-the-united-states",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I copyright a digital product that was made with AI in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the United States, purely AI-generated material may not receive copyright protection because copyright requires human authorship, while sufficiently creative human arrangements, edits, or contributions may be protectable. The exact result depends on what you created and how much control you exercised.\n\n**Context:** Current public summaries of U.S. Copyright Office guidance distinguish AI-generated expression from human-authored contributions. Copyright status does not automatically answer whether an output resembles someone else’s protected work or whether a tool’s terms allow commercial use.\n\n**Key factors:**\n- Your original writing, design, selection, and arrangement\n- The amount of AI-generated expression retained\n- Third-party assets, fonts, images, and data\n- The AI platform’s commercial-use terms\n\n**Practical guidance:** Keep drafts and records showing your creative decisions, use properly licensed assets, and avoid presenting unverified AI output as entirely your own work. Seek qualified professional advice for a specific rights question.\n\nRun My AI Biz can teach workflow planning, but it does not determine rights for an individual product.",
+        "description": "Possibly, but not every AI-generated element is protected. Human-written, edited, arranged, or creatively selected portions may qualify, while purely machine-generated expression may not. Keep records of your contributions and review all asset and platform terms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

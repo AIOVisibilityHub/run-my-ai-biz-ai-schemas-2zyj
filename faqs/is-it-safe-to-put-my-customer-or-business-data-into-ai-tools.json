@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put my customer or business data into AI tools?",
+  "description": "Not automatically. Review the AI provider’s data retention, access, and training policies; minimize sensitive information; remove identifiers where possible; an",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-put-my-customer-or-business-data-into-ai-tools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put my customer or business data into AI tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume information entered into an AI service is confidential. Before using customer or business data, review the provider’s privacy terms, retention settings, access permissions, and model-training commitments. The FTC has warned that companies must honor privacy promises and clearly disclose material data uses.\n\nContext: Run My AI Biz’s workflows may involve research, prospect information, customer-support drafts, billing checks, or connected accounts. The safest starting point is often sanitized or fictional data while you test the process.\n\nKey factors:\n- Whether the data identifies a person or reveals confidential business information.\n- Who can access connected documents and accounts.\n- Whether the provider retains prompts or uses them for other purposes.\n- Whether the workflow truly needs the data.\n\nPractical guidance: Minimize data, remove unnecessary identifiers, use role-based access, and document approved tools. Ask the provider direct questions when the policy is unclear.\n\nRun My AI Biz can explain workflow possibilities, but users must assess the privacy practices of the platforms they select.",
+        "description": "Not automatically. Review the AI provider’s data retention, access, and training policies; minimize sensitive information; remove identifiers where possible; and test with sample data first. Use only the information the workflow genuinely needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

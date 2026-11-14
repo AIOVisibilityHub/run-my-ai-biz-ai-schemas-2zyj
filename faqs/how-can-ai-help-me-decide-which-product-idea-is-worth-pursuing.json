@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI help me decide which product idea is worth pursuing?",
+  "description": "Ask AI to generate and organize options, but judge them using customer pain, audience access, differentiation, delivery effort, and evidence of demand. Rank ide",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-help-me-decide-which-product-idea-is-worth-pursuing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI help me decide which product idea is worth pursuing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to generate multiple product ideas, then evaluate them against customer pain, access to the audience, differentiation, delivery effort, and a practical test. More ideas do not necessarily create more opportunities. Run My AI Business includes business-brainstorming and opportunity-research examples designed to provide starting points before significant investment. Key factors: evidence of demand, your relevant knowledge, production cost, distribution, and repeat-purchase potential. Practical guidance: rank ideas with a simple scorecard and test the top idea through interviews, a waitlist, a paid pilot, or a small pre-sale where appropriate.",
+        "description": "Ask AI to generate and organize options, but judge them using customer pain, audience access, differentiation, delivery effort, and evidence of demand. Rank ideas with a scorecard, then test the strongest one through interviews, a waitlist, a pilot, or another low-cost validation method."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

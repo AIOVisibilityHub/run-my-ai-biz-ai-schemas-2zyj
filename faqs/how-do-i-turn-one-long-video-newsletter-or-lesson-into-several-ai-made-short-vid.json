@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I turn one long video, newsletter, or lesson into several AI-made short videos without looking repetitive?",
+  "description": "Start with one approved source and create a platform-specific repurposing brief. Specify clip length, audience, hook, format, call to action, and prohibited cla",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-turn-one-long-video-newsletter-or-lesson-into-several-ai-made-short-vid",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I turn one long video, newsletter, or lesson into several AI-made short videos without looking repetitive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to convert one approved source into platform-specific drafts, not to publish identical clips everywhere without review. A newsletter, lesson, webinar, or product demonstration can produce short clips, quote cards, captions, summaries, and alternate hooks, but each platform has different dimensions, pacing, context, and audience expectations. Run My AI Business’s content workflows can help organize those variants while preserving the source message and brand voice. Create a repurposing brief containing the approved source, prohibited claims, target platforms, clip length, calls to action, and review owner. Check every excerpt for missing context, awkward cuts, incorrect captions, and links that point to the wrong offer.",
+        "description": "Start with one approved source and create a platform-specific repurposing brief. Specify clip length, audience, hook, format, call to action, and prohibited claims. Review each excerpt for missing context, awkward cuts, caption errors, and the correct destination link before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

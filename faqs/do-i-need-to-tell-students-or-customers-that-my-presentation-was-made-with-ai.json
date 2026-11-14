@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to tell students or customers that my presentation was made with AI?",
+  "description": "Follow the applicable school, workplace, platform, or client policy. When disclosure is expected or helpful, state how AI was used and what a human reviewed; ne",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-to-tell-students-or-customers-that-my-presentation-was-made-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to tell students or customers that my presentation was made with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disclose AI use when your school, employer, platform, funder, or audience requires it, and consider voluntary disclosure when it helps people understand how the material was produced. Disclosure does not replace fact-checking or human review. Context: policies vary by institution and assignment, so a generic statement may not satisfy a specific rule. Run My AI Biz emphasizes human-directed workflows and approval before publication, which can support a clear record of what AI did and what a person reviewed. Key factors: the policy in force, extent of AI assistance, whether student work is involved, attribution requirements, and whether generated media could mislead viewers. Practical guidance: keep a brief production note listing the tool, task, sources, and human edits. Ask the responsible institution for its current policy before submitting or publishing. Avoid claiming that AI-created work was entirely human-produced.",
+        "description": "Follow the applicable school, workplace, platform, or client policy. When disclosure is expected or helpful, state how AI was used and what a human reviewed; never use disclosure as a substitute for quality checks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

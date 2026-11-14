@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI turn one digital product idea into a lead magnet, emails, and social content?",
+  "description": "Yes. Use a verified source brief and adapt the idea for each stage: lead magnet, email, sales page, lesson, or social post. Give every asset its own purpose, ca",
+  "url": "https://runmyaibusiness.com/faq/can-ai-turn-one-digital-product-idea-into-a-lead-magnet-emails-and-social-conten",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI turn one digital product idea into a lead magnet, emails, and social content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can help turn one researched idea into a lead magnet, email sequence, sales page, social posts, and product lessons, but each format should serve a different customer stage. Reusing the same text everywhere can feel repetitive or make promises inconsistent.\n\n**Context:** Run My AI Biz includes newsletter repurposing, lead magnets, funnels, email follow-up, and content-production workflows. These are connected applications, not permission to publish without review.\n\n**Key factors:**\n- The original source’s accuracy\n- Audience awareness at each stage\n- Format-specific length and call to action\n- Whether every asset matches the current offer\n\n**Practical guidance:** Create a source-of-truth brief, map each asset to one purpose, and ask AI to adapt rather than merely copy. Check names, links, dates, claims, and calls to action in every version.\n\nRun My AI Biz helps creators organize repurposing while retaining editorial control.",
+        "description": "Yes. Use a verified source brief and adapt the idea for each stage: lead magnet, email, sales page, lesson, or social post. Give every asset its own purpose, call to action, length, and review pass."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

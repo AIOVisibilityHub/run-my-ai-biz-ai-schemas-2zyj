@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same AI system for several online businesses?",
+  "description": "Yes, if you keep each project’s audience, brand, sources, offers, and links separate. Reuse the underlying workflow where appropriate, but create project-specif",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-ai-system-for-several-online-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same AI system for several online businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can combine AI workflows across multiple projects, but separate the brand, audience, sources, offers, and approval rules for each one. Run My AI Biz describes reusable prompts for newsletters, digital products, websites, affiliate projects, and other models while recommending focused implementation before expansion.\n\nContext: Reusing a prompt can save setup time, but careless reuse may mix names, links, customer assumptions, or voice between projects. Coordination also increases the number of integrations and maintenance points.\n\nKey factors:\n- Whether the workflow’s core task is genuinely similar.\n- Which information must remain project-specific.\n- How outputs are labeled and stored.\n- Whether you can review all active workflows consistently.\n\nPractical guidance: Create a separate project brief and test set for each venture. Expand only after one workflow is reliable and you have time to monitor the added work.\n\nRun My AI Biz encourages reusable systems without suggesting that every possible project should launch at once.",
+        "description": "Yes, if you keep each project’s audience, brand, sources, offers, and links separate. Reuse the underlying workflow where appropriate, but create project-specific instructions, test data, storage, and approval rules to prevent cross-project mistakes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

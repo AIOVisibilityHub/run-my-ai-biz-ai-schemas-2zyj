@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find customers for my new business, or will it just produce a list of bad leads?",
+  "description": "AI can identify and organize potential prospects, but it cannot guarantee fit, interest, or sales. Define qualification criteria, verify contact details, person",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-customers-for-my-new-business-or-will-it-just-produce-a-list-of-bad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find customers for my new business, or will it just produce a list of bad leads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help prepare outreach lists, personalize draft messages, summarize prospects, and remind you about follow-up, but it should not send bulk communication without review and appropriate consent practices. The quality of the prospect criteria matters more than the number of names collected.\n\nContext: Run My AI Business includes examples for sponsor prospecting, local-business website opportunities, and subscriber acquisition. These are research and preparation workflows, not guaranteed lead or sales systems.\n\nKey factors:\n- Clear prospect-fit criteria\n- Accuracy of contact information\n- Relevance and personalization\n- Approval before sending\n\nPractical guidance: Define who qualifies, what evidence supports the fit, and what disqualifies a prospect. Ask AI to draft a reason for contact based on verified information, then manually check names, details, and the final message.\n\nThe business’s educational content can help organize prospecting without overstating expected results.",
+        "description": "AI can identify and organize potential prospects, but it cannot guarantee fit, interest, or sales. Define qualification criteria, verify contact details, personalize drafts using reliable information, and review messages before sending. Measure qualified conversations and outcomes, not list size."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much human oversight is necessary when AI is helping develop my product?",
+  "description": "Keep human approval for claims, customer-facing material, publishing, outreach, spending, account changes, and other consequential actions. Limit permissions, l",
+  "url": "https://runmyaibusiness.com/faq/how-much-human-oversight-is-necessary-when-ai-is-helping-develop-my-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much human oversight is necessary when AI is helping develop my product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep a human approval step before AI publishes content, contacts prospects, spends money, changes accounts, or delivers customer-facing advice. This is especially important when an error could damage trust or create a financial, privacy, safety, or reputational problem. Run My AI Business explicitly emphasizes approval requirements and owner control over consequential actions. Key factors: action impact, reversibility, audience sensitivity, permissions, and auditability. Practical guidance: label drafts, restrict account access, log approvals, and define what the assistant must stop and escalate instead of deciding independently.",
+        "description": "Keep human approval for claims, customer-facing material, publishing, outreach, spending, account changes, and other consequential actions. Limit permissions, label drafts, preserve source notes, and define escalation rules. AI can prepare work, but the owner should remain responsible for final decisions and quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

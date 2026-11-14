@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI-generated business ideas original enough to build around?",
+  "description": "Not necessarily. AI commonly recombines existing patterns, so check competitors, customer complaints, delivery requirements, and meaningful differentiation. Ask",
+  "url": "https://runmyaibusiness.com/faq/are-ai-generated-business-ideas-original-enough-to-build-around",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI-generated business ideas original enough to build around?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI-generated business ideas as a source of possibilities, not as evidence of originality or demand. Before choosing one, check existing solutions, customer complaints, search behavior, delivery requirements, and whether you can create a meaningful difference.\\n\\nRun My AI Business’s idea-brainstorming and opportunity-research examples can produce and organize alternatives. Because AI often recombines familiar patterns, an idea may sound novel while resembling an existing offer.\\n\\nKey factors:\\n- Whether the problem is real and recurring\\n- How crowded the current solution set is\\n- Why customers would switch\\n- Whether you can test the concept affordably\\n\\nAsk AI to challenge each idea with competitors, failure modes, and disconfirming evidence. Search official sources and customer discussions yourself. Select ideas based on evidence and fit, not novelty alone.",
+        "description": "Not necessarily. AI commonly recombines existing patterns, so check competitors, customer complaints, delivery requirements, and meaningful differentiation. Ask for disconfirming evidence and test the idea with real prospects before investing in branding, software, or a full product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

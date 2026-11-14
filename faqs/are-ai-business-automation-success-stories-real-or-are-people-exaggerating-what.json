@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI business automation success stories real, or are people exaggerating what these systems can do?",
+  "description": "Some workflows can reduce repetitive effort, but success stories often omit setup work, human review, platform costs, and the owner’s contribution. Treat demons",
+  "url": "https://runmyaibusiness.com/faq/are-ai-business-automation-success-stories-real-or-are-people-exaggerating-what",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI business automation success stories real, or are people exaggerating what these systems can do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The strongest proof is not a promise of passive income; it is a repeatable workflow that produces useful, reviewable work for a clearly defined business purpose. Look for transparent demonstrations, stated limitations, required inputs, and examples that distinguish tested processes from experiments.\n\nContext: Run My AI Business describes the resource library as adaptable examples rather than 38 proven income-producing businesses. Results depend on the user’s offer, audience, execution, platform access, and consistency.\n\nKey factors:\n- Specific task and expected output\n- Evidence quality and source traceability\n- Human corrections required\n- Business metric affected\n\nPractical guidance: Run a controlled test using the same task before and after implementation. Track completion time, correction rate, response quality, leads, or conversions, and keep financial expectations separate from educational examples.\n\nThe newsletter’s comparisons and explanations can help readers assess claims more carefully.",
+        "description": "Some workflows can reduce repetitive effort, but success stories often omit setup work, human review, platform costs, and the owner’s contribution. Treat demonstrations as examples, not proof of income. Test one workflow, measure time and quality, and verify sources before trusting broader claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
