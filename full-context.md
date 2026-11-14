@@ -7,7 +7,7 @@
 Run My AI Biz publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **650** faqs
+- **1200** faqs
 - **48** services
 - **7** personnel
 - **1** locations
