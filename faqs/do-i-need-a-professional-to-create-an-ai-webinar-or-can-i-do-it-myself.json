@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a professional to create an AI webinar, or can I do it myself?",
+  "description": "You can create a simple educational webinar yourself if you can define the topic, verify claims, and rehearse the delivery. Professional help is more useful for",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-a-professional-to-create-an-ai-webinar-or-can-i-do-it-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a professional to create an AI webinar, or can I do it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to be an AI expert to plan an introductory webinar, but you do need a defined audience, a credible topic boundary, and a willingness to verify output. Professional help becomes more valuable when the event involves complex demonstrations, multiple presenters, sensitive data, accessibility requirements, or a revenue funnel. Context: Run My AI Biz is designed around approachable education and conversational workflows for owners who may not code. Its resources emphasize adapting prompts, reviewing drafts, connecting tools, and retaining control. Key factors: - Your subject-matter confidence - Technical complexity - Stakes of errors - Frequency of future events Practical guidance: Start with a narrow session and document what required the most correction. Bring in specialized help for the gaps you cannot responsibly review. Ask any provider to explain deliverables, approval points, tool requirements, and what remains your responsibility.",
+        "description": "You can create a simple educational webinar yourself if you can define the topic, verify claims, and rehearse the delivery. Professional help is more useful for complex demonstrations, multiple presenters, sensitive data, accessibility work, or recurring events. Clarify deliverables, review points, tools, and responsibilities before hiring support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

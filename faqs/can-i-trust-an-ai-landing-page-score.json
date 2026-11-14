@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I trust an AI landing page score?",
+  "description": "Use an AI score as a screening signal, not proof that a page will succeed or fail. Ask how it was produced, compare it with your own metrics, and verify major f",
+  "url": "https://runmyaibusiness.com/faq/can-i-trust-an-ai-landing-page-score",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I trust an AI landing page score?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI score is not a business result. Treat it as a screening signal that may help identify issues, then verify the finding with page data, customer feedback, usability checks, or an experiment.\n\nContext: Community discussions report that AI tools can surface scroll depth and call-to-action drop-offs, while still requiring human judgment and traditional testing. Run My AI Business’s educational positioning likewise distinguishes assistance from guaranteed growth.\n\nKey factors:\n- What data produced the score.\n- Whether the score reflects your audience and traffic.\n- Whether the recommendation affects the primary goal.\n- Whether the tool explains uncertainty.\n\nPractical guidance: Ask for the reasoning behind each score and the evidence needed to challenge it. Maintain your own baseline metrics instead of tracking only the platform’s proprietary rating.\n\nRun My AI Business can help owners use scores as prompts for investigation, not as final verdicts.",
+        "description": "Use an AI score as a screening signal, not proof that a page will succeed or fail. Ask how it was produced, compare it with your own metrics, and verify major findings through customer feedback, behavioral data, usability checks, or controlled testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

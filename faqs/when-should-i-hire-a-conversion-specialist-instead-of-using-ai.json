@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a conversion specialist instead of using AI?",
+  "description": "Use professional help when the page involves major ad spend, complex tracking, custom development, accessibility concerns, or a high cost of failure. AI can pre",
+  "url": "https://runmyaibusiness.com/faq/when-should-i-hire-a-conversion-specialist-instead-of-using-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a conversion specialist instead of using AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for speed and breadth, but use human expertise for strategy, research interpretation, accessibility, analytics, complex implementation, and high-stakes claims. A specialist is especially useful when the page is tied to substantial ad spend, complicated integrations, or a major product launch.\n\nContext: Run My AI Business is an educational AI business rather than a claim of universal hands-on optimization. Its materials describe customizable prompts and workflows that require platform support, permissions, integrations, and owner oversight.\n\nKey factors:\n- Cost of a wrong decision.\n- Technical and tracking complexity.\n- Need for original customer research.\n- Internal capacity to implement and test.\n\nPractical guidance: Use AI to prepare questions, alternatives, and a prioritized brief before hiring help. Ask any provider what they will measure, what they will not change, and how they separate recommendations from guarantees.\n\nRun My AI Business can help a small owner become better prepared for expert support.",
+        "description": "Use professional help when the page involves major ad spend, complex tracking, custom development, accessibility concerns, or a high cost of failure. AI can prepare an audit brief and test ideas, but specialized judgment may be needed to interpret evidence and implement changes safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI webinar planning actually work from idea to live presentation?",
+  "description": "AI webinar planning works best as a staged process: define the audience and outcome, research the topic, build an outline, draft slides and speaker notes, prepa",
+  "url": "https://runmyaibusiness.com/faq/how-does-ai-webinar-planning-actually-work-from-idea-to-live-presentation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI webinar planning actually work from idea to live presentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical workflow is: audience research, topic selection, learning objectives, outline, examples, slide development, rehearsal, delivery, follow-up, and review. AI can assist at each stage, but the owner should approve claims, sources, prompts, visuals, and any action that publishes content or spends money. Context: Run My AI Biz’s materials emphasize coordinated assistants rather than isolated chatbot tasks. A webinar workflow might combine opportunity research, course or presentation development, content drafting, and launch preparation. Key factors: - Clear inputs for each stage - Named approval checkpoints - Source and fact verification - Separate drafts from live actions Practical guidance: Create one master brief containing the audience, promise, tone, examples, offer, timing, and restrictions. Ask AI to produce each deliverable separately, then review the handoffs for omissions and contradictions. Start with one assistant or workflow before adding multiple specialized assistants.",
+        "description": "AI webinar planning works best as a staged process: define the audience and outcome, research the topic, build an outline, draft slides and speaker notes, prepare questions, rehearse, deliver, and review. Keep approval checkpoints between stages so AI-generated claims, examples, visuals, and calls to action are checked before use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

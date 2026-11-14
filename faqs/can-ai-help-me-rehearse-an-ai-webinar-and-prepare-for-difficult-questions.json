@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI help me rehearse an AI webinar and prepare for difficult questions?",
+  "description": "Yes. Give AI your audience, outline, claims, and offer, then ask it to generate beginner, practitioner, and skeptical questions and identify weak assumptions. S",
+  "url": "https://runmyaibusiness.com/faq/can-ai-help-me-rehearse-an-ai-webinar-and-prepare-for-difficult-questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI help me rehearse an AI webinar and prepare for difficult questions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can create a useful practice plan by predicting audience questions, challenging weak assumptions, and simulating skeptical participants. It cannot replace saying the presentation aloud, checking timing, testing demonstrations, and practicing recovery from a failed link or tool. Context: Presentation guidance recommends using AI to identify difficult questions, gaps in reasoning, and assumptions before presenting. Key factors: - Technical demonstrations - Unfamiliar terminology - Likely objections - Time available for Q&A Practical guidance: Ask AI to generate questions from beginner, practitioner, and skeptical perspectives. Rehearse with the actual deck and speaker notes, record yourself, and mark sections that run long. Prepare concise answers and a parking-lot process for questions that need later research.",
+        "description": "Yes. Give AI your audience, outline, claims, and offer, then ask it to generate beginner, practitioner, and skeptical questions and identify weak assumptions. Still rehearse aloud with the real deck, test every demonstration, time the session, and prepare a process for unanswered questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI actually tell me why my landing page is not converting?",
+  "description": "AI can identify likely problems in clarity, trust, calls to action, usability, and funnel continuity, but it cannot know the true cause from page text alone. Gi",
+  "url": "https://runmyaibusiness.com/faq/can-ai-actually-tell-me-why-my-landing-page-is-not-converting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI actually tell me why my landing page is not converting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can review a landing page for unclear messaging, weak calls to action, missing proof, inconsistent sections, and obvious friction. It is best used to create hypotheses and a prioritized improvement plan, not to declare that a page will convert or to replace customer research.\n\nContext: A landing-page assistant can support the offer-positioning and conversion-review workflows described by Run My AI Business. Its usefulness depends on the quality of the page, audience information, traffic context, and instructions supplied.\n\nKey factors:\n- AI sees the supplied content, not every visitor’s reasoning.\n- Generic advice increases when business context is missing.\n- Strong recommendations should connect to a specific visitor problem.\n- Results require implementation and measurement.\n\nPractical guidance: Request separate findings for message clarity, trust, usability, objections, and funnel continuity. Ask the system to label assumptions and identify what must be verified with analytics or customer feedback.\n\nRun My AI Business presents AI as an accessible assistant for structured review while keeping business judgment with the owner.",
+        "description": "AI can identify likely problems in clarity, trust, calls to action, usability, and funnel continuity, but it cannot know the true cause from page text alone. Give it audience and traffic context, then verify its hypotheses with analytics, recordings, surveys, or controlled tests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

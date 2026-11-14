@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI help me develop webinar slides without making the presentation feel robotic?",
+  "description": "Use AI for structure, alternate headlines, speaker notes, and draft visuals, then rewrite the deck around your audience’s real questions and vocabulary. Keep on",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-help-me-develop-webinar-slides-without-making-the-presentation-feel-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI help me develop webinar slides without making the presentation feel robotic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask AI to draft slides around one message per slide, then rewrite the language for the audience’s experience and decision level. A useful deck should show the problem, explain the method, demonstrate a bounded example, state limitations, and give the next action. Context: Run My AI Biz covers presentation development, lesson scripts, video creation, and digital products as connected stages. A presentation assistant can accelerate the draft, but it cannot decide which claims your audience should trust. Key factors: - Slide purpose and message - Visual complexity and readability - Supporting evidence - Speaker notes and transitions Practical guidance: Use a content matrix with columns for slide purpose, headline, visual, proof, speaker note, and review status. Ask AI to identify repetitive slides and jargon. Review every visual for accuracy, licensing, accessibility, and relevance.",
+        "description": "Use AI for structure, alternate headlines, speaker notes, and draft visuals, then rewrite the deck around your audience’s real questions and vocabulary. Keep one message per slide, include evidence and limitations, vary examples, and add your own judgment and experience so the presentation does not sound machine-produced."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

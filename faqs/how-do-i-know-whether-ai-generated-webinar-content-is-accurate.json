@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI-generated webinar content is accurate?",
+  "description": "Treat AI output as a draft. Require a source or clearly label an example as hypothetical, verify statistics and product claims independently, check dates, and h",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-generated-webinar-content-is-accurate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI-generated webinar content is accurate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to create a structured first draft, not to supply unverified expertise. Require sources for factual claims, check dates and statistics independently, and remove examples that cannot be supported or clearly labeled as hypothetical. Context: Run My AI Biz’s approved workflow principles include source verification and restrictions against inventing statistics, proof, or income claims. This is especially important when a webinar discusses AI capabilities, business results, pricing, or technical performance. Key factors: - Claim type and consequence if wrong - Quality and recency of sources - Whether the example is real or illustrative - Reviewer knowledge and independence Practical guidance: Add a slide-level evidence field containing the claim, source, date, and review status. Ask AI to flag unsupported assertions and generate questions a skeptical attendee might ask. Do not publish the deck until a human has checked the source trail and wording.",
+        "description": "Treat AI output as a draft. Require a source or clearly label an example as hypothetical, verify statistics and product claims independently, check dates, and have a knowledgeable person review the final deck. A slide-level evidence log makes unsupported statements easier to find before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

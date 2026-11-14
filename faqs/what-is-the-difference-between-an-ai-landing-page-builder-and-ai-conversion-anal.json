@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an AI landing page builder and AI conversion analysis?",
+  "description": "An AI builder mainly creates page structure, copy, or design from inputs. AI conversion analysis examines whether the existing page communicates value, builds t",
+  "url": "https://runmyaibusiness.com/faq/what-is-the-difference-between-an-ai-landing-page-builder-and-ai-conversion-anal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an AI landing page builder and AI conversion analysis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft a page, but drafting is not the same as validating the offer, proof, customer need, or conversion path. A page generator may produce a fast first version, while an analysis-and-planning workflow focuses on why a visitor should act and how to test that reasoning.\n\nContext: Run My AI Business covers sales-copy, sales-page, funnel, and launch workflows while emphasizing review before publication. It also distinguishes adaptable bot blueprints from fully functioning software products.\n\nKey factors:\n- Speed versus message accuracy.\n- Visual polish versus evidence of demand.\n- Template flexibility versus brand specificity.\n- Drafting capability versus analytics and testing support.\n\nPractical guidance: If using a generator, provide verified audience and offer context, then conduct a separate review of claims, friction, mobile behavior, tracking, and follow-up. Keep the original version for comparison.\n\nRun My AI Business can help connect page creation with broader business planning.",
+        "description": "An AI builder mainly creates page structure, copy, or design from inputs. AI conversion analysis examines whether the existing page communicates value, builds trust, reduces friction, and supports its goal. The strongest workflow uses generation for drafts and analysis plus testing for decisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

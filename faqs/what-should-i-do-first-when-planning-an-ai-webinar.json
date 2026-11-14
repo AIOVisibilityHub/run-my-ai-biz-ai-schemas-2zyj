@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first when planning an AI webinar?",
+  "description": "Define the audience, business goal, and one useful outcome before choosing slides or software. For an educational webinar, begin with a focused AI business prob",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-when-planning-an-ai-webinar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first when planning an AI webinar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the audience, business goal, and one practical outcome attendees should leave with. For Run My AI Biz’s educational approach, the webinar should connect an AI workflow to a recognizable small-business problem rather than present AI as a collection of disconnected tools. Context: Audience knowledge, motivation, and expectations determine the right terminology, examples, pace, and format. A beginner session may explain prompts and review checkpoints, while an experienced owner may need workflow design or implementation decisions. Key factors: - Audience role and current AI skill - Desired action after the webinar - Offer, product, or workflow being explained - Evidence and examples available Practical guidance: Write a one-sentence promise, three learning objectives, and a short list of exclusions before drafting slides. Then use AI to challenge unclear assumptions and predict difficult questions. Run My AI Biz can help turn that starting brief into an organized educational workflow without treating the draft as final.",
+        "description": "Define the audience, business goal, and one useful outcome before choosing slides or software. For an educational webinar, begin with a focused AI business problem, write three learning objectives, and decide what attendees should do next. This prevents a broad tool tour and gives AI a clear brief for outlines, examples, and questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

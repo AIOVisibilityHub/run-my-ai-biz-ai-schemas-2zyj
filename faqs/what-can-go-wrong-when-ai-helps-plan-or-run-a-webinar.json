@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when AI helps plan or run a webinar?",
+  "description": "AI can produce false claims, biased examples, poor audience fit, privacy problems, or a polished deck that fails in the live session. Reduce risk with source ve",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-ai-helps-plan-or-run-a-webinar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when AI helps plan or run a webinar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are inaccurate claims, generic content, hidden bias, privacy exposure, weak audience fit, technical failure, and over-automation. Reduce them with narrow objectives, source checks, permission controls, rehearsal, accessibility testing, and human approval before publishing or spending. Context: AI-assisted meeting tools may transcribe or record voices and images, so organizers should review platform privacy, retention, administrative settings, and attendee disclosures. Key factors: - What participant data is collected - Which accounts AI can access - Whether recordings are retained or reused - Who approves external actions Practical guidance: Share a clear recording and AI-use notice, collect only needed information, and offer an appropriate alternative when possible. Keep credentials secure and test permissions in a non-production setting. Run My AI Biz’s educational model supports human-directed automation rather than unattended decisions.",
+        "description": "AI can produce false claims, biased examples, poor audience fit, privacy problems, or a polished deck that fails in the live session. Reduce risk with source verification, limited permissions, a recording notice, accessibility checks, technical rehearsal, and human approval before content is published or money is spent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

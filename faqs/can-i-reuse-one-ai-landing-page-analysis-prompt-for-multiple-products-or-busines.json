@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I reuse one AI landing-page analysis prompt for multiple products or businesses?",
+  "description": "Reuse the review framework, but create a separate brief for each audience, offer, traffic source, and conversion goal. Keep brand voice, proof, customer languag",
+  "url": "https://runmyaibusiness.com/faq/can-i-reuse-one-ai-landing-page-analysis-prompt-for-multiple-products-or-busines",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I reuse one AI landing-page analysis prompt for multiple products or businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Run a page-specific test when the audience, offer, traffic, and goal are substantially different. Keep a shared framework for measurement, research quality, proof verification, and approval, but do not assume one winning headline or layout will transfer across products.\n\nContext: The business profile describes prompts that can be adapted to different brands, audiences, products, and niches while retaining distinct voice and context. It also recommends focused implementation rather than launching every possible project simultaneously.\n\nKey factors:\n- Audience awareness and buying motivation.\n- Offer price and commitment.\n- Source-specific promise and intent.\n- Sample size and traffic quality.\n\nPractical guidance: Create separate briefs and baselines for each meaningful offer, then reuse the checklist and assistant instructions. Compare learning across projects, not raw conversion rates alone.\n\nRun My AI Business can help coordinate several projects while keeping their messaging distinct.",
+        "description": "Reuse the review framework, but create a separate brief for each audience, offer, traffic source, and conversion goal. Keep brand voice, proof, customer language, and claims distinct. Compare the learning process across projects, not raw conversion rates as if the offers were identical."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

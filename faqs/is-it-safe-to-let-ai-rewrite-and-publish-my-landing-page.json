@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to let AI rewrite and publish my landing page?",
+  "description": "Do not let AI publish major changes without human approval. Require verified claims, version control, a rollback plan, mobile review, and checks for checkout, f",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-let-ai-rewrite-and-publish-my-landing-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to let AI rewrite and publish my landing page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI recommendations as ranked hypotheses, not instructions to publish automatically. The safest plan specifies the problem, proposed change, reason, expected behavior, success metric, implementation owner, and approval point.\n\nContext: Run My AI Business describes workflows that require review before bots send messages, publish content, spend money, or sign up for services. Landing-page work should follow the same boundary, especially when changes affect pricing, claims, tracking, or checkout.\n\nKey factors:\n- Risk of changing several variables together.\n- Accuracy of claims and customer proof.\n- Effects on checkout, email, and attribution.\n- Whether a rollback is available.\n\nPractical guidance: Keep the original page or version history, test one meaningful hypothesis at a time where possible, and inspect the live page on mobile. Have a person approve all consequential changes.\n\nRun My AI Business can help convert AI output into an owner-controlled checklist.",
+        "description": "Do not let AI publish major changes without human approval. Require verified claims, version control, a rollback plan, mobile review, and checks for checkout, forms, tracking, and email connections. AI should draft and prioritize; the owner should approve consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

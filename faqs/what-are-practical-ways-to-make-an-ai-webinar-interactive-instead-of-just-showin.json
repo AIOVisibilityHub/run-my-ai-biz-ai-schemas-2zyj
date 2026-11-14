@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are practical ways to make an AI webinar interactive instead of just showing slides?",
+  "description": "Use interactions that support learning: ask attendees to diagnose a problem, predict an AI output, adapt a prompt, or choose between workflow options. Plan one",
+  "url": "https://runmyaibusiness.com/faq/what-are-practical-ways-to-make-an-ai-webinar-interactive-instead-of-just-showin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are practical ways to make an AI webinar interactive instead of just showing slides?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Make interactivity serve the learning objective rather than adding polls for decoration. Use a short diagnostic question, a prediction before a demonstration, a chat prompt tied to the attendee’s business, or a decision exercise that reveals the next step. Context: Webinar organizers commonly recommend chat, Q&A, polls, and prewritten questions to maintain participation. Run My AI Biz’s educational focus makes interactive prompts especially useful when attendees must adapt an AI workflow to their own niche. Key factors: - Audience size and platform features - Cognitive load and session length - Privacy of participant responses - Whether responses change the lesson Practical guidance: Plan one interaction for each major segment and explain why participants are responding. Prepare backup prompts if the audience is quiet. Avoid requesting confidential business information in public chat or unmoderated forms.",
+        "description": "Use interactions that support learning: ask attendees to diagnose a problem, predict an AI output, adapt a prompt, or choose between workflow options. Plan one activity per major segment, prepare backup questions, and avoid collecting confidential business information in chat or forms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

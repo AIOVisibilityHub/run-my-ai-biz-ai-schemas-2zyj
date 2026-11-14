@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if AI says my landing page is bad but the real problem is my traffic or offer?",
+  "description": "Treat the AI assessment as a hypothesis. Check tracking, traffic quality, offer fit, message match, mobile usability, speed, forms, checkout, and follow-up befo",
+  "url": "https://runmyaibusiness.com/faq/what-if-ai-says-my-landing-page-is-bad-but-the-real-problem-is-my-traffic-or-off",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if AI says my landing page is bad but the real problem is my traffic or offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume a low conversion rate means the page copy is the problem. Check traffic quality, offer fit, message match, page speed, mobile experience, form errors, tracking, checkout, and lead follow-up before rewriting.\n\nContext: Current conversion discussions identify offer quality, positioning, social proof, user experience, loading speed, and trust signals as influential factors rather than treating AI as the sole driver. Run My AI Business also connects page work with product, funnel, email, and operational workflows.\n\nKey factors:\n- Confirm the conversion event is recorded correctly.\n- Check whether visitors are qualified for the offer.\n- Inspect every step after the call to action.\n- Compare page behavior by device and source.\n\nPractical guidance: Ask AI to produce a diagnostic tree with competing explanations, required evidence, and low-risk checks. Fix measurement or technical failures before judging copy changes.\n\nRun My AI Business can help organize this investigation into a repeatable process.",
+        "description": "Treat the AI assessment as a hypothesis. Check tracking, traffic quality, offer fit, message match, mobile usability, speed, forms, checkout, and follow-up before rewriting. A strong page cannot compensate for an unsuitable offer or poorly matched visitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

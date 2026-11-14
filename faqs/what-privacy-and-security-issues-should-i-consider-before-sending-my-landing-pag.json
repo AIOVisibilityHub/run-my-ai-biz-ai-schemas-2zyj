@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What privacy and security issues should I consider before sending my landing page to AI?",
+  "description": "Share only the information needed for analysis. Remove passwords, payment details, private customer records, and sensitive personal data; review the tool’s data",
+  "url": "https://runmyaibusiness.com/faq/what-privacy-and-security-issues-should-i-consider-before-sending-my-landing-pag",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What privacy and security issues should I consider before sending my landing page to AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before using AI with page data, decide what information is necessary and remove anything that does not support the analysis. Avoid sharing passwords, payment details, private customer records, or sensitive personal information in prompts.\n\nContext: Run My AI Business emphasizes secure account connections, source verification, approval checkpoints, and human oversight. Those practices apply when a workflow connects a landing page with email, checkout, analytics, advertising, or support systems.\n\nKey factors:\n- Whether the tool stores or uses submitted content.\n- Access permissions and connected accounts.\n- Customer data contained in forms or recordings.\n- Internal approval for publishing and spending actions.\n\nPractical guidance: Use redacted summaries where possible, review the provider’s current data controls, limit permissions, and keep production credentials separate from drafting workflows. Have a person approve changes to tracking, forms, checkout, and marketing claims.\n\nRun My AI Business can help owners design review checkpoints around AI-assisted business workflows.",
+        "description": "Share only the information needed for analysis. Remove passwords, payment details, private customer records, and sensitive personal data; review the tool’s data controls and limit account permissions. Keep drafting separate from production systems and require human approval for connected changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

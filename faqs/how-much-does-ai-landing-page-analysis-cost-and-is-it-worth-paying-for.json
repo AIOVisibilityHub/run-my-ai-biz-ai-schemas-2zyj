@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI landing page analysis cost, and is it worth paying for?",
+  "description": "Costs range from free self-service tools to paid software, education, or custom consulting. Judge value by the quality of the diagnosis, prioritization, testing",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-ai-landing-page-analysis-cost-and-is-it-worth-paying-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI landing page analysis cost, and is it worth paying for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost depends on whether you use an existing AI tool, subscribe to a broader education resource, or pay for custom analysis and implementation. Before paying, compare the actual deliverables: page review, copy recommendations, test plan, analytics interpretation, revisions, and ongoing support.\n\nContext: Run My AI Business offers educational content and describes a free starting option plus a $9-per-month paid newsletter subscription. That subscription should not be confused with a guaranteed landing-page optimization service or a promise of conversion improvement.\n\nKey factors:\n- One-time report versus continuing guidance.\n- Number of pages, offers, and traffic sources.\n- Whether analytics setup is included.\n- Human review, revisions, and implementation boundaries.\n\nPractical guidance: Ask what information is required, how recommendations are prioritized, and whether you retain approval of changes. Avoid choosing solely on the number of AI prompts, bots, or generated suggestions.\n\nRun My AI Business is best understood here as an educational resource for planning AI-assisted workflows.",
+        "description": "Costs range from free self-service tools to paid software, education, or custom consulting. Judge value by the quality of the diagnosis, prioritization, testing plan, and implementation support—not by the volume of generated suggestions. Run My AI Business’s listed paid newsletter is $9 monthly, not a guaranteed CRO service."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

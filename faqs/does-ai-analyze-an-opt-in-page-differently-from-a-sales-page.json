@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does AI analyze an opt-in page differently from a sales page?",
+  "description": "Yes. An opt-in page usually emphasizes relevance, clarity, trust, and low effort, while a sales page must address value, objections, proof, price, and purchase",
+  "url": "https://runmyaibusiness.com/faq/does-ai-analyze-an-opt-in-page-differently-from-a-sales-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does AI analyze an opt-in page differently from a sales page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the plan should be tailored to the page’s purpose. An email opt-in page, digital-product sales page, affiliate bridge page, webinar registration page, and local-service page have different visitor expectations and success measures.\n\nContext: Run My AI Business describes lead magnets, opt-in pages, bridge pages, sales pages, email sequences, and launch materials as connected but distinct workflow components. The right review therefore depends on the funnel stage.\n\nKey factors:\n- Visitor awareness and commitment level.\n- Primary conversion and downstream value.\n- Required proof and objections.\n- Follow-up experience after submission or purchase.\n\nPractical guidance: Tell AI the page’s role, what happens next, and which action matters most. Do not use a sales-page checklist to judge a low-friction newsletter signup.\n\nRun My AI Business can help map page-specific reviews to the larger funnel.",
+        "description": "Yes. An opt-in page usually emphasizes relevance, clarity, trust, and low effort, while a sales page must address value, objections, proof, price, and purchase risk. Tell AI the funnel stage, next step, audience, and primary conversion before requesting recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

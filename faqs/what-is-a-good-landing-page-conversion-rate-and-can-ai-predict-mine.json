@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a good landing page conversion rate, and can AI predict mine?",
+  "description": "There is no reliable universal target. Conversion depends on the offer, audience, traffic, price, trust, device, and desired action. AI can suggest hypotheses a",
+  "url": "https://runmyaibusiness.com/faq/what-is-a-good-landing-page-conversion-rate-and-can-ai-predict-mine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a good landing page conversion rate, and can AI predict mine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No universal conversion rate makes a landing page successful. Performance varies with the offer, audience awareness, traffic quality, price, device mix, trust, page speed, and the action being measured; current discussions also caution against crediting AI alone for results.\n\nContext: A useful analysis compares your page with its own baseline and with clearly defined business goals. For Run My AI Business readers, that may mean tracking an opt-in, digital-product sale, newsletter subscription, or qualified inquiry separately.\n\nKey factors:\n- Define conversion and qualified conversion separately.\n- Segment results by source, device, and audience.\n- Consider revenue or lead quality, not only submissions.\n- Avoid treating another industry’s benchmark as a target.\n\nPractical guidance: Record visitors, conversions, conversion rate, and downstream outcomes before making changes. Use AI to explain patterns and propose tests, then judge the result against a preselected measurement window.\n\nRun My AI Business can help owners organize these metrics into a practical review workflow.",
+        "description": "There is no reliable universal target. Conversion depends on the offer, audience, traffic, price, trust, device, and desired action. AI can suggest hypotheses and help compare your baseline, but it cannot accurately promise a future rate without valid historical and testing data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

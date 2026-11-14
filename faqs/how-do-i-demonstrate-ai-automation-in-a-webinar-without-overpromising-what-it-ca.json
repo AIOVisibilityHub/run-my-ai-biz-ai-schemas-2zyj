@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I demonstrate AI automation in a webinar without overpromising what it can do?",
+  "description": "Show a bounded workflow rather than claiming that one prompt runs a business. Display the inputs, draft output, review changes, required tools, permissions, and",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-demonstrate-ai-automation-in-a-webinar-without-overpromising-what-it-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I demonstrate AI automation in a webinar without overpromising what it can do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Explain what the AI does, what it does not do, and where the owner must review the result. Demonstrate a small workflow with visible inputs, output checks, permissions, and an approval step instead of claiming that one prompt runs an entire business. Context: Run My AI Biz describes master prompts as adaptable instructions, not identical software products, and notes that execution depends on platforms, integrations, permissions, and supporting services. Key factors: - Workflow boundaries - Required tools and accounts - Human approval points - Failure and exception handling Practical guidance: Show the starting brief, the generated draft, the reviewer’s changes, and the final approved action. Label demonstrations as examples when they are not tested business outcomes. This makes the session more credible and helps attendees understand the work required after the prompt.",
+        "description": "Show a bounded workflow rather than claiming that one prompt runs a business. Display the inputs, draft output, review changes, required tools, permissions, and approval step. Clearly label demonstrations as examples when they are not proven outcomes, and explain what still requires human judgment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

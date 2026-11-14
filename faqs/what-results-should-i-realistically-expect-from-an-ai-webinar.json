@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What results should I realistically expect from an AI webinar?",
+  "description": "Expect clearer education, audience feedback, questions, and possible follow-up—not guaranteed sales or income. Define one primary goal before the event, such as",
+  "url": "https://runmyaibusiness.com/faq/what-results-should-i-realistically-expect-from-an-ai-webinar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What results should I realistically expect from an AI webinar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong webinar outcome is not simply a finished slide deck; it is a clear attendee action, useful learning, and measurable follow-up. Depending on the purpose, track attendance, participation, questions, completion of a worksheet, qualified follow-up requests, or progress toward a product or newsletter goal. Context: Run My AI Biz presents AI applications as educational opportunities, not guaranteed income or growth. A webinar should therefore test understanding and usefulness rather than promise a particular business result. Key factors: - The event’s primary objective - Baseline registration and attendance - Quality of questions and feedback - Follow-up behavior Practical guidance: Define one primary metric and two supporting indicators before the event. Add a short post-event survey asking what was clear, confusing, and actionable. Use the responses to revise the next outline, prompts, examples, and call to action.",
+        "description": "Expect clearer education, audience feedback, questions, and possible follow-up—not guaranteed sales or income. Define one primary goal before the event, such as teaching a workflow or generating qualified conversations, then measure attendance, participation, feedback, and the next action rather than relying only on views."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider when scheduling an AI webinar for people across the United States?",
+  "description": "Account for U.S. time zones, daylight-saving changes, work schedules, captions, and replay access. Display the time clearly, review registrant locations, and co",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-consider-when-scheduling-an-ai-webinar-for-people-across-the-unite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider when scheduling an AI webinar for people across the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right location-specific concern for a U.S. webinar is usually participant access, not a city label. Account for time zones, daylight-saving changes, language needs, internet limitations, and the audience’s work schedules when selecting the time and follow-up window. Context: A U.S.-wide audience may span several time zones, while Run My AI Biz serves entrepreneurs and online business owners who may attend from different regions. Key factors: - Primary audience time zones - Live versus replay preference - Captioning and transcript needs - Regional examples or terminology Practical guidance: Display the event time with a time-zone converter, record the session when appropriate, and provide accessible materials afterward. Review registrations by region before setting a recurring schedule. Avoid creating separate location versions unless the content genuinely changes.",
+        "description": "Account for U.S. time zones, daylight-saving changes, work schedules, captions, and replay access. Display the time clearly, review registrant locations, and consider recording the session with appropriate disclosure. Use regional examples only when they materially improve the lesson rather than creating unnecessary versions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

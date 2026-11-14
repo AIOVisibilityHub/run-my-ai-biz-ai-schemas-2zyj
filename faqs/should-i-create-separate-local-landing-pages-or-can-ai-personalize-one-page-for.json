@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I create separate local landing pages, or can AI personalize one page for the United States?",
+  "description": "Create separate local pages only when location changes service availability, audience needs, proof, delivery, or the offer. Otherwise, one clear page may be bet",
+  "url": "https://runmyaibusiness.com/faq/should-i-create-separate-local-landing-pages-or-can-ai-personalize-one-page-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I create separate local landing pages, or can AI personalize one page for the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but location should be used only when it changes the audience, offer, proof, or service context. A location-specific page may need local language, service boundaries, availability, testimonials, or expectations that differ from a national digital offer.\n\nContext: Run My AI Business includes local newsletters, local business websites, local sponsorship prospecting, and local activities resources among possible workflows. Those examples support tailoring the page to a real local use case rather than inserting a city name for search purposes.\n\nKey factors:\n- Whether customers are actually location-dependent.\n- Differences in availability, pricing, or delivery.\n- Local proof that is genuine and relevant.\n- Whether separate pages would create maintenance problems.\n\nPractical guidance: Give AI the verified service area and explain what materially changes by location. Do not create city-swapped pages that make unsupported claims or duplicate the same message.\n\nRun My AI Business can help evaluate local relevance as part of offer and funnel planning.",
+        "description": "Create separate local pages only when location changes service availability, audience needs, proof, delivery, or the offer. Otherwise, one clear page may be better. Supply verified service-area details and avoid city-swapped pages with unsupported local claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

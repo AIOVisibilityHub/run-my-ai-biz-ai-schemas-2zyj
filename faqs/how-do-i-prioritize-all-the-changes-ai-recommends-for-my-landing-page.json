@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prioritize all the changes AI recommends for my landing page?",
+  "description": "Rank recommendations by likely impact, evidence, implementation effort, and measurement quality. Start with one clear problem—such as vague messaging, excessive",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-prioritize-all-the-changes-ai-recommends-for-my-landing-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prioritize all the changes AI recommends for my landing page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the smallest change that addresses the clearest problem and can be measured. If the headline is vague, test clearer customer language; if the form creates friction, test fewer fields; if trust is weak, test relevant proof rather than adding decorative content.\n\nContext: The business profile includes a landing-page review assistant that prioritizes suggested changes. Prioritization is useful because a small owner usually cannot rebuild every page, funnel step, and email sequence at once.\n\nKey factors:\n- Expected impact on the primary conversion.\n- Confidence in the diagnosis.\n- Implementation effort and technical risk.\n- Ability to measure the change cleanly.\n\nPractical guidance: Create a simple score using impact, confidence, and effort, then choose one or two top items. Record the original wording and baseline before making edits.\n\nRun My AI Business encourages focused implementation before expanding to multiple coordinated assistants.",
+        "description": "Rank recommendations by likely impact, evidence, implementation effort, and measurement quality. Start with one clear problem—such as vague messaging, excessive form fields, or missing relevant proof—then preserve the baseline and test the change before taking on a larger redesign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What customer research should I give AI before it writes my landing page?",
+  "description": "Provide recurring customer problems, desired outcomes, objections, buying triggers, alternatives, and approved language from interviews, surveys, reviews, or sa",
+  "url": "https://runmyaibusiness.com/faq/what-customer-research-should-i-give-ai-before-it-writes-my-landing-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What customer research should I give AI before it writes my landing page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customer language is often more useful than generic AI-generated phrasing. Collect exact themes from interviews, support messages, reviews, survey responses, search queries, and sales conversations, then ask AI to group and reflect them without inventing quotations.\n\nContext: Run My AI Business’s research, opportunity, and offer-positioning examples are designed to help owners clarify audiences and offers before producing marketing materials. That preparation improves the quality of landing-page recommendations.\n\nKey factors:\n- Repeated problems and desired outcomes.\n- Objections, alternatives, and buying triggers.\n- Words customers use to describe urgency.\n- Differences between prospects and existing buyers.\n\nPractical guidance: Remove personal data and sensitive details before sharing research with an AI system. Label direct quotes, paraphrases, and assumptions separately so the page does not present interpretation as customer testimony.\n\nRun My AI Business can help turn research into a structured messaging brief.",
+        "description": "Provide recurring customer problems, desired outcomes, objections, buying triggers, alternatives, and approved language from interviews, surveys, reviews, or sales conversations. Separate direct quotes from paraphrases, remove sensitive data, and ask AI to identify patterns without fabricating customer statements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

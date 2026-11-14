@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can AI really see when it audits my landing page?",
+  "description": "AI can inspect supplied page content and identify likely issues in messaging, hierarchy, calls to action, forms, and funnel continuity. It cannot prove visitor",
+  "url": "https://runmyaibusiness.com/faq/what-can-ai-really-see-when-it-audits-my-landing-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can AI really see when it audits my landing page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can analyze visible copy, structure, calls to action, forms, page hierarchy, and supplied brand information. It cannot reliably infer every visitor’s intent, verify unsupported claims, assess real trust, or prove that a recommendation will increase conversions without evidence from users or experiments.\n\nContext: The Run My AI Business approach stresses source verification, approval checkpoints, and restrictions against invented statistics, proof, or income claims. Those safeguards matter when AI reviews sales pages, lead magnets, or funnel copy.\n\nKey factors:\n- Provide verified customer language and offer facts.\n- Mark assumptions instead of presenting them as findings.\n- Check claims, testimonials, prices, and guarantees manually.\n- Compare recommendations with behavioral and business data.\n\nPractical guidance: Ask for confidence levels and the evidence behind each recommendation. Reject advice that invents research, implies guaranteed income, or uses testimonials not supplied by the business.\n\nRun My AI Business supports human-directed use rather than unsupervised publication.",
+        "description": "AI can inspect supplied page content and identify likely issues in messaging, hierarchy, calls to action, forms, and funnel continuity. It cannot prove visitor motivation, verify every claim, or predict lift by itself. Validate important findings with real data, feedback, and testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

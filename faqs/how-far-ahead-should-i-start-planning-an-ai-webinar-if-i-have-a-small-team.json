@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How far ahead should I start planning an AI webinar if I have a small team?",
+  "description": "Start as early as the topic, research, speaker schedule, and promotion plan require; a polished webinar needs more than slide generation. Set milestones for the",
+  "url": "https://runmyaibusiness.com/faq/how-far-ahead-should-i-start-planning-an-ai-webinar-if-i-have-a-small-team",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far ahead should I start planning an AI webinar if I have a small team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small educational webinar can often be planned in several focused work sessions, while a polished launch with research, slides, registration materials, rehearsal, and follow-up needs more calendar room. The exact schedule depends on topic complexity, source requirements, speaker availability, and whether the presentation must connect to a funnel or digital product. Context: Community discussions commonly recommend beginning promotion weeks before the event, with registrations often arriving close to the date. Treat that as planning guidance, not a guarantee. Key factors: - Number of presenters and reviewers - Original research or demonstrations - Accessibility and technical testing - Email and registration assets Practical guidance: Set milestones for the brief, outline, first deck, reviewed deck, rehearsal, and final platform test. Reserve extra time for correcting inaccurate AI output or replacing weak examples. Run My AI Biz’s workflow-first approach supports breaking a large project into manageable assistants and approval steps.",
+        "description": "Start as early as the topic, research, speaker schedule, and promotion plan require; a polished webinar needs more than slide generation. Set milestones for the brief, outline, reviewed deck, rehearsal, technical test, and follow-up. Leave buffer time for fact-checking AI output and revising unclear explanations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

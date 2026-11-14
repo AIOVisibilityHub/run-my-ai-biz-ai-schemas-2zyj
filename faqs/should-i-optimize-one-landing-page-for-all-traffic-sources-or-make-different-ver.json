@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I optimize one landing page for all traffic sources or make different versions?",
+  "description": "Use separate versions when traffic sources make different promises, target different audiences, or reflect different intent. A single page may work when the off",
+  "url": "https://runmyaibusiness.com/faq/should-i-optimize-one-landing-page-for-all-traffic-sources-or-make-different-ver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I optimize one landing page for all traffic sources or make different versions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It can help, but redesigning a page before understanding the traffic source may create a polished mismatch. First determine whether visitors came from search, an advertisement, an email, social content, or a referral, and whether the page fulfills the promise that brought them there.\n\nContext: Run My AI Business includes funnel, lead-generation, advertising-draft, and offer-positioning workflows. That makes message continuity a key part of the analysis, especially for lead magnets and digital products.\n\nKey factors:\n- The promise made before the click.\n- Visitor awareness and intent.\n- Offer price and commitment level.\n- Whether the next funnel step matches the page.\n\nPractical guidance: Give AI separate context for each major traffic source instead of asking for one universal rewrite. Compare conversion and lead quality by source before choosing a page direction.\n\nRun My AI Business can help connect page review to the broader funnel plan.",
+        "description": "Use separate versions when traffic sources make different promises, target different audiences, or reflect different intent. A single page may work when the offer and message are consistent. Compare source-specific conversion and lead quality before deciding, rather than cloning pages without a clear reason."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

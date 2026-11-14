@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to create an AI webinar presentation, and can AI really save money?",
+  "description": "There is no single price because costs include software, labor, research, design, accessibility, promotion, and review. AI may reduce first-draft time, but savi",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-create-an-ai-webinar-presentation-and-can-ai-really-sav",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to create an AI webinar presentation, and can AI really save money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost depends on whether you use existing tools, paid webinar software, design support, research help, or a custom workflow. AI can reduce drafting time, but it does not eliminate costs for platforms, recording, promotion, human review, or specialized production. Context: Run My AI Biz offers educational content and describes a paid newsletter subscription of $9 per month, while its separate mastermind and bot resources involve a distinct offering. Those resources should be evaluated for fit rather than treated as a complete production service. Key factors: - Webinar platform and attendee capacity - Recording, captions, and design needs - Internal labor and review time - Follow-up and promotional assets Practical guidance: Build a simple budget with required, useful, and optional items. Compare the cost of a basic manual process against a reusable workflow for recurring webinars. Keep approval of spending and subscriptions with a human owner.",
+        "description": "There is no single price because costs include software, labor, research, design, accessibility, promotion, and review. AI may reduce first-draft time, but savings depend on repeat use and how much correction is required. Separate essential expenses from optional tools, then compare a manual event with a reusable workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

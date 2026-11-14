@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI add testimonials and social proof to my landing page?",
+  "description": "AI can organize approved testimonials and suggest placement, but it should never invent quotes, results, credentials, statistics, or income claims. Supply verif",
+  "url": "https://runmyaibusiness.com/faq/can-ai-add-testimonials-and-social-proof-to-my-landing-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI add testimonials and social proof to my landing page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but AI should not be asked to invent testimonials, results, credentials, statistics, or customer quotes. Give it approved proof and ask where that proof belongs, what objection it addresses, and whether the claim is clear and properly qualified.\n\nContext: The supplied Run My AI Business guidance explicitly emphasizes source verification and prohibiting invented proof or income claims. This is especially relevant when AI drafts sales pages, affiliate materials, newsletters, or digital-product promotions.\n\nKey factors:\n- Proof must relate to the offer and audience.\n- Testimonials should remain accurate and attributable.\n- Results need context rather than exaggerated certainty.\n- Missing proof may require customer research, not fabrication.\n\nPractical guidance: Build a proof inventory containing approved facts, testimonials, demonstrations, guarantees, and limitations. Ask AI to flag unsupported statements instead of filling the gaps.\n\nRun My AI Business supports educational planning with owner-controlled verification.",
+        "description": "AI can organize approved testimonials and suggest placement, but it should never invent quotes, results, credentials, statistics, or income claims. Supply verified proof, preserve its meaning, explain relevant context, and ask AI to flag gaps instead of creating evidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

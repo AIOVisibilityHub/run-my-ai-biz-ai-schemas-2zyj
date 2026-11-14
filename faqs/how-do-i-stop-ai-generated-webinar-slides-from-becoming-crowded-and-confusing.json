@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI-generated webinar slides from becoming crowded and confusing?",
+  "description": "Keep one main message per slide, use short headlines, and move detailed explanation into speaker notes or a handout. Ask AI to remove jargon and repetitive text",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-generated-webinar-slides-from-becoming-crowded-and-confusing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI-generated webinar slides from becoming crowded and confusing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a simple information hierarchy: headline, supporting visual or example, explanation, and action. Avoid filling slides with AI-generated paragraphs; place nuance in speaker notes, handouts, or the follow-up resource. Context: Presentation resources emphasize matching terminology and examples to what attendees already know. Run My AI Biz’s audience includes people who may feel overwhelmed by technical instructions, so plain-language explanations and visible steps are especially useful. Key factors: - Reading distance and screen size - Audience familiarity - Number of ideas per slide - Need for captions or transcripts Practical guidance: Ask AI to shorten headlines, remove jargon, and produce a plain-language version for review. Test the deck on a small screen and read it with a screen reader when possible. Provide a structured transcript or accessible summary after the event.",
+        "description": "Keep one main message per slide, use short headlines, and move detailed explanation into speaker notes or a handout. Ask AI to remove jargon and repetitive text, then test the deck on a small screen and check that captions, transcripts, visuals, and reading order remain understandable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

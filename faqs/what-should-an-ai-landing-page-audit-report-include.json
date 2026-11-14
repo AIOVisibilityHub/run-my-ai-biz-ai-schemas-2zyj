@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an AI landing page audit report include?",
+  "description": "It should include the conversion goal, audience, offer, traffic context, prioritized problems, supporting evidence, proposed changes, implementation effort, ris",
+  "url": "https://runmyaibusiness.com/faq/what-should-an-ai-landing-page-audit-report-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an AI landing page audit report include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful report should explain what to change, why it matters, how difficult it is, and how to measure it. A long list of design opinions is less valuable than a short sequence of evidence-based hypotheses tied to the page’s primary goal.\n\nContext: The landing-page review example in the Run My AI Business profile emphasizes prioritizing suggested changes. That fits a practical report format for owners who need decisions rather than unlimited generated copy.\n\nKey factors:\n- Clear diagnosis and supporting evidence.\n- Priority, expected impact, and effort.\n- Alternative wording or layout only when justified.\n- Test design and success metric.\n\nPractical guidance: Request sections for audience, offer, funnel stage, friction, proof, message clarity, technical checks, and next actions. Require the report to identify unknowns and information still needed.\n\nRun My AI Business can help owners create repeatable review templates for future pages.",
+        "description": "It should include the conversion goal, audience, offer, traffic context, prioritized problems, supporting evidence, proposed changes, implementation effort, risks, unknowns, and a measurement plan. Ask for hypotheses and next actions rather than a generic score or a large block of replacement copy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

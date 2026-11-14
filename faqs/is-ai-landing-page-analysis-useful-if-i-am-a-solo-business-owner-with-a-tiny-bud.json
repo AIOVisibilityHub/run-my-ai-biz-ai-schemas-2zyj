@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI landing page analysis useful if I am a solo business owner with a tiny budget?",
+  "description": "Yes, if you begin with one page, one goal, and the information you already have. AI can organize a review and draft test ideas, but budget for implementation, a",
+  "url": "https://runmyaibusiness.com/faq/is-ai-landing-page-analysis-useful-if-i-am-a-solo-business-owner-with-a-tiny-bud",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI landing page analysis useful if I am a solo business owner with a tiny budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good AI review can support a small business, but it should begin with one page and one business objective. Owners can use it to organize research, clarify an offer, draft alternatives, and prepare a test plan without needing to code.\n\nContext: Run My AI Business specifically serves solopreneurs and small business owners who may feel overwhelmed by disconnected tools. Its educational workflows cover sales pages, lead magnets, funnels, email follow-up, and recurring tasks.\n\nKey factors:\n- Whether the offer is already defined.\n- Whether the owner can access page and conversion data.\n- The complexity of integrations and checkout.\n- The need for specialist design, analytics, or development work.\n\nPractical guidance: Start with an owner-reviewed page brief and a single conversion event. Bring in professional help when tracking is unreliable, accessibility concerns are unresolved, or changes require custom development.\n\nRun My AI Business can provide an approachable starting structure rather than replacing every specialist.",
+        "description": "Yes, if you begin with one page, one goal, and the information you already have. AI can organize a review and draft test ideas, but budget for implementation, analytics, and human checking. Do not attempt to automate the entire funnel before the first workflow is reliable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

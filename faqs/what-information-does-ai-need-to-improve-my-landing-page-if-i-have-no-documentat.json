@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need to improve my landing page if I have no documentation?",
+  "description": "Start with the URL, goal, audience, offer, traffic source, and what visitors should do next. Then add any available metrics, customer language, objections, appr",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-to-improve-my-landing-page-if-i-have-no-documentat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need to improve my landing page if I have no documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can begin with a URL and a written brief, but deeper analysis needs more context. Useful inputs include the offer, audience, traffic source, conversion event, baseline metrics, customer language, objections, brand constraints, and the next funnel step.\n\nContext: Run My AI Business’s workflows rely on owners supplying business context and reviewing drafts. A prompt alone cannot provide missing positioning, accurate proof, technical permissions, or reliable performance data.\n\nKey factors:\n- Whether analytics are installed and trustworthy.\n- Whether the page is public and accessible.\n- Whether the offer and audience are defined.\n- Whether approved claims and brand rules are available.\n\nPractical guidance: Prepare a one-page brief before requesting analysis. Exclude passwords, private customer information, payment details, and unnecessary personal data; use secure systems for account connections.\n\nRun My AI Business can help turn scattered information into a reusable analysis brief.",
+        "description": "Start with the URL, goal, audience, offer, traffic source, and what visitors should do next. Then add any available metrics, customer language, objections, approved claims, and brand rules. If documentation is missing, have AI list assumptions and questions instead of guessing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

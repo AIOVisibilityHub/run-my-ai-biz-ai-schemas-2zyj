@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I collect from attendees before building an AI webinar?",
+  "description": "Collect only information that will change the session: role, AI experience, business goal, current tools, and biggest obstacle. Use three to five short question",
+  "url": "https://runmyaibusiness.com/faq/what-information-should-i-collect-from-attendees-before-building-an-ai-webinar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I collect from attendees before building an AI webinar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask registrants about their role, experience, goal, current tools, and biggest obstacle, but collect only information needed for the event. Use responses to adjust examples, terminology, demonstration depth, and follow-up—not to assume every attendee has the same business model. Context: Audience-centered presentation guidance recommends identifying what participants know, expect, care about, and may challenge. Run My AI Biz serves varied owners, from aspiring entrepreneurs to established small-business operators. Key factors: - Useful segmentation questions - Consent and privacy notice - Sample size and response quality - Whether answers change the agenda Practical guidance: Include three to five short registration questions and review the results before finalizing the deck. Group answers into themes rather than exposing individual responses. Update the opening example and Q&A plan based on those themes.",
+        "description": "Collect only information that will change the session: role, AI experience, business goal, current tools, and biggest obstacle. Use three to five short questions, disclose how responses will be used, group answers into themes, and adjust examples, terminology, demonstrations, and Q&A accordingly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

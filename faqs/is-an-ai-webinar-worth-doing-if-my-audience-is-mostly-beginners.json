@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is an AI webinar worth doing if my audience is mostly beginners?",
+  "description": "Yes, if the webinar addresses one concrete beginner problem and avoids assuming technical knowledge. Explain the workflow in plain language, demonstrate a small",
+  "url": "https://runmyaibusiness.com/faq/is-an-ai-webinar-worth-doing-if-my-audience-is-mostly-beginners",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an AI webinar worth doing if my audience is mostly beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI webinar can help first-time entrepreneurs and small-business owners when the topic is specific, the examples are relevant, and the session includes practical steps. It is less suitable when the subject requires highly individualized advice, unavailable business data, or technical implementation that attendees cannot verify. Context: Run My AI Biz focuses on approachable education for entrepreneurs, solopreneurs, digital-product creators, and online business owners. The strongest fit is usually a session about research, product development, content, funnels, or repeatable operations. Key factors: - Attendee experience and industry - Whether the workflow needs integrations - Privacy and permission requirements - Amount of human review needed Practical guidance: Ask registrants what they want to accomplish and what tools they already use. Use those answers to narrow the session and identify where a demonstration should remain conceptual. A focused, honest scope usually creates more value than promising complete business automation.",
+        "description": "Yes, if the webinar addresses one concrete beginner problem and avoids assuming technical knowledge. Explain the workflow in plain language, demonstrate a small use case, show where human approval is required, and give attendees a first action they can complete without building an entire automated business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

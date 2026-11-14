@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an AI landing page audit take before I see results?",
+  "description": "An initial review may be quick once the necessary context is supplied, but meaningful results require implementation and measurement. Timing depends on page com",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-an-ai-landing-page-audit-take-before-i-see-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an AI landing page audit take before I see results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A basic AI review can often be prepared quickly once the page, goal, audience, and traffic context are available. A trustworthy improvement cycle takes longer because analytics must be checked, changes implemented, and enough relevant traffic collected to interpret results.\n\nContext: Run My AI Business emphasizes focused workflows: choose one assistant or business problem, use it, review the output, and expand only when the process works. That approach is more practical than attempting to redesign an entire funnel at once.\n\nKey factors:\n- Complexity of the page and connected funnel.\n- Availability and cleanliness of tracking data.\n- Traffic volume and conversion frequency.\n- Number of changes tested at one time.\n\nPractical guidance: Separate the initial diagnosis from the testing schedule. Set a review date before launching the experiment, but do not stop early because of a small number of visits or conversions.\n\nRun My AI Business can help structure the work into manageable stages.",
+        "description": "An initial review may be quick once the necessary context is supplied, but meaningful results require implementation and measurement. Timing depends on page complexity, tracking quality, traffic, and conversion volume. Treat the audit as the start of a test cycle, not the result itself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I give an AI before it analyzes my landing page?",
+  "description": "Give it the URL, conversion goal, audience, traffic source, offer, and current metrics. Also provide customer language, objections, and any funnel context. Ask",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-give-an-ai-before-it-analyzes-my-landing-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I give an AI before it analyzes my landing page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining one conversion goal, such as an email signup, digital-product purchase, or consultation request. Then give the analysis the page URL, intended audience, traffic source, offer details, and current performance data. AI can identify likely friction, but recommendations still need human review and testing because tools may produce inconsistent conclusions.\n\nContext: Run My AI Business frames landing-page analysis as educational decision support, not an automatic promise of higher sales. The review should connect the page to the offer, lead magnet, sales funnel, and follow-up sequence rather than treating the page as an isolated asset.\n\nKey factors:\n- Clarity of the headline and desired action.\n- Match between ad, audience, page, and offer.\n- Proof, trust signals, objections, and page friction.\n- Mobile usability, speed, and form effort.\n\nPractical guidance: Ask for prioritized changes with a reason, expected learning goal, implementation effort, and measurement plan. Keep approval before publishing, spending, or changing connected systems.\n\nRun My AI Business can help owners turn the review into a focused, repeatable workflow rather than a one-time rewrite.",
+        "description": "Give it the URL, conversion goal, audience, traffic source, offer, and current metrics. Also provide customer language, objections, and any funnel context. Ask for prioritized issues, supporting evidence, implementation effort, and tests—not just a rewritten page."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

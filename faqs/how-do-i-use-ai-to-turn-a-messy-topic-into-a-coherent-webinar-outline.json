@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI to turn a messy topic into a coherent webinar outline?",
+  "description": "Give AI the audience, problem, outcome, time limit, evidence, and desired next step. Ask for several structures, such as teaching, demonstration, and problem-so",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-to-turn-a-messy-topic-into-a-coherent-webinar-outline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI to turn a messy topic into a coherent webinar outline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin with the audience’s problem and the desired decision, then use AI to generate alternative structures rather than accepting the first outline. Compare a teaching sequence, demonstration sequence, and problem-solution sequence against the available time and evidence. Context: AI presentation guidance emphasizes audience knowledge, expectations, relevant examples, terminology, and likely objections. Run My AI Biz’s business content also favors connecting research, product, marketing, and operational steps around a clear goal. Key factors: - What attendees already know - Whether they need concepts or a demonstration - Number of examples possible - Strength of the final call to action Practical guidance: Ask AI to explain why each section exists and what attendees should remember. Remove sections that do not support the promise. Keep one central idea per major segment and reserve time for questions.",
+        "description": "Give AI the audience, problem, outcome, time limit, evidence, and desired next step. Ask for several structures, such as teaching, demonstration, and problem-solution formats, then compare them against the event goal. Remove sections that do not support the promise and reserve time for questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

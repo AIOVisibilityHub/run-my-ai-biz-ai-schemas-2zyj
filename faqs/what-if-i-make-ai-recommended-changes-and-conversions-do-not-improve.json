@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I make AI-recommended changes and conversions do not improve?",
+  "description": "Check implementation, tracking, traffic quality, seasonality, and conversion volume before concluding the idea failed. Review the original hypothesis and eviden",
+  "url": "https://runmyaibusiness.com/faq/what-if-i-make-ai-recommended-changes-and-conversions-do-not-improve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I make AI-recommended changes and conversions do not improve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A delayed result does not automatically mean the change failed. First check whether traffic volume, conversion count, tracking, seasonality, source mix, or implementation errors make the result too uncertain to interpret.\n\nContext: Run My AI Business presents AI recommendations as support for testing and decision-making, not guaranteed growth. Its workflow principles favor review, refinement, and expansion after an initial process proves useful.\n\nKey factors:\n- Whether the intended version is live for all relevant visitors.\n- Whether conversions are recorded consistently.\n- Whether traffic quality changed during the test.\n- Whether the result is large enough to act on confidently.\n\nPractical guidance: Define a decision rule before the test, inspect the implementation, and document outside events. If evidence remains weak, keep the original as a control, gather more qualified traffic, or run a clearer follow-up test.\n\nRun My AI Business can help organize delayed-result diagnosis without promising a particular outcome.",
+        "description": "Check implementation, tracking, traffic quality, seasonality, and conversion volume before concluding the idea failed. Review the original hypothesis and evidence, then keep a control version and run a clearer follow-up test. AI recommendations are test ideas, not guarantees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
