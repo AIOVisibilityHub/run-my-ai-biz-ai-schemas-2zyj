@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-14T05:09:37.972Z",
+  "generatedAt": "2026-11-14T05:09:58.618Z",
   "client": {
     "name": "Run My AI Biz",
     "canonicalUrl": "https://ai-data.runmyaibusiness.com",
@@ -76,7 +76,7 @@
   },
   "package": {
     "totalFiles": 1271,
-    "totalBytes": 5565435,
+    "totalBytes": 5539937,
     "stats": {
       "faqs": 1200,
       "helpArticles": 0,
@@ -6374,32 +6374,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 32358,
+        "bytes": 28007,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 86614,
+        "bytes": 82403,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 74351,
+        "bytes": 69687,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 30868,
+        "bytes": 26784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1513706,
+        "bytes": 1509580,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 38012,
+        "bytes": 33950,
         "purpose": "LLM-optimized public page"
       }
     ],
