@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is an AI business workflow, and how is it different from just using ChatGPT?",
+  "description": "A workflow gives AI a repeatable role, inputs, steps, output format, and approval rules. Instead of asking isolated questions, you can connect research, product",
+  "url": "https://runmyaibusiness.com/faq/what-exactly-is-an-ai-business-workflow-and-how-is-it-different-from-just-using",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is an AI business workflow, and how is it different from just using ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI business workflow is a repeatable sequence in which an assistant receives defined information, performs assigned steps, creates an output, and pauses for review or approval. It is more structured than asking a chatbot isolated questions.\n\nFor example, a workflow might collect audience research, summarize recurring themes, draft a lead magnet, prepare an opt-in page, and produce follow-up emails for review. A prompt supplies instructions, but actual execution may also require integrations, permissions, and supporting platforms.\n\nKey factors:\n- Trigger and required inputs\n- Assigned responsibilities\n- Output format\n- Approval and exception rules\n\nMap the process before choosing tools. Run My AI Business’s educational examples show how research, product creation, video, and launch assistants can work as connected stages without treating every bot as a separate software product.",
+        "description": "A workflow gives AI a repeatable role, inputs, steps, output format, and approval rules. Instead of asking isolated questions, you can connect research, product development, sales copy, email follow-up, or operations into a controlled process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

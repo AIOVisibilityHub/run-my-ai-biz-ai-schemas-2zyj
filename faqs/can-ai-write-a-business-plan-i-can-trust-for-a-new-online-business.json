@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write a business plan I can trust for a new online business?",
+  "description": "AI can organize research and draft a business plan, but its assumptions must be labeled and tested. Separate verified facts from guesses, then validate demand,",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-a-business-plan-i-can-trust-for-a-new-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write a business plan I can trust for a new online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help produce a business plan, but the plan should remain a decision document rather than decorative text. Run My AI Biz covers idea evaluation, opportunity research, customer questions, offer positioning, and project coordination as useful planning applications.\n\nAI may generate confident assumptions about demand, competition, pricing, or customer behavior. Treat those sections as hypotheses that require evidence.\n\nKey factors:\n- The quality and recency of your source material.\n- Specificity of the audience and problem.\n- Alternatives customers already use.\n- The cost and effort required to test the idea.\n\nAsk AI to separate facts, assumptions, open questions, and recommended tests. Then conduct small validation activities such as interviews, a waitlist, a sample product, or a landing-page test before committing significant resources.\n\nRun My AI Biz can help organize planning while keeping evidence and owner judgment central.",
+        "description": "AI can organize research and draft a business plan, but its assumptions must be labeled and tested. Separate verified facts from guesses, then validate demand, audience needs, alternatives, and costs with small real-world experiments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

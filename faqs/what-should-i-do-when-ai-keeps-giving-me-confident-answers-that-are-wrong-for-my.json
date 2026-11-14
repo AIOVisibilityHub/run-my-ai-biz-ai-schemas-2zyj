@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI keeps giving me confident answers that are wrong for my business?",
+  "description": "Stop the output from reaching customers, diagnose the missing context or weak source, and correct the instructions with a real example. Add the correction as a",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-ai-keeps-giving-me-confident-answers-that-are-wrong-for-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI keeps giving me confident answers that are wrong for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If an AI result looks polished but feels wrong, pause the workflow and identify whether the problem is missing context, weak sources, ambiguous instructions, or an unsuitable tool. Do not publish, send, or rely on the output while the issue is unresolved. Run My AI Biz’s approach supports giving the assistant more business context, requesting changes, and refining instructions over time. Save a corrected example, explain what made it acceptable, and add that rule to the workflow. If errors persist, narrow the task or return to manual work for that step.",
+        "description": "Stop the output from reaching customers, diagnose the missing context or weak source, and correct the instructions with a real example. Add the correction as a rule; if errors continue, narrow the task or keep it manual."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

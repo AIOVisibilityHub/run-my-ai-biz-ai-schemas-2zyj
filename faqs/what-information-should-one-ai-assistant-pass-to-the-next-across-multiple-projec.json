@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should one AI assistant pass to the next across multiple projects?",
+  "description": "Pass the project name, objective, audience, source materials, required format, deadline, owner, approval status, and known limitations. State prohibited actions",
+  "url": "https://runmyaibusiness.com/faq/what-information-should-one-ai-assistant-pass-to-the-next-across-multiple-projec",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should one AI assistant pass to the next across multiple projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful handoff should name the project, objective, audience, source materials, required format, deadline, owner, and approval status. It should also state what the next assistant must not do, such as publish, contact prospects, invent evidence, or alter records. Use structured fields or a short handoff template so research can feed product development, product work can feed launch preparation, and launch reporting can feed the next planning cycle. Key factors are dependency order, missing inputs, duplicate work, and exception ownership. Run My AI Biz’s examples span research, course creation, video, funnels, websites, and operations, making explicit handoffs important when combining them.",
+        "description": "Pass the project name, objective, audience, source materials, required format, deadline, owner, approval status, and known limitations. State prohibited actions and missing inputs explicitly. A structured handoff prevents duplicate work and wrong-project outputs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

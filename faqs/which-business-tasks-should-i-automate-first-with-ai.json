@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business tasks should I automate first with AI?",
+  "description": "Start with repetitive, structured tasks such as research collection, draft creation, content repurposing, prospect organization, reporting, or routine checks. D",
+  "url": "https://runmyaibusiness.com/faq/which-business-tasks-should-i-automate-first-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business tasks should I automate first with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is most useful for recurring, structured work with clear inputs and review rules. Run My AI Biz lists research briefs, newsletter drafts, content repurposing, prospect organization, payment reminders, and operational checks as possible workflow areas. Avoid automating tasks that depend heavily on sensitive judgment, nuanced relationships, or unclear data until you have strong safeguards. Key factors are repetition, volume, error cost, data sensitivity, and whether a human can catch exceptions. Document the current process before automating it so you know what should change. Begin with drafting, sorting, or reporting, then expand permissions only after the output is reliable.",
+        "description": "Start with repetitive, structured tasks such as research collection, draft creation, content repurposing, prospect organization, reporting, or routine checks. Document the current process, define errors that matter, and keep approval before any external message, publication, payment, or account change."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

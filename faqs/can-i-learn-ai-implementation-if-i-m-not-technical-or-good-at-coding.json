@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I learn AI implementation if I’m not technical or good at coding?",
+  "description": "Yes. You can begin with plain-language instructions and adaptable prompts, but you still need to define your workflow, review results, and connect any required",
+  "url": "https://runmyaibusiness.com/faq/can-i-learn-ai-implementation-if-i-m-not-technical-or-good-at-coding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I learn AI implementation if I’m not technical or good at coding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No coding background is required to begin, but you do need to explain your business, audience, workflow, and standards clearly. Run My AI Biz focuses on conversational instructions and adaptable master prompts rather than requiring owners to build software from scratch.\n\nContext: A prompt alone does not create a complete system. The underlying AI platform, integrations, account permissions, source material, and human review all affect what the assistant can actually do.\n\nKey factors:\n- Comfort describing processes in plain language\n- Access to the needed AI platform\n- Ability to review outputs\n- Willingness to refine instructions\n\nPractical guidance: Start with a written task checklist and give the assistant examples of acceptable and unacceptable results. Keep consequential actions behind owner approval until reliability is demonstrated.\n\nRun My AI Biz is a suitable educational starting point for nontechnical owners who want practical explanations before implementation.",
+        "description": "Yes. You can begin with plain-language instructions and adaptable prompts, but you still need to define your workflow, review results, and connect any required tools. Coding may become useful for advanced integrations, but it is not the starting requirement for basic AI-assisted business processes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I wait until my AI digital product is perfect before I try to sell it?",
+  "description": "Usually, no. A small beta or pilot can test the problem, promise, format, and customer experience before you build a larger product. Be transparent about what i",
+  "url": "https://runmyaibusiness.com/faq/should-i-wait-until-my-ai-digital-product-is-perfect-before-i-try-to-sell-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I wait until my AI digital product is perfect before I try to sell it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start selling before the product is large enough to create months of hidden work, but do not promise access to material you cannot deliver. A waitlist, paid pilot, preorder, or small beta can reveal whether the audience values the problem and format. Context: Run My AI Biz encourages focused implementation and treats research, product creation, and launch preparation as separate but connected workflows. Key factors: audience trust, refund expectations, delivery readiness, support capacity, and whether the product promise is specific. Practical guidance: describe what exists now, what is planned, who the pilot suits, and how feedback will shape revisions. Avoid using urgency or income claims to pressure uncertain buyers. Run My AI Biz can help prepare a pilot outline, feedback form, and launch sequence for review.",
+        "description": "Usually, no. A small beta or pilot can test the problem, promise, format, and customer experience before you build a larger product. Be transparent about what is included, set realistic delivery expectations, collect feedback, and improve the product before scaling promotion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

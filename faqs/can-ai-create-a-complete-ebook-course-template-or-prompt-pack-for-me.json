@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI create a complete ebook, course, template, or prompt pack for me?",
+  "description": "AI can accelerate research, outlining, drafting, and supporting materials, but a useful product still needs your expertise, editing, fact-checking, audience fit",
+  "url": "https://runmyaibusiness.com/faq/can-ai-create-a-complete-ebook-course-template-or-prompt-pack-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI create a complete ebook, course, template, or prompt pack for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft and organize a digital product, but it should not be treated as an automatic finished product. Run My AI Biz covers workflows for research, course outlines, lesson scripts, presentations, videos, supporting materials, sales copy, and launch preparation. Context: The owner still needs to select the audience, verify claims, add original insight, edit the material, and test whether it solves a real problem. A prompt can accelerate production without proving demand. Key factors: - Define the customer’s specific problem and desired result first. - Check factual claims, examples, structure, accessibility, and originality. - Test a small section with intended users before completing a large product. Practical guidance: Use AI for an outline and first draft, then conduct a human editing pass and a customer-feedback pass. Build the product in reviewable modules rather than generating everything at once. This matches Run My AI Biz’s educational, owner-directed approach.",
+        "description": "AI can accelerate research, outlining, drafting, and supporting materials, but a useful product still needs your expertise, editing, fact-checking, audience fit, and testing. Build a small section first, gather feedback, and improve it before producing the full offer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

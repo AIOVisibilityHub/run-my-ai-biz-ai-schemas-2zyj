@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I automate my digital product marketing with AI?",
+  "description": "AI can publish inaccurate claims, send the wrong message, mishandle customer data, repeat content, or spend money without adequate review. Use approval checkpoi",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-if-i-automate-my-digital-product-marketing-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I automate my digital product marketing with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft marketing content, but it should not independently publish, contact prospects, spend advertising money, or make claims about results. Human approval is especially important for testimonials, statistics, comparisons, affiliate disclosures, customer data, and promises about income or performance. Context: Run My AI Biz describes safeguards requiring approval before messages, content, spending, or sign-ups occur. Key factors: audience sensitivity, campaign scale, data access, promotional claims, and the consequences of an error. Practical guidance: create a review queue, label drafts clearly, check every link and claim, and keep records of what was approved and when. Begin with low-risk organic content before testing paid promotion. Run My AI Biz can help design a controlled content and campaign workflow.",
+        "description": "AI can publish inaccurate claims, send the wrong message, mishandle customer data, repeat content, or spend money without adequate review. Use approval checkpoints, verify claims and links, limit account permissions, and start with low-risk drafts before automating any external action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build a sales funnel for my digital product from start to finish?",
+  "description": "AI can help research the audience and draft an opt-in page, lead magnet, bridge page, thank-you page, emails, and promotional content. You still must choose the",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-a-sales-funnel-for-my-digital-product-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build a sales funnel for my digital product from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help assemble a funnel, but each step still needs a clear promise and a consistent customer experience. Run My AI Biz’s funnel examples include an opt-in page, lead magnet, bridge page, thank-you page, and email follow-up, with campaign planning and review. The right sequence depends on the audience, offer complexity, traffic source, and buying decision. Key factors are message match, page clarity, useful lead-magnet content, deliverability, tracking, and the handoff from free material to paid offer. Ask AI to map the customer’s questions and objections before drafting pages. Test one change at a time and inspect real replies, unsubscribes, clicks, and purchases.",
+        "description": "AI can help research the audience and draft an opt-in page, lead magnet, bridge page, thank-you page, emails, and promotional content. You still must choose the offer, verify claims, connect platforms, test tracking, review every asset, and improve the funnel from real customer behavior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

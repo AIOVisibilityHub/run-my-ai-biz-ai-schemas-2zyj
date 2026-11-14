@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What could go wrong if I automate my online business with AI?",
+  "description": "AI can publish errors, send unsuitable messages, mishandle data, or take unwanted actions when permissions are broad. Start with drafts, approval checkpoints, s",
+  "url": "https://runmyaibusiness.com/faq/what-could-go-wrong-if-i-automate-my-online-business-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What could go wrong if I automate my online business with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not allow an AI workflow to publish, send messages, spend money, or change accounts without approval unless you have deliberately tested and authorized that behavior. Run My AI Biz’s materials emphasize review checkpoints, secure connections, source verification, and limits on unsupported claims.\n\nAutomation can repeat mistakes quickly, especially when instructions are vague or an external platform changes. The safer approach is to automate preparation first and keep consequential actions manual until the workflow has a track record.\n\nKey factors:\n- The financial, reputational, or customer impact of an error.\n- Whether the task handles private information.\n- The availability of logs and rollback options.\n- Clear stop conditions for missing or uncertain data.\n\nUse draft mode, approval queues, test accounts, and small batches. Review permissions regularly and document who can authorize publishing, outreach, purchases, or account changes.\n\nRun My AI Biz positions human-directed automation as a core safeguard rather than an optional extra.",
+        "description": "AI can publish errors, send unsuitable messages, mishandle data, or take unwanted actions when permissions are broad. Start with drafts, approval checkpoints, small batches, secure connections, and explicit stop conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I use a chief-of-staff AI assistant instead of separate tools for each task?",
+  "description": "Use a central assistant after you have several working processes that need coordination. Define routing, status, authority, and escalation rules, and keep a rec",
+  "url": "https://runmyaibusiness.com/faq/when-should-i-use-a-chief-of-staff-ai-assistant-instead-of-separate-tools-for-ea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I use a chief-of-staff AI assistant instead of separate tools for each task?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use one central assistant to organize work only when you have multiple recurring processes that need coordination. A chief-of-staff-style workflow can receive requests, track projects, and route tasks to specialized assistants, but it should not become an opaque command center.\n\nThe central assistant needs clear authority boundaries, status formats, escalation rules, and visibility into which specialist produced each output. Without those details, coordination can make errors harder to find.\n\nKey factors:\n- Number of assistants and projects\n- Shared information and naming standards\n- Need for status reporting\n- Owner approval requirements\n\nStart with one specialist and add coordination after the individual workflow works. Run My AI Business’s resource library presents the chief-of-staff concept as a way to organize specialized assistants, not as a substitute for oversight.",
+        "description": "Use a central assistant after you have several working processes that need coordination. Define routing, status, authority, and escalation rules, and keep a record of each specialist’s output so mistakes remain traceable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

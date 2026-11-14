@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make sure my AI digital product solves a real problem instead of being just AI-generated content?",
+  "description": "Define one audience, one urgent problem, and one realistic result before creating content. Test the promise with potential buyers, use their language in the off",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-make-sure-my-ai-digital-product-solves-a-real-problem-instead-of-being",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make sure my AI digital product solves a real problem instead of being just AI-generated content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Build the product around a specific result, not around a collection of AI features. A buyer should quickly understand who the product is for, what problem it addresses, what they receive, and what reasonable improvement they can work toward. Context: Run My AI Biz connects audience research, offer positioning, product development, sales pages, lead magnets, and follow-up. Key factors: customer pain, desired outcome, starting skill level, proof available, and limits on what the product can deliver. Practical guidance: write a clear promise without guaranteed income or unsupported performance claims, then test it with people who resemble your intended buyers. Use AI to generate alternative positioning statements, but select and refine one based on customer language. Run My AI Biz can help coordinate research and offer-positioning tasks without treating generated ideas as validated demand.",
+        "description": "Define one audience, one urgent problem, and one realistic result before creating content. Test the promise with potential buyers, use their language in the offer, and include practical exercises or tools. AI can suggest positioning, but customer feedback determines whether the product is useful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

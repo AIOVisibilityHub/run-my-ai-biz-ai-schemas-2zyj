@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business tasks are safe to reuse across multiple AI workflows?",
+  "description": "Reuse workflows for stable, repeatable tasks with clear inputs and review, such as research briefs, drafts, repurposing, link checks, project updates, and prosp",
+  "url": "https://runmyaibusiness.com/faq/which-business-tasks-are-safe-to-reuse-across-multiple-ai-workflows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business tasks are safe to reuse across multiple AI workflows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recurring tasks are good candidates when they have a clear trigger, stable inputs, predictable outputs, and a reasonable review method. Examples include research briefs, newsletter drafts, content repurposing, link checks, project updates, prospect organization, and payment-reminder preparation. Tasks involving nuanced strategy, sensitive customer situations, unverified claims, or irreversible actions should remain assisted rather than fully automatic. Key factors include error cost, frequency, volume, and whether exceptions can be detected. Run My AI Biz’s use cases cover both content and administration, but each workflow still needs owner approval and a defined exception path.",
+        "description": "Reuse workflows for stable, repeatable tasks with clear inputs and review, such as research briefs, drafts, repurposing, link checks, project updates, and prospect organization. Keep nuanced strategy, sensitive cases, unverified claims, and irreversible actions under human control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

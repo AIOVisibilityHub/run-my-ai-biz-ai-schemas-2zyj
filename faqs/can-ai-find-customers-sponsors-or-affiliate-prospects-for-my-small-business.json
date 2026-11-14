@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find customers, sponsors, or affiliate prospects for my small business?",
+  "description": "AI can help identify and organize potential prospects and draft tailored outreach, but it cannot guarantee leads or sales. Define prospect criteria, verify deta",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-customers-sponsors-or-affiliate-prospects-for-my-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find customers, sponsors, or affiliate prospects for my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft personalized outreach and organize prospect research, but it should not send mass messages or invent details about recipients. Run My AI Biz includes examples involving local sponsors, website prospects, and subscriber acquisition, with review before outreach. Context: Relevance, accuracy, permission, and clear identification matter more than message volume. Key factors: - Define the prospect criteria before collecting names. - Verify each organization, contact detail, need, and relationship. - Review tone, claims, opt-out handling, and sending limits. Practical guidance: Use AI to prepare a short research brief and a tailored draft, then check it manually before sending through an appropriate platform. Track replies and objections so the workflow improves without becoming spammy.",
+        "description": "AI can help identify and organize potential prospects and draft tailored outreach, but it cannot guarantee leads or sales. Define prospect criteria, verify details, check each message for accuracy and relevance, and review it before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

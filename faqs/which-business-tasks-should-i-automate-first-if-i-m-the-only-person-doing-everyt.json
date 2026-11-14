@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business tasks should I automate first if I’m the only person doing everything?",
+  "description": "Start with repetitive, low-risk preparation: research briefs, draft content, link checks, project updates, routine reminders, and support drafts. Delay automati",
+  "url": "https://runmyaibusiness.com/faq/which-business-tasks-should-i-automate-first-if-i-m-the-only-person-doing-everyt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business tasks should I automate first if I’m the only person doing everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a one-person operation, automate preparation before automating publication or transactions. Good early candidates include recurring research briefs, content repurposing, link checks, project summaries, routine reminders, and draft customer-support replies. Run My AI Biz’s business-specific examples include newsletter production, administrative checks, billing monitoring, and server-health reporting. Assign each workflow an owner, trigger, expected output, exception rule, and approval point. Keep payments, account changes, public posts, and sensitive customer responses under explicit human control until the process has a reliable record.",
+        "description": "Start with repetitive, low-risk preparation: research briefs, draft content, link checks, project updates, routine reminders, and support drafts. Delay automatic publishing, payments, account changes, and sensitive replies until testing proves reliable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

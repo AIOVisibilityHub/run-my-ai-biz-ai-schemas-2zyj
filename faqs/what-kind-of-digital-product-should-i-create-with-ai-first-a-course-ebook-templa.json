@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of digital product should I create with AI first—a course, ebook, templates, or prompts?",
+  "description": "Choose the format that best fits the customer’s problem. Use templates or checklists for repeatable tasks, a guide for explanation, and a course when buyers nee",
+  "url": "https://runmyaibusiness.com/faq/what-kind-of-digital-product-should-i-create-with-ai-first-a-course-ebook-templa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of digital product should I create with AI first—a course, ebook, templates, or prompts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical first product is usually a focused guide, checklist, template pack, short workshop, email course, or mini-course that solves one clearly described problem. The best format depends on how much explanation, customization, and ongoing support buyers need. Context: Run My AI Biz covers course planning, presentations, lesson scripts, videos, lead magnets, and supporting sales materials. Key factors: customer skill level, desired result, update frequency, production time, and whether buyers need examples or feedback. Practical guidance: match the format to the customer’s next action—for example, a checklist for a repeatable task or a mini-course for a skill requiring explanation. Draft a product outline with AI, then add original examples, instructions, and quality checks. Run My AI Biz can help compare formats before you commit to a larger build.",
+        "description": "Choose the format that best fits the customer’s problem. Use templates or checklists for repeatable tasks, a guide for explanation, and a course when buyers need structured teaching. Start with a small version and add complexity only after feedback shows it is needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

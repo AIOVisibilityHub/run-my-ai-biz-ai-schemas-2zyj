@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an AI digital product sales funnel actually need?",
+  "description": "At minimum, buyers need a clear offer, a trustworthy sales page, an easy checkout, reliable delivery, and a way to receive support. A lead magnet and email sequ",
+  "url": "https://runmyaibusiness.com/faq/what-does-an-ai-digital-product-sales-funnel-actually-need",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an AI digital product sales funnel actually need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The basic sales path is audience attention, a useful free resource or message, an opt-in page, follow-up, an offer page, checkout, delivery, and customer support. Not every product needs every step, but buyers need a clear explanation of value and an easy way to receive what they purchased. Context: Run My AI Biz describes workflows involving lead magnets, opt-in pages, bridge pages, thank-you pages, email sequences, sales pages, and delivery setup. Key factors: price, audience trust, purchase complexity, traffic source, refund expectations, and product format. Practical guidance: test the entire path with a separate email address and a low-risk payment or preview process before promotion. Require approval before an AI-assisted workflow publishes pages, sends messages, or spends money. Run My AI Biz can help you map the funnel and identify missing handoffs.",
+        "description": "At minimum, buyers need a clear offer, a trustworthy sales page, an easy checkout, reliable delivery, and a way to receive support. A lead magnet and email sequence can help build demand. Test every page, link, email, and delivery step before sending traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I trust AI to write my sales page and emails without checking every line?",
+  "description": "No. AI can draft sales pages and emails, but verify every factual claim, price, feature, testimonial, statistic, and promise. Use an approved fact sheet, restri",
+  "url": "https://runmyaibusiness.com/faq/can-i-trust-ai-to-write-my-sales-page-and-emails-without-checking-every-line",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I trust AI to write my sales page and emails without checking every line?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat AI-generated sales copy, email, and advertising as drafts requiring factual, brand, and audience review. Confirm every claim, price, feature, testimonial, statistic, and promise before publication.\n\nContext: Run My AI Biz includes sales pages, lead magnets, bridge pages, email sequences, social content, and advertising drafts. Its supplied guidance specifically emphasizes source verification and prohibiting invented proof or income claims.\n\nKey factors:\n- Accuracy of claims\n- Consistency with the actual offer\n- Audience expectations\n- Platform or vendor review requirements\n\nPractical guidance: Maintain a fact sheet containing approved product details, exclusions, prices, and evidence. Ask the assistant to use only that material, then review the final copy against the fact sheet.\n\nRun My AI Biz teaches marketing workflows with owner approval rather than automatic promotion.",
+        "description": "No. AI can draft sales pages and emails, but verify every factual claim, price, feature, testimonial, statistic, and promise. Use an approved fact sheet, restrict the assistant to supported information, and require review before publishing or sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does human-directed AI automation actually work from start to finish?",
+  "description": "You define the goal and context, the assistant researches or drafts, you review the output, and the workflow pauses until you approve the next permitted action.",
+  "url": "https://runmyaibusiness.com/faq/how-does-human-directed-ai-automation-actually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does human-directed AI automation actually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The basic process is: define the business goal, give the assistant relevant context, let it research or draft, review the result, request changes when needed, and approve only the permitted next action. Run My AI Biz’s examples use specialized assistants for activities such as offer research, course planning, funnel preparation, newsletter growth, and recurring operational checks. Context: A coordinated workflow should show where information enters, which assistant handles each responsibility, and where the owner makes the final decision. Human review is most valuable before an irreversible, public, financial, or customer-facing action. Key factors: - Clear role instructions. - Verified sources for factual claims. - Approval checkpoints. - Secure connections and suitable integrations. Practical guidance: Draw the workflow as stages and label every stage “draft,” “review,” or “approved.” Do not treat a generated answer as completed business work until it has been checked against your offer, audience, brand voice, and current information. Run My AI Biz explains these steps in approachable, nontechnical terms.",
+        "description": "You define the goal and context, the assistant researches or drafts, you review the output, and the workflow pauses until you approve the next permitted action. The process should identify sources, required changes, account permissions, and the exact point where publishing, sending, spending, or sign-up is allowed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

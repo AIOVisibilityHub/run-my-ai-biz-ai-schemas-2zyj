@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI handle customer support if every response still needs my approval?",
+  "description": "Yes, AI can draft routine replies and organize first-line support, but a human should handle unusual, sensitive, angry, uncertain, refund-related, or account-ch",
+  "url": "https://runmyaibusiness.com/faq/can-ai-handle-customer-support-if-every-response-still-needs-my-approval",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI handle customer support if every response still needs my approval?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to prepare customer-support drafts and route routine questions, but keep a human responsible for unusual, sensitive, angry, or high-impact requests. Run My AI Biz lists first-line support workflows among possible business-operations applications, while its broader approach requires review and approval for consequential actions. Context: A support workflow should identify what information may be used, what the assistant may answer, and when it must stop. A polished response can still be factually wrong or inconsistent with your actual offer and policies. Key factors: - Question complexity. - Customer sensitivity. - Refund or account implications. - Availability of current information. Practical guidance: Create approved answer patterns, require escalation for uncertainty or complaints, and review a sample of completed interactions. Never let a support draft invent policies, promises, credits, or account changes. Run My AI Biz’s educational workflows can help organize the process while keeping the owner in control.",
+        "description": "Yes, AI can draft routine replies and organize first-line support, but a human should handle unusual, sensitive, angry, uncertain, refund-related, or account-changing requests. Define approved information, stop rules, and escalation paths. Review samples regularly and prevent invented policies or promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

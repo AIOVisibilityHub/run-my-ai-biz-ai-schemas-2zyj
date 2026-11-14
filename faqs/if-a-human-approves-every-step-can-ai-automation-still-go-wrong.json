@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If a human approves every step, can AI automation still go wrong?",
+  "description": "Yes. Review can miss inaccurate claims, privacy problems, bad assumptions, or unsafe actions, especially when a draft looks convincing. Reduce risk with source",
+  "url": "https://runmyaibusiness.com/faq/if-a-human-approves-every-step-can-ai-automation-still-go-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If a human approves every step, can AI automation still go wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Human approval reduces risk, but it does not guarantee that an output is correct, safe, or appropriate. AI can still produce inaccurate information, expose sensitive business data, encourage overreliance, or present a convincing draft that a rushed reviewer accepts without checking. Context: Research on small-business AI use identifies inaccurate outputs, privacy and security concerns, and automation bias as important risks; human review can mitigate some of them but is not a complete safeguard. Run My AI Biz’s guidance therefore emphasizes source verification, secure account connections, and restrictions against invented statistics, proof, or income claims. Key factors: - Reviewer expertise and available time. - Impact and reversibility of the action. - Sensitivity of the data. - Reliability of connected services. Practical guidance: Require evidence for factual claims, inspect the exact action before approval, and maintain a rejection path. For consequential tasks, use a second check or a smaller permission scope. Run My AI Biz teaches oversight as an operating habit, not as a promise of error-free automation.",
+        "description": "Yes. Review can miss inaccurate claims, privacy problems, bad assumptions, or unsafe actions, especially when a draft looks convincing. Reduce risk with source checks, limited permissions, clear stop rules, approval of the exact action, and extra review for financial, public, or irreversible work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

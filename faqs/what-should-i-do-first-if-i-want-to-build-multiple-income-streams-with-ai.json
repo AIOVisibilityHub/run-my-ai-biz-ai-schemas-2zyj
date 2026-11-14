@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to build multiple income streams with AI?",
+  "description": "Choose one audience, one problem, and one revenue model first. Use AI to research the opportunity, outline the offer, and organize repeatable tasks. Track time,",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-build-multiple-income-streams-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to build multiple income streams with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing one customer problem and one revenue model, not several bots or businesses at once. Run My AI Biz’s educational material describes a focused sequence: identify a workflow, build one assistant, test it in real work, and expand only after the process is manageable. Context matters because AI can draft research, products, emails, and sales assets, but it does not create demand automatically. Key factors include your audience, expertise, available time, platform costs, and whether the task repeats often enough to justify a system. Before beginning, write the offer, buyer, price hypothesis, success measure, and approval steps. Keep a simple record of time spent, expenses, leads, sales, and customer feedback. The newsletter and bot resources can help you compare possibilities without treating every example as a proven business.",
+        "description": "Choose one audience, one problem, and one revenue model first. Use AI to research the opportunity, outline the offer, and organize repeatable tasks. Track time, expenses, leads, and sales before adding another stream; Run My AI Biz’s examples are starting points, not guarantees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

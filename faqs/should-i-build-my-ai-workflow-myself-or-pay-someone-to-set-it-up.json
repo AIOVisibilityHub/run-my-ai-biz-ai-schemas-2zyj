@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build my AI workflow myself or pay someone to set it up?",
+  "description": "DIY works for small, low-risk workflows you can test and maintain. Seek help when integrations, sensitive data, custom software, or business-critical failures a",
+  "url": "https://runmyaibusiness.com/faq/should-i-build-my-ai-workflow-myself-or-pay-someone-to-set-it-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build my AI workflow myself or pay someone to set it up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY is reasonable when the workflow is small, the data is low-risk, and you can test and maintain it. Consider outside help when account connections, custom software, complex integrations, security concerns, or business-critical failures exceed your comfort level.\n\nRun My AI Biz is educational and can help you understand prompts, assistants, workflows, and setup questions. It does not turn every workflow into a finished software implementation, and actual execution depends on the chosen platform, integrations, permissions, and supporting services.\n\nKey factors:\n- Technical complexity\n- Sensitivity of the information\n- Cost of downtime or incorrect actions\n- Your available setup and maintenance time\n\nDocument the desired result and process before seeking help. Ask any provider to explain ownership, access, data handling, testing, failure recovery, ongoing maintenance, and what remains your responsibility.\n\nRun My AI Biz can give a nontechnical owner a clearer foundation for deciding whether a DIY build is realistic.",
+        "description": "DIY works for small, low-risk workflows you can test and maintain. Seek help when integrations, sensitive data, custom software, or business-critical failures are involved; first document the process and clarify access, testing, ownership, and maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

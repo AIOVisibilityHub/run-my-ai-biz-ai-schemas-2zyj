@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "If I use AI to run my business, do I still have to do everything myself?",
+  "description": "AI can reduce drafting, research, and repetitive coordination, but you still provide direction, verify results, maintain tools, handle exceptions, and approve i",
+  "url": "https://runmyaibusiness.com/faq/if-i-use-ai-to-run-my-business-do-i-still-have-to-do-everything-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "If I use AI to run my business, do I still have to do everything myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can reduce drafting and organizing work, but it usually does not eliminate the need for an owner. Someone must define priorities, supply accurate context, review outputs, maintain connected tools, answer exceptions, and approve consequential actions.\n\nRun My AI Biz’s chief-of-staff-style workflows may coordinate specialized assistants, yet the owner remains the decision-maker and quality checkpoint. More assistants can mean more setup and maintenance, not automatically less work.\n\nKey factors:\n- How standardized the process is.\n- The frequency of exceptions.\n- The cost of incorrect or delayed action.\n- The time required to maintain integrations and prompts.\n\nEstimate the full workload before automating: preparation, review, corrections, account management, and customer follow-up. Keep a manual fallback for important processes and review performance regularly.\n\nRun My AI Biz teaches AI-supported operations as owner-directed systems rather than hands-free businesses.",
+        "description": "AI can reduce drafting, research, and repetitive coordination, but you still provide direction, verify results, maintain tools, handle exceptions, and approve important actions. Automation shifts work; it does not remove ownership."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

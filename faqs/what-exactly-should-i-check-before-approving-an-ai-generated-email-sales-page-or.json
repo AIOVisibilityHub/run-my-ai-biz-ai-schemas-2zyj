@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly should I check before approving an AI-generated email, sales page, or social post?",
+  "description": "Check factual accuracy, links, numbers, offer details, audience fit, tone, source quality, privacy, and the exact publishing or sending action. Ask the assistan",
+  "url": "https://runmyaibusiness.com/faq/what-exactly-should-i-check-before-approving-an-ai-generated-email-sales-page-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly should I check before approving an AI-generated email, sales page, or social post?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not approve the output simply because it sounds polished. Check factual claims, links, numbers, audience fit, tone, permissions, and the exact action the system is prepared to take. Run My AI Biz’s workflows emphasize reviewing drafts, verifying sources, and preventing invented statistics, proof, or income claims before publication or outreach. Context: A practical review should match the type of work: a newsletter needs source and editorial checks, a sales funnel needs offer and link checks, and an administrative workflow needs account and transaction checks. Key factors: - Accuracy. - Completeness. - Compliance with your own policies. - Whether the action can be reversed. Practical guidance: Use a short approval checklist and require the assistant to show assumptions, sources, unresolved questions, and proposed changes. If anything is unclear, reject or revise the draft rather than approving under time pressure. Run My AI Biz presents review checkpoints as part of the workflow design.",
+        "description": "Check factual accuracy, links, numbers, offer details, audience fit, tone, source quality, privacy, and the exact publishing or sending action. Ask the assistant to show assumptions and unresolved questions. Reject anything that invents proof, statistics, income claims, or business details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

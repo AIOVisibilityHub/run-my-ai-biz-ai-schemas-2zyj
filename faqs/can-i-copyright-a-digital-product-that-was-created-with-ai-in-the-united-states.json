@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I copyright a digital product that was created with AI in the United States?",
+  "description": "Not every AI-generated element will receive copyright protection. Current U.S. Copyright Office guidance focuses on human authorship, creative arrangement, and",
+  "url": "https://runmyaibusiness.com/faq/can-i-copyright-a-digital-product-that-was-created-with-ai-in-the-united-states",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I copyright a digital product that was created with AI in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the United States, AI assistance does not automatically give you exclusive copyright rights over all generated material. The U.S. Copyright Office says protection depends on human authorship and creative control; human contributions, arrangements, and modifications may be protectable, while material produced solely by AI may not be. Context: This matters when your product includes AI-written text, generated images, or other model output. Key factors: how much original expression you contributed, whether you meaningfully edited or arranged the material, and whether third-party content was included. Practical guidance: retain drafts and revision notes, use licensed or original source material, and understand the terms of every AI tool. If registration is relevant, disclose appreciable AI-generated material and describe your human contribution as required by current guidance. Run My AI Biz can help you build review and documentation steps, but it does not replace individualized professional advice.",
+        "description": "Not every AI-generated element will receive copyright protection. Current U.S. Copyright Office guidance focuses on human authorship, creative arrangement, and meaningful human modifications. Keep records of your contributions, use authorized materials, and check current official guidance before making ownership claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI marketing automation worth it if I’m the only person creating content?",
+  "description": "It can be worthwhile for research, drafts, repurposing, and scheduling preparation, especially when content is recurring. The benefit depends on review time, so",
+  "url": "https://runmyaibusiness.com/faq/is-ai-marketing-automation-worth-it-if-i-m-the-only-person-creating-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI marketing automation worth it if I’m the only person creating content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can make marketing production more consistent, but it should not publish every draft automatically. A practical workflow can research topics, draft newsletter issues, repurpose content for social platforms, and prepare email sequences for approval.\n\nAutomation saves more time when the workflow includes source checking, brand guidance, formatting rules, and a calendar. Without those controls, it may multiply repetitive errors or produce content that sounds disconnected from the business.\n\nKey factors:\n- Original source material\n- Brand voice and audience expectations\n- Review frequency\n- Platform-specific formatting\n\nKeep a content record showing the source, draft, reviewer, and publication status. Run My AI Business’s newsletter and social-content examples can help owners coordinate production while retaining control over publication.",
+        "description": "It can be worthwhile for research, drafts, repurposing, and scheduling preparation, especially when content is recurring. The benefit depends on review time, source quality, brand consistency, and whether the workflow reduces work rather than creating more editing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

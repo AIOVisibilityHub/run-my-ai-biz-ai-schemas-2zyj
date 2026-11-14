@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens when I’m too busy to approve an AI task before the deadline?",
+  "description": "The workflow should pause, expire, retry safely, or send the item to a designated backup; it should not silently publish, message, spend, or change an account.",
+  "url": "https://runmyaibusiness.com/faq/what-happens-when-i-m-too-busy-to-approve-an-ai-task-before-the-deadline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens when I’m too busy to approve an AI task before the deadline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but an approval checkpoint works only when someone reviews it within the needed timeframe. If the reviewer is unavailable, the workflow should pause, expire, retry safely, or route the item to a defined backup—not publish or spend automatically by default. Context: Delayed approvals are common in newsletters, launches, customer support, and recurring administration. A workflow that silently proceeds after a timeout can undermine the control it was designed to provide. Key factors: - Time sensitivity. - Whether the action is reversible. - Backup reviewer availability. - Risk of stale information. Practical guidance: Set a clear approval deadline, define what happens when it passes, and require a fresh review if facts or content change. For routine drafts, store them for later; for urgent issues, use a separate escalation path with narrower permissions. Run My AI Biz’s review-first approach supports deliberate handling of delays rather than hidden automation.",
+        "description": "The workflow should pause, expire, retry safely, or send the item to a designated backup; it should not silently publish, message, spend, or change an account. Set approval deadlines and escalation rules, and require a new review if the information becomes stale or the draft changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first if I have a launch next week and multiple projects competing for attention?",
+  "description": "Automate preparation, not final execution: research summaries, outlines, checklists, draft copy, and status reports. Keep fact checks, link tests, account chang",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-if-i-have-a-launch-next-week-and-multiple-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first if I have a launch next week and multiple projects competing for attention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the deadline is urgent, automate preparation rather than final execution. Use AI to organize research, draft copy, summarize project status, or create checklists, then reserve time for fact-checking, brand review, link testing, and approval. Avoid connecting new accounts or launching an untested multi-step workflow immediately before a campaign or product release. Key factors are the cost of an error, the number of platforms, the availability of a fallback manual process, and who can approve work quickly. Run My AI Biz’s launch examples include review before anything goes live, which is especially important under time pressure.",
+        "description": "Automate preparation, not final execution: research summaries, outlines, checklists, draft copy, and status reports. Keep fact checks, link tests, account changes, spending, and publication manual. Use a fallback process and do not introduce untested integrations immediately before launch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

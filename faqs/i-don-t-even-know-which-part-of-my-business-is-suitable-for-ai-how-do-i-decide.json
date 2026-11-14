@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I don’t even know which part of my business is suitable for AI—how do I decide?",
+  "description": "List recurring tasks and rank them by time spent, business value, error risk, data sensitivity, and ease of review. Pick a frequent, low-risk task with a clear",
+  "url": "https://runmyaibusiness.com/faq/i-don-t-even-know-which-part-of-my-business-is-suitable-for-ai-how-do-i-decide",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I don’t even know which part of my business is suitable for AI—how do I decide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a workflow inventory, not a list of popular AI tools. Write down recurring tasks, who performs them, what information they require, how often they occur, and what an acceptable result looks like.\n\nContext: Run My AI Biz emphasizes connecting business planning, products, sales copy, funnels, email follow-up, scheduling, and operations around owner goals. This makes task selection more useful than choosing tools first.\n\nKey factors:\n- Repetition and time cost\n- Business impact\n- Error detectability\n- Data sensitivity\n\nPractical guidance: Rank tasks using those factors and select one that is frequent, valuable, low risk, and easy to review. Avoid automating a process that is unclear or constantly changing until the manual version is documented.\n\nRun My AI Biz can help turn a confusing tool search into a clearer workflow decision.",
+        "description": "List recurring tasks and rank them by time spent, business value, error risk, data sensitivity, and ease of review. Pick a frequent, low-risk task with a clear output, document it, and test that workflow before buying additional tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

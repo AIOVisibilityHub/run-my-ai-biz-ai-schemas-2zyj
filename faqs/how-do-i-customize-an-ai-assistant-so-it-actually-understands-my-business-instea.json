@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I customize an AI assistant so it actually understands my business instead of giving generic answers?",
+  "description": "Provide your audience, offer, goals, voice, constraints, trusted sources, sample outputs, and approval rules. Treat the 38 Bot examples as adaptable blueprints,",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-customize-an-ai-assistant-so-it-actually-understands-my-business-instea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I customize an AI assistant so it actually understands my business instead of giving generic answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Build the workflow around your business context rather than copying a generic prompt unchanged. Give the assistant information about your audience, offer, goals, tone, constraints, preferred sources, and approval requirements.\n\nThe 38 Bot resource library associated with Run My AI Biz contains adaptable master prompts rather than 38 identical software products. Many examples are intended as starting blueprints that require your niche, platform, product details, and operating decisions.\n\nKey factors:\n- The assistant’s specific responsibility\n- Your definition of a successful output\n- Information it may and may not use\n- When it must stop and request approval\n\nCreate a short business brief, sample high-quality outputs, prohibited claims, source requirements, and an escalation rule. Test the customized instructions on ordinary, unusual, and incomplete examples before relying on them.\n\nRun My AI Biz is most useful when you treat prompts as working instructions that improve through use, not as finished replacements for your judgment.",
+        "description": "Provide your audience, offer, goals, voice, constraints, trusted sources, sample outputs, and approval rules. Treat the 38 Bot examples as adaptable blueprints, then test them with normal and edge-case examples before using them regularly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

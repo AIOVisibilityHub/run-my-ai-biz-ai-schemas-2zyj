@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build my AI workflows myself or pay someone to set them up?",
+  "description": "DIY works for small, low-risk workflows you can test and maintain. Consider paid help when integrations, security, monitoring, or failure costs become significa",
+  "url": "https://runmyaibusiness.com/faq/should-i-build-my-ai-workflows-myself-or-pay-someone-to-set-them-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build my AI workflows myself or pay someone to set them up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY is reasonable when the workflow is small, the data is low-risk, and you can test and maintain it yourself. Additional help may be justified when several systems must connect, failures are costly, or the process needs security and monitoring. Public estimates distinguish lightweight tool wiring from custom automation, with costs varying substantially by complexity and maintenance. Run My AI Biz’s resources are intended to make specialized prompts and workflows more approachable, but prompts alone do not create integrations or guarantee execution. Before paying for help, write the desired trigger, output, approval point, systems involved, and success measure. Request a clear scope that separates setup, subscriptions, maintenance, and owner responsibilities.",
+        "description": "DIY works for small, low-risk workflows you can test and maintain. Consider paid help when integrations, security, monitoring, or failure costs become significant. Define triggers, outputs, approvals, systems, maintenance, and success measures before comparing providers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

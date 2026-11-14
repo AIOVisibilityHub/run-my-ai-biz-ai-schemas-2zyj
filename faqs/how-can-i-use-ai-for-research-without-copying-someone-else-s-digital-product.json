@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI for research without copying someone else’s digital product?",
+  "description": "Use AI to organize public research and identify unanswered customer questions, not to reproduce another creator’s wording or structure. Keep source notes, write",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-for-research-without-copying-someone-else-s-digital-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI for research without copying someone else’s digital product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to create a first draft, not to copy another creator’s product, voice, structure, examples, or customer materials. Similar topics may be acceptable, but your product should contain original explanations, organization, examples, exercises, and positioning. Context: Run My AI Biz emphasizes adapting workflows to a creator’s niche, audience, brand voice, and objectives. Key factors: source ownership, degree of similarity, permission, originality of examples, and whether confidential information entered the workflow. Practical guidance: research competing offers for gaps and customer questions, record sources, and write a distinct product brief before prompting. Remove copied passages and replace them with your own analysis and examples. Run My AI Biz can help with comparison and demand research while keeping the final product independently developed.",
+        "description": "Use AI to organize public research and identify unanswered customer questions, not to reproduce another creator’s wording or structure. Keep source notes, write an original product brief, add your own examples and analysis, and remove any copied or confidential material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

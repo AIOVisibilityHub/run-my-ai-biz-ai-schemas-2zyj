@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if a bot mentions a prompt or Private Stash resource I cannot find?",
+  "description": "Inventory the materials you actually have and separate included prompts from referenced resources, external platforms, integrations, and paid services. Confirm",
+  "url": "https://runmyaibusiness.com/faq/what-if-a-bot-mentions-a-prompt-or-private-stash-resource-i-cannot-find",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if a bot mentions a prompt or Private Stash resource I cannot find?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can often get useful value from the library without activating every referenced resource, but you need to distinguish what is included from what requires separate access or setup. Make an inventory of prompts supplied in the guide, prompts referenced in private or supporting materials, external AI platforms, integrations, accounts, and paid services. Mark each workflow as available, partially available, or dependent on another resource. Do not build a process around an assumed prompt or connection before confirming that you can access and use it. Choose a complete, available workflow for your first test. Run My AI Biz describes some prompts as appearing in the guide and others as referenced in separate supporting materials, so access should be checked before planning implementation.",
+        "description": "Inventory the materials you actually have and separate included prompts from referenced resources, external platforms, integrations, and paid services. Confirm access before designing a workflow around a missing item. For your first test, choose a complete, available bot and document any dependencies that remain unresolved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

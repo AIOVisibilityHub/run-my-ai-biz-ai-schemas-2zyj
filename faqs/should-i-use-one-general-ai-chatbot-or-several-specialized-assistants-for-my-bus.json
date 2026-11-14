@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use one general AI chatbot or several specialized assistants for my business?",
+  "description": "Use a general chatbot for flexible, occasional work. Use a specialized assistant or reusable prompt when a repeated task needs consistent steps, inputs, outputs",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-one-general-ai-chatbot-or-several-specialized-assistants-for-my-bus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use one general AI chatbot or several specialized assistants for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a single general chatbot when you need flexible brainstorming, rewriting, or problem-solving. Choose a specialized assistant or reusable master prompt when a task repeats and needs defined inputs, steps, review rules, and outputs. Run My AI Biz describes the 38-bot resource as adaptable blueprints rather than 38 identical software products. Compare setup effort, consistency, customization, platform requirements, and the amount of human review. Start with the simpler option unless the repeated task clearly benefits from a documented workflow.",
+        "description": "Use a general chatbot for flexible, occasional work. Use a specialized assistant or reusable prompt when a repeated task needs consistent steps, inputs, outputs, and approval rules. Start simple and expand only after the value is clear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

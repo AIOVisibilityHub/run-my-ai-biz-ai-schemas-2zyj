@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI create a digital product I can sell, or will it just make generic content?",
+  "description": "AI can help research, outline, draft, and package a digital product, but you must provide expertise, audience context, quality control, and market testing. A fi",
+  "url": "https://runmyaibusiness.com/faq/can-ai-create-a-digital-product-i-can-sell-or-will-it-just-make-generic-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI create a digital product I can sell, or will it just make generic content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help create a digital product, but it does not prove that customers want it or that the material is accurate and useful. A sensible sequence is audience research, problem definition, offer selection, outline, draft production, expert or owner review, small-scale testing, and launch preparation. Run My AI Biz covers course outlines, lesson scripts, presentations, videos, supporting materials, sales copy, and launch workflows as connected stages. Supply your own expertise, examples, and audience language so the product is not generic. Check every factual claim and test whether the finished product solves a specific customer problem.",
+        "description": "AI can help research, outline, draft, and package a digital product, but you must provide expertise, audience context, quality control, and market testing. A finished draft is not automatically useful or sellable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

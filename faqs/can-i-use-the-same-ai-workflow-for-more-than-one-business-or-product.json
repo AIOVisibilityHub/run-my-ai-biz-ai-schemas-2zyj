@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same AI workflow for more than one business or product?",
+  "description": "Yes. Reuse the workflow structure, but create separate briefs, sources, brand guidance, offers, customer data, and approval rules for each project. Test each ve",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-ai-workflow-for-more-than-one-business-or-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same AI workflow for more than one business or product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but begin by adapting one workflow to one audience and one offer instead of copying a generic system across multiple ventures. Run My AI Biz describes reusable master prompts that can be customized for different niches, brands, products, voices, and objectives while keeping each project distinct. Context: Reusing structure saves time; reusing assumptions can create inaccurate messaging or mixed customer data. Key factors: - Separate brand context, source libraries, offers, and customer records. - Replace examples, tone, constraints, and approval rules for each project. - Review outputs for cross-project contamination. Practical guidance: Maintain a separate project brief for every business and test the assistant on brand-specific examples before production use. Expand only after the first version produces consistent results.",
+        "description": "Yes. Reuse the workflow structure, but create separate briefs, sources, brand guidance, offers, customer data, and approval rules for each project. Test each version independently so assumptions or information from one business do not leak into another."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

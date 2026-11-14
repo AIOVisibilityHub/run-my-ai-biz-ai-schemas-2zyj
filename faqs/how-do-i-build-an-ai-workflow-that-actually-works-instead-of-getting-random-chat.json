@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I build an AI workflow that actually works instead of getting random chatbot answers?",
+  "description": "Define the goal, inputs, instructions, review rules, and final action. Test the workflow on real examples, document handoffs, and keep publishing, spending, and",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-build-an-ai-workflow-that-actually-works-instead-of-getting-random-chat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I build an AI workflow that actually works instead of getting random chatbot answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI workflow has five parts: a defined goal, reliable inputs, clear instructions, a review step, and an approved output or next action. For example, a newsletter workflow might collect sources, summarize relevant ideas, draft an issue, flag unsupported claims, and wait for your edits before publication. Run My AI Biz’s bot examples show how specialized assistants can support separate functions and how a chief-of-staff-style assistant can coordinate them. Keep each assistant’s role narrow at first, document the handoffs, and test the process with several real examples. A prompt alone does not create the required integrations, permissions, or quality controls.",
+        "description": "Define the goal, inputs, instructions, review rules, and final action. Test the workflow on real examples, document handoffs, and keep publishing, spending, and customer-facing actions behind your approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

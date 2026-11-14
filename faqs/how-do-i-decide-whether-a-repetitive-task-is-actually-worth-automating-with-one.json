@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I decide whether a repetitive task is actually worth automating with one of these bots?",
+  "description": "Document the task’s trigger, decisions, inputs, output, exceptions, and current time cost. It is a stronger candidate when it repeats, follows recognizable rule",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-decide-whether-a-repetitive-task-is-actually-worth-automating-with-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I decide whether a repetitive task is actually worth automating with one of these bots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by documenting the manual process you want to improve, including the trigger, decisions, inputs, output, exceptions, and current time cost. Then choose the closest bot blueprint and remove steps that do not apply to your business. Automation is a poor fit when the task changes constantly, depends on undocumented judgment, or has no reliable source data. It is a better candidate when the work repeats, follows recognizable rules, and can be checked before completion. Keep the first version advisory or draft-only, measure the result, and expand only when the owner can explain what happens during failure. Run My AI Biz’s “choose one assistant, use it, then expand” approach fits this focused implementation method.",
+        "description": "Document the task’s trigger, decisions, inputs, output, exceptions, and current time cost. It is a stronger candidate when it repeats, follows recognizable rules, has reliable source data, and can be checked before completion. Start in advisory or draft mode and expand only after measuring the result."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

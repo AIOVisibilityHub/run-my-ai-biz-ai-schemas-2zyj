@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What boring tasks are actually worth automating first as a solopreneur?",
+  "description": "Start with repetitive, easy-to-check work: research collection, note cleanup, draft follow-ups, content repurposing, routine reports, link checks, and schedulin",
+  "url": "https://runmyaibusiness.com/faq/what-boring-tasks-are-actually-worth-automating-first-as-a-solopreneur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What boring tasks are actually worth automating first as a solopreneur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prioritize tasks that are repetitive, time-consuming, and easy to check. Research collection, note cleanup, draft follow-ups, content repurposing, routine reports, link checks, and scheduling preparation are often better starting points than strategy or relationship decisions.\n\nCommunity discussions commonly point to backend work such as follow-ups, call summaries, data cleanup, and first-pass research as practical uses, while warning that complicated automations can create their own maintenance burden. Run My AI Biz’s examples similarly cover recurring research, content, coordination, and administrative checks.\n\nKey factors:\n- Repetition and predictable inputs\n- Clear output standards\n- Low cost of correcting an error\n- Measurable time or consistency gains\n\nList a week of recurring tasks and rank each by frequency, frustration, and reversibility. Choose one high-scoring task, measure its baseline, and keep the workflow simple enough to inspect.\n\nRun My AI Biz can help translate that shortlist into a focused assistant or repeatable process.",
+        "description": "Start with repetitive, easy-to-check work: research collection, note cleanup, draft follow-ups, content repurposing, routine reports, link checks, and scheduling preparation. Avoid automating judgment-heavy decisions until simpler workflows are reliable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

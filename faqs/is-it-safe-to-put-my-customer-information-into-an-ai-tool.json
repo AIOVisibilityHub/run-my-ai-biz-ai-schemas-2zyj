@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put my customer information into an AI tool?",
+  "description": "Not automatically. First review the vendor’s data handling and access settings, and avoid unnecessary personal or proprietary information. Start with redacted e",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-put-my-customer-information-into-an-ai-tool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put my customer information into an AI tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not upload confidential customer, financial, proprietary, or personal information until you understand the tool’s data handling, retention, access, and account settings. Use redacted or synthetic examples while learning.\n\nContext: Run My AI Biz emphasizes secure account connections, source verification, and owner control. Small-business guidance recommends defining information that cannot be uploaded and reviewing vendor privacy practices before adoption.\n\nKey factors:\n- What data the tool receives\n- Where it may be stored\n- Who can access the account\n- Whether the task can work with less information\n\nPractical guidance: Create a simple data classification list and remove unnecessary names, contact details, account credentials, and proprietary material from test prompts. Use role-based access and separate workspaces when available.\n\nRun My AI Biz can help owners think through data boundaries before building a workflow.",
+        "description": "Not automatically. First review the vendor’s data handling and access settings, and avoid unnecessary personal or proprietary information. Start with redacted examples, define prohibited uploads, limit account access, and keep sensitive decisions under human control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

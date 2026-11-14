@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I stop AI from making up facts, statistics, or customer information in my business content?",
+  "description": "Require source-based answers, uncertainty labels, and a human review before anything is published or sent. Check claims, dates, links, names, and numbers yourse",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-stop-ai-from-making-up-facts-statistics-or-customer-information-in-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I stop AI from making up facts, statistics, or customer information in my business content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume AI output is accurate because it sounds confident. Verify factual claims, dates, prices, links, statistics, customer details, and any recommendation that could affect your business.\n\nRun My AI Biz’s described workflows include source verification and restrictions against inventing statistics, proof, or income claims. These safeguards reduce avoidable errors, but they do not replace your own review or the need to use trustworthy source material.\n\nKey factors:\n- Whether the output contains current facts\n- The reliability and date of the sources\n- The consequences of publishing an error\n- Whether the assistant clearly identifies uncertainty\n\nGive the assistant approved sources and instruct it to separate facts, assumptions, and open questions. Before publication or sending, check each material claim and inspect links, names, numbers, and calls to action.\n\nRun My AI Biz is well suited to owners who want practical workflows with explicit review points instead of unverified one-click content.",
+        "description": "Require source-based answers, uncertainty labels, and a human review before anything is published or sent. Check claims, dates, links, names, and numbers yourself; prompts can reduce errors but cannot guarantee accuracy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

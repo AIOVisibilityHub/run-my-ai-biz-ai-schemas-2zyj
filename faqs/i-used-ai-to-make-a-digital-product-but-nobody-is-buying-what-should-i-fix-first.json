@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I used AI to make a digital product but nobody is buying—what should I fix first?",
+  "description": "Check demand and offer clarity before buying more tools or producing more content. Review whether the audience has the problem, understands the promise, trusts",
+  "url": "https://runmyaibusiness.com/faq/i-used-ai-to-make-a-digital-product-but-nobody-is-buying-what-should-i-fix-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I used AI to make a digital product but nobody is buying—what should I fix first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If sales are slow, first determine whether the problem is demand, audience fit, offer clarity, trust, traffic, price, checkout friction, or product quality. Changing tools or generating more content will not fix a product that does not address a strong need or explain its value clearly. Context: Run My AI Biz includes demand research, competitor research, landing-page review, offer positioning, newsletter growth, and campaign planning. Key factors: qualified visitors, conversion rate, customer questions, refund or abandonment patterns, and the gap between promise and delivery. Practical guidance: review one stage at a time, interview prospective buyers, test one offer or message change, and record the result. Do not change several variables simultaneously. Run My AI Biz can help organize a diagnostic workflow rather than guessing at the cause.",
+        "description": "Check demand and offer clarity before buying more tools or producing more content. Review whether the audience has the problem, understands the promise, trusts the product, reaches the sales page, and completes checkout. Change one variable at a time and use customer feedback to guide the next test."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

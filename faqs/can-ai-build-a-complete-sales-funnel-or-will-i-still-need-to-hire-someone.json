@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build a complete sales funnel, or will I still need to hire someone?",
+  "description": "AI can draft the main funnel components, including a lead magnet, pages, emails, and promotional copy. You still need to define the audience and offer, connect",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-a-complete-sales-funnel-or-will-i-still-need-to-hire-someone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build a complete sales funnel, or will I still need to hire someone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can support a funnel by drafting an opt-in page, lead magnet, bridge page, thank-you page, email sequence, and promotional content. It should not be assumed that connecting those pieces automatically creates conversions.\n\nThe quality of the offer, audience fit, message clarity, deliverability, tracking, and human review still determine whether the funnel is useful. AI can produce consistent drafts faster, but testing is needed to learn what prospective customers respond to.\n\nKey factors:\n- Clear audience problem and promise\n- Useful lead magnet\n- Logical sequence between pages and emails\n- Measurement and revision plan\n\nStart with one audience and one offer. Run My AI Business’s Affiliate Pro example illustrates how funnel components can be developed together and tailored to a selected niche and offer.",
+        "description": "AI can draft the main funnel components, including a lead magnet, pages, emails, and promotional copy. You still need to define the audience and offer, connect the tools, review claims, test the sequence, and improve it using real performance data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

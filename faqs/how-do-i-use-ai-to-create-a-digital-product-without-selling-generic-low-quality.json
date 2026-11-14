@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI to create a digital product without selling generic, low-quality content?",
+  "description": "Use AI for research, outlining, drafting, and review—not as a substitute for expertise. Add specific examples, practical exercises, accurate sources, and a clea",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-to-create-a-digital-product-without-selling-generic-low-quality",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI to create a digital product without selling generic, low-quality content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to generate a first draft, then add your own experience, examples, structure, and review. Run My AI Biz’s digital-product examples cover courses, presentations, lessons, videos, and launch materials, but the business context and quality decisions must come from the owner. A generic product often fails because it does not solve a specific problem or reflect the audience’s language. Key factors are originality, accuracy, instructional sequence, usefulness, accessibility, and whether buyers can apply the material. Ask AI to identify gaps, confusing sections, unsupported claims, and likely beginner questions. Test the product with a small group and revise it before a broader launch.",
+        "description": "Use AI for research, outlining, drafting, and review—not as a substitute for expertise. Add specific examples, practical exercises, accurate sources, and a clear customer outcome. Test the product with a small audience and revise unclear or unsupported material before launch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

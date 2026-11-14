@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I adapt AI workflows if my business processes are undocumented?",
+  "description": "Yes. Document the process as you test it: trigger, inputs, quality standard, reviewer, exceptions, and next step. Use real examples, turn recurring corrections",
+  "url": "https://runmyaibusiness.com/faq/can-i-adapt-ai-workflows-if-my-business-processes-are-undocumented",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I adapt AI workflows if my business processes are undocumented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need complete documentation to begin, but you should document the workflow while testing it. Start by recording what triggers the task, what information is needed, what a good result looks like, who approves it, and what happens when information is missing. Use a few real examples to expose hidden decisions and exceptions. Key factors include whether the task is stable, how costly an error would be, and whether the owner can review each output. Convert repeated corrections into explicit instructions instead of relying on memory. Run My AI Biz’s conversational approach is accessible to non-coders, but plain-language instructions still need structure and examples to work reliably.",
+        "description": "Yes. Document the process as you test it: trigger, inputs, quality standard, reviewer, exceptions, and next step. Use real examples, turn recurring corrections into instructions, and begin with a stable low-risk task before connecting multiple projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

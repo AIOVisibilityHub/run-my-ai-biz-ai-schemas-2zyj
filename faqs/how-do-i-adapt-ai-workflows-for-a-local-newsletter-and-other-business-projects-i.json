@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I adapt AI workflows for a local newsletter and other business projects in the US?",
+  "description": "Create a separate local profile with the target area, verified sources, dates, audience, and sponsor criteria. Check local listings and business details before",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-adapt-ai-workflows-for-a-local-newsletter-and-other-business-projects-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I adapt AI workflows for a local newsletter and other business projects in the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Location matters when a workflow uses local sponsors, activities, service businesses, directories, or region-specific customer research. Keep a separate local project profile containing the target area, approved local sources, business categories, dates, and review requirements. Do not ask a general assistant to infer current local facts or merge several regions into one audience. Check addresses, operating details, and time-sensitive listings before publication. Run My AI Biz includes examples involving local newsletters, local activities, local business websites, and sponsor prospecting, so those workflows should be adapted with verified local inputs rather than copied broadly.",
+        "description": "Create a separate local profile with the target area, verified sources, dates, audience, and sponsor criteria. Check local listings and business details before publishing, and keep the local newsletter’s voice, subscribers, and offers separate from other projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I trust the billing and support bots with customer-facing administrative work?",
+  "description": "Use them first for monitoring, classification, alerts, and draft responses. Define approved data sources, escalation rules, exception cases, and required review",
+  "url": "https://runmyaibusiness.com/faq/can-i-trust-the-billing-and-support-bots-with-customer-facing-administrative-wor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I trust the billing and support bots with customer-facing administrative work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep billing and support bots limited to monitoring, classification, drafting, and escalation until you have tested their accuracy. Define which systems they may read, what counts as overdue or urgent, who receives an alert, and which actions always require approval. Never let a draft reminder imply a fact that the underlying billing record does not confirm. Include an exception path for disputed charges, partial payments, refunds, unusual account activity, or missing records. Review logs and sample cases regularly, especially after changing payment systems or account permissions. Use a manual approval step before any customer-facing reminder is sent. Run My AI Biz describes billing monitoring, overdue-payment reminders, first-line support, and server-health reporting as operational examples requiring oversight.",
+        "description": "Use them first for monitoring, classification, alerts, and draft responses. Define approved data sources, escalation rules, exception cases, and required reviewers. Keep human approval before reminders or support messages are sent, and audit sample cases after any payment-system, permission, or workflow change."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

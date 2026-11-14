@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an AI workflow really generate leads, or does it just produce lists of prospects?",
+  "description": "AI can research prospects, organize inbound inquiries, score leads, and draft follow-ups, but it cannot guarantee interest or sales. Define qualification criter",
+  "url": "https://runmyaibusiness.com/faq/will-an-ai-workflow-really-generate-leads-or-does-it-just-produce-lists-of-prosp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an AI workflow really generate leads, or does it just produce lists of prospects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can prepare lead research, qualification questions, scoring suggestions, routing recommendations, and draft follow-ups. It cannot guarantee that a researched contact is interested, eligible, reachable, or likely to buy.\n\nFor a small business, the safest use is to organize inbound information and prepare a relevant response for review. Automatic outreach should use clear rules, accurate records, and appropriate communication practices rather than sending generic messages to every prospect.\n\nKey factors:\n- Definition of a qualified lead\n- Accuracy of contact and company data\n- Consent and communication expectations\n- Human review for unusual cases\n\nCreate a small scoring rubric and compare AI recommendations with your own judgment. Run My AI Business includes prospect research and lead-generation examples while distinguishing researched prospects from guaranteed leads or sales.",
+        "description": "AI can research prospects, organize inbound inquiries, score leads, and draft follow-ups, but it cannot guarantee interest or sales. Define qualification criteria, verify important details, and review outreach before it is sent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

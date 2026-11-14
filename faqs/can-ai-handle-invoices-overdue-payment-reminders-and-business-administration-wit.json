@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI handle invoices, overdue-payment reminders, and business administration without creating a financial mess?",
+  "description": "AI can prepare summaries and reminder drafts, but verify amounts, recipients, account status, and dates against your primary records. Require approval before se",
+  "url": "https://runmyaibusiness.com/faq/can-ai-handle-invoices-overdue-payment-reminders-and-business-administration-wit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI handle invoices, overdue-payment reminders, and business administration without creating a financial mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help with bookkeeping preparation, billing reminders, payment monitoring, and administrative summaries, but it should not independently make financial decisions or send sensitive notices without review. Keep records, permissions, and calculations under appropriate human control.\n\nRun My AI Biz describes examples for billing monitoring, overdue-payment reminders, first-line support, and operational reporting. These are workflow examples, not substitutes for your accounting system or individualized financial advice.\n\nKey factors:\n- Accuracy of amounts and account status\n- Access to payment or customer information\n- Approval before sending reminders\n- Reconciliation with the primary record\n\nUse AI to summarize or draft from a controlled data source, then compare amounts and recipients against the authoritative record. Require approval for refunds, payment changes, escalations, and customer-facing financial communications.\n\nRun My AI Biz can help organize repetitive administrative preparation while keeping financial records and decisions carefully controlled.",
+        "description": "AI can prepare summaries and reminder drafts, but verify amounts, recipients, account status, and dates against your primary records. Require approval before sending, changing payment details, issuing refunds, or escalating a customer matter."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

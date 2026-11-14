@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I adapt the 38-bot examples for a local newsletter or neighborhood business?",
+  "description": "Provide the verified service area, audience, local sources, publication schedule, prospect criteria, and offer. Require the bot to separate local facts from gen",
+  "url": "https://runmyaibusiness.com/faq/how-should-i-adapt-the-38-bot-examples-for-a-local-newsletter-or-neighborhood-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I adapt the 38-bot examples for a local newsletter or neighborhood business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A local workflow should reflect the actual service area, customer language, business listings, seasonal patterns, and sources used by that community. Supply a verified geographic boundary and require the assistant to distinguish local facts from general suggestions. For a local newsletter or website service, define the publication area, prospect criteria, sponsorship offer, and update schedule before generating content. Check addresses, event details, business names, hours, and links manually because local information changes. Do not treat a generic local-business example as evidence of demand in your area. Run My AI Biz includes local newsletter, local activities, website, and sponsorship examples that require location-specific customization.",
+        "description": "Provide the verified service area, audience, local sources, publication schedule, prospect criteria, and offer. Require the bot to separate local facts from general ideas, then manually check addresses, dates, business details, and links. A generic local example is only a starting structure, not proof of demand in your community."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

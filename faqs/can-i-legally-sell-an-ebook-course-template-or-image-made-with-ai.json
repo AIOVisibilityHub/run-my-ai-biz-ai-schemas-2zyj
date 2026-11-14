@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I legally sell an ebook, course, template, or image made with AI?",
+  "description": "Possibly, but AI output is not automatically cleared for commercial use. Check each tool’s current terms, use authorized inputs, review for third-party material",
+  "url": "https://runmyaibusiness.com/faq/can-i-legally-sell-an-ebook-course-template-or-image-made-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I legally sell an ebook, course, template, or image made with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated work is not automatically ready for commercial use, and rights can depend on the platform’s terms, the material used, and the originality of the final result. Run My AI Biz encourages review of sources, claims, and supporting assets rather than assuming a prompt resolves ownership questions. Context: Text, images, music, voices, trademarks, and customer data can raise different concerns. Key factors: - Read the current commercial-use and output-license terms for each tool. - Avoid uploading material you do not have permission to use. - Keep records of your prompts, source materials, edits, and licenses. Practical guidance: Use original inputs or properly licensed assets, replace questionable generated elements, and obtain qualified advice for high-value or sensitive projects. Treat AI as a production aid, not a guarantee that every output is free of third-party issues.",
+        "description": "Possibly, but AI output is not automatically cleared for commercial use. Check each tool’s current terms, use authorized inputs, review for third-party material, and keep records of sources, licenses, prompts, and edits before selling the finished product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

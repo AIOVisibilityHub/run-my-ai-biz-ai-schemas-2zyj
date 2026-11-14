@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I use AI to run my small business by myself?",
+  "description": "AI may produce inaccurate claims, expose sensitive information, create unsuitable messages, or cause costly actions if given too much autonomy. Use source check",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-use-ai-to-run-my-small-business-by-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I use AI to run my small business by myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are inaccurate outputs, invented facts, privacy exposure, inappropriate customer messages, weak source quality, and excessive reliance on automation. Small-business guidance recommends human review, careful handling of proprietary information, attention to intellectual-property concerns, and monitoring customer-facing content. Run My AI Biz’s stated safeguards include approval before sending, publishing, spending, or signing up for services. Do not place confidential customer or business information into a tool unless its terms and settings are suitable for that use. Maintain source links, review claims, restrict permissions, and keep a manual fallback for important processes.",
+        "description": "AI may produce inaccurate claims, expose sensitive information, create unsuitable messages, or cause costly actions if given too much autonomy. Use source checks, restricted permissions, approval gates, and a manual backup process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

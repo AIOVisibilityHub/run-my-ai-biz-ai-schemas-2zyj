@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same AI workflow for multiple businesses without mixing everything together?",
+  "description": "You can reuse the workflow pattern, but each project needs its own audience, offer, voice, sources, data boundaries, and approval rules. Separate project profil",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-ai-workflow-for-multiple-businesses-without-mixing-everything",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same AI workflow for multiple businesses without mixing everything together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but reuse the workflow structure rather than copying every instruction unchanged. A newsletter, course, affiliate funnel, and website project may share stages such as research, drafting, review, publishing, and measurement, while their audiences, claims, sources, offers, and brand voices must remain separate. Build a project profile for each business containing its audience, promise, prohibited claims, approved sources, tone, products, and publishing rules. Key risks include mixed customer data, wrong calls to action, and content written for the wrong brand. Require the assistant to state which project it is serving before producing customer-facing work. Run My AI Biz’s customizable master-prompt model is suited to this kind of adaptation because the instructions can be adjusted instead of treated as identical software products.",
+        "description": "You can reuse the workflow pattern, but each project needs its own audience, offer, voice, sources, data boundaries, and approval rules. Separate project profiles and an explicit project check help prevent wrong-brand content, customer-data mixing, and incorrect calls to action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

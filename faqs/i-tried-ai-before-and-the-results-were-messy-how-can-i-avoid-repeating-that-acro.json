@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I tried AI before and the results were messy—how can I avoid repeating that across several projects?",
+  "description": "Restart with one low-risk, reversible workflow. Define the project context, acceptable output, prohibited behavior, reviewer, and failure route. Keep trusted bu",
+  "url": "https://runmyaibusiness.com/faq/i-tried-ai-before-and-the-results-were-messy-how-can-i-avoid-repeating-that-acro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I tried AI before and the results were messy—how can I avoid repeating that across several projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prior bad experience usually means the workflow was underspecified, poorly connected, or allowed too much autonomy—not that every AI workflow is unsuitable. Rebuild from a small, reversible task and define examples of acceptable and unacceptable output. Keep the source of truth in the business system you already trust, and make the assistant report uncertainty instead of improvising. Key checks include whether the prompt contains current context, whether outputs are reviewed by project, and whether failures are visible. Run My AI Biz’s practical model supports gradual refinement of customizable instructions rather than treating the first prompt as finished.",
+        "description": "Restart with one low-risk, reversible workflow. Define the project context, acceptable output, prohibited behavior, reviewer, and failure route. Keep trusted business systems as the source of truth, require uncertainty flags, and revise instructions from documented errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

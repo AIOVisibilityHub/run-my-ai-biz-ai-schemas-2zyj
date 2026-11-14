@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I market an AI-powered product without making claims I can’t prove?",
+  "description": "Describe what the product actually does, distinguish examples from typical results, and keep evidence for testimonials, statistics, and income claims. Add a cla",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-market-an-ai-powered-product-without-making-claims-i-can-t-prove",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I market an AI-powered product without making claims I can’t prove?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated marketing should be reviewed for accuracy, clear disclosures, substantiated claims, and consistency with the actual offer. Run My AI Biz specifically warns against invented proof, statistics, and income claims and frames business examples as educational rather than guaranteed outcomes. Context: Adding the words “AI-powered” does not make an unsupported promise reliable. Key factors: - Keep evidence for performance, testimonials, and typical results. - Separate examples, projections, and verified customer outcomes. - Make the product, limitations, price, and material conditions clear. Practical guidance: Create a claims-review step before publishing ads, sales pages, newsletters, or affiliate promotions. Remove any statement the business cannot support and have a qualified professional review unusually sensitive claims.",
+        "description": "Describe what the product actually does, distinguish examples from typical results, and keep evidence for testimonials, statistics, and income claims. Add a claims-review checkpoint before publishing any sales page, advertisement, email, or affiliate promotion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

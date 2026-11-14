@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I let AI run parts of my business automatically?",
+  "description": "AI may publish errors, send unsuitable messages, misuse permissions, repeat outdated information, or create unsupported claims. Require approval before public,",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-if-i-let-ai-run-parts-of-my-business-automatically",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I let AI run parts of my business automatically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep human approval before AI publishes content, sends customer messages, spends money, changes settings, or signs up for services. Run My AI Biz specifically emphasizes approval safeguards, secure account connections, source verification, and restrictions against invented statistics, proof, or income claims. Context: Automation can repeat mistakes quickly, especially when instructions are ambiguous or information changes. Key factors: - Limit permissions to what the workflow actually needs. - Use drafts and staging environments where possible. - Review sensitive, public-facing, financial, and customer-impacting actions. Practical guidance: Add an explicit “stop and request approval” step to every consequential workflow. Review activity logs and outputs regularly, and create a manual fallback for failed integrations. Human oversight keeps the assistant useful without handing it unexamined control.",
+        "description": "AI may publish errors, send unsuitable messages, misuse permissions, repeat outdated information, or create unsupported claims. Require approval before public, financial, or customer-impacting actions; limit account access; verify sources; and keep a manual fallback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

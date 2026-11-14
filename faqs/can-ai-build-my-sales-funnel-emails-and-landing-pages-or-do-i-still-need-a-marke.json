@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build my sales funnel, emails, and landing pages, or do I still need a marketer?",
+  "description": "AI can draft funnel components, emails, and landing-page copy, but it cannot guarantee conversions or replace offer and audience judgment. Build a small complet",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-my-sales-funnel-emails-and-landing-pages-or-do-i-still-need-a-marke",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build my sales funnel, emails, and landing pages, or do I still need a marketer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft a funnel, but it cannot guarantee conversions. Run My AI Biz describes connected materials such as an opt-in page, lead magnet, bridge page, thank-you page, sales page, and email follow-up, with review before publication. Context: A funnel works only when the offer, audience, promise, proof, message, page experience, and follow-up align. Generating more copy will not fix a weak offer or unclear customer problem. Key factors: - Match the lead magnet to the next offer. - Make each page answer the customer’s next reasonable question. - Track sign-ups, delivery, clicks, replies, sales, and drop-off points. Practical guidance: Build the smallest complete path first and test links, delivery, mobile display, unsubscribe handling, and message consistency. Improve one weak stage at a time rather than changing the whole funnel without evidence.",
+        "description": "AI can draft funnel components, emails, and landing-page copy, but it cannot guarantee conversions or replace offer and audience judgment. Build a small complete path, test delivery and links, track each stage, and revise based on actual customer behavior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

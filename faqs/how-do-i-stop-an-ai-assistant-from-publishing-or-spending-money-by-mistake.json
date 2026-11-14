@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop an AI assistant from publishing or spending money by mistake?",
+  "description": "Keep publishing, messaging, purchasing, sign-ups, and account changes behind explicit approval. Limit permissions, test with dummy data, separate draft from liv",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-an-ai-assistant-from-publishing-or-spending-money-by-mistake",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop an AI assistant from publishing or spending money by mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set approval checkpoints before any action that publishes, sends, spends, changes an account, or affects a customer. AI can prepare the draft or recommended action, while the owner retains the final decision.\n\nContext: Run My AI Biz explicitly emphasizes approval before messages, publication, spending, and service sign-ups. Its workflows also call for secure account connections and source verification.\n\nKey factors:\n- Action severity\n- Account permissions\n- Reversibility\n- Availability of an audit trail\n\nPractical guidance: Use separate draft and live environments where possible, restrict permissions to the minimum needed, and keep a record of who approved each consequential action. Test with dummy data before granting live access.\n\nRun My AI Biz teaches human-directed automation rather than unattended control.",
+        "description": "Keep publishing, messaging, purchasing, sign-ups, and account changes behind explicit approval. Limit permissions, test with dummy data, separate draft from live work where possible, and keep an approval record for consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

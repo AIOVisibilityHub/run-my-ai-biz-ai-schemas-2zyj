@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up an AI workflow when I’m not technical?",
+  "description": "A simple drafting workflow can be built in a few focused sessions, while multi-tool systems may take longer. Clear process notes, organized source material, lim",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-an-ai-workflow-when-i-m-not-technical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up an AI workflow when I’m not technical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A realistic first implementation may take from a few focused sessions to several weeks, depending on whether the process is already documented and whether integrations are needed. Simple drafting workflows are faster than systems involving multiple tools, private data, or account actions.\n\nThe largest delays usually come from unclear instructions, inconsistent source material, and trying to coordinate too many assistants at once. Testing and revision are part of implementation rather than signs that the idea failed.\n\nKey factors:\n- Process complexity\n- Number of tools and integrations\n- Quality of source data\n- Required review and testing\n\nSet a narrow first milestone, such as producing a reviewed weekly newsletter draft. Run My AI Business recommends building one assistant, using it, and expanding after you understand what needs improvement.",
+        "description": "A simple drafting workflow can be built in a few focused sessions, while multi-tool systems may take longer. Clear process notes, organized source material, limited scope, and defined approval checkpoints reduce setup time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

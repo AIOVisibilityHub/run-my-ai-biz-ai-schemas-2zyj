@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m overwhelmed by all the AI tools—what should I learn first for my online business?",
+  "description": "Begin with one recurring business task, such as research, a lead magnet, or an email draft. Test one primary AI assistant manually, measure time saved and error",
+  "url": "https://runmyaibusiness.com/faq/i-m-overwhelmed-by-all-the-ai-tools-what-should-i-learn-first-for-my-online-busi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m overwhelmed by all the AI tools—what should I learn first for my online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one business problem and one workflow, not a long list of software. For example, use Run My AI Biz education to examine whether AI can help draft a lead magnet, organize product research, or prepare an email sequence before adding automation.\n\nThe main challenge is separating a useful workflow from tool collecting. A focused test gives you a clearer way to judge quality, time saved, setup effort, and required human review.\n\nKey factors:\n- Choose a recurring task with a clear output.\n- Record the current time and effort involved.\n- Begin with one primary AI assistant and only the supporting tools you need.\n- Keep approval before publishing, messaging, spending, or account changes.\n\nWrite down the task, inputs, desired result, and review standards before testing. Run the process manually with AI assistance first, then consider automating one step after the output is reliable.\n\nRun My AI Biz is most useful when its lessons help you turn a specific business need into a manageable experiment.",
+        "description": "Begin with one recurring business task, such as research, a lead magnet, or an email draft. Test one primary AI assistant manually, measure time saved and error rate, and add tools only when the workflow is dependable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

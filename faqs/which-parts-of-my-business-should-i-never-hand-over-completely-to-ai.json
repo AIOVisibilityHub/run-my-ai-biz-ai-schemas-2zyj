@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of my business should I never hand over completely to AI?",
+  "description": "Keep final control over strategy, pricing, promises, spending, public claims, customer-sensitive decisions, and publication. Let AI prepare drafts, research, op",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-my-business-should-i-never-hand-over-completely-to-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of my business should I never hand over completely to AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep your own judgment in charge of offers, pricing, customer promises, public claims, spending, and final publication. AI is better suited to research organization, first drafts, content variations, summaries, checklists, and routine preparation.\n\nRun My AI Biz’s chief-of-staff-style examples can coordinate specialized assistants, but coordination does not replace the owner’s responsibility for priorities, accuracy, and decisions.\n\nKey factors:\n- Whether the task depends on personal knowledge of the audience.\n- The consequences of an incorrect output.\n- The need for brand voice or ethical judgment.\n- Whether a customer expects a human response.\n\nCreate an approval list for decisions AI may prepare but not finalize. Ask for alternatives and assumptions, then make the decision using verified information and your business goals.\n\nThe educational model supports delegation of repeatable work while preserving owner control.",
+        "description": "Keep final control over strategy, pricing, promises, spending, public claims, customer-sensitive decisions, and publication. Let AI prepare drafts, research, options, and checklists, then review and approve consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

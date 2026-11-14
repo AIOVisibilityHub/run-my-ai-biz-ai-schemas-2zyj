@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need coding skills to start an AI-supported online business?",
+  "description": "No coding background is required for many AI-assisted workflows, but you must still define the process, provide business context, check results, and manage conn",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-coding-skills-to-start-an-ai-supported-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need coding skills to start an AI-supported online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need coding experience to begin, but you do need to learn how to give clear instructions, review outputs, and operate the connected platforms. Run My AI Biz emphasizes conversational workflows and approachable explanations, while its bot resources use customizable master prompts rather than requiring every owner to build software from scratch. The practical difficulty usually comes from defining the business process, supplying accurate context, handling integrations, and deciding what requires approval. Start with a prompt that produces a draft or report, not one that publishes or spends money. Test it against several known examples and revise unclear instructions. The educational newsletter can help you understand tool capabilities before committing to a complex setup.",
+        "description": "No coding background is required for many AI-assisted workflows, but you must still define the process, provide business context, check results, and manage connected tools. Begin with a low-risk drafting or research task before attempting publishing, payments, or complex integrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I sell my AI digital product on a marketplace or through my own website?",
+  "description": "A marketplace may simplify discovery and delivery, while your own site offers more control over branding, customer relationships, and the sales path. Compare fe",
+  "url": "https://runmyaibusiness.com/faq/should-i-sell-my-ai-digital-product-on-a-marketplace-or-through-my-own-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I sell my AI digital product on a marketplace or through my own website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selling through a marketplace can provide built-in discovery and delivery features, while selling through your own site can offer more control over branding, customer relationships, pricing, and data. The right choice depends on your audience, product type, technical comfort, fees, promotion ability, and tolerance for setup work. Context: Run My AI Biz addresses sales pages, checkout, delivery, newsletters, funnels, websites, and platform setup rather than prescribing one channel. Key factors: audience access, transaction costs, email ownership, customization, support, and platform restrictions. Practical guidance: compare the complete customer path from discovery to delivery and export your customer and sales records where permitted. Test checkout, confirmation emails, and file or course access before launch. Run My AI Biz can help map the operational differences between channels.",
+        "description": "A marketplace may simplify discovery and delivery, while your own site offers more control over branding, customer relationships, and the sales path. Compare fees, audience access, email ownership, customization, support, and platform restrictions. Test the complete checkout and delivery experience first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

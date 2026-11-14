@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use an AI chatbot for customer support or keep answering customers myself?",
+  "description": "Use AI first for FAQ drafts, conversation summaries, triage, and routing, while keeping human handling for sensitive or unusual issues. A useful support assista",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-an-ai-chatbot-for-customer-support-or-keep-answering-customers-myse",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use an AI chatbot for customer support or keep answering customers myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most early-stage businesses, AI should assist with customer support before it replaces human responses. It can classify questions, summarize conversations, locate approved information, and draft replies while escalating sensitive, unusual, or unresolved issues.\n\nA generic chatbot is more likely to frustrate customers when it lacks accurate business information or cannot recognize its limits. Build the workflow around your actual FAQs, policies, products, and escalation rules.\n\nKey factors:\n- Quality of the knowledge base\n- Types of customer questions\n- Required response speed\n- Clear human handoff conditions\n\nReview a sample of conversations regularly and update the approved answers when products or policies change. Run My AI Business’s first-line support examples are best understood as preparation and routing workflows with owner oversight.",
+        "description": "Use AI first for FAQ drafts, conversation summaries, triage, and routing, while keeping human handling for sensitive or unusual issues. A useful support assistant needs current business information and explicit handoff rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

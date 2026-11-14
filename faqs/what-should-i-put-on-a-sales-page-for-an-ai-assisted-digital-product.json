@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I put on a sales page for an AI-assisted digital product?",
+  "description": "Explain who it is for, the problem addressed, realistic outcomes, what buyers receive, format, price, delivery, support, limitations, and the next step. Add a p",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-put-on-a-sales-page-for-an-ai-assisted-digital-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I put on a sales page for an AI-assisted digital product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong product page should explain the audience, problem, promised transformation, contents, format, price, limitations, delivery, support, and next step. AI can draft sections, but the final page should use specific customer language and verifiable information rather than inflated claims. Context: Run My AI Biz covers sales copy, sales pages, landing-page analysis, offer positioning, and launch preparation. Key factors: buyer awareness, objections, proof, product scope, refund or access details, and mobile readability. Practical guidance: list exactly what is included and excluded, show a sample or preview, answer likely questions, and test every button and link. Remove any claim that cannot be supported. Run My AI Biz can help create a review checklist and alternative drafts for comparison.",
+        "description": "Explain who it is for, the problem addressed, realistic outcomes, what buyers receive, format, price, delivery, support, limitations, and the next step. Add a preview or sample, use specific customer language, verify every claim, and test buttons, links, and checkout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

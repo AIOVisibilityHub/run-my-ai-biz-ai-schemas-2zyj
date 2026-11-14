@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts when several projects use the same workflow?",
+  "description": "Give each project an evidence pack with approved facts, sources, offer details, examples, and prohibited claims. Require the assistant to flag missing informati",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-when-several-projects-use-the-same-workflo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts when several projects use the same workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reliable workflows need more than a polished prompt. Create a small evidence pack for each project: approved facts, source links, customer language, product details, pricing, brand rules, examples of acceptable output, and claims the assistant must not make. Tell the assistant to identify missing evidence instead of filling gaps. Key checks include source freshness, factual consistency, citations or internal references where appropriate, and whether the output matches the project’s audience. Keep a change log when facts, offers, or policies change. Run My AI Biz specifically emphasizes source verification and restrictions against inventing statistics, proof, or income claims, making those checks useful across newsletters, sales pages, and promotional drafts.",
+        "description": "Give each project an evidence pack with approved facts, sources, offer details, examples, and prohibited claims. Require the assistant to flag missing information instead of guessing, and review source freshness, factual accuracy, audience fit, and brand consistency before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

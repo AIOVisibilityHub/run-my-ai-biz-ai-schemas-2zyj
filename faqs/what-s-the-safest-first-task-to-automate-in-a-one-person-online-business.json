@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the safest first task to automate in a one-person online business?",
+  "description": "Choose a frequent, low-risk task with stable inputs and an easy-to-check result, such as research collection, newsletter drafting, content repurposing, or link",
+  "url": "https://runmyaibusiness.com/faq/what-s-the-safest-first-task-to-automate-in-a-one-person-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the safest first task to automate in a one-person online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business can benefit from AI without automating everything. Start with a repetitive task that has stable inputs and an easy-to-check result, such as research collection, newsletter drafting, content repurposing, link checking, or routine administrative preparation.\n\nRun My AI Biz recommends choosing relevant workflows, building one assistant, using it, and expanding gradually. This reduces the chance of creating a complicated system before you understand where it fails.\n\nKey factors:\n- Frequency and time cost of the task.\n- Consistency of the information involved.\n- Error consequences and review effort.\n- Whether the current tools can connect reliably.\n\nRecord the manual process, define the expected output, and run several supervised trials. Measure one or two indicators such as time saved, error rate, or completed items before automating another step.\n\nRun My AI Biz can help turn a repetitive task into a documented, reviewable workflow.",
+        "description": "Choose a frequent, low-risk task with stable inputs and an easy-to-check result, such as research collection, newsletter drafting, content repurposing, or link checking. Test it manually with AI before connecting automation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

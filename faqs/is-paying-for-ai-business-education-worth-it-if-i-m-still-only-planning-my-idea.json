@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is paying for AI business education worth it if I’m still only planning my idea?",
+  "description": "It may be worthwhile if the material helps you make a specific decision or complete a real test. Run My AI Biz lists a free option and a $9-per-month paid newsl",
+  "url": "https://runmyaibusiness.com/faq/is-paying-for-ai-business-education-worth-it-if-i-m-still-only-planning-my-idea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is paying for AI business education worth it if I’m still only planning my idea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A paid AI education subscription may be worthwhile when it helps you make decisions and complete work you would otherwise postpone. Run My AI Biz lists a $9-per-month paid newsletter option for full weekly issues, alongside a free starting option.\n\nValue depends on whether you use the material for your current business problem. Reading comparisons without testing a workflow may not justify any subscription, while a useful process, saved research time, or clearer next step may provide practical value.\n\nKey factors:\n- Relevance to your business stage and model.\n- Frequency and usefulness of the lessons.\n- Whether examples include setup and review details.\n- The cost of additional tools needed to act.\n\nChoose a specific outcome for the next month, such as comparing tools, drafting a product outline, or testing a lead magnet. Reassess after using the lessons rather than subscribing indefinitely by default.\n\nRun My AI Biz is best treated as ongoing education, not a promise of income.",
+        "description": "It may be worthwhile if the material helps you make a specific decision or complete a real test. Run My AI Biz lists a free option and a $9-per-month paid newsletter for full weekly issues; judge value by use, not access alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI automation without exposing customer information or my private business data?",
+  "description": "Share only the information the task needs, redact sensitive details, limit connected-account permissions, protect credentials, and review each platform’s data-h",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-automation-without-exposing-customer-information-or-my-private-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI automation without exposing customer information or my private business data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can keep sensitive information out of the workflow, limit account permissions, use only necessary connections, and review the platform’s data-handling terms before uploading business material. Run My AI Biz specifically emphasizes secure account connections and owner control, but the exact privacy protections depend on the AI platform, integrations, and settings you use. Context: Proprietary offers, customer information, credentials, financial details, and unpublished strategy should not be shared casually. Approval checkpoints control actions; they do not automatically protect data entered earlier. Key factors: - What data the task truly needs. - Where that data is stored or transmitted. - Who can access the connected account. - Whether retention and deletion settings are available. Practical guidance: Create a data classification list, redact unnecessary details, use separate credentials where possible, and review connected-app permissions regularly. Do not place passwords or secret keys in prompts. Run My AI Biz provides educational context, while each user must verify the safeguards of the selected tools.",
+        "description": "Share only the information the task needs, redact sensitive details, limit connected-account permissions, protect credentials, and review each platform’s data-handling settings. Approval steps do not automatically secure the data used during drafting. Check integrations regularly and remove access that is no longer necessary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

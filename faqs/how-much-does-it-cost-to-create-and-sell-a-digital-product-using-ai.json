@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to create and sell a digital product using AI?",
+  "description": "Costs vary from low-cost tool subscriptions to a larger stack for design, video, email, checkout, delivery, and promotion. Add recurring fees, transaction charg",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-create-and-sell-a-digital-product-using-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to create and sell a digital product using AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI tools may reduce drafting and coordination work, but they do not automatically make a digital product profitable. Costs can include AI subscriptions, design or video tools, email software, checkout and delivery platforms, advertising, domain expenses, and human editing. Context: Run My AI Biz discusses tool comparisons, pricing, funnels, content production, and operational workflows, while presenting outcomes as possibilities rather than guarantees. Key factors: recurring subscriptions, transaction fees, customer-support needs, update costs, and the value of your own time. Practical guidance: list every required tool, identify free or low-cost starting options, and calculate the number of sales needed to recover monthly expenses. Avoid paying for several overlapping assistants before one workflow is useful. Run My AI Biz can help you compare tool roles and build a focused starting stack.",
+        "description": "Costs vary from low-cost tool subscriptions to a larger stack for design, video, email, checkout, delivery, and promotion. Add recurring fees, transaction charges, advertising, and your time. Start with only the tools needed to validate one product before expanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

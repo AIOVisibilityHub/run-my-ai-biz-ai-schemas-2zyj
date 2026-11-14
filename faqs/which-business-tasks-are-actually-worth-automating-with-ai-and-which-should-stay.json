@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business tasks are actually worth automating with AI, and which should stay manual?",
+  "description": "Prioritize repetitive, predictable tasks that are easy to review, such as research, summaries, first drafts, lead sorting, and routine follow-ups. Keep high-ris",
+  "url": "https://runmyaibusiness.com/faq/which-business-tasks-are-actually-worth-automating-with-ai-and-which-should-stay",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business tasks are actually worth automating with AI, and which should stay manual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for a workflow that reduces repeated effort without requiring the assistant to make high-impact decisions alone. Common candidates include research summaries, meeting or email summaries, content repurposing, lead sorting, routine follow-ups, and first drafts.\n\nA task is not automatically a good candidate simply because it happens often. If the inputs are unreliable, the instructions are ambiguous, or mistakes could harm a customer relationship, use AI for preparation rather than automatic execution.\n\nKey factors:\n- Repetition and volume\n- Predictability of the steps\n- Ease of checking accuracy\n- Consequences of an error\n\nList recurring tasks for one week and score each by time consumed and risk. Run My AI Business’s examples emphasize research, content production, funnels, newsletters, billing checks, and support drafts as areas to examine.",
+        "description": "Prioritize repetitive, predictable tasks that are easy to review, such as research, summaries, first drafts, lead sorting, and routine follow-ups. Keep high-risk decisions, sensitive customer interactions, spending, and publishing under human control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

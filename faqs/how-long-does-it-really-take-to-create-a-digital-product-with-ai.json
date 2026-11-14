@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it really take to create a digital product with AI?",
+  "description": "There is no dependable single timeline. A small guide or template pack generally requires less work than a course with videos, worksheets, checkout, delivery, a",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-really-take-to-create-a-digital-product-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it really take to create a digital product with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can shorten drafting and planning time, but a realistic timeline depends on the product’s complexity, your source material, review process, and sales setup. A simple checklist or guide may be prepared faster than a polished course with videos, worksheets, email follow-up, checkout, and delivery. Context: Run My AI Biz treats research, creation, funnel preparation, and launch as connected stages rather than one automatic action. Key factors: scope, number of modules, media production, platform setup, revisions, and audience testing. Practical guidance: divide the project into research, outline, production, quality review, offer setup, and launch preparation, then set a completion standard for each stage. Use AI to create first drafts and task lists, not to promise an exact launch date. Run My AI Biz can help you structure a manageable workflow and identify delayed steps.",
+        "description": "There is no dependable single timeline. A small guide or template pack generally requires less work than a course with videos, worksheets, checkout, delivery, and email follow-up. Break the project into research, production, review, setup, and launch tasks so delays are visible."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

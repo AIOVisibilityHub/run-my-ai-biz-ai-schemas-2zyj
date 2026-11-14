@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business tasks are safe to automate first, and which should always stay human-controlled?",
+  "description": "Start with research, organization, first drafts, content repurposing, link checks, and internal reports. Keep sending messages, publishing, spending money, sign",
+  "url": "https://runmyaibusiness.com/faq/which-business-tasks-are-safe-to-automate-first-and-which-should-always-stay-hum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business tasks are safe to automate first, and which should always stay human-controlled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for research, organization, first drafts, repurposing, and routine checks before assigning it authority to send, publish, spend, or change an account. These lower-risk tasks still need quality review, but they are generally easier to correct than an external action. Context: Run My AI Biz lists recurring research briefs, newsletter drafts, content repurposing, link checks, project updates, billing monitoring, and server-health reporting among possible applications. The suitability of each task depends on data sensitivity, impact, and reversibility. Key factors: - How predictable the inputs are. - Whether mistakes are easy to undo. - Whether another person is affected. - Whether the task requires business judgment. Practical guidance: Start with an internal draft or report, measure correction frequency, and only then consider a controlled execution step. Keep customer communication, spending, sign-ups, and public posting behind explicit approval. Run My AI Biz encourages owners to match automation scope to their actual confidence and capacity.",
+        "description": "Start with research, organization, first drafts, content repurposing, link checks, and internal reports. Keep sending messages, publishing, spending money, signing up for services, changing accounts, and other hard-to-reverse actions behind explicit approval. Increase scope only after testing and measuring errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

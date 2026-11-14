@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which AI tasks are actually worth automating when I run everything myself?",
+  "description": "Automate predictable preparation tasks such as research summaries, newsletter drafts, content repurposing, project updates, and routine reminders. Keep strategy",
+  "url": "https://runmyaibusiness.com/faq/which-ai-tasks-are-actually-worth-automating-when-i-run-everything-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which AI tasks are actually worth automating when I run everything myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a one-person business, AI is most valuable when it removes repeated preparation while leaving decisions and relationships with the owner. Run My AI Biz covers research, newsletters, digital products, funnels, content repurposing, project tracking, billing reminders, and first-line support drafts. Context: A solopreneur still needs to choose priorities, approve public work, handle exceptions, and maintain customer trust. Key factors: - Prefer workflows with predictable inputs and outputs. - Keep a weekly review of errors, unfinished tasks, and customer feedback. - Avoid adding tools that create more maintenance than they remove. Practical guidance: Select one recurring weekly process, such as a research brief or newsletter draft, and measure time saved and revision effort. Document exceptions so the assistant knows when to stop and ask for help.",
+        "description": "Automate predictable preparation tasks such as research summaries, newsletter drafts, content repurposing, project updates, and routine reminders. Keep strategy, customer relationships, exceptions, publishing, and spending under owner review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

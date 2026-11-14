@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI prompt libraries and bot collections worth it, or are they just hype?",
+  "description": "They can save planning time when the prompts match your workflow, but they are not complete software or guaranteed businesses. You still need customization, sui",
+  "url": "https://runmyaibusiness.com/faq/are-ai-prompt-libraries-and-bot-collections-worth-it-or-are-they-just-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI prompt libraries and bot collections worth it, or are they just hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt library can speed up repeated work, but it is not a complete business or a guaranteed income system. Each prompt must be adapted to your niche, offer, audience, tools, source material, and approval process, and it may require integrations beyond the prompt itself. Context: Run My AI Biz describes The 38 Bot Empire as adaptable bot blueprints and resources, not 38 identical software products or proven businesses. Key factors: platform capability, account permissions, data quality, workflow connections, testing, and your own execution. Practical guidance: choose one relevant assistant, customize its master prompt, run a small project, and document what needs improvement before adding others. Avoid launching many projects at once. Run My AI Biz can help you understand where a blueprint fits and what setup remains.",
+        "description": "They can save planning time when the prompts match your workflow, but they are not complete software or guaranteed businesses. You still need customization, suitable platforms, integrations, testing, source verification, and human approval. Start with one relevant assistant before expanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

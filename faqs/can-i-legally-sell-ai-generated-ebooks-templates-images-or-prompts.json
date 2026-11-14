@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I legally sell AI-generated ebooks, templates, images, or prompts?",
+  "description": "Possibly, but check the current commercial-use terms for each AI provider and every third-party asset. Confirm rights for images, fonts, music, templates, and s",
+  "url": "https://runmyaibusiness.com/faq/can-i-legally-sell-ai-generated-ebooks-templates-images-or-prompts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I legally sell AI-generated ebooks, templates, images, or prompts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can sell AI-assisted material, but you should not assume that every tool permits commercial use of every output. Review the AI provider’s current terms, confirm rights for images, fonts, stock assets, music, datasets, and templates, and avoid inserting confidential or copied material into prompts. Context: A digital product may combine many assets with different usage rules. Key factors: commercial-use permissions, ownership language, model restrictions, third-party licenses, customer redistribution rights, and changes to provider terms. Practical guidance: keep an asset register showing where each component came from and what permission applies. Replace uncertain material rather than building a product around it. Run My AI Biz can help organize tool comparisons and source-checking workflows, but you must confirm the terms for your chosen tools.",
+        "description": "Possibly, but check the current commercial-use terms for each AI provider and every third-party asset. Confirm rights for images, fonts, music, templates, and source material; keep an asset record; and replace anything with unclear permission before selling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

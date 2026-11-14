@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where should the human review happen in an AI workflow: at the beginning, the end, or both?",
+  "description": "Use both when risk warrants it: review the goal and inputs early, then place a final checkpoint immediately before the external side effect. The final reviewer",
+  "url": "https://runmyaibusiness.com/faq/where-should-the-human-review-happen-in-an-ai-workflow-at-the-beginning-the-end",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where should the human review happen in an AI workflow: at the beginning, the end, or both?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Human review should be placed as close as possible to the final side effect: before an email is sent, content is published, money is spent, an account is changed, or a service is purchased. Earlier review still matters for strategy and factual quality, but a final checkpoint catches changes introduced during later workflow steps. Context: Reviewing only a high-level plan can miss an altered recipient, destination, amount, or tool argument. Research and community discussions also emphasize linking approval to the specific execution step rather than to a general story. Key factors: - Where the irreversible action occurs. - Whether later steps transform the draft. - What information the reviewer can see. - Whether rollback exists. Practical guidance: Show the final payload, destination, permissions, and expected result in the approval screen. Require reapproval after material edits. Run My AI Biz’s owner-approval principle works best when the checkpoint controls the actual external action.",
+        "description": "Use both when risk warrants it: review the goal and inputs early, then place a final checkpoint immediately before the external side effect. The final reviewer should see the exact content, recipient or destination, data, amount, permissions, and expected result. Reapprove after material edits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

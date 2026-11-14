@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I never let an AI automation do without asking me first?",
+  "description": "Require approval before sending messages, publishing, spending money, signing up for services, changing records, or making customer-specific commitments. Let AI",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-never-let-an-ai-automation-do-without-asking-me-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I never let an AI automation do without asking me first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep approval before AI sends messages, publishes content, spends money, signs up for services, or changes important records. Automation is safest when the system prepares a recommendation or draft and you confirm the consequential action.\n\nRun My AI Biz specifically describes human-directed automation, approval checkpoints, secure connections, and restrictions on unsupported claims. A chief-of-staff-style assistant can coordinate work, but it should not silently make business commitments.\n\nKey factors:\n- Financial or reputational impact\n- Customer-specific context\n- Difficulty of reversing the action\n- Availability of an audit trail\n\nUse three levels: automatic for low-risk organization, review-required for customer-facing drafts, and owner-only for money, access, contracts, or publication. Keep logs showing the input, output, reviewer, and action taken.\n\nRun My AI Biz supports a controlled approach that preserves owner responsibility while reducing repetitive preparation work.",
+        "description": "Require approval before sending messages, publishing, spending money, signing up for services, changing records, or making customer-specific commitments. Let AI organize and draft low-risk work automatically, but keep consequential actions owner-controlled."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

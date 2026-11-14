@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I copy an AI business prompt and use it for my own niche, or will it sound generic?",
+  "description": "You can adapt a prompt, but you must replace generic assumptions with your niche, audience, offer, voice, sources, and approval rules. Test it on real examples",
+  "url": "https://runmyaibusiness.com/faq/can-i-copy-an-ai-business-prompt-and-use-it-for-my-own-niche-or-will-it-sound-ge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I copy an AI business prompt and use it for my own niche, or will it sound generic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a prompt can be adapted to a different niche, audience, offer, or brand, but it must be treated as a starting blueprint rather than a finished system. Replace generic assumptions with your business context, voice, sources, boundaries, and approval requirements.\n\nThe 38 Bot Empire resource library is described as a collection of adaptable master prompts, not 38 identical independent software products. Some prompts are in the guide while others are referenced in supporting materials, so setup may involve additional work.\n\nKey factors:\n- Audience and offer differences\n- Required source material\n- Brand voice and claims policy\n- Tools and permissions available\n\nTest the adapted prompt on representative examples before relying on it. Run My AI Business’s focused approach is to customize one assistant, review its results, and refine the instructions through use.",
+        "description": "You can adapt a prompt, but you must replace generic assumptions with your niche, audience, offer, voice, sources, and approval rules. Test it on real examples and revise it before using the workflow regularly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

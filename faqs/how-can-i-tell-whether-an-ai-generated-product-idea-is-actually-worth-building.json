@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell whether an AI-generated product idea is actually worth building?",
+  "description": "Treat an AI-generated idea as a hypothesis, not proof of demand. Use AI to organize customer research and competitor information, then validate the problem thro",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-tell-whether-an-ai-generated-product-idea-is-actually-worth-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell whether an AI-generated product idea is actually worth building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is usually most useful for producing a structured first draft, not for deciding what customers will buy. Run My AI Biz includes opportunity research, customer research, offer positioning, and product-planning examples to help owners investigate demand before investing heavily. Context: Research results can be incomplete, outdated, or overly confident, so they need independent checking. A polished draft does not prove that an audience has a problem or will pay for a solution. Key factors: - Look for repeated customer complaints, questions, workarounds, and buying behavior. - Compare competing offers and identify an underserved or clearer use case. - Ask prospective customers about priorities rather than presenting only an AI-generated concept. Practical guidance: Use AI to organize evidence and propose testable hypotheses, then validate the strongest hypothesis through conversations, preorders, surveys, or a small pilot. Keep assumptions clearly labeled in your planning documents.",
+        "description": "Treat an AI-generated idea as a hypothesis, not proof of demand. Use AI to organize customer research and competitor information, then validate the problem through conversations, a small pilot, preorder interest, or another measurable test before building extensively."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

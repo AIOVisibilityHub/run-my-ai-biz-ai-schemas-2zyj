@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI create and sell a digital product for me, or is that mostly hype?",
+  "description": "AI can assist with research, outlines, lessons, sales copy, funnels, and promotional drafts, but it cannot validate demand or guarantee sales. You still need a",
+  "url": "https://runmyaibusiness.com/faq/can-ai-create-and-sell-a-digital-product-for-me-or-is-that-mostly-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI create and sell a digital product for me, or is that mostly hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help produce a draft, but it does not automatically create a valuable digital product. You still need a defined audience, a useful promise, accurate material, a coherent structure, quality control, delivery method, and a way to reach potential buyers.\n\nRun My AI Biz covers workflows for research, course outlines, lesson scripts, presentations, videos, sales pages, funnels, and follow-up. Those components must be connected around a real customer problem rather than generated as unrelated content.\n\nKey factors:\n- Evidence that the audience wants the topic\n- Your expertise or ability to verify the material\n- Product format and delivery platform\n- Support, updates, and customer feedback\n\nStart by validating the problem and desired outcome. Create an outline, review the claims, produce a small usable section, and gather feedback before building the full product or funnel.\n\nRun My AI Biz offers educational guidance for turning AI-assisted drafts into a considered product rather than presenting generated text as a finished offer.",
+        "description": "AI can assist with research, outlines, lessons, sales copy, funnels, and promotional drafts, but it cannot validate demand or guarantee sales. You still need a real audience problem, accurate content, review, delivery, and customer feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

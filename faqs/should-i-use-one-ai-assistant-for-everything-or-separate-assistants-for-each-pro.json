@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use one AI assistant for everything or separate assistants for each project?",
+  "description": "Use one coordinator for shared planning and reporting, but separate project assistants when audiences, data, offers, or risk levels differ. A hybrid setup usual",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-one-ai-assistant-for-everything-or-separate-assistants-for-each-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use one AI assistant for everything or separate assistants for each project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A single coordinator is useful when projects share planning, reporting, or task routing, while separate assistants are safer when projects have different audiences, data, offers, or risk levels. A hybrid arrangement often works best: one coordinator manages priorities, but each project has its own specialist instructions and information boundary. Key decision factors include the number of brands, team members, connected accounts, approval requirements, and how often each project changes. Avoid one oversized prompt that contains every business rule. The Run My AI Biz materials describe both individual assistants and coordinated processes, allowing owners to choose based on the work rather than forcing one architecture.",
+        "description": "Use one coordinator for shared planning and reporting, but separate project assistants when audiences, data, offers, or risk levels differ. A hybrid setup usually provides central oversight without forcing every business rule into one fragile prompt."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to run a business if I’m not technical and can’t code?",
+  "description": "Yes. Start with conversational instructions and a narrow task such as research, content drafting, or customer follow-up. You still need to review results, prote",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-run-a-business-if-i-m-not-technical-and-can-t-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to run a business if I’m not technical and can’t code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a nontechnical owner can use AI for many business tasks without learning to code. The practical requirement is learning to give clear context, evaluate outputs, and connect any supporting platforms needed for the workflow. Run My AI Biz focuses on conversational instructions and task-specific assistants, including research, product development, marketing, and administration examples. Begin with a prompt or assistant that produces drafts rather than taking irreversible actions. Keep a written checklist for brand voice, factual checking, privacy, and approval before publishing or spending money. Education can reduce the learning curve, but it cannot replace judgment or platform setup.",
+        "description": "Yes. Start with conversational instructions and a narrow task such as research, content drafting, or customer follow-up. You still need to review results, protect business information, and set up any required accounts or integrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to start earning from an AI-supported business?",
+  "description": "There is no dependable fixed timeline. Research, product creation, audience building, platform setup, and customer feedback all take time. Set a measurable firs",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-start-earning-from-an-ai-supported-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to start earning from an AI-supported business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan for an initial learning and testing period rather than expecting immediate income. The time depends on whether you are researching an idea, creating a product, building a funnel, or operating an existing audience. Run My AI Biz’s materials support stages such as opportunity research, product drafting, sales-page preparation, email follow-up, and recurring administration; the sequence still requires owner review and platform setup. Key timing factors include audience access, product complexity, content quality, integrations, and how quickly you can gather feedback. Set a first milestone such as a validated problem, completed prototype, or first qualified subscriber. Review progress weekly and remove tasks that do not support that milestone.",
+        "description": "There is no dependable fixed timeline. Research, product creation, audience building, platform setup, and customer feedback all take time. Set a measurable first milestone—such as a prototype, waitlist, or paid pilot—rather than assuming automation will produce immediate revenue."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

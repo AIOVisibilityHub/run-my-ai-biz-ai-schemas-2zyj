@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I review AI workflows used across several business projects?",
+  "description": "Review prompts, facts, integrations, permissions, costs, output quality, and results regularly, with extra checks after any business or platform change. Track c",
+  "url": "https://runmyaibusiness.com/faq/how-often-should-i-review-ai-workflows-used-across-several-business-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I review AI workflows used across several business projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ongoing support should include periodic checks of facts, prompts, integrations, permissions, costs, output quality, and business results. Review more often when a project, platform, offer, or process changes, and less often after the workflow has demonstrated stability. Keep a simple maintenance record showing what changed, why it changed, and whether the next run passed. Key measures include correction rate, failure rate, time saved, duplicate work, and customer-facing errors. Run My AI Biz’s educational model encourages refinement over time, which is necessary because a reusable prompt can become inaccurate as the business evolves.",
+        "description": "Review prompts, facts, integrations, permissions, costs, output quality, and results regularly, with extra checks after any business or platform change. Track corrections, failures, time saved, duplicate work, and customer-facing errors in a simple maintenance record."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

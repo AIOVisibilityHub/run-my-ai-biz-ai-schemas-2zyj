@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a launch next week—can the 38-bot library help without creating more chaos?",
+  "description": "Yes, if you narrow the scope to one immediate milestone and keep every external action under manual approval. Freeze the offer, audience, links, prices, and cla",
+  "url": "https://runmyaibusiness.com/faq/i-have-a-launch-next-week-can-the-38-bot-library-help-without-creating-more-chao",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a launch next week—can the 38-bot library help without creating more chaos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an urgent launch, reduce scope rather than skipping review. Choose one workflow that supports the immediate milestone, such as polishing a sales page, organizing a launch checklist, or drafting an email sequence from approved facts. Freeze the offer, audience, links, prices, and claims in a short reference sheet so the bot does not work from changing assumptions. Use manual approval for every external action and assign one person to perform the final checks. Postpone multi-bot coordination, new integrations, and broad automation until after launch. Save the tested prompt and corrections for a later, more deliberate version. Run My AI Biz’s launch examples are most useful when treated as structured preparation rather than a promise of instant deployment.",
+        "description": "Yes, if you narrow the scope to one immediate milestone and keep every external action under manual approval. Freeze the offer, audience, links, prices, and claims in a reference sheet. Postpone new integrations and multi-bot coordination until after launch, then improve the tested workflow calmly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

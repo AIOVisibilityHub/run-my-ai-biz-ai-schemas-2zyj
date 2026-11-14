@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why didn’t a master prompt automate my whole business across multiple projects?",
+  "description": "A master prompt provides instructions, not the complete operating system. You still need suitable AI platforms, source data, integrations, permissions, triggers",
+  "url": "https://runmyaibusiness.com/faq/why-didn-t-a-master-prompt-automate-my-whole-business-across-multiple-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why didn’t a master prompt automate my whole business across multiple projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt is an instruction set, not a complete business system. A usable workflow also needs an AI platform, source materials, connected tools, permissions, triggers, storage, review checkpoints, and a recovery process. A launch prompt, for example, cannot by itself create a functioning checkout, email delivery system, payment connection, or published page. Key factors include the platform’s capabilities, integration limits, account setup, data quality, and owner availability for review. Run My AI Biz’s 38-bot resource is described as a library of adaptable bot blueprints, with some supporting prompts or materials located separately, rather than 38 identical standalone products.",
+        "description": "A master prompt provides instructions, not the complete operating system. You still need suitable AI platforms, source data, integrations, permissions, triggers, storage, approvals, and recovery steps. Treat the prompt as one component of a workflow and test each handoff separately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

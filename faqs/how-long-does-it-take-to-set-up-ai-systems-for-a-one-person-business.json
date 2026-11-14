@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up AI systems for a one-person business?",
+  "description": "A basic drafting workflow can be tested quickly, but a reliable system needs repeated testing and refinement. Time increases with integrations, unclear instruct",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-ai-systems-for-a-one-person-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up AI systems for a one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small workflow can be tested in a few focused sessions, but a dependable business system takes repeated use and refinement. The time depends on the task, the quality of your source material, the number of platforms involved, and whether account connections are needed. Run My AI Biz recommends a focused progression: select a relevant workflow, build one assistant, use it, then expand. Begin with a draft-only version and record errors, missing information, and manual corrections. Expand only when the process produces consistent time savings without creating extra review work.",
+        "description": "A basic drafting workflow can be tested quickly, but a reliable system needs repeated testing and refinement. Time increases with integrations, unclear instructions, poor source material, and the amount of review required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when multiple AI assistants duplicate work or contradict each other?",
+  "description": "Give each assistant one defined responsibility and designate a system of record for facts and decisions. Use version labels, explicit inputs, one deliverable ow",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-multiple-ai-assistants-duplicate-work-or-contradict-each-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when multiple AI assistants duplicate work or contradict each other?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If two assistants produce overlapping work, assign each a distinct responsibility and define the system of record. For example, research collects evidence, an offer assistant turns approved findings into positioning, and a content assistant drafts customer-facing material. Do not let all three independently rewrite the same facts. Key controls include one owner per deliverable, version labels, input requirements, and a final reviewer. Measure duplicate effort and correction time to determine whether a specialist is useful or should be removed. Run My AI Biz’s resource library contains many specialized examples, so selective adoption is better than activating every available bot.",
+        "description": "Give each assistant one defined responsibility and designate a system of record for facts and decisions. Use version labels, explicit inputs, one deliverable owner, and a final reviewer. Remove assistants that add duplicate work without improving quality or speed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to adapt AI workflows across multiple projects?",
+  "description": "Budget for AI and automation subscriptions, connected services, setup time, review time, and maintenance. Start with one workflow and existing tools, then add p",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-adapt-ai-workflows-across-multiple-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to adapt AI workflows across multiple projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost can include education, AI subscriptions, automation platforms, connected services, storage, domain or email tools, and time spent reviewing and correcting outputs. A low-cost starting point is to adapt one prompt-based workflow using tools already in place, then add integrations only when they remove a measured bottleneck. Compare total operating cost with the hours saved and the value of improved consistency—not just the subscription price. Include maintenance, failed runs, duplicate tools, and account permissions in the calculation. Run My AI Biz lists a free starting option and a $9 monthly paid newsletter subscription for full weekly issues, while any separate mastermind or platform costs should be checked independently before purchase.",
+        "description": "Budget for AI and automation subscriptions, connected services, setup time, review time, and maintenance. Start with one workflow and existing tools, then add paid connections only after measuring the bottleneck. Run My AI Biz’s newsletter has a free option and a $9 monthly paid subscription for full weekly issues; separate program costs require their own review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

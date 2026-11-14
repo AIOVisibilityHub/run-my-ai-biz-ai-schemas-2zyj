@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI handle invoices, overdue-payment reminders, and customer support in a one-person business?",
+  "description": "AI can monitor information and draft reminders or support replies, but review is essential for refunds, payment changes, disputes, and incomplete records. Use r",
+  "url": "https://runmyaibusiness.com/faq/can-ai-handle-invoices-overdue-payment-reminders-and-customer-support-in-a-one-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI handle invoices, overdue-payment reminders, and customer support in a one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help prepare bookkeeping reminders, billing checks, support drafts, and operational summaries, but it should not silently make financial or account decisions. Run My AI Biz describes examples involving billing monitoring, overdue-payment reminders, first-line support, and server-health reporting. Keep source records in the appropriate business systems, limit access, and require review for refunds, payment changes, account closures, or customer disputes. Test alerts against known cases so you can distinguish a real exception from a false alarm. Maintain a manual escalation path when information is incomplete.",
+        "description": "AI can monitor information and draft reminders or support replies, but review is essential for refunds, payment changes, disputes, and incomplete records. Use restricted access, test alerts, and keep manual escalation available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

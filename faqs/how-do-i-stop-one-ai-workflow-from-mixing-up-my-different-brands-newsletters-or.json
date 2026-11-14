@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop one AI workflow from mixing up my different brands, newsletters, or products?",
+  "description": "Keep separate project instructions, source libraries, accounts, data, and approval rules. Label the active brand or offer before every task, require the assista",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-one-ai-workflow-from-mixing-up-my-different-brands-newsletters-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop one AI workflow from mixing up my different brands, newsletters, or products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use separate instructions, data, accounts, and approval rules for each brand, audience, offer, or project. Reusable prompts can reduce setup work, but copying one workflow across businesses without changing its context can mix names, sources, claims, audiences, or destinations. Context: Run My AI Biz describes adapting workflows across newsletters, digital products, affiliate projects, websites, and communities while keeping each project’s identity distinct. A central coordinator can organize work, but it should not blur business boundaries. Key factors: - Brand-specific facts. - Separate source libraries. - Account and permission scope. - Different approval owners. Practical guidance: Label every project clearly, use dedicated folders or workspaces, and require the assistant to state which project context it is using before drafting. Test with deliberately similar projects to detect cross-contamination. Run My AI Biz supports reuse through customization, not indiscriminate duplication.",
+        "description": "Keep separate project instructions, source libraries, accounts, data, and approval rules. Label the active brand or offer before every task, require the assistant to state its context, and test similar projects for cross-contamination. Reuse a workflow structure, but rewrite business-specific facts and destinations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

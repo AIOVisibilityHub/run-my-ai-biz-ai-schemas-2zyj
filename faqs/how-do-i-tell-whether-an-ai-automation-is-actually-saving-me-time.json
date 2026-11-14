@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I tell whether an AI automation is actually saving me time?",
+  "description": "Compare the old process with the full AI-assisted process, including setup, review, corrections, and maintenance. Measure time saved, completed work, and errors",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-tell-whether-an-ai-automation-is-actually-saving-me-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I tell whether an AI automation is actually saving me time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a task that is repetitive, measurable, and supported by the tools you already use. Run My AI Biz examples include recurring research briefs, newsletter drafts, content repurposing, project updates, payment reminders, and operational checks.\n\nA workflow is worth automating when the time saved exceeds setup, review, correction, and maintenance effort. A complicated connection that fails often may be worse than a simple manual checklist.\n\nKey factors:\n- Frequency and volume.\n- Consistency of inputs and outputs.\n- Error consequences.\n- Integration reliability and ongoing cost.\n\nWrite down the manual steps and calculate approximate time per cycle. Test AI assistance first, measure the result for several cycles, then automate only the stable portion with an approval checkpoint.\n\nRun My AI Biz encourages practical workflow selection instead of automation for its own sake.",
+        "description": "Compare the old process with the full AI-assisted process, including setup, review, corrections, and maintenance. Measure time saved, completed work, and errors across several cycles before expanding automation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

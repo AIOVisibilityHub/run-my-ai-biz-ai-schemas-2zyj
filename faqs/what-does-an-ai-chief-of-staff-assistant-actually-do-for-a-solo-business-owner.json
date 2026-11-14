@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an AI chief-of-staff assistant actually do for a solo business owner?",
+  "description": "It can organize priorities, summarize progress, and route work between specialized assistants. Define responsibilities, inputs, handoffs, and approval points, t",
+  "url": "https://runmyaibusiness.com/faq/what-does-an-ai-chief-of-staff-assistant-actually-do-for-a-solo-business-owner",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an AI chief-of-staff assistant actually do for a solo business owner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chief-of-staff-style assistant can help organize priorities, summarize updates, and route work to specialized assistants, but it does not eliminate the need for clear ownership. Run My AI Biz’s resource description presents coordination as a way to connect research, content, marketing, and operations around the owner’s goals. Define which assistant handles each task, what information it receives, and when work returns to you. Keep one project tracker and require approval at handoffs involving public content, spending, or customer communication. Begin with two connected tasks rather than a large network.",
+        "description": "It can organize priorities, summarize progress, and route work between specialized assistants. Define responsibilities, inputs, handoffs, and approval points, then begin with a small connected process rather than coordinating everything at once."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

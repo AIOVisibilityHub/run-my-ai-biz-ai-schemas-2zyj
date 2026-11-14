@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to create a digital product with AI but have no idea where to start?",
+  "description": "Choose one audience and one urgent problem, then create the smallest useful product that addresses it. Validate the idea before investing in a full course or la",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-create-a-digital-product-with-ai-but-have-no",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to create a digital product with AI but have no idea where to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one narrowly defined customer problem, not a bundle of AI tools. Create a simple version of the product, test whether the intended audience wants it, and improve it from real feedback before building a large course, template library, or funnel. Context: Run My AI Biz emphasizes moving from an idea to an offer through research, product development, sales materials, and organized launch steps. Key factors: audience urgency, your subject knowledge, product format, delivery method, and the amount of human review required. Practical guidance: Write a one-sentence promise, interview or survey potential buyers, and outline the smallest useful deliverable. Use an opportunity-research workflow or business-idea assistant as a starting point, then verify its assumptions yourself. Run My AI Biz can help you turn a broad idea into a focused, testable plan.",
+        "description": "Choose one audience and one urgent problem, then create the smallest useful product that addresses it. Validate the idea before investing in a full course or large template collection. Use AI for research and outlining, but check the assumptions and add your own expertise before building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

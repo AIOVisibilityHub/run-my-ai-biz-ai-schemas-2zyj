@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an AI-assisted sales funnel actually include for a beginner?",
+  "description": "It may include an offer, opt-in page, lead magnet, thank-you or bridge page, email sequence, and checkout or booking step. AI can draft and organize these piece",
+  "url": "https://runmyaibusiness.com/faq/what-does-an-ai-assisted-sales-funnel-actually-include-for-a-beginner",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an AI-assisted sales funnel actually include for a beginner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical AI sales funnel usually includes an offer, opt-in page, lead magnet, thank-you or bridge page, email follow-up, and a way to purchase or book. Run My AI Biz describes these pieces as connected materials that should be tailored to a niche and offer.\n\nAI can draft copy and organize the sequence, but it cannot confirm that the offer is compelling, the checkout works, or the audience trusts the claims. Each handoff needs a human check.\n\nKey factors:\n- A clear promise that matches the delivered product.\n- One logical next step on each page or email.\n- Accurate links, pricing, delivery details, and disclosures.\n- Approval before any message is sent or page is published.\n\nMap the customer’s path on one page, build the smallest version, and test every link using a test purchase or signup. Review email timing and remove claims that you cannot support.\n\nRun My AI Biz’s funnel education is most useful when paired with hands-on testing of the complete customer path.",
+        "description": "It may include an offer, opt-in page, lead magnet, thank-you or bridge page, email sequence, and checkout or booking step. AI can draft and organize these pieces, but you must test links, delivery, claims, and approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

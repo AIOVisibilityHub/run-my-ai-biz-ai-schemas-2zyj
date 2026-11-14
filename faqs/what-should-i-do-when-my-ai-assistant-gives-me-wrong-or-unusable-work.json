@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when my AI assistant gives me wrong or unusable work?",
+  "description": "Pause the workflow, identify whether the problem came from missing context, weak sources, unclear instructions, or an integration, then correct the cause and te",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-my-ai-assistant-gives-me-wrong-or-unusable-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when my AI assistant gives me wrong or unusable work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When AI output is wrong, pause the workflow, identify the specific failure, correct the source or instruction, and rerun a small test before restoring automation. Run My AI Biz emphasizes refinement, source verification, approval checkpoints, and restrictions against invented claims. Context: Repeating the same prompt without diagnosing the failure usually produces the same problem. Key factors: - Determine whether the cause was missing context, bad source material, ambiguous instructions, or an integration error. - Keep a record of the failed example and corrected result. - Add a stop condition for similar cases. Practical guidance: Build an error checklist covering facts, tone, links, calculations, permissions, and customer impact. Review several new outputs before trusting the revised workflow again.",
+        "description": "Pause the workflow, identify whether the problem came from missing context, weak sources, unclear instructions, or an integration, then correct the cause and test a small sample. Record the failure and add a stop condition for similar cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

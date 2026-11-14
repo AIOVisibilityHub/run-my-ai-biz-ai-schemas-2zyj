@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does AI implementation actually look like for a tiny business?",
+  "description": "It means defining a repeatable task, giving an assistant the right context and instructions, connecting necessary tools, reviewing the output, and improving the",
+  "url": "https://runmyaibusiness.com/faq/what-does-ai-implementation-actually-look-like-for-a-tiny-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does AI implementation actually look like for a tiny business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI implementation usually means turning a repeatable business task into a defined workflow with inputs, instructions, outputs, review points, and approved tools. It is more than asking a chatbot occasional questions.\n\nContext: Run My AI Biz teaches how specialized assistants can support planning, product creation, marketing, publishing, and administration. A chief-of-staff-style assistant may coordinate several activities, but each task still needs clear ownership and checking.\n\nKey factors:\n- The business goal\n- The exact task boundaries\n- Required data and sources\n- What AI may do without approval\n\nPractical guidance: Map one process from start to finish, identify where information enters and leaves, and mark any step involving publication, spending, customer contact, or account access for approval.\n\nThis educational approach helps small-business owners understand implementation before purchasing a complicated stack.",
+        "description": "It means defining a repeatable task, giving an assistant the right context and instructions, connecting necessary tools, reviewing the output, and improving the workflow. A practical first project might be research, content drafting, lead-magnet preparation, or routine administrative checking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

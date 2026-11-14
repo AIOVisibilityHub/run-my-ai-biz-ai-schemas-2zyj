@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need coding skills to build AI workflows for my startup?",
+  "description": "No coding is required for many prompt-driven and no-code workflows, but you still need to define steps, inputs, approvals, and limits. Custom integrations, soft",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-coding-skills-to-build-ai-workflows-for-my-startup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need coding skills to build AI workflows for my startup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to learn coding to begin with prompt-driven workflows, but you do need to understand process design, review, permissions, and basic tool limitations. No-code or low-code connections may still require configuration and troubleshooting.\n\nThe difficult part is often describing what should happen, what information the assistant may use, and when it must stop. Technical work becomes more likely when you need custom software, complex data movement, or specialized integrations.\n\nKey factors:\n- Complexity of the process\n- Number of connected platforms\n- Need for custom behavior\n- Ability to test and maintain the system\n\nStart with a manual prompt and sample inputs before deciding whether technical help is justified. Run My AI Business focuses on conversational workflows so nontechnical owners can direct assistants in everyday language.",
+        "description": "No coding is required for many prompt-driven and no-code workflows, but you still need to define steps, inputs, approvals, and limits. Custom integrations, software projects, and complex data handling may require technical assistance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

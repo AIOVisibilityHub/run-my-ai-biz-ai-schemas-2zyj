@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when the AI keeps producing bad drafts even though I review them?",
+  "description": "Reject the draft, identify the precise error, correct the source or instruction, and rerun the task. Keep an error log showing the input, output, correction, an",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-the-ai-keeps-producing-bad-drafts-even-though-i-review-the",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when the AI keeps producing bad drafts even though I review them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the draft is wrong, reject it, explain the specific issue, correct the business facts, and rerun the workflow with the revised instruction or source. Do not approve a flawed output simply because fixing it manually feels faster. Context: Run My AI Biz encourages participants to review drafts, request changes, and refine instructions over time. A repeated error may indicate missing context, an unclear role, an unreliable source, or an integration problem rather than a one-off mistake. Key factors: - Whether the error is factual or stylistic. - Whether it affected an external action. - Whether the same issue keeps recurring. - Whether the source or platform changed. Practical guidance: Save a small error log with the input, output, correction, cause, and revised rule. If something was already sent or published, follow your correction and customer-support process promptly. Run My AI Biz treats iteration as part of responsible workflow development.",
+        "description": "Reject the draft, identify the precise error, correct the source or instruction, and rerun the task. Keep an error log showing the input, output, correction, and revised rule. If the problem repeats, inspect the role definition, data sources, platform limits, and connected tools instead of merely rewriting the final copy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

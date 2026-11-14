@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to run a one-person business with AI but have no idea where to start?",
+  "description": "Pick one repeated task—such as research, newsletter drafting, lead-magnet creation, or follow-up—and build a simple reviewed workflow around it. Define the inpu",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-run-a-one-person-business-with-ai-but-have-n",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to run a one-person business with AI but have no idea where to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one recurring business problem, not a collection of tools. For Run My AI Biz readers, a practical first project might be turning customer research into a reviewed newsletter outline, lead magnet, or sales-page draft. AI can speed research and first drafts, but you remain responsible for the offer, facts, audience fit, and final decisions. Choose a workflow that occurs often enough to measure, write down its inputs and desired output, and define where approval is required. A focused starting point usually creates less confusion than attempting to build a complete automated business immediately. Run My AI Biz’s educational approach is useful for comparing workflows before committing to a larger system.",
+        "description": "Pick one repeated task—such as research, newsletter drafting, lead-magnet creation, or follow-up—and build a simple reviewed workflow around it. Define the input, expected output, approval point, and success measure before adding more tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

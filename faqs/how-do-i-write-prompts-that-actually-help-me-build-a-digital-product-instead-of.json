@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I write prompts that actually help me build a digital product instead of giving generic AI output?",
+  "description": "Give the assistant your audience, goal, source material, constraints, examples, output format, and review standards. Build one task-specific master prompt, test",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-write-prompts-that-actually-help-me-build-a-digital-product-instead-of",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I write prompts that actually help me build a digital product instead of giving generic AI output?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good AI prompt includes the business context, audience, objective, inputs, constraints, desired format, examples, quality standards, and approval rules. Vague instructions usually produce generic results because the assistant lacks the information needed to make useful decisions. Context: Run My AI Biz describes master prompts as written instructions defining an assistant’s role, workflow, responsibilities, and safeguards. Key factors: the task’s repeatability, available source material, brand voice, output format, exceptions, and who approves the result. Practical guidance: start with one workflow such as product outlining, lead-magnet drafting, or email preparation; test it on several examples; then revise the instructions. Add a rule requiring the assistant to flag uncertainty rather than invent facts. Run My AI Biz can help you turn a one-time task into a reusable assistant blueprint.",
+        "description": "Give the assistant your audience, goal, source material, constraints, examples, output format, and review standards. Build one task-specific master prompt, test it on multiple examples, and add instructions to flag uncertainty and stop before publishing or sending anything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a small-business AI chatbot handle customer questions without causing problems?",
+  "description": "It can handle routine questions when trained on current, approved information, but it needs boundaries and escalation. Test common and unusual scenarios, limit",
+  "url": "https://runmyaibusiness.com/faq/can-a-small-business-ai-chatbot-handle-customer-questions-without-causing-proble",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a small-business AI chatbot handle customer questions without causing problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to prepare customer-support drafts and organize common questions, but keep escalation rules and human review for unusual, sensitive, or high-impact situations. A chatbot or assistant should not be treated as an unquestioned source of truth.\n\nContext: Run My AI Biz includes first-line support workflows, website examples, and operational assistants. The educational model keeps the owner responsible for account connections, approvals, and exceptions.\n\nKey factors:\n- Complexity of customer questions\n- Access to current business information\n- Refund or escalation rules\n- Consequences of an incorrect response\n\nPractical guidance: Create a small approved knowledge base and test common, ambiguous, and worst-case questions. Route anything outside that knowledge base to a person instead of forcing an answer.\n\nRun My AI Biz can help owners design support workflows that preserve human control.",
+        "description": "It can handle routine questions when trained on current, approved information, but it needs boundaries and escalation. Test common and unusual scenarios, limit what it can access, and route uncertain or sensitive issues to a person."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

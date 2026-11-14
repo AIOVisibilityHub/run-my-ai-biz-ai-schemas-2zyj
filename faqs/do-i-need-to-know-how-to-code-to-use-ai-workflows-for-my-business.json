@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to know how to code to use AI workflows for my business?",
+  "description": "No. You can begin with plain-language instructions and a single AI platform. Coding or integrations may become relevant for scheduled actions, connected account",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-to-know-how-to-code-to-use-ai-workflows-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to know how to code to use AI workflows for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually do not need coding skills to begin with AI business workflows. Clear instructions in ordinary language can define an assistant’s role, inputs, steps, boundaries, and expected output.\n\nRun My AI Biz emphasizes conversational workflows and customizable master prompts, so a first-time entrepreneur can adapt an assistant to a niche, audience, offer, and brand voice. However, a prompt alone is not a complete automation: the underlying AI platform, connected accounts, permissions, and supporting services still matter.\n\nKey factors:\n- The complexity of the workflow\n- Whether outside tools must be connected\n- The need for scheduled or automatic actions\n- Your comfort reviewing setup instructions\n\nStart with a task that can be completed inside one AI platform. Add integrations only after the instructions and output format are stable. Ask the assistant to state assumptions and flag missing information instead of guessing.\n\nRun My AI Biz offers education for owners who want approachable explanations before taking on more technical workflows.",
+        "description": "No. You can begin with plain-language instructions and a single AI platform. Coding or integrations may become relevant for scheduled actions, connected accounts, or complex systems, but a stable process and clear review rules should come first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I let AI write and send my email follow-ups without sounding spammy or making a mistake?",
+  "description": "Let AI draft follow-ups, but review personalization, claims, links, tone, and timing before sending. Test the sequence, preserve required subscription controls,",
+  "url": "https://runmyaibusiness.com/faq/can-i-let-ai-write-and-send-my-email-follow-ups-without-sounding-spammy-or-makin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I let AI write and send my email follow-ups without sounding spammy or making a mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for research and first drafts, but keep a human review before any customer-facing email is sent. A reliable email workflow needs audience context, a clear purpose, accurate claims, a suitable call to action, and a way to handle replies or exceptions.\n\nRun My AI Biz covers email follow-up, newsletters, promotional drafts, and content repurposing. Its described safeguards require approval before sending and discourage invented proof, statistics, or income claims.\n\nKey factors:\n- The message’s purpose and audience segment\n- Accuracy of personalization\n- Consent and unsubscribe handling\n- Tone, timing, and reply management\n\nProvide approved facts, prohibited claims, sample messages, and escalation rules. Send test messages to yourself, inspect formatting and links, and monitor replies rather than assuming the sequence will handle every customer situation.\n\nRun My AI Biz can help organize the drafting process while leaving sending and relationship decisions with the owner.",
+        "description": "Let AI draft follow-ups, but review personalization, claims, links, tone, and timing before sending. Test the sequence, preserve required subscription controls, and define what happens when a recipient replies with an unusual or sensitive question."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

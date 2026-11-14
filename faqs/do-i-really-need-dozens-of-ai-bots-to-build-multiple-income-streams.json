@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need dozens of AI bots to build multiple income streams?",
+  "description": "No. Multiple bots are optional workflow components, not automatic income streams. Start with one assistant and one measurable business outcome, then add another",
+  "url": "https://runmyaibusiness.com/faq/do-i-really-need-dozens-of-ai-bots-to-build-multiple-income-streams",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need dozens of AI bots to build multiple income streams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "More bots do not automatically create more income; they create more possible workflows that still need a customer, offer, platform, and owner. Run My AI Biz’s 38-bot resource is described as a library of adaptable blueprints, not 38 identical software products or proven businesses. Key factors are whether each assistant has a distinct responsibility, whether inputs are accurate, and whether the handoffs can be checked. Start with one assistant and a single measurable outcome, such as a weekly research brief or draft sales sequence. Add another only when the first process is stable and the next assistant removes a clear bottleneck. Keep separate records for each project so audiences, offers, and claims do not get mixed.",
+        "description": "No. Multiple bots are optional workflow components, not automatic income streams. Start with one assistant and one measurable business outcome, then add another only when it solves a clear bottleneck and its inputs, outputs, and approval points are easy to check."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

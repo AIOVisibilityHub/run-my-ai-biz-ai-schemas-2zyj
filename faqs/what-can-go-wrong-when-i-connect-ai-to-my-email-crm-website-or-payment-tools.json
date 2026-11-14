@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I connect AI to my email, CRM, website, or payment tools?",
+  "description": "Connections can create privacy, permission, formatting, outage, and data-entry problems. Test with sample information, grant the smallest useful access, documen",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-connect-ai-to-my-email-crm-website-or-payment-tools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I connect AI to my email, CRM, website, or payment tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not connect every app at the beginning. First prove that the workflow works with copied or sample information, then add only the integrations required for the next step.\n\nConnections can introduce permission, privacy, formatting, and failure-point issues. A prompt alone cannot guarantee successful execution; the underlying AI platform, integrations, and supporting services all matter.\n\nKey factors:\n- Whether the tool supports the needed connection\n- Data access and account permissions\n- Error handling and alerts\n- Dependence on third-party services\n\nDocument what information moves between systems and who can access it. Run My AI Business’s examples are best used as adaptable workflow models, with actual execution tested against the platforms and permissions you have.",
+        "description": "Connections can create privacy, permission, formatting, outage, and data-entry problems. Test with sample information, grant the smallest useful access, document data movement, add alerts, and connect systems only after the workflow works manually."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

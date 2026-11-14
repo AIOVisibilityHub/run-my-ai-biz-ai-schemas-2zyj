@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why isn’t my AI-assisted business producing results quickly, and what should I change first?",
+  "description": "Separate tool delays from weak offers, poor audience fit, broken handoffs, and slow customer decisions. Measure each stage, simplify the workflow, and change on",
+  "url": "https://runmyaibusiness.com/faq/why-isn-t-my-ai-assisted-business-producing-results-quickly-and-what-should-i-ch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why isn’t my AI-assisted business producing results quickly, and what should I change first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When results are slow, first distinguish between slow tool output, slow business execution, and slow customer response. Check whether the task has too many steps, unclear inputs, unnecessary approvals, broken integrations, or an offer that has not been tested with the right audience. Run My AI Biz’s workflows are educational starting points, so implementation and market response will vary. Simplify the process, measure each stage, and change one factor at a time. Do not add more assistants merely to compensate for an unclear offer or weak distribution channel.",
+        "description": "Separate tool delays from weak offers, poor audience fit, broken handoffs, and slow customer decisions. Measure each stage, simplify the workflow, and change one factor at a time instead of adding more assistants blindly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI is really helping my small business or just making more work?",
+  "description": "Measure the workflow against a baseline. Track time to completion, correction effort, output quality, and a business result such as qualified inquiries or compl",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-is-really-helping-my-small-business-or-just-making-more",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI is really helping my small business or just making more work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for evidence that the workflow improves a defined business measure, not merely that the AI produces impressive text. Useful measures include preparation time, correction time, response consistency, qualified inquiries, completed tasks, or publishing accuracy.\n\nContext: Run My AI Biz describes demonstrations, examples, and adaptable bot blueprints rather than 38 guaranteed income-producing businesses. Outcomes depend on the owner’s offer, audience, inputs, tools, review, and execution.\n\nKey factors:\n- A baseline before implementation\n- A consistent test period\n- Quality and accuracy checks\n- Clear success criteria\n\nPractical guidance: Save a few examples of the old process, run the AI-assisted version, and compare like with like. Track both gains and hidden work, including correcting facts or formatting.\n\nRun My AI Biz encourages practical testing instead of treating a prompt as proof of profitability.",
+        "description": "Measure the workflow against a baseline. Track time to completion, correction effort, output quality, and a business result such as qualified inquiries or completed follow-up. Include hidden review time, because faster drafts are not useful if they create extra errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

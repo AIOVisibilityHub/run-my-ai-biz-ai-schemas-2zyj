@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I let an AI assistant answer customer questions, or will it make support worse?",
+  "description": "Use AI for predictable, low-risk questions with an approved answer base and a clear handoff rule. Keep unusual, disputed, sensitive, or customer-specific issues",
+  "url": "https://runmyaibusiness.com/faq/should-i-let-an-ai-assistant-answer-customer-questions-or-will-it-make-support-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I let an AI assistant answer customer questions, or will it make support worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for first-line support when questions are common, answers are stable, and a clear escalation path exists. Keep unusual, sensitive, disputed, or customer-specific situations with the owner or an appropriately qualified person.\n\nRun My AI Biz includes examples for first-line support, recurring questions, link checks, and administrative workflows. The described approach favors approval rules and exception handling rather than allowing an assistant to improvise beyond its instructions.\n\nKey factors:\n- How predictable the questions are\n- Whether answers change frequently\n- Access to customer history\n- Risk of an incorrect or incomplete response\n\nCreate an approved answer base, require the assistant to cite or identify the relevant source, and tell it when to stop. Review a sample of responses regularly and update the instructions when products, policies, or support patterns change.\n\nRun My AI Biz can help reduce repetitive support drafting without suggesting that every customer conversation should be automated.",
+        "description": "Use AI for predictable, low-risk questions with an approved answer base and a clear handoff rule. Keep unusual, disputed, sensitive, or customer-specific issues for human review, and audit responses as your business changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

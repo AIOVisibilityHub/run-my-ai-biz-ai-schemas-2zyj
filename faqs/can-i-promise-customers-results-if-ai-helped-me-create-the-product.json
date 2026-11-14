@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I promise customers results if AI helped me create the product?",
+  "description": "Avoid guaranteed income, growth, rankings, or customer results. Outcomes depend on the buyer, market, offer, execution, and other conditions. Use genuine eviden",
+  "url": "https://runmyaibusiness.com/faq/can-i-promise-customers-results-if-ai-helped-me-create-the-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I promise customers results if AI helped me create the product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not claim that a product will produce guaranteed income, customers, rankings, or business growth unless you have strong, relevant evidence and communicate limitations clearly. AI-generated testimonials, statistics, case studies, or earnings examples are especially risky because they may appear authoritative without being real. Context: Run My AI Biz instructs workflows not to invent proof, statistics, or income claims and presents bot applications as possibilities rather than guaranteed businesses. Key factors: the claim’s specificity, evidence quality, audience vulnerability, disclosure needs, and whether results depend on customer effort or outside conditions. Practical guidance: describe the process and intended use, identify assumptions, and use genuine, permission-based customer evidence only. Have promotional copy reviewed before publication. Run My AI Biz can help draft cautious, evidence-based messaging.",
+        "description": "Avoid guaranteed income, growth, rankings, or customer results. Outcomes depend on the buyer, market, offer, execution, and other conditions. Use genuine evidence, state limitations, explain what the product includes, and remove invented testimonials, statistics, and performance claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

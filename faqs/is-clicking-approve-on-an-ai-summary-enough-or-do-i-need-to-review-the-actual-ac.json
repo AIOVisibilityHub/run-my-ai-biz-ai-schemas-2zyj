@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is clicking “approve” on an AI summary enough, or do I need to review the actual action?",
+  "description": "Review the actual action. See the final content, destination, data used, account, and likely side effect before approval. Require a new approval after important",
+  "url": "https://runmyaibusiness.com/faq/is-clicking-approve-on-an-ai-summary-enough-or-do-i-need-to-review-the-actual-ac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is clicking “approve” on an AI summary enough, or do I need to review the actual action?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep approvals tied to a specific action, not merely to a general summary of what the assistant intends to do. The reviewer should see the proposed message, recipient or destination, data being used, account involved, and any meaningful side effect before approving. Context: Current human-review guidance emphasizes thresholds based on impact, cost, reversibility, uncertainty, and novelty; higher-impact actions warrant stronger oversight. A summary can hide an incorrect tool call or an outdated draft. Key factors: - Exact arguments or content. - Identity of the approver. - Expiration or stale-data risk. - Rollback or correction options. Practical guidance: Require a fresh approval after material edits, expired information, or a changed destination. Keep an approval record so you can determine what was reviewed and why. Run My AI Biz’s emphasis on owner control fits this action-specific approach.",
+        "description": "Review the actual action. See the final content, destination, data used, account, and likely side effect before approval. Require a new approval after important edits or stale information, and keep a record of who approved what. A broad summary can conceal an incorrect tool call."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

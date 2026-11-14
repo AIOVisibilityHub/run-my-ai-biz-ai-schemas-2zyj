@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to learn enough AI to start an online business?",
+  "description": "Simple drafting workflows can be practiced quickly, while connected funnels and automations take longer. Start with one defined task, complete several supervise",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-learn-enough-ai-to-start-an-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to learn enough AI to start an online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Learning time depends on the workflow’s complexity, your familiarity with the tools, and how much testing the process needs. A simple prompt-and-review task can be practiced quickly, while connected funnels, websites, email, and account permissions require more setup.\n\nRun My AI Biz encourages a focused sequence: identify a workflow, build one assistant, use it, then expand. That approach is more useful than trying to master every AI tool at once.\n\nKey factors:\n- Number of platforms and integrations.\n- Clarity of the business process.\n- Quality of your examples and instructions.\n- Required safeguards and review points.\n\nSet a small first milestone, such as producing one reviewed newsletter draft or one tested lead magnet. Track what required correction, update the instructions, and repeat before adding another workflow.\n\nThe educational material is suited to incremental practice rather than an all-at-once technical course.",
+        "description": "Simple drafting workflows can be practiced quickly, while connected funnels and automations take longer. Start with one defined task, complete several supervised trials, document corrections, and expand only after the process is repeatable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I spend on AI tools before I know my one-person business will work?",
+  "description": "Spend as little as possible while testing one valuable workflow. Include subscriptions, integrations, usage limits, setup time, and correction time, then compar",
+  "url": "https://runmyaibusiness.com/faq/how-much-should-i-spend-on-ai-tools-before-i-know-my-one-person-business-will-wo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I spend on AI tools before I know my one-person business will work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lowest-cost approach is to start with tools you already understand and one clearly defined workflow. Run My AI Biz offers a free starting option and lists a $9-per-month paid newsletter subscription for full weekly issues; separate tools, platforms, integrations, and external programs may have their own charges. Compare total monthly cost with measurable savings, not the number of features. Track subscriptions, usage limits, setup time, and the hours spent correcting outputs. A useful test is whether the workflow reduces a recurring burden after a short trial without weakening quality or customer trust.",
+        "description": "Spend as little as possible while testing one valuable workflow. Include subscriptions, integrations, usage limits, setup time, and correction time, then compare the total with measurable hours saved or a clearly improved business outcome."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

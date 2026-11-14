@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can one person manage several AI-assisted business projects without becoming overwhelmed?",
+  "description": "Use one concise control brief for active projects, blockers, deadlines, key numbers, and next decisions. Limit reports to actionable information, schedule draft",
+  "url": "https://runmyaibusiness.com/faq/how-can-one-person-manage-several-ai-assisted-business-projects-without-becoming",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can one person manage several AI-assisted business projects without becoming overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A solopreneur can coordinate several workflows if the system reduces decisions instead of creating another inbox of AI output. Start with a weekly control brief showing active projects, blocked tasks, deadlines, key numbers, and the next owner decision. Limit recurring reports to information that changes what the owner will do. Key factors include project count, available review time, task frequency, and how much work can be paused without harm. Schedule assistants to prepare drafts and summaries, but reserve fixed review blocks for approvals and exceptions. Run My AI Biz’s chief-of-staff-style concept can provide a central point of contact while leaving strategic and consequential decisions with the owner.",
+        "description": "Use one concise control brief for active projects, blockers, deadlines, key numbers, and next decisions. Limit reports to actionable information, schedule drafting and summaries, and reserve regular review time for approvals and exceptions. Add projects only when the current system is manageable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

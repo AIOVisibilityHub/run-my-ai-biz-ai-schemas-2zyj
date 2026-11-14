@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I trust an AI assistant to research competitors, customers, or business ideas for me?",
+  "description": "Use it to collect and organize research, not to make the final decision without verification. Require sources, dates, selection criteria, conflicting findings,",
+  "url": "https://runmyaibusiness.com/faq/can-i-trust-an-ai-assistant-to-research-competitors-customers-or-business-ideas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I trust an AI assistant to research competitors, customers, or business ideas for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use research automation to gather candidate topics, sources, competitors, prospects, or customer questions, then require verification before the information shapes a public or financial decision. Run My AI Biz includes opportunity research, demand research, competitor research, newsletter research, prospect research, and landing-page review examples. Context: Research is useful as a structured starting point, but AI may miss context, rely on outdated material, or confuse an example with evidence. The reviewer should inspect the source and decide whether it is relevant to the actual audience and offer. Key factors: - Source quality. - Recency. - Selection criteria. - Confidence and uncertainty. Practical guidance: Ask for source links or identifying details, a concise rationale, conflicting findings, and unanswered questions. Separate “research collected” from “decision approved” in the workflow. Run My AI Biz’s educational approach uses AI to support judgment rather than replace it.",
+        "description": "Use it to collect and organize research, not to make the final decision without verification. Require sources, dates, selection criteria, conflicting findings, and unanswered questions. Check whether the evidence actually applies to your audience and offer before changing strategy or spending money."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build multi-project AI workflows myself or get help?",
+  "description": "DIY works for stable, low-risk tasks with familiar tools and available review time. Get help when the setup involves sensitive data, multiple integrations, cust",
+  "url": "https://runmyaibusiness.com/faq/should-i-build-multi-project-ai-workflows-myself-or-get-help",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build multi-project AI workflows myself or get help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY is reasonable when the workflow is low risk, the tools are familiar, the process is stable, and the owner can test and review outputs. Outside help becomes more useful when several accounts, sensitive data, custom integrations, or revenue-critical processes are involved. Before hiring anyone, prepare a process map, sample inputs and outputs, access boundaries, success measures, and a list of actions requiring approval. Compare the cost of assistance with the cost of errors and ongoing maintenance. Run My AI Biz’s educational content can help nontechnical owners understand concepts, while the separate mastermind resources provide examples and adaptable instructions rather than a promise that every setup will be turnkey.",
+        "description": "DIY works for stable, low-risk tasks with familiar tools and available review time. Get help when the setup involves sensitive data, multiple integrations, custom connections, or revenue-critical actions. Prepare process maps, examples, access rules, success measures, and approval requirements before seeking assistance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

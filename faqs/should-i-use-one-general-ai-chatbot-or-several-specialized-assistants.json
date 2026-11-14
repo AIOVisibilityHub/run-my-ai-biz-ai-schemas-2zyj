@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use one general AI chatbot or several specialized assistants?",
+  "description": "Use a general chatbot for exploration and quick drafts. Use a specialized assistant when a recurring task needs consistent context, steps, sources, and review r",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-one-general-ai-chatbot-or-several-specialized-assistants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use one general AI chatbot or several specialized assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A single general chatbot is useful for exploration, while specialized assistants are better when a task has recurring steps, defined inputs, and distinct quality standards. Many small businesses benefit from starting with one specialized workflow before coordinating several.\n\nContext: Run My AI Biz’s resource library includes assistants for research, course creation, newsletters, funnels, websites, social content, and administration. Its examples use adaptable instructions rather than identical standalone software products.\n\nKey factors:\n- Repeatability of the task\n- Need for specialized context\n- Number of handoffs\n- Review and maintenance burden\n\nPractical guidance: Use a general chatbot to learn and prototype. Convert the process into a specialized assistant when you repeat it often enough to justify documented instructions and a consistent review checklist.\n\nRun My AI Biz can help owners compare task-focused workflows without assuming they need a large system.",
+        "description": "Use a general chatbot for exploration and quick drafts. Use a specialized assistant when a recurring task needs consistent context, steps, sources, and review rules. Begin with one assistant, then add others only when the extra coordination is worth the maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

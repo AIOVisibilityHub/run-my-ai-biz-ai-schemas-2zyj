@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an AI chief-of-staff or multi-agent business system actually do?",
+  "description": "It coordinates specialized assistants by organizing tasks, collecting updates, and routing work between research, content, marketing, and operations. Start with",
+  "url": "https://runmyaibusiness.com/faq/what-does-an-ai-chief-of-staff-or-multi-agent-business-system-actually-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an AI chief-of-staff or multi-agent business system actually do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chief-of-staff-style assistant can help organize projects, summarize progress, and route work to specialized assistants, but it remains a coordination layer rather than an independent business operator. Run My AI Biz describes this model as a central point of contact for research, content, marketing, and administrative workflows. Context: Coordination works best when each assistant has a clear responsibility, input format, output format, and handoff rule. Key factors: - Decide which tasks require owner judgment. - Use consistent naming, folders, deadlines, and status fields. - Require approval before external or irreversible actions. Practical guidance: Start with two related assistants and a simple handoff document. Add more only when the existing process is stable and the owner can still review important decisions. This keeps a multi-assistant setup manageable for a one-person business.",
+        "description": "It coordinates specialized assistants by organizing tasks, collecting updates, and routing work between research, content, marketing, and operations. Start with two related assistants, define handoffs and status fields, and keep owner approval before consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

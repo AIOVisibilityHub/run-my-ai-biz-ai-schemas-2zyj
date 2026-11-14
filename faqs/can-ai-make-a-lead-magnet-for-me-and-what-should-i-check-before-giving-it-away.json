@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI make a lead magnet for me, and what should I check before giving it away?",
+  "description": "Yes. AI can help develop a checklist, guide, worksheet, or similar resource, but verify every claim and ensure it solves one specific audience problem. Test del",
+  "url": "https://runmyaibusiness.com/faq/can-ai-make-a-lead-magnet-for-me-and-what-should-i-check-before-giving-it-away",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI make a lead magnet for me, and what should I check before giving it away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft a lead magnet, but usefulness and relevance matter more than speed. Run My AI Biz examples include resources such as a local activities PDF and an affiliate-related checklist, together with opt-in pages and follow-up materials.\n\nA lead magnet should solve one narrow problem and naturally connect to the next offer. Generic text, unsupported claims, or a mismatch between the download and the email sequence can reduce trust.\n\nKey factors:\n- One clearly defined audience and problem.\n- A practical format such as a checklist, guide, template, or worksheet.\n- Accurate information and a clear update process.\n- A permission-based follow-up sequence.\n\nAsk AI for several concepts, select one based on audience relevance, and revise every section yourself. Test the opt-in page, delivery process, and first follow-up email before promoting the resource.\n\nRun My AI Biz can help connect lead-magnet creation with the surrounding funnel rather than treating the PDF as the entire strategy.",
+        "description": "Yes. AI can help develop a checklist, guide, worksheet, or similar resource, but verify every claim and ensure it solves one specific audience problem. Test delivery and follow-up emails before promoting the opt-in."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

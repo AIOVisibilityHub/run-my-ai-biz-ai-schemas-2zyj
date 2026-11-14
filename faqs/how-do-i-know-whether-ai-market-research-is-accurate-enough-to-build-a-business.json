@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI market research is accurate enough to build a business around?",
+  "description": "Treat AI research as a starting point, not proof. Require sources, separate facts from hypotheses, flag uncertainty, verify important claims independently, and",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-market-research-is-accurate-enough-to-build-a-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI market research is accurate enough to build a business around?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated research can help you form hypotheses, but it should not be treated as verified evidence automatically. Require the workflow to identify sources, distinguish facts from suggestions, flag uncertainty, and avoid inventing statistics, testimonials, or income claims.\n\nThis matters when researching opportunities, competitors, customer needs, or market positioning. A polished summary can still contain omissions or inaccurate statements, particularly when the underlying information is incomplete.\n\nKey factors:\n- Source quality and freshness\n- Whether claims can be independently checked\n- Data completeness\n- Consequences of acting on an error\n\nAsk for a research brief with source links or references, open questions, and a verification checklist. Run My AI Business’s educational material specifically emphasizes source verification and restrictions against invented proof or statistics.",
+        "description": "Treat AI research as a starting point, not proof. Require sources, separate facts from hypotheses, flag uncertainty, verify important claims independently, and avoid relying on AI-generated statistics, testimonials, or income claims without confirmation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

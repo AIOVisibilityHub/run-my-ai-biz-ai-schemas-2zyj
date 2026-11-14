@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can the lead-generation bots find real prospects, or will they just create spammy lists?",
+  "description": "They can organize prospect research and draft relevant outreach, but only when you define qualification rules and require source verification. Make the bot leav",
+  "url": "https://runmyaibusiness.com/faq/can-the-lead-generation-bots-find-real-prospects-or-will-they-just-create-spammy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the lead-generation bots find real prospects, or will they just create spammy lists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use prospecting bots to organize research and prepare personalized drafts, not to blast unverified lists. Define the target customer or sponsor, geographic scope when relevant, qualification fields, acceptable sources, contact limits, and exclusion rules. Require the assistant to record why each prospect fits and to leave unknown fields blank instead of guessing. Review every message for accuracy, relevance, consent expectations, and an easy way to decline further contact. Keep outreach volume and follow-up decisions under human control. A small, well-qualified list is often more useful for testing than a large scraped list. Run My AI Biz’s examples include local sponsorship and website-prospect research, which require careful source checking and appropriate outreach.",
+        "description": "They can organize prospect research and draft relevant outreach, but only when you define qualification rules and require source verification. Make the bot leave unknown fields blank, record why each prospect fits, and keep sending and follow-up decisions under human control. Test a small, well-qualified list first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

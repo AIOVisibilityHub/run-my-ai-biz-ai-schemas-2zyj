@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I price a digital product made with AI?",
+  "description": "Price the customer’s problem, depth of instruction, support, and expected value—not the low cost of AI drafting. Compare similar offers, include platform and su",
+  "url": "https://runmyaibusiness.com/faq/how-should-i-price-a-digital-product-made-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I price a digital product made with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Price the product according to the problem’s value, depth, support level, audience expectations, and alternatives—not according to how quickly AI helped draft it. A low price may suit a simple template, while a guided course or product with support may justify more if the experience and outcome are stronger. Context: Run My AI Biz discusses offer positioning, sales pages, funnels, and multiple product formats rather than prescribing one price. Key factors: customer budget, comparable offers, production and support costs, update obligations, and evidence of demand. Practical guidance: test a clear founding or beta price, state exactly what buyers receive, and track questions, conversions, refunds, and support time. Avoid implying guaranteed income or savings you cannot substantiate. Run My AI Biz can help organize comparison research and offer testing.",
+        "description": "Price the customer’s problem, depth of instruction, support, and expected value—not the low cost of AI drafting. Compare similar offers, include platform and support costs, test a transparent beta price, and clearly state what buyers receive without promising guaranteed results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

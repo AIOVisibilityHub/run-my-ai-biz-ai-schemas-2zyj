@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it too early for my startup to automate, since our process keeps changing?",
+  "description": "Automate only stable, repetitive portions of a changing process. Use flexible prompts, editable templates, and manual approvals while your offer and audience ev",
+  "url": "https://runmyaibusiness.com/faq/is-it-too-early-for-my-startup-to-automate-since-our-process-keeps-changing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it too early for my startup to automate, since our process keeps changing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A startup should not automate a process merely because a competitor appears to do so. Automate when the process is stable enough to describe, the expected benefit is measurable, and someone owns testing and exception handling.\n\nEarly-stage companies often change their audience, offer, and operating method quickly. A rigid workflow can become a burden if it encodes assumptions that are no longer true.\n\nKey factors:\n- Process stability\n- Expected frequency and savings\n- Likelihood of near-term changes\n- Cost of reworking the workflow\n\nUse flexible prompts, editable templates, and manual checkpoints during early experimentation. Run My AI Business’s opportunity-research and business-brainstorming examples are better used to evaluate possibilities before committing significant resources.",
+        "description": "Automate only stable, repetitive portions of a changing process. Use flexible prompts, editable templates, and manual approvals while your offer and audience evolve, then add deeper connections after the operating method becomes clearer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

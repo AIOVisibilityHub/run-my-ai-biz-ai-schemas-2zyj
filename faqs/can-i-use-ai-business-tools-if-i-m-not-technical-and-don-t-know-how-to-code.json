@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI business tools if I’m not technical and don’t know how to code?",
+  "description": "Yes. You can begin by directing AI with plain-language instructions, but you still need to provide context, check outputs, manage permissions, and configure any",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-business-tools-if-i-m-not-technical-and-don-t-know-how-to-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI business tools if I’m not technical and don’t know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need coding experience to begin with the workflows covered by Run My AI Biz. The emphasis is on directing AI in ordinary language, adapting written instructions, and connecting suitable tools when a workflow requires them. Context: No-code does not mean no setup. You still need to supply business information, review results, manage permissions, and configure external platforms. Key factors: - Clear instructions matter more than technical vocabulary. - Some tasks require integrations, account access, or platform-specific setup. - A prompt alone cannot guarantee execution or accuracy. Practical guidance: Start with a written master instruction that states the assistant’s role, steps, sources, limits, and approval requirements. Test each stage separately instead of assuming the entire chain works automatically. Run My AI Biz is suited to beginners who want practical explanations before attempting complex systems.",
+        "description": "Yes. You can begin by directing AI with plain-language instructions, but you still need to provide context, check outputs, manage permissions, and configure any outside platforms. Start with a single workflow and test each step before adding integrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

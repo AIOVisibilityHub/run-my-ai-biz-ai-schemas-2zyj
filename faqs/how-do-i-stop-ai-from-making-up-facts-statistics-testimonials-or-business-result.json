@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts, statistics, testimonials, or business results?",
+  "description": "Require AI to flag claims needing verification, provide source details, and distinguish assumptions from facts. Independently check dates, numbers, links, testi",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-statistics-testimonials-or-business-result",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts, statistics, testimonials, or business results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Review every factual claim, statistic, citation, customer example, and product promise before publishing or selling AI-assisted material. Run My AI Biz’s guidance specifically warns against invented statistics, proof, or income claims and includes source-verification checkpoints. Context: AI can produce confident wording that is incomplete or wrong, especially when the prompt lacks reliable source material. Key factors: - Prefer primary or authoritative sources for important claims. - Mark assumptions and unresolved questions during drafting. - Check dates, names, numbers, links, and qualifications independently. Practical guidance: Ask the assistant to list claims requiring verification, then verify them yourself and record the supporting source in your working file. Never allow a generated testimonial, result, statistic, or earnings statement to appear as genuine without documentation and appropriate review.",
+        "description": "Require AI to flag claims needing verification, provide source details, and distinguish assumptions from facts. Independently check dates, numbers, links, testimonials, and earnings statements before publication, and never present invented proof as real."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

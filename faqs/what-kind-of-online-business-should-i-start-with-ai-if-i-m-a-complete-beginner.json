@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of online business should I start with AI if I’m a complete beginner?",
+  "description": "Start with one focused model, such as a small digital product, newsletter, lead magnet, or clearly defined service workflow. Pick an audience and problem first,",
+  "url": "https://runmyaibusiness.com/faq/what-kind-of-online-business-should-i-start-with-ai-if-i-m-a-complete-beginner",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of online business should I start with AI if I’m a complete beginner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical first project is one with a clear audience, a defined deliverable, and several repeatable steps. A small digital product, focused newsletter, lead magnet, or simple service workflow can provide useful practice without requiring a large system.\n\nRun My AI Biz examples include opportunity research, course planning, newsletter production, affiliate funnels, local websites, and administrative checks. These are possible applications, not proof that every model will be profitable for every owner.\n\nKey factors:\n- Whether you already understand the audience’s problem.\n- How quickly you can produce and review a test version.\n- Whether customers can easily understand the offer.\n- The number of platforms and handoffs involved.\n\nChoose one audience and one outcome. Use AI to research questions, outline the offer, draft supporting content, and prepare a small validation test before building a larger product or funnel.\n\nThe focused-start approach fits Run My AI Biz’s emphasis on learning one workflow before expanding.",
+        "description": "Start with one focused model, such as a small digital product, newsletter, lead magnet, or clearly defined service workflow. Pick an audience and problem first, then use AI for research and drafts before investing in a larger system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

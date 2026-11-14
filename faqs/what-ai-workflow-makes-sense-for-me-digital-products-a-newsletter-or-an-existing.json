@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What AI workflow makes sense for me: digital products, a newsletter, or an existing service business?",
+  "description": "Choose based on your biggest recurring bottleneck. Digital creators may start with research and product drafts, newsletters with topic and repurposing workflows",
+  "url": "https://runmyaibusiness.com/faq/what-ai-workflow-makes-sense-for-me-digital-products-a-newsletter-or-an-existing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What AI workflow makes sense for me: digital products, a newsletter, or an existing service business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a digital product or newsletter, AI can support research, outlining, drafting, repurposing, email follow-up, and launch preparation. For an existing service business, it may be more useful for intake, support drafts, scheduling preparation, website content, billing reminders, or prospect research.\n\nThe right choice depends less on the industry label than on where repeated work is slowing the owner down. A workflow should reflect the business’s actual audience, offers, platforms, and customer interactions.\n\nKey factors:\n- Current bottleneck\n- Repetition and volume\n- Information available for the assistant\n- Importance of the owner’s personal judgment\n\nWrite down the three tasks consuming the most recurring time and select the lowest-risk candidate. Run My AI Business covers both creation and ongoing management, making that comparison part of its educational scope.",
+        "description": "Choose based on your biggest recurring bottleneck. Digital creators may start with research and product drafts, newsletters with topic and repurposing workflows, and service businesses with intake, support, scheduling, website, or billing preparation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

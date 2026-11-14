@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same AI workflow for multiple online businesses without mixing everything up?",
+  "description": "Yes, but reuse the structure rather than the business details. Keep separate brand profiles, audiences, offers, sources, account connections, and performance me",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-ai-workflow-for-multiple-online-businesses-without-mixing-eve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same AI workflow for multiple online businesses without mixing everything up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use AI across several projects, but reuse the workflow structure rather than blindly copying the content. Run My AI Biz describes adapting prompts for different brands, audiences, products, and niches while keeping their voice, sources, and offers distinct.\n\nSeparate business contexts prevent mixed assumptions, incorrect brand details, and crossed customer data. A central assistant may coordinate work, but each project still needs its own instructions and approval standards.\n\nKey factors:\n- Separate brand profiles and source libraries.\n- Distinct offers, audiences, and tone instructions.\n- Independent performance tracking.\n- Clear account and permission boundaries.\n\nCreate a reusable template with fields for business name, audience, offer, voice, claims, sources, and forbidden assumptions. Test each project independently before coordinating them.\n\nRun My AI Biz’s multi-project education supports reuse while keeping projects clearly separated.",
+        "description": "Yes, but reuse the structure rather than the business details. Keep separate brand profiles, audiences, offers, sources, account connections, and performance measures, and test each workflow independently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

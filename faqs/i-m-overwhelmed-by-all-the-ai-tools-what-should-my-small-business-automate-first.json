@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m overwhelmed by all the AI tools—what should my small business automate first?",
+  "description": "Choose one frequent, low-risk task with a clear result, such as research, newsletter drafting, or routine follow-up. Document the current steps, define the revi",
+  "url": "https://runmyaibusiness.com/faq/i-m-overwhelmed-by-all-the-ai-tools-what-should-my-small-business-automate-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m overwhelmed by all the AI tools—what should my small business automate first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repetitive, low-risk task whose result you can check quickly, such as drafting newsletter material, organizing research, or preparing routine follow-up. Run My AI Biz teaches a focused sequence: identify the workflow, build one specialized assistant, test it, and expand only after the process works.\n\nContext: Trying to automate an entire business at once creates too many unknowns around tools, permissions, data, and review. Small experiments make it easier to measure whether AI actually improves the work.\n\nKey factors:\n- Frequency and time consumed\n- Ease of checking the output\n- Data sensitivity\n- Cost of connected tools\n\nPractical guidance: Write down the current steps, desired input, acceptable output, and approval point before choosing a tool. Begin with drafts or research rather than automatic publishing, spending, or customer decisions.\n\nRun My AI Biz can help you learn how task-specific assistants fit into practical online-business workflows.",
+        "description": "Choose one frequent, low-risk task with a clear result, such as research, newsletter drafting, or routine follow-up. Document the current steps, define the review point, test the workflow manually, and expand only after it saves measurable time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

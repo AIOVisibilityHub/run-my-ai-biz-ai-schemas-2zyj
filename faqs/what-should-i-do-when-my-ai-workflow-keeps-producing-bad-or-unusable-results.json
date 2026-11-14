@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when my AI workflow keeps producing bad or unusable results?",
+  "description": "Find the failure point instead of repeatedly asking for a better answer. Improve the business context, examples, source requirements, output format, and approva",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-my-ai-workflow-keeps-producing-bad-or-unusable-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when my AI workflow keeps producing bad or unusable results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bad AI output usually indicates a mismatch among the instructions, business context, source material, or expected format. Do not simply ask for a better answer; identify which part failed and revise the workflow accordingly.\n\nAdd examples of good and unacceptable results, require the assistant to state uncertainty, and separate research from final copy. If the task remains unreliable after testing, reduce its scope or keep it as a human-led process.\n\nKey factors:\n- Specificity of instructions\n- Quality of supplied context\n- Consistency of examples\n- Complexity of the requested task\n\nKeep a test set of representative inputs and compare revisions against it. Run My AI Business’s customization approach supports refining master prompts through repeated use rather than treating the initial prompt as final.",
+        "description": "Find the failure point instead of repeatedly asking for a better answer. Improve the business context, examples, source requirements, output format, and approval rules; then retest with representative inputs or reduce the workflow’s scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between an AI prompt, an AI assistant, and an automated business workflow?",
+  "description": "A prompt gives instructions, an assistant applies them to a defined role, and a workflow connects tasks, tools, inputs, and approvals. A prompt alone does not c",
+  "url": "https://runmyaibusiness.com/faq/what-s-the-difference-between-an-ai-prompt-an-ai-assistant-and-an-automated-busi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between an AI prompt, an AI assistant, and an automated business workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI prompt is not the same as a working automation. A prompt defines a role, instructions, workflow, and approval requirements; execution also depends on the AI platform, integrations, permissions, connected accounts, and supporting services.\n\nThe 38 Bot Empire materials are best understood as adaptable blueprints. Many prompts can be customized for a niche, audience, offer, voice, and objective, but they require setup and testing.\n\nKey factors:\n- What inputs the assistant receives.\n- Which tasks require external tools.\n- Where human approval occurs.\n- How failures, missing information, and exceptions are handled.\n\nBegin by running the prompt manually with sample business information. Document what works, add clear stop conditions, and connect accounts only after the process is predictable.\n\nRun My AI Biz can help explain the difference between instructions, assistants, and complete operating workflows.",
+        "description": "A prompt gives instructions, an assistant applies them to a defined role, and a workflow connects tasks, tools, inputs, and approvals. A prompt alone does not create integrations, permissions, reliable execution, or finished automation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

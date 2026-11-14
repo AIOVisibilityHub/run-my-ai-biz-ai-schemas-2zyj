@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI-generated business content is accurate enough to sell?",
+  "description": "Treat AI output as a draft. Verify factual claims, check sources, remove unsupported statistics or promises, review originality, and add your own expertise befo",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-generated-business-content-is-accurate-enough-to-sell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI-generated business content is accurate enough to sell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to accelerate research, outlining, drafting, and organization, but verify important facts before using them in a product. Run My AI Biz’s educational approach includes source checking and safeguards against invented statistics, proof, or income claims.\n\nAI-generated material may be incomplete, outdated, repetitive, or unsuitable for your audience. A polished draft can still contain incorrect claims or copied-sounding language.\n\nKey factors:\n- Whether claims can be checked against reliable sources.\n- The originality of examples, images, and wording.\n- The sensitivity of customer or business data entered.\n- Your quality standard for a paid product.\n\nUse AI for a first outline, then fact-check, rewrite in your own voice, add useful examples, and test the material with a real reader. Keep a record of sources for factual sections and remove unsupported promises.\n\nRun My AI Biz can teach the review process, but the owner remains responsible for the final product.",
+        "description": "Treat AI output as a draft. Verify factual claims, check sources, remove unsupported statistics or promises, review originality, and add your own expertise before selling or publishing the material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

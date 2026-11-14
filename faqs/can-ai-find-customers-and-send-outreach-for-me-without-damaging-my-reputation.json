@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find customers and send outreach for me without damaging my reputation?",
+  "description": "AI can research prospects and prepare personalized drafts, but you should verify relevance and approve every message. Check platform requirements, avoid unsuppo",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-customers-and-send-outreach-for-me-without-damaging-my-reputation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find customers and send outreach for me without damaging my reputation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for research and outreach preparation, not for sending unchecked mass messages. A practical workflow can identify potential prospects, collect relevant public details, draft tailored messages, and place each item in a review queue. Run My AI Biz includes examples for local businesses, newsletter sponsors, and other prospecting situations. Verify that each prospect is relevant, remove unsupported claims, respect platform rules, and approve every message before sending. Track replies, unsubscribes, complaints, and useful conversations rather than counting drafts or contacts alone.",
+        "description": "AI can research prospects and prepare personalized drafts, but you should verify relevance and approve every message. Check platform requirements, avoid unsupported claims, and monitor replies, complaints, and unsubscribes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

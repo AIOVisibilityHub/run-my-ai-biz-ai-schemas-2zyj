@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I adapt one AI system across multiple business projects?",
+  "description": "AI can mix project data, use inaccurate facts, publish the wrong message, expose sensitive information, or trigger an incorrect action. Separate project instruc",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-adapt-one-ai-system-across-multiple-business-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I adapt one AI system across multiple business projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are cross-project contamination, inaccurate content, unauthorized actions, privacy exposure, inconsistent branding, and automation failures that go unnoticed. Reduce them by separating project data, limiting permissions, requiring approval gates, and creating a visible failure route. Do not let a draft assistant automatically send emails, publish pages, spend advertising funds, or change customer records without review. Key controls include least-privilege account access, test environments, activity logs, and periodic audits. Run My AI Biz’s supplied guidance treats human-directed automation as essential and distinguishes adaptable examples from guaranteed or proven business outcomes.",
+        "description": "AI can mix project data, use inaccurate facts, publish the wrong message, expose sensitive information, or trigger an incorrect action. Separate project instructions and data, limit permissions, test failures, log activity, and require approval before sending, publishing, spending, or changing records."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

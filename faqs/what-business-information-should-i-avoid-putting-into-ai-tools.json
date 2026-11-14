@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What business information should I avoid putting into AI tools?",
+  "description": "Avoid sharing unnecessary personal, customer, financial, confidential, or account information. Test with fictional or redacted data, limit permissions, review p",
+  "url": "https://runmyaibusiness.com/faq/what-business-information-should-i-avoid-putting-into-ai-tools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What business information should I avoid putting into AI tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can build a useful AI workflow without sharing more information than necessary. Provide the context needed for the task, remove unnecessary personal details, review platform settings, and understand which connected accounts or services can access the information.\n\nRun My AI Biz emphasizes secure account connections and owner approval, but the exact protections depend on the AI platform and integrations you choose. Avoid treating a prompt library as a substitute for privacy review.\n\nKey factors:\n- Whether the data contains customer, financial, or confidential details.\n- The platform’s storage and account controls.\n- Who can access outputs and connected applications.\n- Whether the task can use anonymized or sample data.\n\nStart with fictional or redacted information while testing. Limit permissions, use separate workspaces where appropriate, and remove sensitive details that are not necessary for producing the result.\n\nRun My AI Biz can help identify workflow requirements while you remain responsible for information-handling decisions.",
+        "description": "Avoid sharing unnecessary personal, customer, financial, confidential, or account information. Test with fictional or redacted data, limit permissions, review platform controls, and provide only the context required for the task."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

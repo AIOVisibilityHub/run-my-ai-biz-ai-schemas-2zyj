@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the safest way to use the chief-of-staff bot with the other 38 assistants?",
+  "description": "Use it as an organizer and router, not as an autonomous decision-maker. Define projects, priorities, statuses, owners, handoff fields, and escalation rules. Req",
+  "url": "https://runmyaibusiness.com/faq/what-is-the-safest-way-to-use-the-chief-of-staff-bot-with-the-other-38-assistant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the safest way to use the chief-of-staff bot with the other 38 assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chief-of-staff-style assistant can organize requests and route work, but it should not become an unreviewed decision-maker. Give it a project list, priority rules, status definitions, owner names, required handoff fields, and escalation conditions. Require each delegated task to identify its source, expected output, deadline, and approval status. Keep specialized bots responsible for narrow functions such as research, content, or launch preparation. Review the coordinator’s weekly summary against the underlying task records so omissions and incorrect status updates are caught. Add projects gradually rather than importing every possible business idea. Run My AI Biz presents coordination as a way to connect specialized assistants while retaining owner control.",
+        "description": "Use it as an organizer and router, not as an autonomous decision-maker. Define projects, priorities, statuses, owners, handoff fields, and escalation rules. Require every task to show its source, output, deadline, and approval status, and compare weekly summaries with the underlying records."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

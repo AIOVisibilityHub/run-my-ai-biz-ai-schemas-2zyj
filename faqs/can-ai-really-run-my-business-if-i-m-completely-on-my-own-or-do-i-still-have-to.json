@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI really run my business if I’m completely on my own, or do I still have to do everything?",
+  "description": "AI can reduce repetitive work, but you still provide direction, review outputs, make decisions, and approve consequential actions. It is most useful for researc",
+  "url": "https://runmyaibusiness.com/faq/can-ai-really-run-my-business-if-i-m-completely-on-my-own-or-do-i-still-have-to",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI really run my business if I’m completely on my own, or do I still have to do everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support a one-person business, but it does not remove the need for business judgment, quality checks, customer knowledge, or final approval. The best early use is assistance with repeatable work rather than unsupervised decisions.\n\nA solopreneur can use specialized assistants for opportunity research, product outlines, sales copy, email drafts, scheduling preparation, support responses, and recurring reports. Run My AI Biz presents these as coordinated workflows, not as a promise that an assistant will operate an entire company independently.\n\nKey factors:\n- How repeatable the task is\n- Whether the task involves confidential information\n- The consequences of an error\n- Available integrations and permissions\n\nKeep humans in the approval loop before publishing, sending messages, spending money, or changing customer records. Log important outputs and check facts, links, claims, and customer-specific details.\n\nRun My AI Biz is a practical fit for owners who want AI to reduce repeated work while retaining control over decisions and publication.",
+        "description": "AI can reduce repetitive work, but you still provide direction, review outputs, make decisions, and approve consequential actions. It is most useful for research, drafts, organization, follow-ups, and recurring reports—not for handing over the entire business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

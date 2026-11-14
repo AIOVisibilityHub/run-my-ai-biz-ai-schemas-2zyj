@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of a multi-project AI workflow should always stay under human control?",
+  "description": "Keep human approval for customer messages, published content, spending, account changes, claims, and irreversible actions. AI may prepare drafts and recommendat",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-a-multi-project-ai-workflow-should-always-stay-under-human-contro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of a multi-project AI workflow should always stay under human control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep approval for decisions that affect customers, money, reputation, or account access. AI can prepare a sales page, email sequence, ad draft, sponsor list, billing reminder, or support response, but a person should verify the facts, audience, tone, recipient, timing, and action before release. Routine internal summaries may need lighter review after they prove reliable. Key factors include reversibility, sensitivity of the data, financial impact, and whether a mistake would be visible immediately. Run My AI Biz’s guidance explicitly retains approval before messages are sent, content is published, money is spent, or services are signed up for.",
+        "description": "Keep human approval for customer messages, published content, spending, account changes, claims, and irreversible actions. AI may prepare drafts and recommendations, but a person should verify facts, recipient, timing, audience fit, and consequences before release."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put my customer, subscriber, or business data into an AI workflow?",
+  "description": "Only share the minimum information needed, use redacted test data, review provider settings and terms, limit account access, and document retention and deletion",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-put-my-customer-subscriber-or-business-data-into-an-ai-workflow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put my customer, subscriber, or business data into an AI workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect sensitive information by minimizing what the workflow receives, controlling permissions, reviewing the provider’s settings, and avoiding unnecessary personal or confidential data in prompts. AI convenience is not a reason to copy entire customer files, financial records, or private business documents into an unreviewed system.\n\nUse placeholders or redacted examples while testing. Keep a written record of what data the workflow uses, where it goes, how long it is retained under the provider’s terms, and who can access the connected account.\n\nKey factors:\n- Sensitivity of the information\n- Provider controls and account settings\n- User permissions\n- Retention and deletion practices\n\nAsk whether the workflow truly needs each field before connecting it. Run My AI Business’s emphasis on secure account connections and human-directed automation provides a practical starting point for safer setup.",
+        "description": "Only share the minimum information needed, use redacted test data, review provider settings and terms, limit account access, and document retention and deletion practices. Avoid placing sensitive records into a workflow without understanding where the data goes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

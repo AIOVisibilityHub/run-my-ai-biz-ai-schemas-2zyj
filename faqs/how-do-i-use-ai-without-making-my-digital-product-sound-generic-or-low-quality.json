@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI without making my digital product sound generic or low quality?",
+  "description": "Use AI for structure and first drafts, then add your own expertise, examples, standards, and point of view. Give it specific audience and brand guidance, verify",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-without-making-my-digital-product-sound-generic-or-low-quality",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI without making my digital product sound generic or low quality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for structure and drafting, then add your own expertise, examples, decisions, and quality control. Run My AI Biz emphasizes adaptable workflows rather than presenting generated material as automatically original, accurate, or commercially ready. Context: Generic output often lacks audience specificity and may repeat familiar ideas. Your contribution includes the product’s point of view, examples, teaching sequence, standards, and customer experience. Key factors: - Supply first-party knowledge and clear brand guidance. - Rewrite unsupported claims and remove filler. - Keep records of research, sources, edits, and permissions for assets you use. Practical guidance: Ask AI to identify weak assumptions, missing steps, and places requiring verification, then complete a deliberate human revision. Test the result with a small group who resemble your intended customers. This is more reliable than publishing an untouched draft.",
+        "description": "Use AI for structure and first drafts, then add your own expertise, examples, standards, and point of view. Give it specific audience and brand guidance, verify claims, remove filler, and test the revised product with representative users."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

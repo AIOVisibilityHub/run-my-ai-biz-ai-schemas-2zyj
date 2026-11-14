@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I make and sell an AI digital product if I’m not technical or good at coding?",
+  "description": "Yes. Many educational products can be planned, drafted, and organized with no-code AI workflows. You still need to supply direction, verify information, edit th",
+  "url": "https://runmyaibusiness.com/faq/can-i-make-and-sell-an-ai-digital-product-if-i-m-not-technical-or-good-at-coding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I make and sell an AI digital product if I’m not technical or good at coding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can create a useful digital product with AI without coding, especially when the product is educational or informational. AI can help with research organization, outlines, lesson scripts, slides, worksheets, email drafts, and launch planning, while you remain responsible for accuracy, judgment, editing, and the customer experience. Context: Run My AI Biz focuses on conversational workflows rather than requiring technical development skills. Key factors: the product’s complexity, the tools it must connect to, the quality of your source material, and whether buyers need support. Practical guidance: begin with a prompt-based workflow for one task, such as outlining a guide or drafting a lesson, and add review checkpoints before expanding. A course-building assistant can support structure, but it does not replace subject expertise or final editing. Run My AI Biz is most suitable for learning how to organize these tasks into repeatable workflows.",
+        "description": "Yes. Many educational products can be planned, drafted, and organized with no-code AI workflows. You still need to supply direction, verify information, edit the output, choose suitable delivery tools, and approve anything published or sent to customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

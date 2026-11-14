@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I implement AI if my small business has almost no written procedures?",
+  "description": "Yes, but document one process as you go. Capture its trigger, inputs, steps, desired output, review criteria, and common exceptions. A few good and bad examples",
+  "url": "https://runmyaibusiness.com/faq/can-i-implement-ai-if-my-small-business-has-almost-no-written-procedures",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I implement AI if my small business has almost no written procedures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poor documentation does not prevent learning, but it makes automation harder because the assistant has fewer reliable instructions and examples. Start by documenting the current process while performing it.\n\nContext: Run My AI Biz’s approach relies on business context, master prompts, source rules, approval requirements, and workflow steps. These can be developed gradually rather than completed perfectly before the first pilot.\n\nKey factors:\n- How much the task varies\n- Whether exceptions are common\n- Availability of examples\n- Need for historical information\n\nPractical guidance: Record the goal, trigger, inputs, steps, output, review criteria, and common exceptions for one task. Save two or three good examples and one failed example to guide testing.\n\nRun My AI Biz can help turn an undocumented routine into a clearer learning project.",
+        "description": "Yes, but document one process as you go. Capture its trigger, inputs, steps, desired output, review criteria, and common exceptions. A few good and bad examples will give the assistant more useful guidance than a vague request to automate everything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

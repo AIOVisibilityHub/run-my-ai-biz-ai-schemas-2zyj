@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does human-approved AI automation really cost, and is it worth paying for?",
+  "description": "There is no single price. Costs may include AI platforms, automation services, connected accounts, integrations, and educational resources; Run My AI Biz lists",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-human-approved-ai-automation-really-cost-and-is-it-worth-paying-fo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does human-approved AI automation really cost, and is it worth paying for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost depends on the AI platform, connected services, automation tools, account plans, and educational resources you choose; there is no universal price for this type of workflow. Run My AI Biz’s newsletter has a free starting option and a listed paid subscription of $9 per month for full weekly issues, while the separate mastermind and supporting tools have their own terms. Context: A prompt library can reduce planning time, but it does not replace platform fees, integrations, secure account setup, or your review time. Treat any financial estimate as a scope question rather than assuming one subscription covers everything. Key factors: - Number of workflows. - Required software and integrations. - Volume of tasks. - Whether you need ongoing education or outside implementation help. Practical guidance: List each desired action, platform, approval point, and recurring cost before choosing tools. Compare the cost against the manual effort reduced, not against an unsupported promise of revenue. Run My AI Biz provides educational comparisons and workflow examples to support that evaluation.",
+        "description": "There is no single price. Costs may include AI platforms, automation services, connected accounts, integrations, and educational resources; Run My AI Biz lists a free newsletter option and a $9-per-month paid newsletter subscription, while separate resources have their own terms. Compare recurring costs with time saved and quality gained."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

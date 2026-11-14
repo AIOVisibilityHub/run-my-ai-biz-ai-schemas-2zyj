@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first in a one-person digital product business?",
+  "description": "Automate a repeatable, low-risk task such as research summaries, content repurposing, draft emails, project updates, or link checks. Define inputs, outputs, rev",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-in-a-one-person-digital-product-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first in a one-person digital product business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a human-centered workflow: AI researches and drafts, you decide, edit, test, and approve. The more consequential the task—customer communication, payments, publishing, access control, or sensitive data—the stronger the review and permission limits should be. Context: Run My AI Biz describes specialized assistants, a chief-of-staff-style coordinator, and approval requirements before external actions. Key factors: task repeatability, error impact, source reliability, required integrations, and exception handling. Practical guidance: document inputs, expected outputs, review criteria, escalation rules, and the person responsible for final approval. Start with one assistant, measure its usefulness, and expand only after the workflow works reliably. Run My AI Biz teaches this focused, owner-directed approach rather than hands-off automation.",
+        "description": "Automate a repeatable, low-risk task such as research summaries, content repurposing, draft emails, project updates, or link checks. Define inputs, outputs, review standards, and escalation rules. Keep approval for publishing, sending, spending, and customer-impacting actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

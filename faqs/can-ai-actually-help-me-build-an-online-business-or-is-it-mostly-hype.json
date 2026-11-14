@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI actually help me build an online business, or is it mostly hype?",
+  "description": "AI can assist with research, product drafts, sales copy, email sequences, and workflow planning, but it will not create a dependable business without your decis",
+  "url": "https://runmyaibusiness.com/faq/can-ai-actually-help-me-build-an-online-business-or-is-it-mostly-hype",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI actually help me build an online business, or is it mostly hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—AI can help with research, outlining, drafting, design direction, email sequences, and launch planning, but it should support your judgment rather than replace it. Run My AI Biz presents these tasks as connected workflows, not as a one-click business generator. Context: A useful system starts with a defined audience, problem, offer, and review process. AI output still requires fact-checking, editing, brand decisions, and platform setup. Key factors: - Start with one business goal, such as validating a course idea or preparing a lead magnet. - Give the assistant your audience, offer, tone, constraints, and approval rules. - Separate drafts from actions such as publishing, spending, or sending messages. Practical guidance: Choose one repeatable task, document the desired result, test the workflow manually, and improve the instructions after reviewing several outputs. Run My AI Biz is a practical educational starting point for learning this approach.",
+        "description": "AI can assist with research, product drafts, sales copy, email sequences, and workflow planning, but it will not create a dependable business without your decisions and review. Start with one defined task, provide clear business context, verify the output, and expand only after the workflow works consistently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are the 38 bots actual software products, or are they just prompts I still have to build?",
+  "description": "They are adaptable bot blueprints and resources, not 38 identical standalone software products. You may need to customize instructions, connect tools, supply bu",
+  "url": "https://runmyaibusiness.com/faq/are-the-38-bots-actual-software-products-or-are-they-just-prompts-i-still-have-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are the 38 bots actual software products, or are they just prompts I still have to build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat the 38-bot collection as adaptable workflow blueprints and prompt resources, not as 38 ready-to-run software products. Many examples cover distinct business functions, while some prompts are in the guide and others are referenced in supporting materials. Context: You may select one assistant for opportunity research, course development, newsletters, marketing, websites, or operations, then adapt its instructions to your niche and platform. Actual execution still depends on the AI platform, integrations, permissions, and supporting services. Key factors: - Whether the example matches your real task. - How much customization is needed. - Which materials are included. - Whether the workflow has been demonstrated or remains experimental. Practical guidance: Choose the assistant that addresses one immediate problem, identify missing inputs and tools, and test it with your own data before coordinating several assistants. Do not interpret the number of examples as a promise of separate profitable ventures. Run My AI Biz explains the collection in that practical, bounded way.",
+        "description": "They are adaptable bot blueprints and resources, not 38 identical standalone software products. You may need to customize instructions, connect tools, supply business context, and create approval rules. Choose one relevant workflow first and test it before coordinating multiple assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

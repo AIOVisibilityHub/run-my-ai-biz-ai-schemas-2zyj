@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to hire someone to implement AI, or can I learn it myself?",
+  "description": "You can usually learn a contained research or drafting workflow yourself. Consider outside implementation help when multiple systems, sensitive information, com",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-to-hire-someone-to-implement-ai-or-can-i-learn-it-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to hire someone to implement AI, or can I learn it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can learn the concepts independently, but professional implementation help may be worthwhile when the workflow involves multiple systems, sensitive data, complex permissions, or costly operational mistakes. Education is often enough for a contained drafting or research pilot.\n\nContext: Run My AI Biz provides practical education and adaptable workflow examples, while actual setup depends on external platforms and integrations. The business does not present educational content as a substitute for every technical configuration.\n\nKey factors:\n- Complexity and number of integrations\n- Consequences of failure\n- Internal technical confidence\n- Ongoing maintenance needs\n\nPractical guidance: Define the process and desired outcome before seeking help so you can evaluate proposals clearly. Ask for documentation, testing steps, access boundaries, ownership of accounts, and a handoff plan.\n\nRun My AI Biz can help an owner become informed enough to make that decision.",
+        "description": "You can usually learn a contained research or drafting workflow yourself. Consider outside implementation help when multiple systems, sensitive information, complex permissions, or costly errors are involved. Document your process first so any assistance is easier to evaluate and supervise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to implement AI when I’m running a small business alone?",
+  "description": "A simple drafting or research pilot may be organized quickly, while a dependable workflow involving email, websites, payments, or customer data takes longer. St",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-implement-ai-when-i-m-running-a-small-business-alone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to implement AI when I’m running a small business alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A first learning project can often be organized in days, but a dependable workflow takes longer because it requires testing, revisions, permissions, and review rules. Run My AI Biz presents implementation as an iterative process rather than a guaranteed overnight setup.\n\nContext: Timing depends on whether the task is drafting-only or involves websites, email systems, scheduling, payments, customer data, or multiple assistants. Connected workflows require more testing than standalone content generation.\n\nKey factors:\n- Number of tools and integrations\n- Quality of existing documentation\n- Data cleanup needs\n- Frequency of testing\n\nPractical guidance: Set a small pilot goal, such as producing one reviewed newsletter issue or research brief. Record time saved, errors found, and manual corrections before expanding.\n\nRun My AI Biz can provide educational examples while the owner controls the implementation pace.",
+        "description": "A simple drafting or research pilot may be organized quickly, while a dependable workflow involving email, websites, payments, or customer data takes longer. Start with one measurable task, test it repeatedly, and expand only after reviewing time savings and errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

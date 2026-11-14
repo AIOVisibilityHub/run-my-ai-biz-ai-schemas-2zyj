@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I use AI to run several online income streams?",
+  "description": "AI can produce inaccurate content, expose sensitive information, send unsuitable messages, spend money, or fail silently when tools change. Use limited permissi",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-use-ai-to-run-several-online-income-streams",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I use AI to run several online income streams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can reduce drafting and coordination work, but it cannot remove the need for judgment, customer relationships, quality control, or responsibility for outcomes. Run My AI Biz describes human approval before messages are sent, content is published, money is spent, or services are joined. Risks include inaccurate outputs, privacy and security exposure, overreliance, broken integrations, and customer-facing mistakes. Key controls are limited permissions, source checks, test cases, approval checkpoints, activity logs, and a pause procedure. Do not place confidential customer or financial information into a tool unless its handling is appropriate for that information. Review every automated workflow after platform or prompt changes. A smaller supervised system is usually safer than a broad system with unclear ownership.",
+        "description": "AI can produce inaccurate content, expose sensitive information, send unsuitable messages, spend money, or fail silently when tools change. Use limited permissions, source verification, test cases, approval checkpoints, logs, and a clear pause procedure. Keep human control over consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

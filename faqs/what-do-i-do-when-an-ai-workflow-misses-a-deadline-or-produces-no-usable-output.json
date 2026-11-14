@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do when an AI workflow misses a deadline or produces no usable output?",
+  "description": "Check inputs, integrations, permissions, logs, platform limits, and exception handling before changing the prompt. Identify the exact failure point, retry only",
+  "url": "https://runmyaibusiness.com/faq/what-do-i-do-when-an-ai-workflow-misses-a-deadline-or-produces-no-usable-output",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do when an AI workflow misses a deadline or produces no usable output?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If results are delayed or incomplete, first identify whether the problem is missing input, a failed integration, an unclear instruction, a platform limit, or an unhandled exception. Check the activity log, source files, permissions, and last successful run before rewriting the entire prompt. Provide a manual fallback so a missed AI run does not stop a newsletter, launch, customer response, or billing process. Key factors include deadlines, retry behavior, notification settings, and who owns recovery. Run My AI Biz’s approach depends on supporting platforms and connections, so prompt quality alone cannot resolve every failure.",
+        "description": "Check inputs, integrations, permissions, logs, platform limits, and exception handling before changing the prompt. Identify the exact failure point, retry only when safe, and keep a manual fallback so a missed run does not stop publishing, launches, support, or billing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

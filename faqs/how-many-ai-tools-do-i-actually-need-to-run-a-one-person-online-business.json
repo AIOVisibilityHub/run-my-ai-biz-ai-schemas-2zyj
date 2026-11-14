@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many AI tools do I actually need to run a one-person online business?",
+  "description": "Start with the smallest stack that handles one valuable workflow: an AI assistant, task or knowledge storage, and the platforms needed to publish, sell, or comm",
+  "url": "https://runmyaibusiness.com/faq/how-many-ai-tools-do-i-actually-need-to-run-a-one-person-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many AI tools do I actually need to run a one-person online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical AI business can begin with a modest tool set: one capable assistant, a place to track tasks and source material, a publishing or sales platform, and any required email or payment service. More tools are not automatically better because each adds cost, permissions, failure points, and review work. Run My AI Biz encourages choosing relevant workflows, building one assistant, using it, and expanding gradually. Map each tool to a specific job and remove tools that duplicate work. Review the stack monthly for unused subscriptions, disconnected data, and manual steps that still cause delays.",
+        "description": "Start with the smallest stack that handles one valuable workflow: an AI assistant, task or knowledge storage, and the platforms needed to publish, sell, or communicate. Add tools only when a documented problem justifies them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

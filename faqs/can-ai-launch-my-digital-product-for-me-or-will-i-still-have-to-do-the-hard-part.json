@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI launch my digital product for me, or will I still have to do the hard parts?",
+  "description": "AI can help research the offer, draft sales materials, organize funnel steps, and prepare launch tasks, but you still need to verify the product, checkout, deli",
+  "url": "https://runmyaibusiness.com/faq/can-ai-launch-my-digital-product-for-me-or-will-i-still-have-to-do-the-hard-part",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI launch my digital product for me, or will I still have to do the hard parts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can prepare a launch plan and draft assets, but it cannot make the business decision for you or guarantee sales. Run My AI Biz’s launch examples cover materials such as sales pages, checkout and delivery setup, upsells, downsells, thank-you pages, and promotional copy, with review before anything goes live. Context: Launch readiness includes more than text generation: links, pricing, delivery, audience fit, tracking, and customer experience must be checked. A workflow may help repeat setup steps, but actual execution depends on the platform and integrations. Key factors: - Product completeness. - Correct checkout and delivery paths. - Accurate claims and terms. - Approval of every public asset. Practical guidance: Use a launch checklist and test the full customer path yourself before publishing. Approve each asset after checking its destination and behavior, rather than approving the plan once and assuming every later step is correct. Run My AI Biz frames AI launch support as preparation and coordination, not a sales guarantee.",
+        "description": "AI can help research the offer, draft sales materials, organize funnel steps, and prepare launch tasks, but you still need to verify the product, checkout, delivery, links, claims, audience fit, and customer experience. Review and approve each public or financial action before it goes live."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it really take to set up AI automation for a small online business?",
+  "description": "A focused workflow may be set up quickly, while systems involving multiple platforms, data sources, and approvals take longer. Prototype the task manually, docu",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-really-take-to-set-up-ai-automation-for-a-small-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it really take to set up AI automation for a small online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI workflow can be built in days or weeks, depending on its scope, integrations, data preparation, and review requirements. Run My AI Biz does not present a universal completion time because a prompt-only draft is much simpler than a coordinated workflow involving email, payments, publishing, or support tools. Context: Clear inputs and a narrow task shorten setup; unclear goals and many platforms increase testing. Key factors: - Define the output and approval point before writing instructions. - Allow time to test edge cases and correct recurring errors. - Treat external platform setup and account permissions as separate work. Practical guidance: Prototype manually, document the successful steps, then automate only the stable portions. Set a review date after the first several uses to identify missing instructions and exceptions. A focused first workflow is more manageable than trying to launch an entire AI-operated business immediately.",
+        "description": "A focused workflow may be set up quickly, while systems involving multiple platforms, data sources, and approvals take longer. Prototype the task manually, document the successful steps, test exceptions, and automate only the stable portions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

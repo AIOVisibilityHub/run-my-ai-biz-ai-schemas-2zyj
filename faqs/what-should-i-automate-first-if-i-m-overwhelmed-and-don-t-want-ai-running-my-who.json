@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first if I’m overwhelmed and don’t want AI running my whole business?",
+  "description": "Start with one repeatable, low-risk task such as research collection, newsletter drafting, or content repurposing. Define the inputs, expected output, review po",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-if-i-m-overwhelmed-and-don-t-want-ai-running-my-who",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first if I’m overwhelmed and don’t want AI running my whole business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repeatable task, such as research collection, newsletter drafting, content repurposing, or payment-status checking, and require your approval before anything external happens. Run My AI Biz’s focused approach is to build one assistant, use it, review the results, and expand only after the workflow is dependable. Context: Human-directed automation works best when the owner defines the goal, supplies business details, checks the draft, and decides whether the next action should occur. A prompt alone does not create a complete system; the underlying AI platform, integrations, account permissions, and supporting services also matter. Key factors: - Choose a task with clear inputs and a measurable result. - Separate drafting from sending, publishing, spending, or account creation. - Record corrections so instructions improve over time. Practical guidance: Write a short workflow showing who supplies information, what the assistant produces, what must be checked, and what happens after rejection. Begin with low-risk work before connecting customer-facing or financial actions. Run My AI Biz can help you learn how these specialized workflows fit together.",
+        "description": "Start with one repeatable, low-risk task such as research collection, newsletter drafting, or content repurposing. Define the inputs, expected output, review point, and approval required before publishing, messaging, spending, or changing an account. Build and test that workflow before adding more assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

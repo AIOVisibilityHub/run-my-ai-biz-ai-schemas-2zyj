@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What US-specific issues should I think about before using AI in my small business?",
+  "description": "Consider privacy, security, marketing-channel rules, intellectual-property concerns, accessibility, platform terms, and any state requirements relevant to your",
+  "url": "https://runmyaibusiness.com/faq/what-us-specific-issues-should-i-think-about-before-using-ai-in-my-small-busines",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What US-specific issues should I think about before using AI in my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A US-based owner should treat privacy, marketing, intellectual-property, accessibility, and platform requirements as practical operating considerations rather than assuming AI makes them disappear. The applicable details depend on the data, audience, channel, and state involved, so avoid copying a generic compliance checklist. Small-business guidance highlights privacy, security, intellectual-property, customer-trust, and human-review concerns. Run My AI Biz’s materials can help explain workflow structure, but they are not a substitute for reviewing requirements relevant to your business. Keep records of sources, approvals, permissions, and customer-facing disclosures where appropriate.",
+        "description": "Consider privacy, security, marketing-channel rules, intellectual-property concerns, accessibility, platform terms, and any state requirements relevant to your data and audience. Keep source and approval records, and obtain specialized advice when the facts require it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

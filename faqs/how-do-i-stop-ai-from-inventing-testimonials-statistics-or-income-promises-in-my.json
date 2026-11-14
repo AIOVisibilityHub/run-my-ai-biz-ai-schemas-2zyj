@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from inventing testimonials, statistics, or income promises in my marketing?",
+  "description": "Tell the assistant to use only supplied or verified sources, label assumptions, and stop when evidence is missing. Check every statistic, testimonial, result, a",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-inventing-testimonials-statistics-or-income-promises-in-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from inventing testimonials, statistics, or income promises in my marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat AI-generated marketing claims as drafts that require evidence, not as facts to publish. Run My AI Biz specifically emphasizes source verification and restrictions against inventing statistics, proof, or income claims. Context: This matters in sales pages, newsletters, social posts, advertisements, affiliate materials, and product descriptions, where unsupported statements can damage trust and create avoidable risk. A human reviewer should verify both the claim and whether the cited source actually supports its wording. Key factors: - Claim specificity. - Source quality and date. - Difference between possibility and guarantee. - Whether proof belongs to your business. Practical guidance: Ask the assistant to separate verified facts, assumptions, examples, and proposed language. Remove guarantees and unsupported outcomes, and keep a record of evidence used for important statements. Run My AI Biz teaches practical AI use without presenting experimental workflows as proven results.",
+        "description": "Tell the assistant to use only supplied or verified sources, label assumptions, and stop when evidence is missing. Check every statistic, testimonial, result, and income-related statement yourself. Remove guarantees and unsupported proof, and keep an evidence record for important marketing claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

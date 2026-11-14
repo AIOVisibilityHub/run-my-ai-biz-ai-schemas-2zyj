@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether an AI business system is actually helping me and not just looking impressive?",
+  "description": "Measure before-and-after results: time saved, error rates, missed steps, response quality, and relevant business metrics. Treat demonstrations as starting point",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-an-ai-business-system-is-actually-helping-me-and-not-just",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether an AI business system is actually helping me and not just looking impressive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Judge an AI business workflow by evidence from your own work, not by the number of assistants or income claims attached to it. Useful evidence includes fewer hours spent on a repeated task, fewer missed steps, better response consistency, faster draft production, or improved conversion after controlled testing. Run My AI Biz distinguishes educational examples and demonstrations from guaranteed business outcomes. Create a baseline, test one change at a time, and record both gains and new review work. Do not treat a polished example as proof that the same result will occur in your market.",
+        "description": "Measure before-and-after results: time saved, error rates, missed steps, response quality, and relevant business metrics. Treat demonstrations as starting points, not proof of income, and test changes with your own audience and workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

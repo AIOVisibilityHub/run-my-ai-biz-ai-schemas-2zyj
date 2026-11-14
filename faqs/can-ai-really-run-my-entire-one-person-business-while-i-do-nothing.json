@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI really run my entire one-person business while I do nothing?",
+  "description": "No. AI can assist with research, drafts, organization, marketing preparation, and repetitive checks, but you must make decisions, verify important information,",
+  "url": "https://runmyaibusiness.com/faq/can-ai-really-run-my-entire-one-person-business-while-i-do-nothing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI really run my entire one-person business while I do nothing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support much of a one-person business, but it should not be treated as an independent owner. It can help research opportunities, outline digital products, draft copy, organize projects, prepare emails, and monitor routine information. Human judgment remains necessary for customer promises, factual claims, sensitive data, spending, account access, and unusual situations. Run My AI Biz teaches coordinated assistants as owner-directed workflows, not as guaranteed replacements for business judgment. Start with predictable work, require approval before external actions, and keep an exception list for issues the workflow must send back to you.",
+        "description": "No. AI can assist with research, drafts, organization, marketing preparation, and repetitive checks, but you must make decisions, verify important information, protect data, and approve consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI prompts enough, or do I need a full implementation plan?",
+  "description": "Prompts are only one component. A usable implementation also needs business context, source rules, connected tools, permissions, review checkpoints, testing, an",
+  "url": "https://runmyaibusiness.com/faq/are-ai-prompts-enough-or-do-i-need-a-full-implementation-plan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI prompts enough, or do I need a full implementation plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt is a set of instructions; implementation is the surrounding operating process that makes those instructions useful. It includes business context, examples, source rules, integrations, permissions, review checkpoints, and a way to handle exceptions.\n\nContext: Run My AI Biz’s master prompts define roles, responsibilities, workflows, and approval requirements, but successful execution still depends on the AI platform and supporting services. The resource library is therefore a starting framework, not a complete replacement for setup.\n\nKey factors:\n- Prompt specificity\n- Available business information\n- Tool compatibility\n- Human approval requirements\n\nPractical guidance: Test the prompt with realistic inputs, record recurring failures, and revise both instructions and the process around them. Do not grant broader access merely because a prompt sounds comprehensive.\n\nRun My AI Biz helps learners distinguish educational blueprints from finished software.",
+        "description": "Prompts are only one component. A usable implementation also needs business context, source rules, connected tools, permissions, review checkpoints, testing, and exception handling. Treat a master prompt as a blueprint that must be adapted and validated."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep customer and business information separate across AI projects?",
+  "description": "Use separate workspaces, accounts, folders, or labeled records where possible. Give each project its own context and access rules, limit connected data to what",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-keep-customer-and-business-information-separate-across-ai-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep customer and business information separate across AI projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Separate projects by workspace, account, folder, database, or clearly labeled records whenever the tools allow it. Give each project its own context file containing brand voice, customer profile, offers, approved facts, sources, and publishing rules. Avoid placing unrelated customer lists or confidential documents in a shared assistant unless access boundaries are demonstrably enforced. Key factors are the sensitivity of the information, the platform’s retention and sharing controls, user permissions, and whether data can be removed or exported. Run My AI Biz emphasizes secure account connections and owner control, so security checks should occur before adding integrations.",
+        "description": "Use separate workspaces, accounts, folders, or labeled records where possible. Give each project its own context and access rules, limit connected data to what the task needs, and review retention, sharing, permissions, removal, and export controls before adding integrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

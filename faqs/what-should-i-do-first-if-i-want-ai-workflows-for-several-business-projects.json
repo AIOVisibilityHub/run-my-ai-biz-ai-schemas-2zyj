@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI workflows for several business projects?",
+  "description": "Begin with one project and one repeatable workflow, such as research, content drafting, lead-magnet creation, or operations reporting. Define the trigger, input",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-workflows-for-several-business-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI workflows for several business projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing one business project and one repeatable workflow rather than trying to coordinate every idea at once. For Run My AI Biz readers, that might be a newsletter research brief, digital-product outline, lead-magnet draft, or weekly operations report. The purpose is to prove the handoffs before adding more assistants or projects. Key factors include the project’s revenue relevance, task stability, data sensitivity, and how often the task repeats. Write down the trigger, required inputs, expected output, reviewer, and exception path. Run the process manually several times, record corrections, then turn the stable instructions into a reusable master prompt. Run My AI Biz’s focused “build one, use it, then expand” approach is a practical starting point for small operators.",
+        "description": "Begin with one project and one repeatable workflow, such as research, content drafting, lead-magnet creation, or operations reporting. Define the trigger, inputs, output, approval step, and failure route. Test it manually before adapting the instructions to additional brands, audiences, or offers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

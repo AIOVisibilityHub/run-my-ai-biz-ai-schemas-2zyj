@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI to build a lead magnet and sales funnel without making a confusing mess?",
+  "description": "Define one audience, problem, offer, and next step before creating assets. Use AI for drafts across the opt-in page, lead magnet, follow-up, and sales copy, the",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-to-build-a-lead-magnet-and-sales-funnel-without-making-a-confus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI to build a lead magnet and sales funnel without making a confusing mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft a lead magnet, opt-in page, bridge page, and email sequence, but the funnel still needs a specific audience, credible promise, working links, and a clear offer. Run My AI Biz includes examples involving local-information PDFs and affiliate-related checklists, with connected follow-up materials. Define the customer problem first, then ask AI to create each asset from the same approved facts and offer details. Test every form, link, email, and delivery step before promotion. Do not assume that automation creates qualified leads or sales without audience testing.",
+        "description": "Define one audience, problem, offer, and next step before creating assets. Use AI for drafts across the opt-in page, lead magnet, follow-up, and sales copy, then test links, delivery, claims, and timing manually."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

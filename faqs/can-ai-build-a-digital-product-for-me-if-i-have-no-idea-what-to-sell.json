@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build a digital product for me if I have no idea what to sell?",
+  "description": "AI can help evaluate ideas, research audiences, outline products, and draft materials, but it cannot choose a validated business opportunity for you. Start with",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-a-digital-product-for-me-if-i-have-no-idea-what-to-sell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build a digital product for me if I have no idea what to sell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help create drafts, but your business still needs a distinct offer, audience, reason to buy, and trustworthy customer experience. Producing content faster does not establish demand or make a generic product valuable.\n\nContext: Run My AI Biz covers idea evaluation, audience research, digital-product development, sales copy, lead magnets, funnels, and launch preparation. Its educational approach treats AI output as material to review and adapt to a real business context.\n\nKey factors:\n- Specific customer problem\n- Evidence of interest\n- Original expertise or perspective\n- Quality and usefulness of the finished product\n\nPractical guidance: Interview or observe potential customers before generating a large product library. Use AI to organize insights and draft structure, then add your own judgment, examples, and verification.\n\nRun My AI Biz helps owners connect creation with validation instead of confusing volume with value.",
+        "description": "AI can help evaluate ideas, research audiences, outline products, and draft materials, but it cannot choose a validated business opportunity for you. Start with a real customer problem, test interest, and add human expertise before building the product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first if I’m a solo entrepreneur with no idea where to begin?",
+  "description": "Start with one repetitive, low-risk task that has a clear output, such as research summaries, newsletter drafts, or content repurposing. Define the inputs, expe",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-if-i-m-a-solo-entrepreneur-with-no-idea-where-to-be",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first if I’m a solo entrepreneur with no idea where to begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin with the bottleneck that repeatedly consumes time and has a clear finished result. Run My AI Biz recommends choosing one relevant workflow, building one assistant, using it, and expanding only after you understand what needs improvement. Context: Trying to automate research, content, sales, support, and administration simultaneously creates too many failure points. A narrow first project makes quality easier to judge. Key factors: - Pick a recurring task, such as weekly research, newsletter drafting, or content repurposing. - Decide what information the assistant receives and what output it must produce. - Define where human approval is mandatory. Practical guidance: Write a simple before-and-after description of the task, collect a few real examples, and test the workflow on low-risk material before connecting accounts. This focused learning path fits the educational approach of Run My AI Biz.",
+        "description": "Start with one repetitive, low-risk task that has a clear output, such as research summaries, newsletter drafts, or content repurposing. Define the inputs, expected format, review points, and approval rules before adding more workflows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

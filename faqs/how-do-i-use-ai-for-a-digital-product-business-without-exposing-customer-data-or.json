@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI for a digital product business without exposing customer data or private business information?",
+  "description": "Share only the minimum information required, redact personal details, review provider privacy settings, limit permissions, and avoid placing passwords or sensit",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-for-a-digital-product-business-without-exposing-customer-data-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI for a digital product business without exposing customer data or private business information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect customer and business information by minimizing what enters AI tools, checking provider privacy terms, restricting access, and separating test data from live records. Do not assume that a convenient assistant should receive payment details, private customer conversations, passwords, or confidential plans. Context: Run My AI Biz emphasizes secure account connections, permissions, and owner control over consequential actions. Key factors: the information’s sensitivity, provider retention settings, integrations, user permissions, and whether the workflow truly needs the data. Practical guidance: redact personal details, use placeholders, enable account security controls, and document who can access each system. Review connected apps regularly and disconnect tools you no longer use. Run My AI Biz can help you map data inputs and approval points before you automate a task.",
+        "description": "Share only the minimum information required, redact personal details, review provider privacy settings, limit permissions, and avoid placing passwords or sensitive records into prompts. Test workflows with placeholders, document connected accounts, and remove access that is no longer needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do multiple AI assistants work together across different business projects?",
+  "description": "Use a central coordinator to collect priorities and route defined tasks to specialist assistants. Each handoff should specify the project, inputs, output, owner",
+  "url": "https://runmyaibusiness.com/faq/how-do-multiple-ai-assistants-work-together-across-different-business-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do multiple AI assistants work together across different business projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A coordinated setup usually has a central planning assistant plus specialized assistants for research, content, products, marketing, and administration. The central assistant gathers the owner’s priorities, sends clearly defined tasks to the right specialist, and returns work for human review. It should not silently publish, message prospects, spend money, or change connected systems. Key design factors are task ownership, input format, output format, dependencies, and approval authority. Give every handoff a written brief and a status such as waiting, ready for review, approved, or blocked. In the Run My AI Biz context, a chief-of-staff-style assistant can organize multiple bot examples, but the actual result still depends on the AI platform, integrations, permissions, and supporting services.",
+        "description": "Use a central coordinator to collect priorities and route defined tasks to specialist assistants. Each handoff should specify the project, inputs, output, owner, dependencies, and approval status. Keep human approval before publishing, outreach, spending, or account changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

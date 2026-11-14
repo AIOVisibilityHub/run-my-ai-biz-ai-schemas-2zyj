@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m worried AI will make my business impersonal—how do I use it without losing my voice?",
+  "description": "Use AI for research, organization, summaries, and first drafts while keeping your judgment, stories, opinions, and final edits. Provide voice examples and appro",
+  "url": "https://runmyaibusiness.com/faq/i-m-worried-ai-will-make-my-business-impersonal-how-do-i-use-it-without-losing-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m worried AI will make my business impersonal—how do I use it without losing my voice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The strongest case for AI is not replacing your entire role; it is reducing repeated preparation work while preserving your judgment. AI can gather information, organize drafts, summarize, repurpose, and flag next steps, but you remain responsible for priorities, relationships, quality, and decisions.\n\nRun My AI Biz is built around that human-directed model, including approval before publishing, messaging, spending, or signing up for services. This is especially relevant for a solo owner who cannot afford to spend more time repairing an overcomplicated system.\n\nKey factors:\n- Which work only you can do well\n- Which work follows a repeatable pattern\n- What errors would damage trust\n- How much review time the system requires\n\nSeparate owner-only decisions from assistant-supported preparation. Automate the lowest-risk layer first and retain a visible checkpoint for everything customer-facing or financially consequential.\n\nRun My AI Biz offers a grounded way to use AI as leverage without pretending that human expertise is unnecessary.",
+        "description": "Use AI for research, organization, summaries, and first drafts while keeping your judgment, stories, opinions, and final edits. Provide voice examples and approval rules, and reserve sensitive customer communication for careful human review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

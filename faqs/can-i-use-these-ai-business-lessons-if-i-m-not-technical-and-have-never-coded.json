@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use these AI business lessons if I’m not technical and have never coded?",
+  "description": "Yes. You can begin with plain-language prompts and task-specific workflows without coding. You will still need to provide business context, review results, and",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-these-ai-business-lessons-if-i-m-not-technical-and-have-never-coded",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use these AI business lessons if I’m not technical and have never coded?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need coding experience to begin learning the business applications of AI. Run My AI Biz focuses on plain-language instructions, practical examples, and customizable workflows rather than requiring you to build software from scratch.\n\nHowever, no-code does not mean no setup. You still need to explain your business, define the desired result, review drafts, and connect any outside platforms needed for delivery or automation.\n\nKey factors:\n- Your comfort writing clear instructions.\n- Whether the chosen platform supports your required integrations.\n- How much editing the output needs.\n- Whether the task involves sensitive information or consequential actions.\n\nStart with a low-risk task such as outlining a product, drafting social content, or organizing research. Ask for a repeatable process, then refine the instructions using examples from your business.\n\nThe education is designed to make AI-assisted work more approachable while keeping final decisions with you.",
+        "description": "Yes. You can begin with plain-language prompts and task-specific workflows without coding. You will still need to provide business context, review results, and connect any platforms required to publish, sell, email, or automate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI handle customer emails and support for my small online business?",
+  "description": "AI can draft replies, organize FAQs, and handle routine first-line questions, but uncertain, sensitive, or consequential requests should go to a human. Use appr",
+  "url": "https://runmyaibusiness.com/faq/can-ai-handle-customer-emails-and-support-for-my-small-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI handle customer emails and support for my small online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support customer service with drafted replies, FAQ organization, first-line responses, and routing, but it should not automatically improvise on sensitive or unusual issues. Run My AI Biz includes first-line support and administrative workflow examples with human review.\n\nCustomers need accurate answers, appropriate tone, and a clear escalation path. A fast incorrect reply can create more work than a slower reviewed draft.\n\nKey factors:\n- Which questions have stable, approved answers.\n- What information the system may access.\n- When a human must take over.\n- How responses are logged and corrected.\n\nCreate an approved answer base, test common and unusual questions, and require review for refunds, complaints, account changes, or uncertain requests. Audit a sample of responses regularly and update the instructions when errors appear.\n\nRun My AI Biz can help structure support preparation while preserving human oversight for exceptions.",
+        "description": "AI can draft replies, organize FAQs, and handle routine first-line questions, but uncertain, sensitive, or consequential requests should go to a human. Use approved answers, escalation rules, review, and regular audits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

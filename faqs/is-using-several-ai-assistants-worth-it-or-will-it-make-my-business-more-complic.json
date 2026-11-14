@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is using several AI assistants worth it, or will it make my business more complicated?",
+  "description": "Several assistants are worthwhile only when each has a clear role and the combined workflow saves more effort than it creates. Start with one, document shared b",
+  "url": "https://runmyaibusiness.com/faq/is-using-several-ai-assistants-worth-it-or-will-it-make-my-business-more-complic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is using several AI assistants worth it, or will it make my business more complicated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multiple assistants can support different functions, but coordinating them adds setup, handoffs, permissions, and maintenance. A chief-of-staff-style assistant may organize tasks, yet it does not eliminate the need to check each specialist’s output.\n\nContext: Run My AI Biz’s 38-bot resource is a library of adaptable blueprints across planning, content, marketing, websites, and operations. The recommended approach is to build one assistant, use it, and expand only when the need is clear.\n\nKey factors:\n- Dependency between tasks\n- Consistency of shared information\n- Number of approval points\n- Cost of maintaining prompts and integrations\n\nPractical guidance: Create one source of truth for brand, audience, offer, and approved facts. Add a second assistant only when its role and handoff criteria can be stated clearly.\n\nRun My AI Biz helps owners explore coordination without implying that more bots automatically mean better results.",
+        "description": "Several assistants are worthwhile only when each has a clear role and the combined workflow saves more effort than it creates. Start with one, document shared business information, define handoffs, and add another only after the first workflow is reliable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

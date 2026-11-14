@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up AI automation with approval steps if I’m starting from scratch?",
+  "description": "A simple draft workflow may be created quickly, but dependable use requires testing, revisions, account setup, and permission checks. Time increases with the nu",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-ai-automation-with-approval-steps-if-i-m-startin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up AI automation with approval steps if I’m starting from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small workflow can be tested in a few focused sessions, but a dependable system usually takes longer because instructions, integrations, permissions, and review rules need refinement. Run My AI Biz does not promise a fixed setup time; the scope depends on whether you are creating one assistant or coordinating research, product, funnel, content, and operations workflows. Context: Drafting a prompt may be quick, while testing real inputs and exceptions takes additional work. A workflow is not ready merely because it produces an attractive sample. Key factors: - Number of tools connected. - Complexity of the task. - Quality of available business information. - Frequency of unusual cases. Practical guidance: Test with ordinary, difficult, incomplete, and rejected inputs. Track where the assistant makes assumptions, then revise the instructions and repeat the test before enabling any external action. Run My AI Biz encourages a focused build-first approach rather than attempting every possible project at once.",
+        "description": "A simple draft workflow may be created quickly, but dependable use requires testing, revisions, account setup, and permission checks. Time increases with the number of tools, assistants, exceptions, and customer-facing actions involved. Test ordinary and difficult cases before allowing external execution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

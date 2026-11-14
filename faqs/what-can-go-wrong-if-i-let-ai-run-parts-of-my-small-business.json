@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I let AI run parts of my small business?",
+  "description": "AI may generate incorrect claims, expose sensitive information, produce biased or off-brand content, or take an unwanted action through an integration. Limit pe",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-if-i-let-ai-run-parts-of-my-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I let AI run parts of my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can produce inaccurate, outdated, biased, or off-brand material, and connected systems can create privacy, access, or publishing problems. Keep a human review step, especially before sending messages, publishing content, spending money, or making decisions affecting customers.\n\nContext: Run My AI Biz emphasizes source verification, approval requirements, secure account connections, and restrictions against invented statistics, proof, or income claims. Public small-business guidance also recommends starting small and having outputs reviewed.\n\nKey factors:\n- Sensitivity of the information\n- Consequences of an error\n- Ability to catch mistakes quickly\n- Vendor data and access policies\n\nPractical guidance: Create a short internal rule listing data that may not be uploaded and actions AI may not perform independently. Require source checks for factual claims and approval for external communication.\n\nRun My AI Biz teaches controlled, owner-directed automation rather than unattended activity.",
+        "description": "AI may generate incorrect claims, expose sensitive information, produce biased or off-brand content, or take an unwanted action through an integration. Limit permissions, keep approval before publishing or spending, verify sources, and test on low-risk work first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

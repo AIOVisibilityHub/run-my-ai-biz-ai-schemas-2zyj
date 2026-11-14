@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from publishing false information or made-up statistics in my business content?",
+  "description": "Require source verification before publication. Check statistics, quotations, examples, proof, and income claims; remove anything unsupported; and add original",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-publishing-false-information-or-made-up-statistics-in-my-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from publishing false information or made-up statistics in my business content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated content should be treated as a draft that needs factual, originality, audience, and brand review. Check statistics against dependable sources, inspect quotations and images, remove invented proof or income claims, and confirm that examples do not imply results you cannot support. Run My AI Biz’s stated workflow safeguards include source verification and restrictions on inventing statistics, proof, or earnings claims. Add your own insight, experience, and customer language so the material offers more than generic text. Keep a review record for important published claims.",
+        "description": "Require source verification before publication. Check statistics, quotations, examples, proof, and income claims; remove anything unsupported; and add original expertise and customer context to the draft."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

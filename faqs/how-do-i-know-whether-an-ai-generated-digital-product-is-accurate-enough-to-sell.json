@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether an AI-generated digital product is accurate enough to sell?",
+  "description": "Do not rely on fluent wording as proof of accuracy. Verify claims against trustworthy sources, test instructions, inspect links and examples, and review the pro",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-an-ai-generated-digital-product-is-accurate-enough-to-sell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether an AI-generated digital product is accurate enough to sell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Human review is essential because AI can produce inaccurate, incomplete, outdated, repetitive, or unsuitable material. Check factual claims, calculations, links, examples, instructions, tone, accessibility, and whether the product actually solves the buyer’s problem. Context: Run My AI Biz specifically emphasizes source verification, approval checkpoints, and restrictions against invented statistics, proof, or income claims. Key factors: topic sensitivity, source quality, audience experience, product promises, and how often information changes. Practical guidance: keep a source log, test every exercise or workflow, ask a qualified reviewer to inspect high-risk material, and run the product as a customer would. Do not publish automatically just because a draft sounds polished. Run My AI Biz can help you design workflows that keep approval with the owner.",
+        "description": "Do not rely on fluent wording as proof of accuracy. Verify claims against trustworthy sources, test instructions, inspect links and examples, and review the product for omissions and misleading promises. Keep a record of sources and require human approval before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need dozens of AI assistants to run a successful digital business?",
+  "description": "No. Start with one assistant tied to one audience, offer, and recurring problem. Use it, measure the time and quality impact, refine the instructions, and add a",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-dozens-of-ai-assistants-to-run-a-successful-digital-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need dozens of AI assistants to run a successful digital business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to publish every possible AI workflow to benefit from this business’s educational material. Run My AI Biz encourages a focused sequence: identify relevant workflows, build one assistant, use it, and expand only when the process is manageable. Context: A large library can provide options, but too many simultaneous projects dilute attention and make results hard to measure. Key factors: - Choose one audience, offer, and business objective. - Rank workflows by frequency, effort, risk, and expected usefulness. - Set a clear stopping rule for experiments that do not show value. Practical guidance: Select one assistant that supports the next important milestone, such as validating an offer or preparing a launch. Keep a short experiment log and review results before adding another project.",
+        "description": "No. Start with one assistant tied to one audience, offer, and recurring problem. Use it, measure the time and quality impact, refine the instructions, and add another workflow only when the first one is manageable and useful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

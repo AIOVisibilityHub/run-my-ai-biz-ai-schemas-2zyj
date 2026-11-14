@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether my AI business system is actually working?",
+  "description": "Measure business outcomes, not bot counts. Track one stage-appropriate result—such as qualified signups, paid conversions, completed products, saved hours, rete",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-measure-whether-my-ai-business-system-is-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether my AI business system is actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first useful milestone is usually a validated workflow or offer, not a fully automated business. Run My AI Biz’s recommended approach is to identify relevant work, build one assistant, use it, and expand gradually. Key progress measures include research time reduced, draft quality, qualified subscribers, completed prototypes, conversion rates, customer retention, and net revenue after tool costs. Avoid counting the number of prompts, bots, or generated posts as business progress. Choose one primary metric for the current stage and a secondary quality or risk metric. Review results on a fixed schedule and change the workflow when evidence shows a bottleneck.",
+        "description": "Measure business outcomes, not bot counts. Track one stage-appropriate result—such as qualified signups, paid conversions, completed products, saved hours, retention, or net revenue—plus quality and error rates. Review the data regularly and change the workflow when results stall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

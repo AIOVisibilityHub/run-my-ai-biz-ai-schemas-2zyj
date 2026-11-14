@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI turn one newsletter or course lesson into a month of social content?",
+  "description": "Yes, AI can extract ideas and adapt them into posts, scripts, emails, or community content. Review every version for accuracy, platform fit, repetition, tone, a",
+  "url": "https://runmyaibusiness.com/faq/can-ai-turn-one-newsletter-or-course-lesson-into-a-month-of-social-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI turn one newsletter or course lesson into a month of social content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repurposing can save time when the original material is accurate, clearly owned, and suitable for each channel. Ask AI to extract distinct ideas from a newsletter or lesson, then adapt length, format, tone, and call to action for the new audience. Run My AI Biz includes examples for newsletter, Facebook, X, video, and community content workflows. Review each version for platform fit, outdated claims, accidental repetition, and inappropriate automation. Add genuinely useful context rather than publishing the same paragraph everywhere.",
+        "description": "Yes, AI can extract ideas and adapt them into posts, scripts, emails, or community content. Review every version for accuracy, platform fit, repetition, tone, and a useful call to action before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

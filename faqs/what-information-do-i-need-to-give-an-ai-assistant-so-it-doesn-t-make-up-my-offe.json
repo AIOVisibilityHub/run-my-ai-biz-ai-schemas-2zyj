@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to give an AI assistant so it doesn’t make up my offer or brand details?",
+  "description": "Provide the goal, audience, offer facts, brand voice, approved sources, examples, prohibited claims, connected tools, and approval rules. Include a checklist fo",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-to-give-an-ai-assistant-so-it-doesn-t-make-up-my-offe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to give an AI assistant so it doesn’t make up my offer or brand details?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a clear business goal, audience or customer description, current offer details, examples of acceptable output, source preferences, and a list of actions requiring approval. For Run My AI Biz-style workflows, also identify the relevant function—such as product creation, funnel preparation, newsletter work, research, or administration—and the tools that must connect to it. Context: Better inputs usually produce more useful drafts, while vague instructions encourage assumptions. The assistant should know what it may do, what it must not claim, and when it must stop for review. Key factors: - Brand voice and boundaries. - Accurate product information. - Approved sources. - Permissions and account access. Practical guidance: Prepare a one-page brief containing the goal, audience, workflow steps, examples, exclusions, review checklist, and escalation rules. Remove unnecessary private information and connect accounts only after understanding the permissions involved. Run My AI Biz’s customizable master prompts can provide a starting structure rather than a finished answer for every business.",
+        "description": "Provide the goal, audience, offer facts, brand voice, approved sources, examples, prohibited claims, connected tools, and approval rules. Include a checklist for accuracy and explain when the assistant must stop rather than guess. Review outputs against your actual business information before using them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

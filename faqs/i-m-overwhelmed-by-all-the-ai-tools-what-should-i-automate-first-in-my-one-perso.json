@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m overwhelmed by all the AI tools—what should I automate first in my one-person business?",
+  "description": "Choose one repetitive task with predictable inputs, such as research, follow-ups, newsletter drafting, or content repurposing. Document the process, add AI to o",
+  "url": "https://runmyaibusiness.com/faq/i-m-overwhelmed-by-all-the-ai-tools-what-should-i-automate-first-in-my-one-perso",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m overwhelmed by all the AI tools—what should I automate first in my one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repetitive workflow that has predictable inputs, such as research collection, newsletter drafting, lead follow-up, or content repurposing. Run it manually first, document each step, then use AI for a clearly defined portion before adding integrations or automatic actions.\n\nA workflow is more useful than a long tool list because it connects an input, instructions, review point, and output. Run My AI Biz focuses on turning separate business tasks into practical, task-specific systems that support planning, products, marketing, and operations.\n\nKey factors:\n- Frequency and repetition of the task\n- Whether the inputs are consistent\n- The cost of an incorrect output\n- Which platform currently holds the information\n\nWrite down the current process, expected result, approval step, and success measure. Build one specialized assistant or prompt around that outline, test it with several real examples, and expand only after it works reliably.\n\nRun My AI Biz can help you move from scattered AI experiments toward a focused workflow you can understand and refine.",
+        "description": "Choose one repetitive task with predictable inputs, such as research, follow-ups, newsletter drafting, or content repurposing. Document the process, add AI to one step, keep a review checkpoint, and measure time saved before expanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

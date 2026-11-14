@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can approval-based AI lead generation find customers for me without spamming people?",
+  "description": "It can help research potential prospects and draft relevant outreach, but it cannot guarantee leads or sales. Set clear selection criteria, verify current conta",
+  "url": "https://runmyaibusiness.com/faq/can-approval-based-ai-lead-generation-find-customers-for-me-without-spamming-peo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can approval-based AI lead generation find customers for me without spamming people?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help prepare researched prospect lists and outreach drafts, but it cannot guarantee qualified leads, positive responses, or sales. Run My AI Biz includes examples involving local businesses needing websites, newsletter sponsors, YouTube prospects, subscriber acquisition, and affiliate promotions, with appropriate outreach prepared for review. Context: Research quality depends on current sources, clear selection criteria, and verification of each prospect. Outreach also needs audience fit, personalization, accurate claims, and approval before sending. Key factors: - Prospect relevance. - Source freshness. - Contact accuracy. - Message appropriateness. Practical guidance: Ask the assistant to show why each prospect matches your criteria and to flag uncertain information. Review every recipient, claim, link, and opt-out or contact preference before sending. Run My AI Biz presents lead generation as research and preparation, not an automatic sales engine.",
+        "description": "It can help research potential prospects and draft relevant outreach, but it cannot guarantee leads or sales. Set clear selection criteria, verify current contact information, require the assistant to show its reasoning and sources, and approve each message, recipient, claim, and link before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

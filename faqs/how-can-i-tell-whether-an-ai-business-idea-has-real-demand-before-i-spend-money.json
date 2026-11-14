@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell whether an AI business idea has real demand before I spend money?",
+  "description": "Separate verified facts from AI assumptions. Check sources, speak with potential customers, measure signups or preorders, and test a small offer. Ask AI to labe",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-tell-whether-an-ai-business-idea-has-real-demand-before-i-spend-money",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell whether an AI business idea has real demand before I spend money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not trust AI-generated demand claims, statistics, testimonials, or income projections without checking the underlying sources. Run My AI Biz specifically emphasizes source verification and restrictions against inventing proof or earnings claims. Research assistants can organize questions, competitors, and possible audiences, but their output remains a research draft. Key evidence includes direct customer conversations, preorders or signups, relevant search behavior, repeat engagement, and actual conversion data. Ask the system to label facts, assumptions, missing evidence, and source dates separately. Independently verify important claims before putting them in a sales page, newsletter, advertisement, or product. Keep a dated evidence file so later decisions are based on what was actually tested.",
+        "description": "Separate verified facts from AI assumptions. Check sources, speak with potential customers, measure signups or preorders, and test a small offer. Ask AI to label evidence gaps and source dates, then independently verify claims before using them in marketing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

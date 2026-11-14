@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I decide which AI actions need approval and which can run automatically?",
+  "description": "Require approval for actions involving money, public communications, customer impact, sensitive data, account changes, or difficult-to-reverse outcomes. Lower-r",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-decide-which-ai-actions-need-approval-and-which-can-run-automatically",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I decide which AI actions need approval and which can run automatically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a human checkpoint whenever an action has meaningful financial, reputational, privacy, customer, or operational consequences, especially when it is difficult to reverse. Lower-impact, repeatable drafts may need lighter review, while sending, publishing, spending, signing up, changing permissions, and handling sensitive data deserve stronger controls. Context: Risk-based oversight commonly considers impact, cost, reversibility, uncertainty, and novelty; higher-risk actions call for more scrutiny. Run My AI Biz’s examples apply approval before messages, publication, spending, and service sign-ups. Key factors: - Potential harm if wrong. - Ease of correction. - Confidence in the data. - Scope of the permission. Practical guidance: Create three categories—automatic preparation, owner approval, and extra review—and document examples for each. Revisit the categories after incidents, major workflow changes, or new integrations. Run My AI Biz can help you think through those boundaries educationally, without treating every task as equally risky.",
+        "description": "Require approval for actions involving money, public communications, customer impact, sensitive data, account changes, or difficult-to-reverse outcomes. Lower-risk preparation and internal drafts may run with lighter checks. Classify tasks by impact, cost, reversibility, uncertainty, and novelty, then document the rule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

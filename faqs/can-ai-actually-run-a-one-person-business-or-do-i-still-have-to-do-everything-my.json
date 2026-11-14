@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI actually run a one-person business, or do I still have to do everything myself?",
+  "description": "AI can help a solopreneur organize research, content, marketing, and routine administration, but it cannot replace owner decisions and quality control. Start wi",
+  "url": "https://runmyaibusiness.com/faq/can-ai-actually-run-a-one-person-business-or-do-i-still-have-to-do-everything-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI actually run a one-person business, or do I still have to do everything myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI workflows can support a one-person business, but they do not remove the need for owner judgment. A chief-of-staff-style assistant can organize requests and coordinate specialized assistants for research, content, marketing, and administration.\n\nThe practical benefit is having repeatable support without hiring for every task. The tradeoff is that you remain responsible for context, quality checks, account permissions, and consequential decisions.\n\nKey factors:\n- How many recurring processes you manage\n- Whether your information is organized\n- Which tasks require your personal voice\n- How much review time you can reserve\n\nBegin with one assistant and one business objective. Give it brand details, audience information, examples, and explicit approval rules, then expand only after the first workflow is dependable. Run My AI Business is especially relevant for solopreneurs who want approachable, noncoding workflows.",
+        "description": "AI can help a solopreneur organize research, content, marketing, and routine administration, but it cannot replace owner decisions and quality control. Start with one assistant, one objective, and clear rules for what requires your approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

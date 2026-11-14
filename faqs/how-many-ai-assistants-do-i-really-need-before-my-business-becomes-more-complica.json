@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many AI assistants do I really need before my business becomes more complicated instead of easier?",
+  "description": "Start with one assistant for one important workflow, then add roles only when responsibilities are genuinely different. A central coordinator and a few focused",
+  "url": "https://runmyaibusiness.com/faq/how-many-ai-assistants-do-i-really-need-before-my-business-becomes-more-complica",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many AI assistants do I really need before my business becomes more complicated instead of easier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most solopreneurs, one central coordinator plus a small number of focused assistants is easier to manage than dozens of disconnected bots. Add a new assistant only when it has a distinct responsibility, input, output, and owner review point.\n\nThe 38 Bot resource library offers examples across planning, research, content, marketing, sales, websites, and operations, but it is not a set of 38 identical, independently functioning products. Run My AI Biz recommends starting with one assistant and expanding deliberately.\n\nKey factors:\n- Whether responsibilities overlap\n- How often each assistant is used\n- Handoff complexity and logging\n- Your capacity to test and maintain the system\n\nMap the workflow on one page before adding assistants. Define who supplies each input, what output is handed off, where it is stored, and who approves the next step.\n\nRun My AI Biz can help you explore multiple roles without encouraging an unmanageable collection of partially used systems.",
+        "description": "Start with one assistant for one important workflow, then add roles only when responsibilities are genuinely different. A central coordinator and a few focused assistants are usually easier to test and maintain than a large disconnected collection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

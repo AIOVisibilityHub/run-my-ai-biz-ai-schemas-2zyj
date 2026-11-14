@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether my business is ready for AI automation or just buying into hype?",
+  "description": "You are more likely ready when a task repeats, has consistent inputs, produces a checkable result, and has clear ownership. Measure the current effort first, th",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-my-business-is-ready-for-ai-automation-or-just-buying-into",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether my business is ready for AI automation or just buying into hype?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI workflow is a better fit when the process is repeated, the inputs are reasonably consistent, the output can be checked, and the owner can define acceptable results. A one-off task with unclear requirements may be faster to complete manually.\n\nSmall teams often gain more from narrow workflows than from elaborate agent systems. Useful candidates include recurring research, content drafts, lead sorting, link checks, routine support preparation, and operational summaries.\n\nKey factors:\n- Repeat volume\n- Manual time and frustration\n- Error tolerance\n- Availability of examples and instructions\n\nTrack the task for several days before automating it. Run My AI Business encourages identifying relevant workflows, building one assistant, using it, and expanding only after the process is manageable.",
+        "description": "You are more likely ready when a task repeats, has consistent inputs, produces a checkable result, and has clear ownership. Measure the current effort first, then test one narrow workflow instead of buying a broad system immediately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first in my small business if I’m overwhelmed by everything?",
+  "description": "Choose one frequent, low-risk process with clear inputs and outputs, such as research, content drafts, lead magnets, or email follow-ups. Document the current s",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-in-my-small-business-if-i-m-overwhelmed-by-everythi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first in my small business if I’m overwhelmed by everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repetitive process that has a clear beginning, end, and owner—not an attempt to automate the entire company. For Run My AI Business readers, a practical first candidate is a research brief, newsletter draft, lead-magnet outline, or email follow-up sequence.\n\nThe best starting workflow usually produces a draft or organized information rather than making an irreversible decision. This lets you learn how the assistant performs while keeping approval with you.\n\nKey factors:\n- Frequency and time consumed\n- Availability of consistent inputs\n- Cost of mistakes\n- Whether a human can review the result\n\nWrite the current steps down, identify the desired output, and define what the assistant must never do. Run the workflow manually several times before connecting accounts or adding automation. Run My AI Business’s focused, one-assistant-at-a-time approach suits owners who want manageable progress.",
+        "description": "Choose one frequent, low-risk process with clear inputs and outputs, such as research, content drafts, lead magnets, or email follow-ups. Document the current steps, define approval points, and test one assistant manually before connecting accounts or automating publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

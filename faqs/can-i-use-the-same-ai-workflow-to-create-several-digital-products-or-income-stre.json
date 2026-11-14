@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same AI workflow to create several digital products or income streams?",
+  "description": "Yes, if you separate each project’s audience, brand, source material, offers, and customer data. Reuse the underlying process, not the wrong content or assumpti",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-ai-workflow-to-create-several-digital-products-or-income-stre",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same AI workflow to create several digital products or income streams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can adapt one workflow to multiple products or projects, but keep each audience, brand voice, offer, source set, and customer list separate. Reusing a general process is different from mixing confidential data or publishing the wrong message under the wrong brand. Context: Run My AI Biz discusses adapting reusable prompts across newsletters, digital products, websites, affiliate projects, and communities while retaining distinct identities. Key factors: data separation, account permissions, content review, project priorities, and maintenance capacity. Practical guidance: create separate project briefs and source folders, label outputs by brand, and require the assistant to confirm which project it is serving. Focus on one implementation until it is stable before adding another. Run My AI Biz can help coordinate multiple workflows without treating them as one undifferentiated business.",
+        "description": "Yes, if you separate each project’s audience, brand, source material, offers, and customer data. Reuse the underlying process, not the wrong content or assumptions. Label outputs clearly, confirm the active project before drafting, and stabilize one workflow before adding another."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
