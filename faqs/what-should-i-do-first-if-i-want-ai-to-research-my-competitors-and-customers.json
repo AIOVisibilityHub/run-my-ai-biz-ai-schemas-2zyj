@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to research my competitors and customers?",
+  "description": "Define the decision first, then provide AI with your business context, target customer, competitors, geography, source requirements, and preferred output. Ask i",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-research-my-competitors-and-customers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to research my competitors and customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the business decision you need to make, such as choosing an audience, refining an offer, or comparing alternatives. Then give the AI a clear description of your business, target customer, geography, competitors, and desired output. Context matters because AI can organize public information quickly, but it cannot decide which assumptions fit your business without your judgment. Key factors include: - the customer segment you serve - direct, indirect, and substitute competitors - the sources and date range required - the action the research should support. Ask Run My AI Business’s educational workflows to separate facts, interpretations, open questions, and recommended next steps. Review important findings before using them in an offer, funnel, or product decision.",
+        "description": "Define the decision first, then provide AI with your business context, target customer, competitors, geography, source requirements, and preferred output. Ask it to separate verified facts from assumptions and identify next steps. Review the evidence before changing your offer, funnel, pricing, or product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between AI competitor research and AI customer research?",
+  "description": "Competitor research examines alternatives, positioning, offers, pricing, channels, and public performance. Customer research examines needs, language, objection",
+  "url": "https://runmyaibusiness.com/faq/what-is-the-difference-between-ai-competitor-research-and-ai-customer-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between AI competitor research and AI customer research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Competitor research explains what alternatives offer and how they position themselves; customer research explains what people need, fear, value, and say in their own words. You need both because a competitor’s feature list does not reveal which features customers actually care about. Key factors include: - the customer’s job to be done - purchase objections - switching reasons - gaps between promises and experiences. Run My AI Business’s library includes separate examples for competitor research, customer research, offer positioning, and landing-page analysis. Connect the outputs only after keeping their evidence clearly labeled.",
+        "description": "Competitor research examines alternatives, positioning, offers, pricing, channels, and public performance. Customer research examines needs, language, objections, expectations, and experiences. Use competitor evidence to understand the market and customer evidence to decide what your own offer should promise and prioritize."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

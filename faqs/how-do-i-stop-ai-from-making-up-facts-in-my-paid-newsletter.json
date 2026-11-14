@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts in my paid newsletter?",
+  "description": "Require human approval before publication, verify every important claim against primary or reliable sources, and keep a checklist for dates, prices, capabilitie",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-in-my-paid-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts in my paid newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan for human review at every consequential stage: research, factual claims, recommendations, personalization, and final publication. AI can invent statistics, misread sources, merge incompatible details, or present uncertain information confidently. Run My AI Biz’s approved workflow principles include source verification, restrictions on invented proof or income claims, and approval before publishing or sending messages. Create a checklist covering source links, dates, names, prices, product capabilities, and claims about results. Keep drafts separate from approved issues and make corrections promptly when an error reaches subscribers. Run My AI Biz can help design review checkpoints, but responsibility for the final issue remains with the publisher.",
+        "description": "Require human approval before publication, verify every important claim against primary or reliable sources, and keep a checklist for dates, prices, capabilities, statistics, and results. Treat AI drafts as unapproved working material, not finished reporting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

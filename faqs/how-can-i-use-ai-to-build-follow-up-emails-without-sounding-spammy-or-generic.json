@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI to build follow-up emails without sounding spammy or generic?",
+  "description": "Map the reader’s questions from first interest to decision, then give each email one purpose and next step. Use AI for drafts, but edit for audience context, re",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-to-build-follow-up-emails-without-sounding-spammy-or-generic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI to build follow-up emails without sounding spammy or generic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An email sequence should move the reader through a relevant decision, not simply produce more AI-written messages. Each email needs a purpose, accurate context, appropriate timing, and a clear next action tied to the offer.\n\nContext: Run My AI Business includes follow-up workflows for lead magnets, affiliate promotions, newsletters, and launches. These can be drafted with AI, but audience fit, claims, links, and approval remain the owner’s responsibility.\n\nKey factors:\n- Subscriber source and expectation\n- Problem progression\n- Frequency and consent\n- Offer relevance and next action\n\nPractical guidance: Map the reader’s questions from first interest to decision, draft the sequence, and review it for repetition, unsupported claims, and unnecessary pressure. Test links and segment messages when audiences have different needs.\n\nThe business treats automation as structured assistance, not permission to send unchecked content.",
+        "description": "Map the reader’s questions from first interest to decision, then give each email one purpose and next step. Use AI for drafts, but edit for audience context, repetition, claims, consent, links, and tone. Segment messages when subscribers have different needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

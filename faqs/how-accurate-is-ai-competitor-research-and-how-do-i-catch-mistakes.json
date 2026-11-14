@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How accurate is AI competitor research, and how do I catch mistakes?",
+  "description": "AI is useful for organizing and comparing research, but it can miss sources, misread context, or present outdated information confidently. Require source detail",
+  "url": "https://runmyaibusiness.com/faq/how-accurate-is-ai-competitor-research-and-how-do-i-catch-mistakes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How accurate is AI competitor research, and how do I catch mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI research can be useful for a first pass, but it can produce outdated, incomplete, or unsupported claims. One practical competitor-research workflow is to identify the relevant sources, confirm that the tool can access them, schedule updates, and assign an owner to check important summaries. Key factors include: - publication date - primary versus secondary sources - conflicting prices or features - whether the AI shows evidence for its conclusion. Ask your workflow to attach source details, flag uncertainty, and avoid filling gaps with guesses. Verify pricing, product availability, customer claims, and market numbers manually before publishing or investing.",
+        "description": "AI is useful for organizing and comparing research, but it can miss sources, misread context, or present outdated information confidently. Require source details, dates, uncertainty flags, and a fact-checking step. Manually verify pricing, features, availability, statistics, and major customer claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

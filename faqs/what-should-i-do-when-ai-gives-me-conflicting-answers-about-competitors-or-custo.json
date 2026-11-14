@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI gives me conflicting answers about competitors or customers?",
+  "description": "Do not force a single answer. Record each claim with its source, date, definition, geography, and method, then identify the missing evidence. Ask AI to flag con",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-ai-gives-me-conflicting-answers-about-competitors-or-custo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI gives me conflicting answers about competitors or customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI produces conflicting findings, preserve both claims, record their sources and dates, and identify what evidence would resolve the disagreement. Conflicts may result from different definitions, geographic coverage, time periods, sample sizes, or modeled data. Key factors include: - source authority - primary versus secondary evidence - methodology - relevance to your audience. Ask the workflow to stop and flag contradictions rather than choosing the more convenient answer. Run My AI Business’s emphasis on source verification and human review is especially relevant when findings affect pricing, positioning, or investment.",
+        "description": "Do not force a single answer. Record each claim with its source, date, definition, geography, and method, then identify the missing evidence. Ask AI to flag contradictions and explain possible reasons. Resolve important conflicts with primary sources or direct customer research."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

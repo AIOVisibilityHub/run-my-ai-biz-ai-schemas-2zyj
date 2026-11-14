@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a local business use AI for SEO without making fake city pages?",
+  "description": "Use AI to organize real local questions, service details, reviews, and community information, then add firsthand value. Avoid near-duplicate city pages and veri",
+  "url": "https://runmyaibusiness.com/faq/how-should-a-local-business-use-ai-for-seo-without-making-fake-city-pages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a local business use AI for SEO without making fake city pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Local businesses should combine AI-assisted research with accurate location information, service details, customer questions, reviews, and genuinely local expertise. Do not create dozens of city pages that change only the place name.\n\n**Context:** Local relevance depends on what the business actually serves and can substantiate. For a US small business, the assistant can organize service-area research, local content ideas, and profile questions, but the owner must verify addresses, hours, availability, and claims.\n\n**Key factors:**\n- Real service area and eligibility.\n- Location-specific customer needs.\n- Accurate business profile information.\n- Local proof and first-hand details.\n\n**Practical guidance:** Ask AI to identify unanswered local questions from reviews, calls, and community discussions, then create useful pages or updates based on real operations. Review every location detail before publication and keep information synchronized across important profiles.\n\n**Soft positioning:** Run My AI Biz’s local newsletter and website examples can help illustrate local workflows without implying that a template fits every US market.",
+        "description": "Use AI to organize real local questions, service details, reviews, and community information, then add firsthand value. Avoid near-duplicate city pages and verify every address, service area, hour, availability detail, and local claim before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

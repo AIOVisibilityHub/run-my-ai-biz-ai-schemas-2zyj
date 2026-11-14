@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I add a referral program to grow my AI newsletter?",
+  "description": "Test referrals after your content and signup flow already satisfy readers. Offer a clear, relevant reward, track qualified referrals and retention, and set simp",
+  "url": "https://runmyaibusiness.com/faq/should-i-add-a-referral-program-to-grow-my-ai-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I add a referral program to grow my AI newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A referral program works best when the reward matches the newsletter’s value and the referral action is easy to understand. Offer a useful benefit—such as a resource, workshop seat, or premium issue—only after defining eligibility and preventing duplicate or abusive sign-ups.\n\nContext: Community discussions mention recommendations and cross-promotion as growth methods. Referral mechanics should complement strong content; they cannot compensate for subscribers who do not find the newsletter relevant.\n\nKey factors:\n- Incentive cost and fulfillment.\n- Subscriber quality after referral.\n- Clear terms and tracking.\n- Protection against misleading promotion.\n\nPractical guidance: Begin with a manual referral test among engaged readers and ask what reward they actually value. Use AI to draft messages and summarize results, but review eligibility rules and promotional claims yourself.\n\nRun My AI Biz can tie a referral reward to practical AI education rather than vague promises of business success.",
+        "description": "Test referrals after your content and signup flow already satisfy readers. Offer a clear, relevant reward, track qualified referrals and retention, and set simple rules against duplicate or misleading sign-ups. Manual testing can validate demand before adding software."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

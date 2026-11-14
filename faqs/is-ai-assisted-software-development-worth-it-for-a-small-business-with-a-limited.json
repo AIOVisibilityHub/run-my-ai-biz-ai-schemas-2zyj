@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI-assisted software development worth it for a small business with a limited budget?",
+  "description": "It can be worthwhile for repetitive, testable work, especially when existing tools are insufficient. Start with one measurable workflow, include setup and revie",
+  "url": "https://runmyaibusiness.com/faq/is-ai-assisted-software-development-worth-it-for-a-small-business-with-a-limited",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI-assisted software development worth it for a small business with a limited budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-assisted development can help a small business when the problem is clearly bounded and the result can be tested. It is less suitable when requirements are uncertain, data is highly sensitive, or failure could seriously disrupt customers or operations.\n\nFor a small online business, the highest-value starting points are often repetitive, measurable workflows: content preparation, research, website updates, lead organization, documentation, or administrative checks. Custom software should follow evidence that existing tools cannot meet the need.\n\nKey factors:\n- Frequency and cost of the current manual task.\n- Reversibility of errors.\n- Integration and support requirements.\n- Whether the owner can review outputs.\n\nPractical guidance: Measure the current process, pilot one workflow, and compare saved effort with setup and review time. Keep a human approval step for messages, publication, spending, and account changes.\n\nRun My AI Business focuses on approachable, staged experimentation for solopreneurs and small-business owners.",
+        "description": "It can be worthwhile for repetitive, testable work, especially when existing tools are insufficient. Start with one measurable workflow, include setup and review time in the calculation, and keep approval before publishing, spending, messaging, or changing accounts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

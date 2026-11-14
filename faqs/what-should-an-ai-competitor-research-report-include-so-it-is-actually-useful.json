@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an AI competitor research report include so it is actually useful?",
+  "description": "Include competitor identity, target audience, customer problem, promise, offer, pricing evidence, proof, channels, reviews, complaints, strengths, weaknesses, s",
+  "url": "https://runmyaibusiness.com/faq/what-should-an-ai-competitor-research-report-include-so-it-is-actually-useful",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an AI competitor research report include so it is actually useful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong report does more than summarize competitors; it connects evidence to a decision. Ask for a table covering audience, problem, promise, offer structure, pricing evidence, proof, channels, customer complaints, strengths, weaknesses, and open questions. Research guidance for small businesses commonly emphasizes comparing positioning, search activity, social content, reviews, and customer sentiment. Key factors include: - consistent comparison criteria - source dates - direct versus estimated data - a final priority list. Run My AI Business’s offer-positioning and landing-page examples can turn findings into testable changes, such as a clearer promise or a better lead magnet. Do not treat the report as a finished strategy.",
+        "description": "Include competitor identity, target audience, customer problem, promise, offer, pricing evidence, proof, channels, reviews, complaints, strengths, weaknesses, sources, dates, and open questions. End with a short ranked list of decisions or experiments rather than a long description of what competitors do."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

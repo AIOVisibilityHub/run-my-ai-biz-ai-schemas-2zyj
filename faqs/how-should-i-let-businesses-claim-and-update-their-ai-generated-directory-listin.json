@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I let businesses claim and update their AI-generated directory listings?",
+  "description": "Use a verified claim process with account controls, edit history, moderation for significant changes, and a correction channel. Do not publish every claimed edi",
+  "url": "https://runmyaibusiness.com/faq/how-should-i-let-businesses-claim-and-update-their-ai-generated-directory-listin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I let businesses claim and update their AI-generated directory listings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A business claim process lets an owner verify, edit, and maintain a listing, but it should not automatically grant unlimited publishing access. Require account verification, show which fields changed, retain an edit history, and send significant updates through moderation. Context: claim workflows are a practical directory control because business information changes and owners often want to correct it. Key factors: verification method, impersonation risk, staff roles, password recovery, approval thresholds, and handling of disputed claims. Practical guidance: separate identity verification from content approval and provide a visible “report a problem” option. Mark the last review date so users can judge freshness. Run My AI Business can help design the claim workflow and approval prompts as part of a broader business-automation system.",
+        "description": "Use a verified claim process with account controls, edit history, moderation for significant changes, and a correction channel. Do not publish every claimed edit automatically. Display update or review dates, separate identity checks from content approval, and handle disputed claims manually."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

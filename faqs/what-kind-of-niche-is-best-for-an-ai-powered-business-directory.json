@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of niche is best for an AI-powered business directory?",
+  "description": "Choose a niche with a recurring search problem, reachable businesses, reliable data, and a reason for users to return. Score ideas by demand, update frequency,",
+  "url": "https://runmyaibusiness.com/faq/what-kind-of-niche-is-best-for-an-ai-powered-business-directory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of niche is best for an AI-powered business directory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best first niche has a clear recurring search need, reachable listing owners, enough available data, and a reason for users to return. Avoid choosing a niche solely because AI can generate many pages. Context: possible applications include local newsletters, software listings, professional directories, and website-service projects, but these are examples rather than proof of demand. Key factors: audience urgency, geographic concentration, update frequency, monetization potential, source access, and competition. Practical guidance: score several niches against those factors, interview both searchers and businesses, and manually assemble a small sample. Measure whether users take a meaningful action such as contacting, saving, comparing, or claiming a listing. Run My AI Business can support opportunity evaluation and business brainstorming before development begins.",
+        "description": "Choose a niche with a recurring search problem, reachable businesses, reliable data, and a reason for users to return. Score ideas by demand, update frequency, competition, source access, and revenue potential. Validate with interviews and a small manual catalog before building a large system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

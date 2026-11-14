@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts, testimonials, or impressive-sounding claims on my website?",
+  "description": "Treat every AI claim as unverified until checked. Require source flags, verify statistics and testimonials, remove unsupported promises, and use a human approva",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-testimonials-or-impressive-sounding-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts, testimonials, or impressive-sounding claims on my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated copy is a draft, not evidence that a claim is true, persuasive, or appropriate for your audience. Review every statistic, testimonial, feature, price, comparison, promise, and source before it appears on the site.\n\nContext: Run My AI Business specifically emphasizes source verification and restrictions on invented statistics, proof, and income claims. Unsupported copy can damage trust and create operational or compliance problems even when the wording sounds professional.\n\nKey factors:\n- Whether a statement is factual or promotional\n- Source quality and publication date\n- Customer expectations created by the wording\n- Whether testimonials and images are genuine\n\nPractical guidance: Require AI to mark claims needing verification and maintain a source list outside the public page. Replace generic proof with real, permissioned evidence or remove it.\n\nA review-centered workflow is more dependable than asking one assistant to invent authority for a new business.",
+        "description": "Treat every AI claim as unverified until checked. Require source flags, verify statistics and testimonials, remove unsupported promises, and use a human approval step before any page is published."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

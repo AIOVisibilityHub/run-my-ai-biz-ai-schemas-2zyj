@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I promise on the sales page for an AI-assisted paid newsletter without overpromising?",
+  "description": "Promise a specific publishing experience and reader benefit, not income or growth. Explain frequency, tier differences, examples of what subscribers receive, ca",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-promise-on-the-sales-page-for-an-ai-assisted-paid-newsletter-witho",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I promise on the sales page for an AI-assisted paid newsletter without overpromising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A paid newsletter should state what subscribers receive, how often it arrives, what the free and paid tiers include, and how cancellation or refunds work. Avoid implying guaranteed income, guaranteed business growth, or exclusive access to capabilities the workflow cannot deliver. Run My AI Biz’s own positioning treats AI applications as educational opportunities rather than guaranteed outcomes, and its resource library distinguishes demonstrations from proven businesses. Use plain subscription language and keep promotional claims consistent with actual issues. Review the signup page, welcome email, checkout description, and renewal messaging as one customer experience.",
+        "description": "Promise a specific publishing experience and reader benefit, not income or growth. Explain frequency, tier differences, examples of what subscribers receive, cancellation or refund terms, and the limits of AI-assisted workflows in clear language."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

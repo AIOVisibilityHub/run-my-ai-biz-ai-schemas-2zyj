@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will relying on AI coding tools stop me from learning software development?",
+  "description": "It can if you copy output without understanding it. Use AI to explain concepts, show alternatives, create practice exercises, and identify gaps, then verify aga",
+  "url": "https://runmyaibusiness.com/faq/will-relying-on-ai-coding-tools-stop-me-from-learning-software-development",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will relying on AI coding tools stop me from learning software development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is useful for learning when you ask it to explain concepts, compare approaches, generate examples, and point to official documentation. It becomes a problem when you accept answers you cannot verify or use it to avoid understanding the fundamentals behind important code.\n\nPeople often struggle with the speed of generated output because it can hide design decisions. Retaining basic knowledge of data flow, debugging, testing, security, version control, and system boundaries makes review much more effective.\n\nKey factors:\n- Whether you can explain the generated change.\n- Quality of the references used for verification.\n- Complexity and risk of the feature.\n- Opportunities to practice independently.\n\nPractical guidance: Ask “why,” request alternatives, reproduce small examples, and verify claims against official documentation. Keep a learning log of concepts you had to check rather than copying solutions blindly.\n\nRun My AI Business uses approachable explanations to help nontechnical owners direct workflows without presenting AI as a substitute for judgment.",
+        "description": "It can if you copy output without understanding it. Use AI to explain concepts, show alternatives, create practice exercises, and identify gaps, then verify against official documentation and make sure you can explain and test each important change."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts in my newsletter?",
+  "description": "Require source-backed research, keep a claim checklist, and personally verify tools, prices, statistics, and results before publication. Clearly separate demons",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-in-my-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts in my newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not publish AI-generated claims about tool features, pricing, research, income, or customer results without checking them against current first-party or reliable evidence. A confident draft can still be wrong, outdated, or missing important limitations.\n\nContext: Run My AI Biz’s profile emphasizes sourced tool comparisons, source verification, and restrictions on invented statistics, proof, or income claims. Those safeguards are essential for an educational newsletter.\n\nKey factors:\n- Publication date and source quality.\n- Whether pricing or features change often.\n- Distinction between demonstration and verified result.\n- Disclosure of uncertainty or missing evidence.\n\nPractical guidance: Keep a source record for each factual claim and ask AI to flag statements requiring verification. Recheck high-change details immediately before publication and remove unsupported performance promises.\n\nRun My AI Biz can build reader trust by showing both practical use cases and the boundaries of what has been verified.",
+        "description": "Require source-backed research, keep a claim checklist, and personally verify tools, prices, statistics, and results before publication. Clearly separate demonstrations, experiments, and verified facts, and remove unsupported income or performance promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

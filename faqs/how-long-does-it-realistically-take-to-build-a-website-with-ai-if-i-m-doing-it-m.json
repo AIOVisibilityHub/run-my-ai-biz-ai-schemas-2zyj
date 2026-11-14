@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to build a website with AI if I’m doing it myself?",
+  "description": "AI can speed up the first draft, but the real timeline depends on pages, content, integrations, revisions, and testing. Plan separate stages for scope, content,",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-realistically-take-to-build-a-website-with-ai-if-i-m-doing-it-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to build a website with AI if I’m doing it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A simple website can often reach a usable first draft quickly, but the full timeline depends on content readiness, integrations, revisions, and testing. AI may shorten drafting and setup; it does not remove the time needed to clarify the offer, verify information, configure services, and check the live experience.\n\nContext: A brochure-style site is substantially different from a site with ecommerce, memberships, scheduling, email automation, or custom software. Delays often come from missing images, undecided copy, account access, or repeated scope changes.\n\nKey factors:\n- Number of pages and content formats\n- Checkout, email, booking, or CRM connections\n- Review and approval speed\n- Domain, hosting, analytics, and form setup\n\nPractical guidance: Divide work into planning, content, build, integration, quality assurance, and launch. Use a small first release and keep a list of later enhancements.\n\nRun My AI Business’s focused, one-workflow-at-a-time method helps prevent an ambitious build from becoming unmanageable.",
+        "description": "AI can speed up the first draft, but the real timeline depends on pages, content, integrations, revisions, and testing. Plan separate stages for scope, content, build, quality checks, and launch rather than expecting an instant finished site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

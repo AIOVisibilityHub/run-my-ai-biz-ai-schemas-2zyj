@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write my positioning statement, or do I need to do it myself?",
+  "description": "AI can draft and refine positioning, but it should work from real customer language and verified facts. Provide interview notes, current alternatives, objection",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-my-positioning-statement-or-do-i-need-to-do-it-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write my positioning statement, or do I need to do it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use AI to draft a positioning statement, but the final message should come from customer language and your actual delivery capability. Ask buyers what they call the problem, what they have tried, and what result they would consider useful.\n\nContext: AI can summarize interview notes, identify repeated objections, compare alternatives, and produce message variations. It may also smooth over important differences or invent confidence that the evidence does not support.\n\nKey factors:\n- Words customers already use\n- Their strongest objection\n- The alternative they prefer today\n- Proof you can honestly provide\n\nPractical guidance: Feed organized, consented notes into the workflow, request several positioning options, and verify every claim against the notes and your process. Test the wording in conversations before using it across pages and campaigns.\n\nRun My AI Business can help make the work approachable while keeping customer evidence primary.",
+        "description": "AI can draft and refine positioning, but it should work from real customer language and verified facts. Provide interview notes, current alternatives, objections, and your actual delivery process. Test the resulting statement with buyers before publishing it widely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

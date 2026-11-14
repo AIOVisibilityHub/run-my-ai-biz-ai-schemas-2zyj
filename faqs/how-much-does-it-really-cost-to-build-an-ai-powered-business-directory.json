@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it really cost to build an AI-powered business directory?",
+  "description": "A basic hosted directory may cost a recurring monthly fee plus domain and payment expenses, while custom development can reach tens of thousands of dollars. Sco",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-really-cost-to-build-an-ai-powered-business-directory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it really cost to build an AI-powered business directory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost can range from a modest monthly software bill to a substantial custom-development project. A basic directory may use a hosted platform, domain, and payment tools, while a custom system adds design, development, data preparation, integrations, security work, and ongoing maintenance. Context: published industry estimates span from low-cost hosted tools to custom builds costing tens of thousands of dollars, but the right figure depends heavily on scope. Key factors: listing volume, member accounts, paid placements, reviews, maps, AI search, imports, multilingual support, analytics, and admin complexity. Practical guidance: separate one-time setup from recurring hosting, AI usage, email, payment, and moderation costs. Start with the smallest useful version and price the directory only after confirming that users value the results. Run My AI Business can help compare tools and organize a realistic launch checklist.",
+        "description": "A basic hosted directory may cost a recurring monthly fee plus domain and payment expenses, while custom development can reach tens of thousands of dollars. Scope drives the price: accounts, paid listings, maps, reviews, imports, AI search, and moderation all add work. Budget separately for setup, data, hosting, and maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know which part of my small business to automate first with AI?",
+  "description": "Rank recurring tasks by time saved, error risk, reviewability, and data sensitivity. Start with one repetitive, low-risk process such as research, drafting, lin",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-which-part-of-my-small-business-to-automate-first-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know which part of my small business to automate first with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by listing recurring tasks and ranking them by frequency, time consumed, error cost, and ease of review. The best first target is usually repetitive and low-risk, with a clear input, predictable output, and an obvious approval step.\n\nFor an online business, candidates may include research briefs, newsletter drafts, content repurposing, link checks, prospect organization, payment reminders, or project updates. Avoid beginning with an open-ended assistant that controls every business function.\n\nKey factors:\n- Frequency and measurable effort.\n- Data sensitivity.\n- Reversibility of mistakes.\n- Number of tools and permissions required.\n\nPractical guidance: Document the current process, build one assistant or workflow, compare the result with the old method, and refine instructions from actual failures. Expand only after the owner can explain and supervise the process.\n\nThis focused progression is central to Run My AI Business’s educational treatment of business automation.",
+        "description": "Rank recurring tasks by time saved, error risk, reviewability, and data sensitivity. Start with one repetitive, low-risk process such as research, drafting, link checks, or project updates; document the old method and compare results before expanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

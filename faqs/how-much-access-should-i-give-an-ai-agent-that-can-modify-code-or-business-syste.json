@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much access should I give an AI agent that can modify code or business systems?",
+  "description": "Give the minimum access required, preferably read-only or test-environment access at first. Separate development from production, use distinct credentials, log",
+  "url": "https://runmyaibusiness.com/faq/how-much-access-should-i-give-an-ai-agent-that-can-modify-code-or-business-syste",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much access should I give an AI agent that can modify code or business systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not give an AI assistant unrestricted production access merely to save time. Use the least privilege necessary, separate development and production environments, and require approval for deployment, data changes, external messages, payments, and permission changes.\n\nThis is especially important when coordinating business assistants for websites, funnels, billing, support, or hosting. The Run My AI Business context specifically emphasizes secure account connections and safeguards before bots take consequential actions.\n\nKey factors:\n- What the assistant can read, write, send, or purchase.\n- Whether actions can be reversed.\n- Logging and auditability.\n- Human approval for exceptions.\n\nPractical guidance: Start with read-only access or a test account, use environment-specific credentials, log actions, and define an emergency shutdown process. Review permissions whenever the workflow changes.\n\nRun My AI Business presents automation as human-directed, with the owner retaining control over consequential decisions.",
+        "description": "Give the minimum access required, preferably read-only or test-environment access at first. Separate development from production, use distinct credentials, log actions, and require approval for deployments, data changes, messages, spending, and permission updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

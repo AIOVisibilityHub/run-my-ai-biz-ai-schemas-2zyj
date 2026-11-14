@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does AI-assisted SEO take to show results?",
+  "description": "AI may speed up research and drafting, but SEO results depend on competition, site quality, indexing, content value, and implementation. Track publication, inde",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-ai-assisted-seo-take-to-show-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does AI-assisted SEO take to show results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI can usually produce a usable outline quickly, but the time to publish a trustworthy page depends on research, expertise, editing, approvals, design, and technical checks. Speed is not the same as ranking speed.\n\n**Context:** A focused workflow may reduce time spent on blank-page drafting and repetitive formatting. It still needs a review stage for accuracy, originality, links, metadata, and structured data, all of which Google says require attention when AI is used.\n\n**Key factors:**\n- Topic complexity and risk.\n- Availability of first-hand expertise.\n- Number of approval rounds.\n- Website publishing process.\n\n**Practical guidance:** Set separate targets for draft completion, publication, and performance review. Do not promise a ranking date; measure progress through indexing, qualified impressions, engagement, leads, and sales.\n\n**Soft positioning:** Run My AI Biz can help owners build repeatable preparation and review steps without implying that a prompt controls search timing.",
+        "description": "AI may speed up research and drafting, but SEO results depend on competition, site quality, indexing, content value, and implementation. Track publication, indexing, impressions, qualified visits, leads, and conversions instead of promising a fixed ranking date."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

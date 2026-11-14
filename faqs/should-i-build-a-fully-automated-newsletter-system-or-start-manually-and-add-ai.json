@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build a fully automated newsletter system or start manually and add AI later?",
+  "description": "Start with a controlled manual pilot and automate only repeatable preparation tasks after the format and review process are clear. One research or outlining ass",
+  "url": "https://runmyaibusiness.com/faq/should-i-build-a-fully-automated-newsletter-system-or-start-manually-and-add-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build a fully automated newsletter system or start manually and add AI later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep the first version of the newsletter manual enough to reveal what readers actually value. Automate repeatable preparation tasks only after you know the format, sources, approval steps, and support questions. Run My AI Biz’s recommended progression—identify relevant workflows, build one assistant, use it, then expand—helps prevent unnecessary complexity. A useful first automation might prepare a research brief or issue outline, while final editing and publication remain controlled. Document exceptions so future automation handles real cases rather than an idealized process.",
+        "description": "Start with a controlled manual pilot and automate only repeatable preparation tasks after the format and review process are clear. One research or outlining assistant is usually easier to test than an end-to-end system with many failure points."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI to create a lead magnet that supports my offer instead of attracting random people?",
+  "description": "Choose a small problem that the paid offer naturally continues solving. Create one useful resource, connect it to a relevant next step, and measure completion,",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-to-create-a-lead-magnet-that-supports-my-offer-instead-of-attrac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI to create a lead magnet that supports my offer instead of attracting random people?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lead magnet should solve a small, relevant problem and naturally prepare the reader for the paid offer. It should not be a generic AI checklist disconnected from what you sell.\n\nContext: Run My AI Business includes examples such as local activity PDFs, affiliate checklists, opt-in pages, bridge pages, and email follow-up. The useful connection is the customer’s next logical step, not the mere presence of multiple funnel assets.\n\nKey factors:\n- Immediate audience need\n- Specific, usable outcome\n- Clear relationship to the paid offer\n- Honest expectations about what it can accomplish\n\nPractical guidance: Create one short resource, test whether people finish or use it, and ask what question remains afterward. Use AI to draft versions and email follow-up, then check every recommendation, link, and claim before publishing.\n\nThe educational material can help assemble the funnel while leaving relevance and quality to the owner.",
+        "description": "Choose a small problem that the paid offer naturally continues solving. Create one useful resource, connect it to a relevant next step, and measure completion, replies, and qualified interest—not just downloads. Review every AI-generated claim, link, and recommendation before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

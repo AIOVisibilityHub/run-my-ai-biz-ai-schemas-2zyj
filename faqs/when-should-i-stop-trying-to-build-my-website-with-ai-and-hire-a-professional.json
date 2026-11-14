@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I stop trying to build my website with AI and hire a professional?",
+  "description": "DIY works for simple, low-risk sites. Consider professional help for custom software, complex integrations, sensitive data, accessibility problems, migration, e",
+  "url": "https://runmyaibusiness.com/faq/when-should-i-stop-trying-to-build-my-website-with-ai-and-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I stop trying to build my website with AI and hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A simple DIY build is reasonable when the site has few pages, low-risk forms, straightforward content, and no unusual integrations. Professional help becomes more valuable when the project involves custom software, complex data flows, ecommerce, accessibility remediation, migration, or a costly failure.\n\nContext: AI reduces some drafting and coding effort, but it does not remove requirements analysis, testing, deployment, maintenance, or troubleshooting. Community reports also highlight difficulty with debugging and exporting projects.\n\nKey factors:\n- Business impact of downtime or errors\n- Technical complexity and integrations\n- Owner’s available time\n- Need for ongoing support or handoff\n\nPractical guidance: Ask for a written scope, ownership map, test plan, backup process, and handoff documentation before hiring help. For DIY work, begin with a contained page or workflow rather than the entire business system.\n\nRun My AI Business’s educational material can help an owner understand the work before deciding who should perform it.",
+        "description": "DIY works for simple, low-risk sites. Consider professional help for custom software, complex integrations, sensitive data, accessibility problems, migration, ecommerce, or situations where downtime and errors would be expensive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

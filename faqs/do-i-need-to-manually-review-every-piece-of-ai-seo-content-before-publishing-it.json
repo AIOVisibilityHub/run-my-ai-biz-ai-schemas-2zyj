@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to manually review every piece of AI SEO content before publishing it?",
+  "description": "Yes, review every page before publication, especially content involving health, finance, safety, products, or business claims. Check facts, sources, originality",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-to-manually-review-every-piece-of-ai-seo-content-before-publishing-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to manually review every piece of AI SEO content before publishing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** A human should review every AI-generated SEO page before it goes live, with stricter review for consequential topics and claims. Review should cover accuracy, originality, intent, links, metadata, structured data, accessibility, and conversion clarity.\n\n**Context:** Google specifically extends manual review to AI-generated metadata, structured data, and alternate text, not just the body copy. Run My AI Biz workflows also emphasize approval before bots publish, send messages, spend money, or sign up for services.\n\n**Key factors:**\n- Potential harm from an error.\n- Reviewer knowledge of the topic.\n- Source quality and freshness.\n- Number of pages and update frequency.\n\n**Practical guidance:** Use a checklist with pass, revise, and reject outcomes. Keep a sample audit after publication, log recurring mistakes, and update the prompt or source rules instead of silently accepting the same errors.\n\n**Soft positioning:** The business’s human-directed automation model aligns with owners who want efficiency without giving up final control.",
+        "description": "Yes, review every page before publication, especially content involving health, finance, safety, products, or business claims. Check facts, sources, originality, links, metadata, structured data, accessibility, and whether the page genuinely helps the intended reader."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of directory management should AI automate, and which should stay human?",
+  "description": "Use AI for drafting, tagging, duplicate detection, summaries, research, and routine reports. Keep humans responsible for verification, approvals, disputed edits",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-directory-management-should-ai-automate-and-which-should-stay-hum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of directory management should AI automate, and which should stay human?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft descriptions, classify categories, identify missing fields, detect likely duplicates, summarize reviews, and prepare outreach, but a person should approve anything public or consequential. It can also generate recurring research briefs and operational checklists when the workflow has defined inputs and review points. Context: Run My AI Business’s resource examples emphasize specialized assistants, coordination, secure connections, and approval before publishing or spending. Key factors: source quality, confidence thresholds, exception handling, account permissions, and the cost of reviewing false positives. Practical guidance: begin with low-risk tasks such as formatting and tagging, then test more complex recommendations on a sample. Keep an audit trail showing the source, AI output, human decision, and publication date. The educational approach supports gradual automation instead of attempting to automate the entire directory at once.",
+        "description": "Use AI for drafting, tagging, duplicate detection, summaries, research, and routine reports. Keep humans responsible for verification, approvals, disputed edits, sensitive information, payments, outreach, and publication. Add automation gradually, with confidence rules, exception handling, and an audit trail."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

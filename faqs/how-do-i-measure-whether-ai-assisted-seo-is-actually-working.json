@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether AI-assisted SEO is actually working?",
+  "description": "Track qualified impressions, clicks, indexed pages, engagement, leads, sales, assisted conversions, time saved, and correction rates. Compare results with a bas",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-measure-whether-ai-assisted-seo-is-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether AI-assisted SEO is actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Measure AI-assisted SEO by business impact and process quality, not by the number of drafts produced. Useful measures include indexed pages, qualified impressions, relevant clicks, engagement, leads, sales, assisted conversions, and time saved after review.\n\n**Context:** AI visibility can be observed separately, but a mention or citation is not automatically valuable unless it reaches the right audience and supports a business outcome. Run My AI Biz’s growth examples are intended to support testing and decision-making, not guarantee growth.\n\n**Key factors:**\n- The original business objective.\n- Baseline performance before changes.\n- Quality of traffic and conversions.\n- Review time and correction rate.\n\n**Practical guidance:** Record the page, query group, change, date, reviewer, and expected result. Compare a defined period with the baseline and check whether gains came from qualified visitors rather than impressions alone.\n\n**Soft positioning:** Educational workflows from Run My AI Biz can help owners create a simple measurement routine before adding more automation.",
+        "description": "Track qualified impressions, clicks, indexed pages, engagement, leads, sales, assisted conversions, time saved, and correction rates. Compare results with a baseline and connect each SEO change to a page, query group, date, and business goal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

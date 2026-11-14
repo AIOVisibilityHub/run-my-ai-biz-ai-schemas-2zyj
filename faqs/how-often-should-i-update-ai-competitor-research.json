@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I update AI competitor research?",
+  "description": "Update foundational research when your offer, audience, or market changes, and monitor selected signals on a recurring schedule when changes affect decisions. T",
+  "url": "https://runmyaibusiness.com/faq/how-often-should-i-update-ai-competitor-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I update AI competitor research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a repeatable monitoring workflow when competitor changes can affect your decisions, such as pricing, offers, product updates, messaging, or customer complaints. Website-change alerts and specialized tools can track selected pages, while broader platforms may cover search, traffic, advertising, reviews, or social activity. Key factors include: - which changes matter - monitoring frequency - source coverage - who will act on alerts. A specialized assistant can prepare a recurring brief, but an owner should decide whether a change requires a response. Do not monitor everything; define thresholds that connect alerts to business decisions.",
+        "description": "Update foundational research when your offer, audience, or market changes, and monitor selected signals on a recurring schedule when changes affect decisions. Track only meaningful items such as pricing, product updates, positioning, reviews, or channel activity, then assign someone to interpret alerts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

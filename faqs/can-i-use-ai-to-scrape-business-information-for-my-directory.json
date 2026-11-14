@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to scrape business information for my directory?",
+  "description": "Only use sources and collection methods you are permitted to use. Prefer approved APIs or feeds, minimize stored information, keep provenance, respect access co",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-scrape-business-information-for-my-directory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to scrape business information for my directory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume that a public website permits unlimited copying or automated collection. Review the source’s terms, use permitted feeds or APIs where available, respect access controls, minimize stored data, and provide a correction or removal process. Context: data sourcing requirements vary by source and information type, so a generic “scrape everything” workflow is unsafe. Key factors: source permission, personal information, attribution, update frequency, retention, and whether the directory republishes more than users need. Practical guidance: create an approved-source register and require a human check before adding a new source. Keep provenance for every imported record and stop using data when its permission or accuracy cannot be established. Run My AI Business can help document the workflow, but source-specific compliance questions require appropriate expert review.",
+        "description": "Only use sources and collection methods you are permitted to use. Prefer approved APIs or feeds, minimize stored information, keep provenance, respect access controls, and create correction and removal procedures. Review each source’s terms and data characteristics instead of treating public availability as unlimited permission."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

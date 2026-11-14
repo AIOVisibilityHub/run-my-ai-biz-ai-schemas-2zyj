@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between an AI directory builder and custom development?",
+  "description": "Use an AI or hosted builder when speed, lower initial cost, and standard features matter. Consider custom development when you need unusual workflows, deep inte",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-choose-between-an-ai-directory-builder-and-custom-development",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between an AI directory builder and custom development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a platform based on data structure, workflow control, portability, and total operating cost—not merely on how quickly it generates a homepage. A hosted builder may reduce development work, while custom development offers more control but increases setup and maintenance responsibility. Context: industry comparisons describe hosted plans, AI builders, and custom frameworks with materially different costs and flexibility. Key factors: API access, exports, authentication, moderation, search, payment support, SEO controls, backups, and vendor lock-in. Practical guidance: request a test export, build a sample listing, run a submission-to-approval test, and confirm how recurring fees scale. Keep the database schema and business rules documented outside the platform. Run My AI Business can help create a comparison checklist tied to the directory’s actual priorities.",
+        "description": "Use an AI or hosted builder when speed, lower initial cost, and standard features matter. Consider custom development when you need unusual workflows, deep integrations, or complete control. Compare exports, APIs, moderation, search, payments, SEO, backups, scaling fees, and vendor lock-in using a working prototype."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

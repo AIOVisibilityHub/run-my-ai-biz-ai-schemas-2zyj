@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use an AI website builder, WordPress, a traditional builder, or hire a developer?",
+  "description": "Choose based on complexity and ownership needs. AI builders suit fast, simple launches; traditional systems may offer broader control; a professional is more ap",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-an-ai-website-builder-wordpress-a-traditional-builder-or-hire-a-dev",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use an AI website builder, WordPress, a traditional builder, or hire a developer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compare platforms by required features, ownership, exportability, integrations, editing experience, performance, accessibility controls, support, and total cost. Do not choose solely because a demo produces attractive pages from a prompt.\n\nContext: Community discussions repeatedly raise the tradeoff between fast setup and platform lock-in, especially when exporting or deploying elsewhere is difficult. A simple site may benefit from an all-in-one platform, while a growing project may need greater control.\n\nKey factors:\n- Simple brochure site versus ecommerce or software\n- Hosted convenience versus portability\n- Built-in tools versus third-party connections\n- Owner’s ability to maintain the site\n\nPractical guidance: Build a small test project and attempt to edit content, connect a domain, create a form, export or back up the site, and recover from an error. Record what happens before paying long term.\n\nRun My AI Business’s tool-comparison education can help readers make a fit-based decision rather than follow hype.",
+        "description": "Choose based on complexity and ownership needs. AI builders suit fast, simple launches; traditional systems may offer broader control; a professional is more appropriate for complex integrations or high-stakes requirements. Test editing, backups, and portability first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

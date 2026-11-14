@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I tell subscribers that AI helps create my paid newsletter?",
+  "description": "A clear, brief disclosure is sensible when AI materially assists production. Explain which tasks AI supports and state that a human checks sources, edits the is",
+  "url": "https://runmyaibusiness.com/faq/should-i-tell-subscribers-that-ai-helps-create-my-paid-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I tell subscribers that AI helps create my paid newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Readers may accept AI assistance when the newsletter remains useful, accurate, and accountable, but concealment can damage trust if the role of AI becomes relevant to the experience. Decide what you will disclose: for example, that AI supports research or drafting while a human verifies and approves the issue. Run My AI Biz’s approach centers on human-directed workflows and review checkpoints. Keep disclosure concise and avoid presenting automated output as personal testing or firsthand experience when it was not. Revisit the policy if tools, content types, or platform expectations change.",
+        "description": "A clear, brief disclosure is sensible when AI materially assists production. Explain which tasks AI supports and state that a human checks sources, edits the issue, and approves publication; never imply firsthand testing that did not occur."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

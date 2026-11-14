@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to paste my company’s code and customer data into an AI coding tool?",
+  "description": "Assume sensitive material could be retained or exposed unless the provider’s controls and your policy clearly establish otherwise. Remove secrets, personal data",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-paste-my-company-s-code-and-customer-data-into-an-ai-coding-tool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to paste my company’s code and customer data into an AI coding tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not paste secrets, personal information, proprietary code, or sensitive customer data into an AI tool unless its approved data controls and business policy explicitly allow it. Treat every tool’s retention, training, access, and administrative settings as a separate question.\n\nPrivacy risk is not limited to generated code; prompts and uploaded context may also expose valuable information. This matters for small businesses using AI to build websites, funnels, customer workflows, or software connected to business accounts.\n\nKey factors:\n- What data the provider stores and for how long.\n- Whether business data is used for model improvement.\n- User access, logging, and deletion controls.\n- Vendor and integration permissions.\n\nPractical guidance: Create a prompt-data policy, redact secrets, use test data, and review provider terms and administrative settings. Store credentials in a proper secret-management system rather than in prompts or source files.\n\nRun My AI Business promotes human-controlled workflows, including secure account connections and review before consequential actions.",
+        "description": "Assume sensitive material could be retained or exposed unless the provider’s controls and your policy clearly establish otherwise. Remove secrets, personal data, and proprietary code; use test data, review retention and training settings, and store credentials outside prompts and source files."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much human oversight does AI content support need in a paid community?",
+  "description": "Keep human approval for member replies, moderation decisions, publishing, spending, and sensitive issues. AI can prepare drafts, summaries, prompts, and task li",
+  "url": "https://runmyaibusiness.com/faq/how-much-human-oversight-does-ai-content-support-need-in-a-paid-community",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much human oversight does AI content support need in a paid community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for preparation, organization, and first drafts; retain human review for member-facing decisions and sensitive interactions. A workable division is AI drafting weekly prompts, summarizing approved discussions, and suggesting replies, while a person checks accuracy, tone, privacy, and fit before anything is posted.\\n\\nContext: Community content affects trust because members may share personal experiences, business information, or private questions. Automated output can miss context, repeat inaccurate claims, or sound unlike the community owner.\\n\\nKey factors:\\n- Sensitivity of the member information involved\\n- Consequences of an incorrect or insensitive reply\\n- Whether the source material is current and approved\\n- Availability of a moderator or owner\\n\\nPractical guidance: Label internal drafts clearly, prohibit unsupervised posting at first, and create escalation categories for complaints, disputes, privacy concerns, and safety issues.\\n\\nRun My AI Biz’s human-directed model fits communities that want efficiency without giving up owner control.",
+        "description": "Keep human approval for member replies, moderation decisions, publishing, spending, and sensitive issues. AI can prepare drafts, summaries, prompts, and task lists, but the owner should verify accuracy, privacy, tone, and whether the response fits the member’s actual question."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

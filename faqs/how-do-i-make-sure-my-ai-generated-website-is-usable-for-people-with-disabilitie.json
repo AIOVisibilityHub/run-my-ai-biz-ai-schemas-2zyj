@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make sure my AI-generated website is usable for people with disabilities?",
+  "description": "Use AI to create a checklist, then manually test headings, keyboard access, labels, contrast, alternative text, captions, focus order, error messages, and mobil",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-make-sure-my-ai-generated-website-is-usable-for-people-with-disabilitie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make sure my AI-generated website is usable for people with disabilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but accessibility should be treated as a required quality check, not an automatic benefit of AI. Review keyboard access, headings, labels, color contrast, alternative text, focus behavior, captions, error messages, and mobile readability.\n\nContext: AI can suggest semantic structure and identify obvious issues, but automated checks do not capture every real user barrier. An owner should test key tasks with keyboard-only use and, where possible, assistive technology.\n\nKey factors:\n- Structure and reading order\n- Form labels and error handling\n- Contrast, text size, and motion\n- Captions, transcripts, and image descriptions\n\nPractical guidance: Ask AI to produce an accessibility checklist for each template, then test the main signup, purchase, contact, or booking path. Fix barriers before adding decorative complexity.\n\nRun My AI Business’s practical checklist style translates well to repeatable quality reviews.",
+        "description": "Use AI to create a checklist, then manually test headings, keyboard access, labels, contrast, alternative text, captions, focus order, error messages, and mobile readability. Review the main customer action before launch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

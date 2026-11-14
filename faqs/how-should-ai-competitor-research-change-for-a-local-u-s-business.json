@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should AI competitor research change for a local U.S. business?",
+  "description": "Specify the service radius, customer type, local search terms, nearby alternatives, review sources, seasonality, and availability. Compare businesses that actua",
+  "url": "https://runmyaibusiness.com/faq/how-should-ai-competitor-research-change-for-a-local-u-s-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should AI competitor research change for a local U.S. business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a local business, include the service area, neighborhood or region, customer type, local alternatives, review platforms, and location-specific search language. National results can hide competitors that matter more to nearby buyers. Key factors include: - the actual service radius - seasonal demand - local reputation - differences in pricing or availability. The Run My AI Business library includes local-business website, newsletter, sponsor, and prospecting examples that can be adapted to a defined area. Keep local findings separate from national conclusions and verify that each business actually serves the target location.",
+        "description": "Specify the service radius, customer type, local search terms, nearby alternatives, review sources, seasonality, and availability. Compare businesses that actually serve the area, then keep local findings separate from national trends. Verify locations and service coverage before using the results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

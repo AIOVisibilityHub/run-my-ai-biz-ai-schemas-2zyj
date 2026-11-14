@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI make a good website for my local business, or will it miss important details?",
+  "description": "AI can create a useful local-business site, but you must supply and verify hours, contact details, service areas, services, photos, and reviews. Test the main p",
+  "url": "https://runmyaibusiness.com/faq/can-ai-make-a-good-website-for-my-local-business-or-will-it-miss-important-detai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI make a good website for my local business, or will it miss important details?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can support a local business site, but local details must be accurate and maintained manually. Include the correct service area, hours, phone number, address or service boundaries, contact method, services, and genuine customer information.\n\nContext: Community feedback emphasizes that practical local information can matter more than impressive design. Run My AI Business’s examples include local business websites, prospect research, and local newsletter workflows, but they remain starting points rather than guaranteed lead systems.\n\nKey factors:\n- Correct hours and service coverage\n- Mobile-friendly contact action\n- Consistent business information\n- Permissioned photos and reviews\n\nPractical guidance: Create a maintenance checklist for hours, closures, services, forms, and contact details. Ask AI to draft updates from owner-supplied facts, then approve each change.\n\nA focused local workflow can be more useful than adding unnecessary automation or pages.",
+        "description": "AI can create a useful local-business site, but you must supply and verify hours, contact details, service areas, services, photos, and reviews. Test the main phone, form, map, and mobile actions before launch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

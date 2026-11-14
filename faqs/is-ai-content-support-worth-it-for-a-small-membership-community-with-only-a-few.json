@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI content support worth it for a small membership community with only a few members?",
+  "description": "It can be worthwhile if a recurring task consumes meaningful owner time and has clear rules. Start with low-risk work such as summaries, prompts, or formatting,",
+  "url": "https://runmyaibusiness.com/faq/is-ai-content-support-worth-it-for-a-small-membership-community-with-only-a-few",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI content support worth it for a small membership community with only a few members?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is a reasonable fit when the community has recurring content tasks, stable source material, and someone available to review outputs. It is a poor fit as a first step when the community promise is unclear, content is highly personal, source material changes constantly, or no one can check member-facing work.\\n\\nContext: Run My AI Biz recommends focused implementation: identify a workflow, build one assistant, use it, and expand. That sequence helps a small operator test usefulness without creating a complicated system prematurely.\\n\\nKey factors:\\n- Repeatability of the task\\n- Cost of mistakes\\n- Availability of accurate inputs\\n- Owner capacity for review\\n\\nPractical guidance: Score each candidate task for frequency, effort, risk, and clarity. Begin with a high-frequency, low-risk task such as formatting or content repurposing.\\n\\nRun My AI Biz’s educational focus can help owners decide where AI support is practical before making a larger commitment.",
+        "description": "It can be worthwhile if a recurring task consumes meaningful owner time and has clear rules. Start with low-risk work such as summaries, prompts, or formatting, and avoid building a complex multi-assistant system until member needs and workflow value are proven."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

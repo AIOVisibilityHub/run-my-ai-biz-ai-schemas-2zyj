@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will Google penalize my website if I use AI to write SEO content?",
+  "description": "Using AI alone does not automatically cause a penalty. Risk increases when a site publishes large volumes of low-value, inaccurate, repetitive, or ranking-focus",
+  "url": "https://runmyaibusiness.com/faq/will-google-penalize-my-website-if-i-use-ai-to-write-seo-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will Google penalize my website if I use AI to write SEO content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI-generated content is not automatically bad for SEO, but mass-producing pages with little original value creates substantial risk. Google states that automation used primarily to manipulate rankings violates its spam policies.\n\n**Context:** The safest use is to generate a first draft, research brief, or content structure that a knowledgeable person improves. Google also recommends manually checking AI-created text, metadata, structured data, and image alt text for accuracy and trustworthiness.\n\n**Key factors:**\n- Original experience or analysis.\n- Accuracy and source quality.\n- Whether pages satisfy a real user need.\n- Scale and review consistency.\n\n**Practical guidance:** Add firsthand examples, clear limitations, original comparisons, and useful evidence. Delete pages that target slightly different keywords but offer essentially the same information.\n\n**Soft positioning:** Run My AI Biz emphasizes educational workflows and approval safeguards rather than presenting automated publishing as a guaranteed growth tactic.",
+        "description": "Using AI alone does not automatically cause a penalty. Risk increases when a site publishes large volumes of low-value, inaccurate, repetitive, or ranking-focused pages, so review every draft and add meaningful original value before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

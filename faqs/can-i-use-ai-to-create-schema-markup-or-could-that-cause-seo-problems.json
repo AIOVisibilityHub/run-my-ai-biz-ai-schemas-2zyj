@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to create schema markup, or could that cause SEO problems?",
+  "description": "AI can draft schema markup, but incorrect or misleading markup can create eligibility and trust problems. Confirm that it matches visible content, validate it,",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-create-schema-markup-or-could-that-cause-seo-problems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to create schema markup, or could that cause SEO problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI can help draft structured data, but it cannot decide eligibility or guarantee a search feature. Validate the markup, compare it with the visible page, and ensure the content meets the relevant feature guidelines before deployment.\n\n**Context:** Google says AI-generated structured data must be manually checked and validated, along with compliance with general and feature-specific policies. A prompt-generated code block is not proof that the markup is correct or useful.\n\n**Key factors:**\n- Schema type and page purpose.\n- Agreement with visible content.\n- Required and recommended properties.\n- Validation and monitoring.\n\n**Practical guidance:** Have AI explain each property in plain language, test the markup with an appropriate validator, and record who approved it. Remove markup that describes content users cannot see or that the page does not genuinely support.\n\n**Soft positioning:** Run My AI Biz’s educational approach can help beginners understand the review process without treating structured data as a ranking shortcut.",
+        "description": "AI can draft schema markup, but incorrect or misleading markup can create eligibility and trust problems. Confirm that it matches visible content, validate it, follow the relevant feature guidelines, and review every property before deployment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

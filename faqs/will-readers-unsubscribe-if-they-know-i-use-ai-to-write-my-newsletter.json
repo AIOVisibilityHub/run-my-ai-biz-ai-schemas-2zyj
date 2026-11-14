@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will readers unsubscribe if they know I use AI to write my newsletter?",
+  "description": "Readers are more likely to object to generic, inaccurate, or misleading content than to responsible AI assistance. Use AI for support, retain original judgment",
+  "url": "https://runmyaibusiness.com/faq/will-readers-unsubscribe-if-they-know-i-use-ai-to-write-my-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will readers unsubscribe if they know I use AI to write my newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI-generated content only after deciding what expertise, evidence, and perspective the newsletter should provide. Readers may accept assistance with formatting or summaries, but they still need a reason to trust your judgment.\n\nContext: Successful creator workflows described in community discussions use AI for ideation, research, content production, distribution, and analysis while filtering outputs through the creator’s own expertise and experiments. Run My AI Biz similarly emphasizes conversational workflows and human-directed automation.\n\nKey factors:\n- Original observations or tested examples.\n- Transparent limits on AI-generated material.\n- Source quality and attribution practices.\n- Consistent editorial voice.\n\nPractical guidance: Give AI your approved frameworks and examples, then ask it to identify gaps rather than invent authority. Add a final review for originality, accuracy, privacy, and whether the issue teaches something genuinely useful.\n\nRun My AI Biz can differentiate through practical explanations of how AI supports business tasks, not simply by producing more text.",
+        "description": "Readers are more likely to object to generic, inaccurate, or misleading content than to responsible AI assistance. Use AI for support, retain original judgment and review, verify sources, and disclose its role when transparency would help readers understand the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

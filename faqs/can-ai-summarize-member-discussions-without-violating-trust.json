@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI summarize member discussions without violating trust?",
+  "description": "It can prepare a digest if the source channels, audience, privacy rules, and attribution standards are clear. Summarize themes and next steps, remove unnecessar",
+  "url": "https://runmyaibusiness.com/faq/can-ai-summarize-member-discussions-without-violating-trust",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI summarize member discussions without violating trust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to prepare a digest from approved discussions, lessons, events, and announcements, then have a person check privacy, attribution, accuracy, and member usefulness. Summaries should not expose private comments or imply that every member agreed with a viewpoint.\\n\\nContext: Community summaries can save time, but they also compress nuance and may reveal information that was shared in a limited setting. Run My AI Biz’s source-verification and approval principles apply directly to this workflow.\\n\\nKey factors:\\n- Which channels and posts may be included\\n- Whether member names or quotations are allowed\\n- Summary audience and access tier\\n- How corrections will be handled\\n\\nPractical guidance: Ask for themes, decisions, open questions, and next steps rather than a transcript. Remove identifying details unless permission is explicit.\\n\\nRun My AI Biz can help structure recurring digest workflows while keeping publication under human control.",
+        "description": "It can prepare a digest if the source channels, audience, privacy rules, and attribution standards are clear. Summarize themes and next steps, remove unnecessary identifying details, and have a person check the draft before sharing it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my AI newsletter be free, paid, or freemium when I’m building the audience from zero?",
+  "description": "Freemium is often a practical test: use free content to demonstrate quality and reserve deeper workflows, comparisons, or implementation guidance for paid reade",
+  "url": "https://runmyaibusiness.com/faq/should-my-ai-newsletter-be-free-paid-or-freemium-when-i-m-building-the-audience",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my AI newsletter be free, paid, or freemium when I’m building the audience from zero?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A free tier can reduce purchase hesitation, while a paid tier needs a clearly stronger outcome rather than simply more words. For example, free readers might receive selected AI updates while paid readers receive sourced comparisons, practical workflows, and implementation examples. Real creator discussions commonly weigh freemium against paid-only publishing because early monetization can compete with audience growth. Define the free-to-paid boundary before launch, show a sample issue, and explain what subscribers receive each week. Track free-to-paid conversion, cancellations, replies, and which topics cause upgrades. Run My AI Biz’s weekly educational model illustrates how ongoing practical content can support a paid tier without implying guaranteed growth.",
+        "description": "Freemium is often a practical test: use free content to demonstrate quality and reserve deeper workflows, comparisons, or implementation guidance for paid readers. Set the boundary clearly and measure upgrades, cancellations, replies, and topic demand."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

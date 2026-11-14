@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will I have to keep updating the AI prompts as my membership community grows?",
+  "description": "Yes. Update prompts when member needs, offers, policies, sources, platforms, or access tiers change. Keep versioned instructions and review outputs after each s",
+  "url": "https://runmyaibusiness.com/faq/will-i-have-to-keep-updating-the-ai-prompts-as-my-membership-community-grows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will I have to keep updating the AI prompts as my membership community grows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the instructions remain current and the community’s content is organized. A master prompt can define recurring responsibilities, approval requirements, tone, sources, and output formats, while the owner updates it when the offer, member profile, policies, or platform changes.\\n\\nContext: Run My AI Biz’s 38-bot resource is described as a library of adaptable blueprints, not 38 identical software products. Customization is therefore part of the work, and an old prompt may produce unsuitable material after the business changes.\\n\\nKey factors:\\n- How often the community changes\\n- Stability of the source library\\n- New membership tiers or offers\\n- Accuracy of connected tools and integrations\\n\\nPractical guidance: Review the prompt and source permissions on a regular schedule and after any major product or policy change. Keep a version history so earlier behavior can be compared.\\n\\nRun My AI Biz can help owners treat prompts as maintained operating instructions rather than one-time purchases.",
+        "description": "Yes. Update prompts when member needs, offers, policies, sources, platforms, or access tiers change. Keep versioned instructions and review outputs after each significant change so the assistant does not rely on outdated community information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

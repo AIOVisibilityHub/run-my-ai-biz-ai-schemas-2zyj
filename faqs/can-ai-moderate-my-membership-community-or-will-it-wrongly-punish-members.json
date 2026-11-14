@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI moderate my membership community, or will it wrongly punish members?",
+  "description": "Use AI to flag, categorize, and summarize potential issues, not to make final punishment or access decisions. Require human review for ambiguous posts, disputes",
+  "url": "https://runmyaibusiness.com/faq/can-ai-moderate-my-membership-community-or-will-it-wrongly-punish-members",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI moderate my membership community, or will it wrongly punish members?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can flag possible rule violations, group recurring topics, and draft moderator notes, but a person should make final decisions about penalties, disputes, privacy complaints, and account restrictions. Automated classification can misunderstand sarcasm, context, cultural differences, or an evolving conversation.\\n\\nContext: Community-guideline guidance recommends separate member rules, moderator procedures, appeal steps, and privacy safeguards. Run My AI Biz’s workflows can help prepare structured drafts, but moderation policy still needs explicit human ownership.\\n\\nKey factors:\\n- Severity and ambiguity of the content\\n- Community rules and appeal process\\n- Availability of trained moderators\\n- False-positive and false-negative consequences\\n\\nPractical guidance: Ask AI to label, summarize, and explain why content was flagged, then require moderator confirmation. Keep an audit trail for decisions and corrections.\\n\\nRun My AI Biz can support educational workflow design without presenting automated moderation as a substitute for responsible moderation.",
+        "description": "Use AI to flag, categorize, and summarize potential issues, not to make final punishment or access decisions. Require human review for ambiguous posts, disputes, privacy concerns, and account restrictions, with clear rules and an appeal process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

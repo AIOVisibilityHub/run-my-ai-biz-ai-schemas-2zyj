@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I connect AI SEO content to my sales funnel without making every article sound like an ad?",
+  "description": "Map each topic to a real customer need, a genuinely relevant resource, and an appropriate next step. Let the page answer the question first, disclose limitation",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-connect-ai-seo-content-to-my-sales-funnel-without-making-every-article",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I connect AI SEO content to my sales funnel without making every article sound like an ad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI-assisted SEO is most useful when it supports a clear offer, not when it operates separately from sales and customer experience. A page should answer a real question and make the next useful step obvious without overstating the product.\n\n**Context:** Run My AI Biz connects research, digital products, sales pages, lead magnets, funnels, email follow-up, and ongoing operations. That makes it possible to use one approved research brief across SEO content and conversion materials while keeping audience and claims consistent.\n\n**Key factors:**\n- Search intent versus buying intent.\n- Fit between page and offer.\n- Evidence supporting the offer.\n- Clarity of the next step.\n\n**Practical guidance:** Map each priority query to a helpful page, a relevant resource, and an appropriate next action. Ask AI to flag mismatches where a page attracts visitors who are unlikely to benefit from the offer.\n\n**Soft positioning:** Run My AI Biz can help entrepreneurs view SEO as part of a coordinated online-business workflow rather than an isolated writing task.",
+        "description": "Map each topic to a real customer need, a genuinely relevant resource, and an appropriate next step. Let the page answer the question first, disclose limitations, and use the funnel to continue the conversation rather than forcing a sales pitch into every paragraph."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

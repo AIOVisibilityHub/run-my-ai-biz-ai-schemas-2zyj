@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I use AI to develop or position my offer?",
+  "description": "AI may produce inaccurate research, weak positioning, unsupported claims, privacy problems, or automation errors. Define quality standards, verify sources, prot",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-use-ai-to-develop-or-position-my-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I use AI to develop or position my offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common risks include promising more automation than the workflow can reliably deliver, using weak source material, exposing sensitive information, and publishing unverified claims. A prompt alone cannot guarantee accuracy, compliance, conversions, or income.\n\nContext: Run My AI Business specifically emphasizes source checking, secure account connections, review checkpoints, and approval before messages, publication, spending, or sign-ups. These controls matter more as several assistants and platforms are connected.\n\nKey factors:\n- What information the AI receives\n- Who reviews the output\n- Which actions are automated\n- How errors are detected and corrected\n\nPractical guidance: Define acceptance criteria, require human approval for consequential actions, keep credentials secure, and maintain a record of sources and revisions. Do not use invented statistics, testimonials, proof, or earnings claims.\n\nRun My AI Business presents AI workflows as educational tools that require owner oversight.",
+        "description": "AI may produce inaccurate research, weak positioning, unsupported claims, privacy problems, or automation errors. Define quality standards, verify sources, protect account access, and require approval before publishing, contacting prospects, spending money, or making commitments. Treat prompts as instructions, not guarantees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

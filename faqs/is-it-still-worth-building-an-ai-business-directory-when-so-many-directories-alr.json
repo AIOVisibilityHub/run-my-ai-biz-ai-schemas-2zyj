@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it still worth building an AI business directory when so many directories already exist?",
+  "description": "Yes, if the directory solves a narrower problem better than existing options. Compete through focused coverage, fresher information, expert curation, better fil",
+  "url": "https://runmyaibusiness.com/faq/is-it-still-worth-building-an-ai-business-directory-when-so-many-directories-alr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it still worth building an AI business directory when so many directories already exist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small directory can be valuable if it is more focused, current, or useful than broad alternatives. Competing on listing volume alone is difficult, so choose a distinct audience, data angle, workflow, or user outcome. Context: Run My AI Business encourages opportunity research and comparison before committing significant resources. Key factors: unmet search needs, data freshness, expert curation, local depth, community participation, and a clear reason to return. Practical guidance: compare existing directories by search quality, coverage, update process, monetization, and user complaints. Interview businesses and searchers, then test a landing page or limited catalog before building advanced AI features. Treat competitor research as evidence gathering, not as permission to copy content or positioning.",
+        "description": "Yes, if the directory solves a narrower problem better than existing options. Compete through focused coverage, fresher information, expert curation, better filters, or a distinct audience—not merely more listings. Compare competitors, interview users, and test demand with a small catalog before investing in advanced features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

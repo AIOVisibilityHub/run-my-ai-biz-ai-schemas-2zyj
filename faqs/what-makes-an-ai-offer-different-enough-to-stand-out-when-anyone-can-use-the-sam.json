@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes an AI offer different enough to stand out when anyone can use the same tools?",
+  "description": "Differentiate through customer knowledge, better inputs, a specialized workflow, measurable quality, and a reliable experience—not a prompt alone. Document the",
+  "url": "https://runmyaibusiness.com/faq/what-makes-an-ai-offer-different-enough-to-stand-out-when-anyone-can-use-the-sam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes an AI offer different enough to stand out when anyone can use the same tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI offer becomes more defensible when it combines domain knowledge, proprietary workflow details, trusted access to relevant information, measurable quality standards, or a customer experience that is difficult to copy. A prompt by itself is rarely a durable advantage.\n\nContext: Run My AI Business’s bot examples can be adapted to different niches, voices, products, and objectives. Their value depends on the surrounding business context, source quality, integrations, review habits, and ongoing refinement.\n\nKey factors:\n- Specialized customer knowledge\n- Better inputs or research process\n- Consistent delivery and quality control\n- Accumulated learning from customer use\n\nPractical guidance: Document what makes your workflow distinct and improve it after every pilot. Protect sensitive information, but do not claim exclusivity unless you can substantiate it.\n\nThe business encourages reusable foundations while recognizing that customization creates much of the practical value.",
+        "description": "Differentiate through customer knowledge, better inputs, a specialized workflow, measurable quality, and a reliable experience—not a prompt alone. Document the process, learn from pilots, and make your distinction visible in the deliverable and support. Avoid unsupported exclusivity claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

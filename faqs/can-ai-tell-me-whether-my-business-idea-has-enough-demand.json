@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI tell me whether my business idea has enough demand?",
+  "description": "AI can help assess competitors, customer problems, alternatives, and possible gaps, but it cannot prove demand by itself. Pair desk research with direct custome",
+  "url": "https://runmyaibusiness.com/faq/can-ai-tell-me-whether-my-business-idea-has-enough-demand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI tell me whether my business idea has enough demand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help assess whether a niche appears crowded, underserved, or poorly differentiated, but it cannot prove demand from competitor presence alone. Combine competitor evidence with customer problems, search behavior, willingness-to-pay signals, existing alternatives, and a small validation test. Key factors include: - whether complaints reflect a solvable gap - how many customers share the problem - access to the audience - your ability to deliver a distinct outcome. Use an opportunity-research workflow to rank hypotheses and design a low-cost test. Avoid treating a polished AI report as evidence that customers will buy.",
+        "description": "AI can help assess competitors, customer problems, alternatives, and possible gaps, but it cannot prove demand by itself. Pair desk research with direct customer conversations, a waitlist, preorders, a pilot, or another small test that reveals whether people will take meaningful action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

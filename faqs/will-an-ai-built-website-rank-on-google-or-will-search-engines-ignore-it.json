@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an AI-built website rank on Google, or will search engines ignore it?",
+  "description": "An AI-built site can be indexed, but AI does not guarantee rankings. Focus on useful original content, clear page structure, crawlability, mobile usability, int",
+  "url": "https://runmyaibusiness.com/faq/will-an-ai-built-website-rank-on-google-or-will-search-engines-ignore-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an AI-built website rank on Google, or will search engines ignore it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can improve search-oriented structure and draft metadata, but it cannot guarantee rankings or traffic. Useful work includes clarifying search intent, organizing pages, writing descriptive titles, improving internal links, and creating genuinely helpful content that is reviewed for accuracy.\n\nContext: Questions from business owners focus on whether AI sites get indexed and generate leads, while practical evaluation also includes crawlability, mobile actions, analytics, and long-term maintainability. Search performance depends on the site, content, competition, links, technical setup, and user response.\n\nKey factors:\n- Search intent and page usefulness\n- Crawlable pages and clear information architecture\n- Originality and factual quality\n- Measurement of impressions and conversions\n\nPractical guidance: Ask AI to produce an SEO checklist, then verify indexing and important page access using available webmaster tools. Do not publish large volumes of generic text simply because it is easy to generate.\n\nRun My AI Business’s research and landing-page workflows are best used to support testing, not promise visibility.",
+        "description": "An AI-built site can be indexed, but AI does not guarantee rankings. Focus on useful original content, clear page structure, crawlability, mobile usability, internal links, and measured conversions rather than publishing generic pages at scale."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

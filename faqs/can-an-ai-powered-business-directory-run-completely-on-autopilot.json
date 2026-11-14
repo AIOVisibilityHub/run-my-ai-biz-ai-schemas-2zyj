@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an AI-powered business directory run completely on autopilot?",
+  "description": "Not reliably. AI can handle research, drafts, tagging, reports, and routine checks, but humans still need to verify uncertain data, approve publication, resolve",
+  "url": "https://runmyaibusiness.com/faq/can-an-ai-powered-business-directory-run-completely-on-autopilot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an AI-powered business directory run completely on autopilot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI directory is rarely fully hands-off because business information changes, submissions need review, users report errors, and integrations fail. Automation can reduce repetitive work, but someone must monitor exceptions and approve consequential actions. Context: Run My AI Business’s model treats specialized assistants as coordinated tools that require owner direction, secure connections, source checks, and approval before publication or spending. Key factors: update frequency, listing volume, confidence thresholds, staff availability, alerting, and escalation rules. Practical guidance: create daily or weekly checks for stale records, failed imports, duplicate submissions, and unusual activity. Assign an owner to review the queue and maintain prompts as the business changes. Position automation as reduced repetition, not elimination of responsibility.",
+        "description": "Not reliably. AI can handle research, drafts, tagging, reports, and routine checks, but humans still need to verify uncertain data, approve publication, resolve disputes, monitor integrations, and update workflows. Build an exception queue and scheduled review process instead of promising hands-free operation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

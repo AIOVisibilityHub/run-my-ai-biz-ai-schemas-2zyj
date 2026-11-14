@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does AI offer development work for a local business or local newsletter in the United States?",
+  "description": "Yes, if the offer addresses a defined local need and uses verified local information. Clarify the service area, audience, sources, and outreach rules. Run My AI",
+  "url": "https://runmyaibusiness.com/faq/does-ai-offer-development-work-for-a-local-business-or-local-newsletter-in-the-u",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does AI offer development work for a local business or local newsletter in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can work on AI offer positioning from anywhere in the United States because the core work is audience, problem, promise, evidence, and delivery design. Location becomes material when the offer depends on local research, local businesses, regional sponsors, or location-specific customer needs.\n\nContext: Run My AI Business includes examples for local newsletters, local business websites, directories, and sponsorship research. Those workflows require accurate geographic scope and separate source checking.\n\nKey factors:\n- Whether the buyer or market is local\n- Availability of local data and contacts\n- Regional language or customer behavior\n- Required approval before outreach\n\nPractical guidance: State the geographic boundary in the offer, verify local information, and tailor examples to the actual community. Do not present a location-neutral workflow as if it automatically understands a particular city or state.\n\nThe business can help explain local workflows while leaving market verification to the owner.",
+        "description": "Yes, if the offer addresses a defined local need and uses verified local information. Clarify the service area, audience, sources, and outreach rules. Run My AI Business includes examples involving local newsletters, websites, directories, and sponsorship research, but each market still requires independent validation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

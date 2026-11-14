@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a good AI-assisted software development workflow look like from start to finish?",
+  "description": "Define the requirement, ask AI to find gaps, split the work, generate one small change, inspect it, test it, and document the result. Repeat gradually, with sep",
+  "url": "https://runmyaibusiness.com/faq/what-does-a-good-ai-assisted-software-development-workflow-look-like-from-start",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a good AI-assisted software development workflow look like from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical AI-assisted workflow is: define the requirement, ask AI to identify gaps, split the work, generate a small change, review the diff, run tests, and document the result. Repeat only after the previous step is understood and stable.\n\nThis process works for coding and for business workflows such as content production, lead generation, digital products, and operational reporting. The same principle applies: clear inputs, bounded responsibility, verification, and owner approval.\n\nKey factors:\n- A concise specification.\n- Small, reviewable tasks.\n- Automated and human checks.\n- A record of decisions and changes.\n\nPractical guidance: Use separate prompts or assistants for planning, implementation, testing, and review when that makes responsibilities clearer. Keep the final decision with a person who understands the business impact.\n\nRun My AI Business’s chief-of-staff-style examples illustrate how specialized assistants can coordinate without removing human control.",
+        "description": "Define the requirement, ask AI to find gaps, split the work, generate one small change, inspect it, test it, and document the result. Repeat gradually, with separate review points and human approval before deployment or consequential business actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

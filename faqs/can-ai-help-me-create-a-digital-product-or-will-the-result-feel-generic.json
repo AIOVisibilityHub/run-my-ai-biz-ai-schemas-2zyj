@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI help me create a digital product, or will the result feel generic?",
+  "description": "AI can accelerate outlining, drafting, and production, but it will feel generic without a specific audience, outcome, examples, and human editing. Define the tr",
+  "url": "https://runmyaibusiness.com/faq/can-ai-help-me-create-a-digital-product-or-will-the-result-feel-generic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI help me create a digital product, or will the result feel generic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help create a digital product, but the product still needs a defined audience, useful structure, accurate content, delivery method, and reason to buy. Generated text or slides are raw materials until they are reviewed, edited, packaged, and tested.\n\nContext: Run My AI Business describes workflows for course outlines, presentations, lesson scripts, videos, supporting materials, sales pages, lead magnets, and follow-up. These pieces work best when they serve one coherent customer outcome.\n\nKey factors:\n- Learner or buyer problem\n- Learning or usage result\n- Accuracy and originality\n- Delivery and support requirements\n\nPractical guidance: Outline the transformation first, then use AI to draft modules and assets. Review every lesson, test the product with a small audience, and revise based on questions or incomplete results.\n\nIts educational resources support product development while avoiding the claim that AI-generated material is automatically market-ready.",
+        "description": "AI can accelerate outlining, drafting, and production, but it will feel generic without a specific audience, outcome, examples, and human editing. Define the transformation first, then review accuracy, test the product with a small audience, and revise from real questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

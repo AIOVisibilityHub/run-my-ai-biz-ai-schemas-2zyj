@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permissions should I give AI tools that help run my paid newsletter?",
+  "description": "Use the minimum permissions required and keep human approval before publishing, sending outreach, spending money, or changing settings. Test with sample data, r",
+  "url": "https://runmyaibusiness.com/faq/what-permissions-should-i-give-ai-tools-that-help-run-my-paid-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permissions should I give AI tools that help run my paid newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not give an AI assistant unrestricted permission to publish, message subscribers, spend money, or change account settings. Set approval gates for public content, outreach, purchases, and integrations, and use the minimum access each task requires. Run My AI Biz’s workflow guidance specifically emphasizes approval before sending, publishing, spending, or signing up for services, along with secure account connections. Test assistants with harmless sample data before connecting live systems. Review logs and revoke access when a tool or project is no longer needed.",
+        "description": "Use the minimum permissions required and keep human approval before publishing, sending outreach, spending money, or changing settings. Test with sample data, review activity logs, secure account connections, and revoke unused access promptly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

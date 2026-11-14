@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I charge for an AI-assisted paid newsletter if I’m just starting?",
+  "description": "Price according to the newsletter’s specificity, usefulness, and reader outcome—not its AI production cost. Run My AI Biz offers a $9-per-month paid newsletter",
+  "url": "https://runmyaibusiness.com/faq/how-much-should-i-charge-for-an-ai-assisted-paid-newsletter-if-i-m-just-starting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I charge for an AI-assisted paid newsletter if I’m just starting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right price depends on the specificity and usefulness of the result readers receive, not on how much AI helped produce it. A broad roundup usually faces more price resistance than a focused briefing that explains what changed, why it matters, and what the reader should do. Run My AI Biz lists a $9-per-month paid newsletter option, which can serve as a reference point for an educational AI publication, not a universal market price. Compare reader income, publishing effort, competing alternatives, and the value of saved research time. Test a founding price or free-to-paid offer with clear expectations, then review retention and feedback before changing rates. Run My AI Biz can help structure the comparison and related sales materials without promising a particular revenue result.",
+        "description": "Price according to the newsletter’s specificity, usefulness, and reader outcome—not its AI production cost. Run My AI Biz offers a $9-per-month paid newsletter example, but test your own audience’s willingness to pay and track retention before setting a permanent price."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

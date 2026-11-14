@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of free lead magnet should I use to sell an AI-assisted paid newsletter?",
+  "description": "Create a small resource that solves an urgent problem connected to the paid newsletter, such as a workflow checklist or tool-comparison worksheet. Make it usefu",
+  "url": "https://runmyaibusiness.com/faq/what-kind-of-free-lead-magnet-should-i-use-to-sell-an-ai-assisted-paid-newslette",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of free lead magnet should I use to sell an AI-assisted paid newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lead magnet should solve a small, immediate problem related to the paid newsletter’s larger promise. For an AI-business audience, examples might include a workflow checklist, tool-comparison worksheet, or prompt review guide—not a generic list of AI tools. Run My AI Biz includes lead-magnet, opt-in-page, bridge-page, and follow-up examples that can be adapted to a chosen niche. Make the free resource genuinely useful while showing what deeper paid guidance adds. Test whether subscribers who download it open later emails or start trials, and remove collection practices that do not produce engaged readers.",
+        "description": "Create a small resource that solves an urgent problem connected to the paid newsletter, such as a workflow checklist or tool-comparison worksheet. Make it useful on its own, then show how paid issues provide deeper analysis, examples, and ongoing guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

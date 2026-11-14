@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write a high-converting sales page, or will it just sound persuasive?",
+  "description": "AI can organize research and draft persuasive alternatives, but conversion depends on real customer need, credible proof, offer fit, and a working purchase path",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-a-high-converting-sales-page-or-will-it-just-sound-persuasive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write a high-converting sales page, or will it just sound persuasive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can improve a sales page by organizing research, clarifying objections, proposing sections, and generating alternative headlines, but it cannot establish that an offer will sell. Good copy depends on accurate customer insight, a credible promise, proof, and a working fulfillment process.\n\nContext: Run My AI Business includes offer positioning, customer research, landing-page review, and funnel examples. These workflows support hypotheses and revisions rather than guaranteed conversion results.\n\nKey factors:\n- Evidence that the audience has the problem\n- Specificity and credibility of the promise\n- Friction in the form or checkout\n- Alignment between ad, page, and offer\n\nPractical guidance: Ask AI to critique the page from several customer viewpoints and rank changes by likely impact. Test one meaningful change at a time and track the chosen conversion event.\n\nThis keeps AI in a useful review role without overstating what optimization can deliver.",
+        "description": "AI can organize research and draft persuasive alternatives, but conversion depends on real customer need, credible proof, offer fit, and a working purchase path. Use AI for critique and testing ideas, not guaranteed sales."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

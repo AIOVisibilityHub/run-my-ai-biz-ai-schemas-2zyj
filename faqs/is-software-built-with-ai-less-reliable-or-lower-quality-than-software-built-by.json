@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is software built with AI less reliable or lower quality than software built by humans?",
+  "description": "Not automatically. Reliability depends on requirements, review, testing, security, documentation, and maintenance. AI-generated code becomes risky when nobody u",
+  "url": "https://runmyaibusiness.com/faq/is-software-built-with-ai-less-reliable-or-lower-quality-than-software-built-by",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is software built with AI less reliable or lower quality than software built by humans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI assistance does not automatically make software lower quality, but quality depends on the workflow around it. Clear specifications, small changes, testing, review, documentation, and maintainable dependencies matter more than whether a person or model typed each line.\n\nThe main risk is accepting code that no one fully understands. That risk is higher when an owner treats a prototype as finished software or adds features without measuring whether they solve a real customer problem.\n\nKey factors:\n- Clarity of requirements.\n- Reviewability of each change.\n- Test and monitoring coverage.\n- Long-term maintainability and ownership.\n\nPractical guidance: Keep changes small enough to explain, require a code review, and document why important design choices were made. For a business prototype, label experimental features clearly and avoid promising reliability before real testing.\n\nRun My AI Business frames AI-created workflows as educational starting points, not guaranteed outcomes.",
+        "description": "Not automatically. Reliability depends on requirements, review, testing, security, documentation, and maintenance. AI-generated code becomes risky when nobody understands it or when a prototype is treated as finished software without validating real user behavior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

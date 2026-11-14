@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI-assisted software development cost compared with hiring a developer?",
+  "description": "Costs vary widely because AI assistance does not eliminate discovery, testing, security, hosting, integrations, or maintenance. Compare a managed tool, no-code",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-ai-assisted-software-development-cost-compared-with-hiring-a-devel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI-assisted software development cost compared with hiring a developer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no universal price for AI-assisted software development. Total cost can include discovery, development, AI-tool subscriptions, hosting, integrations, security review, testing, maintenance, and changes after launch.\n\nFor Run My AI Business readers, a workflow using existing platforms may be more affordable than custom software. The right comparison is not simply “AI versus developer”; it is the total cost and risk of a managed tool, a no-code setup, an AI-assisted build, or conventional development.\n\nKey factors:\n- Whether the need is a workflow, website, digital product, or custom application.\n- Required integrations and data handling.\n- Ongoing support and ownership of the code.\n- Consequences of downtime or incorrect output.\n\nPractical guidance: Request a scope broken into discovery, prototype, production, and support. Ask what is included, what remains your responsibility, and how recurring tool and hosting charges are handled.\n\nRun My AI Business can help owners compare practical AI business workflows before committing to a larger build.",
+        "description": "Costs vary widely because AI assistance does not eliminate discovery, testing, security, hosting, integrations, or maintenance. Compare a managed tool, no-code workflow, AI-assisted build, and conventional development using the same scope and include recurring subscriptions and support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

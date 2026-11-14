@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI help me stand out when every competitor says the same thing?",
+  "description": "Ask AI to map repeated category messages, customer complaints, underserved needs, and proof gaps. Then compare those findings with what your business can genuin",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-help-me-stand-out-when-every-competitor-says-the-same-thing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI help me stand out when every competitor says the same thing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to compare competitor positioning without copying their language, branding, proof, or product claims. Ask it to identify shared category messages, underserved needs, customer complaints, and ways your offer could be meaningfully different. Key factors include: - the outcome you can deliver - your audience’s priorities - evidence supporting your promise - operational ability to fulfill it. Offer-positioning workflows in the Run My AI Business materials are intended to support comparison and differentiation, not imitation. Turn each proposed difference into a testable message or offer change and check whether customers understand it.",
+        "description": "Ask AI to map repeated category messages, customer complaints, underserved needs, and proof gaps. Then compare those findings with what your business can genuinely deliver. Choose one meaningful difference, support it with evidence, and test the message with real prospects instead of copying competitor wording."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

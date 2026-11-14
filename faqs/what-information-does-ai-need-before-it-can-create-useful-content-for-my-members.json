@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need before it can create useful content for my membership?",
+  "description": "Provide the community’s purpose, member profile, content pillars, voice examples, approved sources, prohibited claims, and review rules. Also specify the exact",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-before-it-can-create-useful-content-for-my-members",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need before it can create useful content for my membership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give the assistant a defined member profile, community promise, content pillars, tone examples, prohibited claims, source library, and output format. For a Run My AI Biz-style workflow, also specify whether it is drafting newsletter excerpts, discussion prompts, course-support posts, or launch-related education.\\n\\nContext: Generic instructions produce generic content. The assistant needs enough business and community context to distinguish educational material from promotional copy and to avoid inventing statistics, testimonials, or outcomes.\\n\\nKey factors:\\n- The membership tier and member stage\\n- Approved source materials and update dates\\n- Voice examples and words to avoid\\n- Review and escalation requirements\\n\\nPractical guidance: Begin with a written master prompt and test it against several real scenarios, including an unclear question and a dissatisfied member. Keep a change log as the workflow evolves.\\n\\nRun My AI Biz’s customizable master-prompt approach provides a practical starting point for this preparation.",
+        "description": "Provide the community’s purpose, member profile, content pillars, voice examples, approved sources, prohibited claims, and review rules. Also specify the exact task—such as drafting a weekly prompt, summarizing a lesson, or preparing a member email—rather than asking for general content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

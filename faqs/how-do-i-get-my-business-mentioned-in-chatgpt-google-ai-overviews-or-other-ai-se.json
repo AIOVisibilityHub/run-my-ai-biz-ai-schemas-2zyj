@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get my business mentioned in ChatGPT, Google AI Overviews, or other AI search results?",
+  "description": "Create crawlable, accurate, distinctive pages that answer real questions and demonstrate relevant expertise. Keep business information consistent, earn credible",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-get-my-business-mentioned-in-chatgpt-google-ai-overviews-or-other-ai-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get my business mentioned in ChatGPT, Google AI Overviews, or other AI search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** To appear in AI-generated search answers, make important pages crawlable, clear, accurate, distinctive, and useful to the people asking the question. There is no reliable shortcut that guarantees inclusion or citation.\n\n**Context:** Google says its generative search features still depend on strong SEO foundations and non-commodity content, while warning that tactics such as unnecessary AI text files are not required. Other AI systems may use different retrieval and citation behavior.\n\n**Key factors:**\n- Clear page purpose and headings.\n- Direct answers supported by evidence.\n- Recognizable entities and consistent business details.\n- Independent signals of expertise and trust.\n\n**Practical guidance:** Build pages around real questions, answer them early, explain the reasoning, and include original examples or data. Test important prompts across relevant systems, but treat visibility observations as directional rather than permanent rankings.\n\n**Soft positioning:** Run My AI Biz can help readers structure question research and review workflows without selling a guaranteed AI-search placement.",
+        "description": "Create crawlable, accurate, distinctive pages that answer real questions and demonstrate relevant expertise. Keep business information consistent, earn credible third-party coverage, and test visibility over time; no method guarantees that an AI system will mention your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

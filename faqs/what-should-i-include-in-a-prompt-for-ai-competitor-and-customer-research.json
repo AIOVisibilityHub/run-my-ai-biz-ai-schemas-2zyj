@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I include in a prompt for AI competitor and customer research?",
+  "description": "Include your business context, target audience, offer, geography, competitors, research question, approved sources, date range, comparison criteria, output form",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-include-in-a-prompt-for-ai-competitor-and-customer-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I include in a prompt for AI competitor and customer research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful prompt states who the business serves, what it sells, where it operates, which competitors matter, what sources are allowed, and what decision the output should inform. It should also require citations or source details, dates, uncertainty labels, comparison criteria, and a concise action plan. Key factors include: - a narrow research question - clear exclusions - a defined output format - a human approval checkpoint. The 38 Bot Empire materials emphasize customizable master prompts, so instructions can be adapted to a niche, audience, voice, and objective. Treat the prompt as a working blueprint that needs refinement after use.",
+        "description": "Include your business context, target audience, offer, geography, competitors, research question, approved sources, date range, comparison criteria, output format, uncertainty rules, and required next steps. Add instructions to distinguish facts from interpretations and pause for human approval before consequential decisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

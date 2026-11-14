@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to plan my business website but have no idea where to start?",
+  "description": "Define the audience, offer, primary action, required pages, and success measure before choosing a tool. Ask AI to turn that brief into a sitemap and flag missin",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-plan-my-business-website-but-have-no-idea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to plan my business website but have no idea where to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the website’s primary job, audience, offer, and desired action before selecting an AI platform. For Run My AI Business readers, that may mean deciding whether the site supports a digital product, newsletter, affiliate funnel, local service, directory, or another online-business model. AI can turn a clear brief into page ideas and drafts, but it cannot decide the business model for you.\n\nContext: A site built from a vague prompt often looks polished while omitting essential information. Planning first also prevents disconnected pages, mismatched calls to action, and unnecessary tools.\n\nKey factors:\n- Audience problem and buying intent\n- Primary conversion action\n- Required pages and integrations\n- Owner’s ability to maintain the result\n\nPractical guidance: Write a one-page brief containing the audience, offer, proof, objections, page list, tone, and success measure. Then ask an AI assistant to identify gaps and produce a proposed sitemap for review.\n\nA focused brief gives Run My AI Business’s educational workflows a usable starting point without treating the first AI draft as final.",
+        "description": "Define the audience, offer, primary action, required pages, and success measure before choosing a tool. Ask AI to turn that brief into a sitemap and flag missing information, then review the plan yourself before building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

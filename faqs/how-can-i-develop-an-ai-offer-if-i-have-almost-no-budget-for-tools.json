@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I develop an AI offer if I have almost no budget for tools?",
+  "description": "Start with a manual or lightly assisted pilot using tools you already have. Define one deliverable, track time and software costs, and ask for payment before ex",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-develop-an-ai-offer-if-i-have-almost-no-budget-for-tools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I develop an AI offer if I have almost no budget for tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A limited budget is a reason to validate manually before paying for a large tool stack. Use existing software where possible, create one useful deliverable, and charge for a small pilot before adding specialized assistants or integrations.\n\nContext: Run My AI Business discusses multiple tools and workflows, but the recommended approach is to build one assistant, use it, and expand. Tool access, model usage, hosting, email, automation, and support can create costs beyond the prompt itself.\n\nKey factors:\n- Essential versus optional software\n- Manual work that can be postponed\n- Cost per accepted deliverable\n- Customer willingness to pay\n\nPractical guidance: Track every recurring charge and the time required to produce one accepted result. If the pilot does not cover delivery effort and necessary tools, change the scope or promise before adding features.\n\nIts educational content can help compare options without encouraging unnecessary purchases.",
+        "description": "Start with a manual or lightly assisted pilot using tools you already have. Define one deliverable, track time and software costs, and ask for payment before expanding. Add specialized assistants only when the customer result justifies the additional cost and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest AI SEO mistakes that can hurt a small-business website?",
+  "description": "The main risks are mass-producing low-value pages, duplicating content, inventing facts or proof, skipping review, and automating changes without backups. Publi",
+  "url": "https://runmyaibusiness.com/faq/what-are-the-biggest-ai-seo-mistakes-that-can-hurt-a-small-business-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the biggest AI SEO mistakes that can hurt a small-business website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Avoid publishing a large number of lightly edited pages, repeating the same answer across near-duplicate URLs, inventing expertise or proof, and using AI to manipulate rankings. These practices can waste resources and create spam or trust problems.\n\n**Context:** Google warns that generating many pages without adding value may violate its scaled-content-abuse policy. It also says content created primarily to manipulate rankings violates spam policies, whether automation or another method is used.\n\n**Key factors:**\n- Original value per page.\n- Accuracy and review depth.\n- Duplicate or overlapping intent.\n- Whether the page serves a real audience.\n\n**Practical guidance:** Consolidate overlapping pages, add original experience and evidence, and maintain a deletion or revision queue. Have an owner approve any claim involving results, credentials, statistics, testimonials, or comparisons.\n\n**Soft positioning:** Run My AI Biz’s safeguards-first educational framing helps keep automation connected to responsible business decisions.",
+        "description": "The main risks are mass-producing low-value pages, duplicating content, inventing facts or proof, skipping review, and automating changes without backups. Publish fewer, stronger pages with original value, verified claims, clear purpose, and owner approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find prospects and send outreach for my small business?",
+  "description": "AI can research prospects and draft outreach, but treat results as unverified leads. Check identity, relevance, and contact details; remove weak matches; avoid",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-prospects-and-send-outreach-for-my-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find prospects and send outreach for my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help prepare outreach lists and drafts, but it should not independently decide whom to contact, make unsupported claims, or send messages without approval. Prospect research must be checked for accuracy, relevance, and appropriate use of contact information.\n\nFor Run My AI Business workflows, this applies to finding local businesses, newsletter sponsors, affiliate opportunities, or potential customers. A generated list is a starting point, not a guaranteed lead source.\n\nKey factors:\n- Accuracy and recency of prospect information.\n- Relevance to the offer and audience.\n- Permission, frequency, and message quality.\n- Human review before sending.\n\nPractical guidance: Define the target profile, require source fields and confidence notes, remove poor matches, personalize only from verified facts, and keep sending manual until the process is reliable. Track responses and complaints.\n\nRun My AI Business emphasizes researched prospects and appropriate owner review rather than guaranteed lead generation.",
+        "description": "AI can research prospects and draft outreach, but treat results as unverified leads. Check identity, relevance, and contact details; remove weak matches; avoid unsupported claims; and require human approval before any message is sent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

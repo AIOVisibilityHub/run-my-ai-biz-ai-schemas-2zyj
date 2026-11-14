@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know people will actually pay for my AI newsletter before I spend weeks building it?",
+  "description": "Test demand with sample issues, reader interviews, a waitlist, and a small paid pilot. Look for replies, repeat engagement, trial conversions, and specific stat",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-people-will-actually-pay-for-my-ai-newsletter-before-i-spend-weeks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know people will actually pay for my AI newsletter before I spend weeks building it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small paid audience can be more useful than a large list that never opens or buys, but payment should follow evidence of demand. Before building complex automation, publish several focused samples, collect replies, and ask whether readers would pay for the recurring result. A paid AI newsletter discussion shows that readers may resist generic AI summaries but value concrete, audience-specific examples and actionable prompts. Key evidence includes repeat opens, replies, forwarding, trial conversions, and willingness to describe the problem in their own words. Avoid treating interest in AI generally as proof that people want your particular publication. Run My AI Biz can help turn validated themes into repeatable issue and promotion workflows.",
+        "description": "Test demand with sample issues, reader interviews, a waitlist, and a small paid pilot. Look for replies, repeat engagement, trial conversions, and specific statements about the outcome readers would pay to receive—not just general interest in AI."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

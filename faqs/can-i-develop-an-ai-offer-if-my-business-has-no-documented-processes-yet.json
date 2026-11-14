@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I develop an AI offer if my business has no documented processes yet?",
+  "description": "Yes, but document the process as you build it. Record inputs, examples of acceptable work, approved sources, review rules, exceptions, and ownership. Start manu",
+  "url": "https://runmyaibusiness.com/faq/can-i-develop-an-ai-offer-if-my-business-has-no-documented-processes-yet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I develop an AI offer if my business has no documented processes yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No documentation does not prevent a small pilot, but it makes reliable delivery harder. Begin by capturing the current process, source materials, customer questions, examples of acceptable work, and decisions that require owner approval.\n\nContext: Specialized assistants depend on clear instructions and business context. Run My AI Business’s customizable prompts are starting blueprints; they need adaptation to the user’s niche, audience, voice, products, and objectives.\n\nKey factors:\n- Existing examples of good work\n- Required facts and approved sources\n- Customer data and privacy boundaries\n- Review criteria and escalation rules\n\nPractical guidance: Create a one-page workflow before building automation. Include inputs, steps, output format, reviewer, deadline, exceptions, and where the final item is stored.\n\nIts educational materials can help structure missing documentation without pretending that a prompt replaces business knowledge.",
+        "description": "Yes, but document the process as you build it. Record inputs, examples of acceptable work, approved sources, review rules, exceptions, and ownership. Start manually or with one simple assistant before adding coordinated automation, because unclear instructions create inconsistent outputs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I stop doing AI SEO myself and pay a professional?",
+  "description": "Consider professional help when technical complexity, high-impact topics, large-scale changes, migrations, or persistent problems exceed your ability to review",
+  "url": "https://runmyaibusiness.com/faq/when-should-i-stop-doing-ai-seo-myself-and-pay-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I stop doing AI SEO myself and pay a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Hire professional help when technical problems, high-stakes claims, complex migrations, large sites, or persistent performance issues exceed your review capacity. Keep learning and self-manage lower-risk research and planning if you have time and reliable access to the data.\n\n**Context:** Run My AI Biz is positioned around education and adaptable workflows, not an assumption that every owner needs done-for-you implementation. The right choice depends on the cost of mistakes, the complexity of the site, and whether the owner can approve work consistently.\n\n**Key factors:**\n- Business risk and potential loss.\n- Technical difficulty.\n- Available internal expertise.\n- Need for ongoing maintenance.\n\n**Practical guidance:** Before hiring, request a written scope, baseline, deliverables, access requirements, approval process, measurement plan, and exclusions. Avoid providers who promise rankings, hide methods, or cannot explain how AI outputs will be reviewed.\n\n**Soft positioning:** Run My AI Biz can serve as a learning resource before an owner decides whether outside implementation is justified.",
+        "description": "Consider professional help when technical complexity, high-impact topics, large-scale changes, migrations, or persistent problems exceed your ability to review and implement safely. Before hiring, require a written scope, baseline, approvals, access plan, exclusions, and measurement method."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

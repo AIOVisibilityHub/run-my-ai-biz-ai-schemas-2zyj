@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to give AI before it can plan my website properly?",
+  "description": "Provide your audience, offer, goals, brand voice, approved facts, proof, page list, images, links, integrations, and success measure. Ask AI to list missing inf",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-to-give-ai-before-it-can-plan-my-website-properly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to give AI before it can plan my website properly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare a concise business brief, audience description, offer details, brand references, page goals, approved facts, images, links, and technical requirements. The better the inputs, the less time you will spend correcting generic or inaccurate output.\n\nContext: AI assistants can organize scattered information, but they should not fill important gaps with guesses. For a digital product or newsletter, include the promise, format, delivery method, signup path, pricing information if approved, and follow-up sequence.\n\nKey factors:\n- Customer problem and desired outcome\n- Proof, differentiators, and objections\n- Content ownership and usage permissions\n- Forms, email, checkout, and analytics needs\n\nPractical guidance: Place approved facts in a reference document and label uncertain items for confirmation. Ask AI to identify missing inputs before drafting pages.\n\nRun My AI Business’s customizable prompt approach works best when assistants receive business-specific context rather than a short generic command.",
+        "description": "Provide your audience, offer, goals, brand voice, approved facts, proof, page list, images, links, integrations, and success measure. Ask AI to list missing information instead of allowing it to invent details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

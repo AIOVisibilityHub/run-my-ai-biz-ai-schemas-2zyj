@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI to write business profiles without making misleading claims?",
+  "description": "Generate profiles only from approved, traceable information, and prohibit invented ratings, certifications, prices, statistics, testimonials, or income claims.",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-to-write-business-profiles-without-making-misleading-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI to write business profiles without making misleading claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI-generated summaries only when they are traceable to approved source material and clearly framed as summaries. Do not let the system invent ratings, certifications, prices, customer experiences, or performance claims. Context: Run My AI Business specifically emphasizes source verification and restrictions against invented statistics, proof, or income claims. Key factors: source freshness, quotation handling, confidence, conflicting information, and whether the summary could influence a purchasing decision. Practical guidance: store the source text or reference internally, show when the listing was checked, and send low-confidence records to a human reviewer. Let businesses correct factual errors without allowing them to erase legitimate user feedback. A structured prompt and approval checklist can make this process more consistent.",
+        "description": "Generate profiles only from approved, traceable information, and prohibit invented ratings, certifications, prices, statistics, testimonials, or income claims. Record sources and review dates, flag uncertainty for human review, and give businesses a factual correction process without rewriting legitimate user feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

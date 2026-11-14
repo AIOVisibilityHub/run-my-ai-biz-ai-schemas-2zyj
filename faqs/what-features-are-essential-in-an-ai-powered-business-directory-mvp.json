@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What features are essential in an AI-powered business directory MVP?",
+  "description": "An MVP should include structured listings, search, categories, useful filters, submission and approval controls, duplicate handling, an admin dashboard, and cle",
+  "url": "https://runmyaibusiness.com/faq/what-features-are-essential-in-an-ai-powered-business-directory-mvp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What features are essential in an AI-powered business directory MVP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A directory needs more than a search box: it needs a structured listing database, submission and editing controls, moderation, category and location filters, an administrative dashboard, and a reliable way to handle duplicates. Paid directories may also need accounts, subscriptions, invoices, featured placements, and reporting. Context: common directory feature sets include listing profiles, submissions, filters, payments, reviews, and administration. Key factors: whether businesses self-submit, whether users can rate listings, whether records need approval, and whether the directory serves one location or many. Practical guidance: define the minimum fields for every listing and separate required fields from optional enrichment. Test the full path from submission through approval, publication, correction, and removal before launch. Run My AI Business can help map these steps into specialized, human-reviewed assistants.",
+        "description": "An MVP should include structured listings, search, categories, useful filters, submission and approval controls, duplicate handling, an admin dashboard, and clear correction procedures. Add payments, reviews, maps, or AI-generated content only when they support a validated user need."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

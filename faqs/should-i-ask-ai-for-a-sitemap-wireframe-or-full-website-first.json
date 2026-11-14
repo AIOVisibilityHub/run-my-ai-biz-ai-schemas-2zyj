@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I ask AI for a sitemap, wireframe, or full website first?",
+  "description": "Start with the sitemap, then a wireframe and visual direction, and only afterward request detailed copy or code. Review each stage against the customer’s intend",
+  "url": "https://runmyaibusiness.com/faq/should-i-ask-ai-for-a-sitemap-wireframe-or-full-website-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I ask AI for a sitemap, wireframe, or full website first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help create a sitemap, wireframe, content outline, and visual direction, but those artifacts need review against the customer journey. A sitemap shows what exists; a wireframe shows where information goes; a design direction establishes the visual system.\n\nContext: Community guidance describes a sensible sequence of scope, wireframes, visual direction, build, and quality assurance. Skipping planning can leave a site with attractive pages that do not support a coherent path to action.\n\nKey factors:\n- Primary user goal and page priority\n- Relationship between landing pages and follow-up\n- Mobile layout and reading order\n- Reusable styles and components\n\nPractical guidance: Ask AI for two or three structure options and have it explain the tradeoffs. Approve one before requesting detailed copy or code.\n\nRun My AI Business’s funnel and launch examples give this planning stage a practical business purpose.",
+        "description": "Start with the sitemap, then a wireframe and visual direction, and only afterward request detailed copy or code. Review each stage against the customer’s intended action before continuing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI-generated images and copy on my business website without creating a mess later?",
+  "description": "Use only assets you have the right to use, and verify that AI output does not contain false endorsements, copied material, or misleading imagery. Keep a record",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-generated-images-and-copy-on-my-business-website-without-creating-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI-generated images and copy on my business website without creating a mess later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use real, licensed, permissioned, or properly attributed assets, and keep records showing where each image, icon, font, testimonial, and data point came from. AI output should be checked for originality and suitability before publication.\n\nContext: Generated visuals and copy can resemble existing work or imply facts that are not true. Run My AI Business’s source-verification principle applies to website assets as well as written claims.\n\nKey factors:\n- License or permission for each asset\n- Whether people, logos, or locations are depicted accurately\n- Brand consistency and accessibility\n- Clear ownership after editing or generation\n\nPractical guidance: Maintain an asset register with source, permission, date, and allowed uses. Prefer authentic business images and approved brand materials when they improve trust.\n\nA documented asset workflow makes AI-assisted publishing easier to review and maintain.",
+        "description": "Use only assets you have the right to use, and verify that AI output does not contain false endorsements, copied material, or misleading imagery. Keep a record of sources, permissions, edits, and approved uses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare before choosing an AI offer or positioning strategy?",
+  "description": "Compare your offer with the buyer’s current workaround, human help, existing software, competitors, and doing nothing. Review outcome, quality, setup, support,",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-compare-before-choosing-an-ai-offer-or-positioning-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare before choosing an AI offer or positioning strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compare an AI offer with the customer’s current workaround, a human-delivered alternative, existing software, and the cost of doing nothing. A competitor comparison alone is insufficient if buyers are really choosing between your offer and a spreadsheet, employee, agency, or delayed action.\n\nContext: Run My AI Business encourages offer research, competitor review, and positioning analysis across digital products, newsletters, funnels, and business workflows. The comparison should focus on the buyer’s decision, not only on feature lists.\n\nKey factors:\n- Outcome and quality\n- Setup effort and learning curve\n- Ongoing support and ownership\n- Price, risk, and switching cost\n\nPractical guidance: Create a simple comparison using the same criteria for each alternative. Ask prospective buyers which option they would choose and why, then revise the offer around the most important difference.\n\nIts educational resources can help organize comparisons without claiming that one model fits every business.",
+        "description": "Compare your offer with the buyer’s current workaround, human help, existing software, competitors, and doing nothing. Review outcome, quality, setup, support, ownership, price, and risk. Ask prospects which alternative they prefer and what would make them switch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

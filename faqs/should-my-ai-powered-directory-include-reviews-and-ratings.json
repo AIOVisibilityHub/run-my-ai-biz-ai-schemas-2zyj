@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my AI-powered directory include reviews and ratings?",
+  "description": "Only if you can support moderation, fraud detection, reporting, business responses, and dispute handling. Consider launching with factual correction requests or",
+  "url": "https://runmyaibusiness.com/faq/should-my-ai-powered-directory-include-reviews-and-ratings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my AI-powered directory include reviews and ratings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews can increase usefulness, but they add moderation, fraud, privacy, and dispute-handling work. If included, define who may review, what content is prohibited, how reports are handled, and whether businesses can respond without manipulating ratings. Context: review features are often included in directory platforms, but they should be added only when the audience needs them and the operator can maintain quality. Key factors: verification, duplicate reviews, conflicts of interest, moderation staffing, appeals, and disclosure of incentivized feedback. Practical guidance: launch with structured feedback or factual update requests before adding public star ratings. Keep an audit trail and avoid having AI make final decisions on contested content. Run My AI Business can help outline moderation checklists and escalation steps.",
+        "description": "Only if you can support moderation, fraud detection, reporting, business responses, and dispute handling. Consider launching with factual correction requests or structured feedback first. If you add ratings, define eligibility and disclosure rules, retain an audit trail, and keep final contested decisions under human control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

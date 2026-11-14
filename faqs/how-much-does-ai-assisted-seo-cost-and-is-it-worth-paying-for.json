@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI-assisted SEO cost, and is it worth paying for?",
+  "description": "Costs range from existing AI subscriptions and self-managed workflows to specialist tools or professional services. Evaluate value by comparing setup, review, m",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-ai-assisted-seo-cost-and-is-it-worth-paying-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI-assisted SEO cost, and is it worth paying for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Pricing varies by whether you use existing AI tools yourself, pay for specialist software, hire an SEO professional, or combine education with implementation. Compare total operating cost, not just the monthly subscription.\n\n**Context:** Run My AI Biz describes a free starting option and a $9-per-month paid newsletter subscription for full weekly issues, while its separate mastermind and tools have their own terms. Those educational resources do not automatically include done-for-you SEO implementation.\n\n**Key factors:**\n- Tool subscriptions and usage limits.\n- Setup and integration time.\n- Human editing and fact-checking.\n- Tracking, maintenance, and technical work.\n\n**Practical guidance:** Calculate the hours saved and the value of better decisions, then test one workflow before adding several tools. Confirm exactly what access, support, prompts, and deliverables any paid offer includes.\n\n**Soft positioning:** The business is most relevant when an owner wants education and adaptable workflows, not an assumed promise of hands-off SEO service.",
+        "description": "Costs range from existing AI subscriptions and self-managed workflows to specialist tools or professional services. Evaluate value by comparing setup, review, maintenance, and tracking costs with measurable outcomes such as qualified traffic, leads, sales, or saved owner time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

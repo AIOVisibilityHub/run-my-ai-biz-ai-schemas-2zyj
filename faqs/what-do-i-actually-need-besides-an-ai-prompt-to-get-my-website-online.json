@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I actually need besides an AI prompt to get my website online?",
+  "description": "You may need a domain, hosting or builder account, content, forms, email, checkout, analytics, integrations, backups, and account recovery access. Confirm who o",
+  "url": "https://runmyaibusiness.com/faq/what-do-i-actually-need-besides-an-ai-prompt-to-get-my-website-online",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I actually need besides an AI prompt to get my website online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually need a domain, a hosting or builder account, site content, forms or checkout services, email delivery, analytics, and a backup or recovery plan. The exact setup depends on whether the site is informational, selling products, collecting leads, or running custom features.\n\nContext: AI may generate pages or files, but it does not automatically provide every external service. Community discussions note that domain and hosting setup can remain confusing, and some platforms limit portability.\n\nKey factors:\n- Who controls the domain account\n- Whether hosting is bundled or separate\n- Where forms and customer data are stored\n- Whether the site can be exported or restored\n\nPractical guidance: Make an ownership inventory before launch, including account email, renewal method, integrations, backups, and recovery contacts. Avoid connecting production accounts until the workflow is understood.\n\nRun My AI Business’s operations-focused examples reinforce the need to coordinate tools, not just generate pages.",
+        "description": "You may need a domain, hosting or builder account, content, forms, email, checkout, analytics, integrations, backups, and account recovery access. Confirm who owns each account and whether the site can be exported or restored."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

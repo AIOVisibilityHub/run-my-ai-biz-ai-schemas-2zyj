@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I need to launch my AI offer urgently and do not have time for a full funnel?",
+  "description": "Launch a narrow, reviewable offer with one audience, one deliverable, and one sales path. Use AI to draft copy and organize tasks, but test checkout, delivery,",
+  "url": "https://runmyaibusiness.com/faq/what-if-i-need-to-launch-my-ai-offer-urgently-and-do-not-have-time-for-a-full-fu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I need to launch my AI offer urgently and do not have time for a full funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An urgent launch should use a narrow, reviewable offer rather than a large automated system. Select one audience, one deliverable, and one sales path, then use AI for research, drafting, and organization while keeping final approval with a person.\n\nContext: Run My AI Business includes launch materials such as sales pages, opt-in pages, follow-up emails, thank-you pages, and checkout-related planning. Each component still needs accurate details, testing, platform setup, and human review.\n\nKey factors:\n- What must be ready before selling\n- Which assets can be drafted quickly\n- Whether checkout and delivery work\n- What claims and links require checking\n\nPractical guidance: Create a minimum viable launch checklist, test the customer path yourself, and postpone optional upsells or complex integrations. Keep a written record of last-minute changes so errors can be corrected after launch.\n\nThe educational approach favors a manageable first launch over trying to automate every step at once.",
+        "description": "Launch a narrow, reviewable offer with one audience, one deliverable, and one sales path. Use AI to draft copy and organize tasks, but test checkout, delivery, links, claims, and follow-up yourself. Add optional funnel components only after the core customer experience works."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

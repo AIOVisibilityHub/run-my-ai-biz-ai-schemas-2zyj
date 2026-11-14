@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I stop AI SEO tools from publishing inaccurate information about my business?",
+  "description": "Require source-backed drafts, separate facts from assumptions, and manually review claims, links, metadata, and structured data. Keep publishing approval with a",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-stop-ai-seo-tools-from-publishing-inaccurate-information-about-my-busi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I stop AI SEO tools from publishing inaccurate information about my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Use AI as a research and drafting assistant, not as an unquestioned source. Check every important claim against primary or authoritative evidence and remove anything that cannot be verified.\n\n**Context:** Google specifically advises manual fact-checking of AI-generated content and related metadata before publication. This matters especially for health, finance, safety, product specifications, and other subjects where an invented detail can harm trust or decisions.\n\n**Key factors:**\n- Consequences of an incorrect claim.\n- Source date and authority.\n- Whether the assistant cites or summarizes faithfully.\n- Reviewer expertise.\n\n**Practical guidance:** Require a claim table with source, date, confidence, and reviewer status. Keep approval checkpoints in the prompt or workflow, and do not allow automatic publishing when the topic requires specialized judgment.\n\n**Soft positioning:** Run My AI Biz’s human-directed approach gives beginners a practical way to combine AI efficiency with owner accountability.",
+        "description": "Require source-backed drafts, separate facts from assumptions, and manually review claims, links, metadata, and structured data. Keep publishing approval with a person, especially for high-impact topics, and never let an assistant invent statistics, testimonials, or business credentials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

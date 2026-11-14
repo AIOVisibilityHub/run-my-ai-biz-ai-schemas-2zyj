@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to use AI to build software but have no idea where to start?",
+  "description": "Begin with one small, clearly defined workflow. Write down the user, outcome, constraints, and edge cases; ask AI to find gaps; then generate and test one compo",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-use-ai-to-build-software-but-have-no-idea-wh",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to use AI to build software but have no idea where to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a small, clearly defined workflow rather than asking AI to build an entire product. For Run My AI Business readers, that could mean outlining a digital product, drafting a simple website specification, or creating a repeatable research task before attempting custom software.\n\nAI-assisted development can produce useful drafts, explanations, tests, and documentation, but it does not replace product decisions or quality review. Community discussions commonly emphasize writing a specification, splitting work into manageable tasks, and checking every change.\n\nKey factors:\n- Define the user, desired outcome, constraints, and edge cases.\n- Decide which work requires human judgment.\n- Establish tests and approval points before generation.\n- Keep credentials and confidential data out of prompts.\n\nPractical guidance: Ask AI to identify missing requirements first, then generate one small component at a time. Run tests, inspect dependencies, and confirm that you understand each material change before using it.\n\nRun My AI Business can help readers understand this focused, human-directed approach through its educational workflows and adaptable assistant examples.",
+        "description": "Begin with one small, clearly defined workflow. Write down the user, outcome, constraints, and edge cases; ask AI to find gaps; then generate and test one component at a time. Keep human approval before anything is published, connected to accounts, or used in production."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

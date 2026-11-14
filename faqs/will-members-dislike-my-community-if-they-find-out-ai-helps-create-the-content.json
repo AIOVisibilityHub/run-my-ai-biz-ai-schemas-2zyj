@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will members dislike my community if they find out AI helps create the content?",
+  "description": "Not necessarily, if the content is useful, accurate, reviewed, and supported by real human access. Be transparent about where AI assists, keep sensitive convers",
+  "url": "https://runmyaibusiness.com/faq/will-members-dislike-my-community-if-they-find-out-ai-helps-create-the-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will members dislike my community if they find out AI helps create the content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat AI as a drafting and coordination layer, not as a replacement for the community owner’s expertise or relationships. Members are more likely to accept assistance when expectations are clear, human support remains available, and automated content is reviewed for accuracy and relevance.\\n\\nContext: Run My AI Biz’s approach emphasizes human-directed automation, approval before publishing, and conversational workflows. Those controls help preserve the owner’s voice while reducing repetitive preparation.\\n\\nKey factors:\\n- Whether members are told when AI assists\\n- Availability of human escalation\\n- Consistency with the community’s voice\\n- Quality of corrections and follow-up\\n\\nPractical guidance: Create a short disclosure policy, define which tasks use AI, and invite members to report errors or unwanted automation. Use their feedback to adjust prompts and permissions.\\n\\nRun My AI Biz can help owners build practical systems that retain control rather than presenting automation as the community relationship.",
+        "description": "Not necessarily, if the content is useful, accurate, reviewed, and supported by real human access. Be transparent about where AI assists, keep sensitive conversations with people, and provide a simple way for members to report errors or request personal help."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up AI content support for a membership community?",
+  "description": "A simple drafting workflow is faster to test than a connected system that handles publishing, member data, and multiple assistants. Plan for setup, source clean",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-ai-content-support-for-a-membership-community",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up AI content support for a membership community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect a useful first workflow to require planning, testing, and revision rather than instant full automation. The time depends on how clearly the task is defined, how organized the source material is, whether integrations are needed, and how much review the owner wants.\\n\\nContext: Run My AI Biz’s recommended sequence—choose one workflow, build one assistant, use it, then expand—reduces initial complexity. A simple draft-and-review process is generally easier to test than a multi-assistant system connected to publishing and member data.\\n\\nKey factors:\\n- Clarity of the desired output\\n- Availability of clean source material\\n- Platform and integration complexity\\n- Number of revisions after real use\\n\\nPractical guidance: Set a small pilot with a defined number of content cycles and success measures. Do not connect automated publishing until the drafts are consistently acceptable.\\n\\nRun My AI Biz’s educational materials can help owners plan a staged implementation rather than overbuild at the start.",
+        "description": "A simple drafting workflow is faster to test than a connected system that handles publishing, member data, and multiple assistants. Plan for setup, source cleanup, testing, and revisions, then run a small pilot before adding automated actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

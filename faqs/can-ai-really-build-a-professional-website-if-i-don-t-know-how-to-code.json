@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI really build a professional website if I don’t know how to code?",
+  "description": "AI can create a strong first version of a simple website without coding, but you still need to provide accurate business details, review the copy and layout, te",
+  "url": "https://runmyaibusiness.com/faq/can-ai-really-build-a-professional-website-if-i-don-t-know-how-to-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI really build a professional website if I don’t know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can help plan and build a straightforward website without coding, but it still needs accurate business information, review, and suitable hosting or platform support. Run My AI Business presents AI as assistance for planning, copy, page structure, and repeatable workflows—not as an unattended website operator.\n\nContext: AI builders can produce a useful first version quickly, especially for informational sites, newsletters, lead magnets, and simple service offers. More complex ecommerce, membership, booking, or custom software requirements may need specialist implementation.\n\nKey factors:\n- Feature complexity and integrations\n- Content accuracy and originality\n- Mobile performance and accessibility\n- Export, hosting, and ownership limits\n\nPractical guidance: Test the platform with one representative page before committing. Confirm who owns the domain, content, code, accounts, and backups, and require approval before publication.\n\nRun My AI Business’s educational approach is most useful when AI accelerates defined tasks while the owner retains decision control.",
+        "description": "AI can create a strong first version of a simple website without coding, but you still need to provide accurate business details, review the copy and layout, test mobile behavior, and confirm hosting and ownership terms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

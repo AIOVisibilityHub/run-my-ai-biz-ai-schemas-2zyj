@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build an AI-powered directory that actually works?",
+  "description": "A simple prototype may take days or weeks, but a reliable public directory needs additional time for data collection, verification, moderation, payments, and te",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-build-an-ai-powered-directory-that-actually-works",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build an AI-powered directory that actually works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A focused prototype may be ready in days or weeks, but a dependable public directory usually takes longer because data preparation, moderation, testing, and launch content matter as much as the interface. AI can accelerate drafts and basic page generation, while trustworthy listings and reliable workflows still require review. Context: some AI builders advertise very fast initial builds, but those claims generally describe a core prototype rather than a fully operated directory. Key factors: number of listings, source verification, custom integrations, approval rules, payment setup, search quality, and whether businesses can claim profiles. Practical guidance: divide work into discovery, schema design, prototype, data loading, testing, and public launch. Set a minimum launch dataset and test edge cases such as duplicates, closed businesses, missing fields, and rejected submissions. Run My AI Business’s focused “one workflow first” approach fits this staged implementation.",
+        "description": "A simple prototype may take days or weeks, but a reliable public directory needs additional time for data collection, verification, moderation, payments, and testing. Launch with a limited niche and a small, useful dataset instead of waiting for a perfect catalog. AI speeds up drafts; it does not remove operational work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

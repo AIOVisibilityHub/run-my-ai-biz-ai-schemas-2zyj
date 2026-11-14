@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I keep AI from mixing up free content, paid content, and private member material?",
+  "description": "Separate workflows by audience and permission level. Give each assistant only the sources it needs, label material as public or restricted, and test access boun",
+  "url": "https://runmyaibusiness.com/faq/how-should-i-keep-ai-from-mixing-up-free-content-paid-content-and-private-member",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I keep AI from mixing up free content, paid content, and private member material?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Create separate workflows for public content, paid-member content, onboarding, support, and internal operations. Each workflow should have its own source permissions, tone, output format, and publishing approval.\\n\\nContext: A single assistant with access to every document can expose material to the wrong audience or blend unrelated projects. Run My AI Biz’s resource library supports specialized assistants and coordinated workflows, but each assistant still needs clear boundaries.\\n\\nKey factors:\\n- Content access by membership tier\\n- Differences in audience expectations\\n- Separate brands, offers, or newsletters\\n- Who can approve and publish each output\\n\\nPractical guidance: Use labels such as public, member-only, moderator-only, and confidential. Test prompts with intentionally restricted material before connecting live sources.\\n\\nThis focused structure reflects Run My AI Biz’s recommendation to build one manageable assistant before expanding.",
+        "description": "Separate workflows by audience and permission level. Give each assistant only the sources it needs, label material as public or restricted, and test access boundaries before use. Keep publishing approval with the owner or an assigned moderator."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

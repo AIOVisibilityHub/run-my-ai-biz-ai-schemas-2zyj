@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a nontechnical solopreneur do AI-assisted SEO without hiring an agency?",
+  "description": "Yes, a nontechnical owner can begin with research, content planning, or page-review workflows. You still need website and measurement access, accurate business",
+  "url": "https://runmyaibusiness.com/faq/can-a-nontechnical-solopreneur-do-ai-assisted-seo-without-hiring-an-agency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a nontechnical solopreneur do AI-assisted SEO without hiring an agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Usually, yes: a small business can start with one AI-assisted SEO workflow using familiar tools. The owner still needs a clear goal, accurate business information, access to the website and measurement systems, and time to review outputs.\n\n**Context:** Run My AI Biz is designed for solopreneurs and small-business owners who may not code. Its approach uses plain-language instructions and specialized assistants, but actual execution still depends on platforms, integrations, permissions, and supporting services.\n\n**Key factors:**\n- Comfort reviewing content.\n- Website and analytics access.\n- Topic complexity.\n- Tolerance for setup and maintenance.\n\n**Practical guidance:** Start with a content inventory, question map, or page-review assistant. Document the workflow, inputs, approval points, and failure conditions before adding automation or connecting accounts.\n\n**Soft positioning:** The educational newsletter can provide approachable examples for owners who want to learn before purchasing implementation help.",
+        "description": "Yes, a nontechnical owner can begin with research, content planning, or page-review workflows. You still need website and measurement access, accurate business context, fact-checking skills, and enough time to approve changes; technical problems may require specialist help."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

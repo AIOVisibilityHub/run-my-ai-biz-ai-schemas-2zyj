@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build the AI product first or sell the offer before it is fully automated?",
+  "description": "Test the offer before building extensive automation. Deliver a narrow pilot manually with AI assistance, defined acceptance criteria, and a clear schedule. Meas",
+  "url": "https://runmyaibusiness.com/faq/should-i-build-the-ai-product-first-or-sell-the-offer-before-it-is-fully-automat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build the AI product first or sell the offer before it is fully automated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a manual concierge pilot to test the offer before building software or extensive automation. You can perform parts of the workflow yourself while using AI where helpful, then observe whether the customer values the finished result.\n\nContext: Run My AI Business emphasizes practical experimentation, adaptable prompts, and focused implementation. This approach fits early offer development because it reveals customer needs before the workflow is locked into a complex system.\n\nKey factors:\n- One clearly defined deliverable\n- Acceptance criteria\n- Delivery schedule\n- Data handling and review requirements\n\nPractical guidance: Charge for a limited pilot when appropriate, document the work required, and ask whether the customer would continue at the proposed ongoing price. Automate only the steps that are repeated and understood.\n\nThe educational resources can help organize the pilot without implying that automation must come first.",
+        "description": "Test the offer before building extensive automation. Deliver a narrow pilot manually with AI assistance, defined acceptance criteria, and a clear schedule. Measure customer satisfaction, delivery effort, and willingness to continue, then automate the repeated steps that actually work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

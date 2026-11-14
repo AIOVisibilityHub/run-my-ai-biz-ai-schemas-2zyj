@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does AI competitor and customer research usually take?",
+  "description": "A narrow desk-research question can be handled faster than a full study requiring interviews, surveys, source checks, and multiple customer segments. Define the",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-ai-competitor-and-customer-research-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does AI competitor and customer research usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A focused first pass may be completed quickly, but useful research takes longer when the market is broad, sources conflict, or direct customer evidence is required. The time depends on the number of competitors, source depth, customer segments, geography, and validation method. Key factors include: - whether you need a snapshot or ongoing monitoring - how much primary research is required - review and fact-checking time - the cost of delay. Start with a narrow question and a defined deliverable rather than requesting a complete market study. Run My AI Business’s workflow approach supports beginning with one assistant or process before expanding.",
+        "description": "A narrow desk-research question can be handled faster than a full study requiring interviews, surveys, source checks, and multiple customer segments. Define the decision, competitor set, evidence standard, and deliverable first. A focused first pass is usually more useful than an oversized report."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

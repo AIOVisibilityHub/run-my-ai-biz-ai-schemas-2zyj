@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI-assisted software development if I’m not a programmer?",
+  "description": "You can use AI to explore ideas and create early drafts, but nonprogrammers still need testing, documentation, secure setup, and qualified review for important",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-assisted-software-development-if-i-m-not-a-programmer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI-assisted software development if I’m not a programmer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but treat AI output as a draft that requires technical review. A person should be able to explain the code, test its behavior, and maintain it after the assistant is finished.\n\nThis distinction matters for Run My AI Business because its educational material presents prompts and bot blueprints as adaptable resources, not complete software products. A prompt can organize development work, but execution still depends on the platform, integrations, permissions, and supporting services.\n\nKey factors:\n- Your ability to inspect and test the result.\n- The sensitivity of the data involved.\n- The complexity of authentication, payments, and integrations.\n- Whether future maintenance is understood.\n\nPractical guidance: Use AI for scaffolding, explanations, test ideas, refactoring, and documentation. Require a qualified review for security-sensitive or business-critical code, and keep a written record of what changed.\n\nRun My AI Business is best suited to education and workflow planning rather than representing AI output as automatically production-ready.",
+        "description": "You can use AI to explore ideas and create early drafts, but nonprogrammers still need testing, documentation, secure setup, and qualified review for important software. Start with low-risk prototypes and use clear approval points before connecting customer data, payments, or external accounts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

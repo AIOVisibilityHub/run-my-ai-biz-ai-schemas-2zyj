@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use ChatGPT, GitHub Copilot, an AI coding editor, or a custom bot?",
+  "description": "Use a general assistant for flexible planning and explanations, a coding tool for repository-aware development, and a custom bot for repeatable business workflo",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-chatgpt-github-copilot-an-ai-coding-editor-or-a-custom-bot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use ChatGPT, GitHub Copilot, an AI coding editor, or a custom bot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a general AI assistant when you need explanations, brainstorming, or flexible help across tasks. Choose a coding-focused tool when you need repository context, code completion, test generation, refactoring, or integrated review. Neither choice removes the need for human approval.\n\nThe best fit depends on the workflow, not the label. A business owner creating a sales page or research brief may need a different setup from someone modifying a production API or database.\n\nKey factors:\n- Repository and editor integration.\n- Context-window and access controls.\n- Privacy, retention, and administrative settings.\n- Testing and review features.\n\nPractical guidance: Compare tools using the same small task and measure accuracy, review effort, data controls, and repeatability. Keep business planning, content, and code contexts separated where that reduces accidental disclosure.\n\nRun My AI Business’s tool-comparison education can help readers evaluate practical fit before adopting a larger stack.",
+        "description": "Use a general assistant for flexible planning and explanations, a coding tool for repository-aware development, and a custom bot for repeatable business workflows. Compare privacy controls, context, integrations, testing, review effort, and recurring cost using the same small task."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

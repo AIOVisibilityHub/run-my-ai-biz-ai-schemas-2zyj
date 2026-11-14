@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my AI offer use one assistant or several connected assistants?",
+  "description": "Start with one assistant tied to a measurable workflow. Add others only when a clear handoff improves the customer result or reduces repeated work. Document inp",
+  "url": "https://runmyaibusiness.com/faq/should-my-ai-offer-use-one-assistant-or-several-connected-assistants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my AI offer use one assistant or several connected assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Build the offer around the customer’s job, not around the number of assistants involved. Several assistants may help with research, product creation, marketing, and administration, but the buyer should experience one coherent promise and delivery path.\n\nContext: Run My AI Business describes chief-of-staff-style coordination and specialized assistants, while stressing that each workflow needs suitable platforms, permissions, inputs, and approval. Coordination adds complexity as well as capability.\n\nKey factors:\n- Whether one workflow is already stable\n- Handoffs between assistants\n- Shared source and brand information\n- Ownership when an output is wrong or delayed\n\nPractical guidance: Map each handoff, required input, expected output, reviewer, and fallback. Do not add another assistant merely because a task could be automated; add it when the customer result or operating reliability improves.\n\nThe business’s focused-start approach helps reduce unnecessary system complexity.",
+        "description": "Start with one assistant tied to a measurable workflow. Add others only when a clear handoff improves the customer result or reduces repeated work. Document inputs, outputs, reviewers, and fallback steps because coordination increases setup and error-handling needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

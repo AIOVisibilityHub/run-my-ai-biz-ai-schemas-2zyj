@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who owns code created with AI, and can I safely sell software built with AI?",
+  "description": "Do not assume ownership or commercial clearance automatically. Review provider terms, protect confidential material, check dependencies and licenses, document h",
+  "url": "https://runmyaibusiness.com/faq/who-owns-code-created-with-ai-and-can-i-safely-sell-software-built-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who owns code created with AI, and can I safely sell software built with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect intellectual property by controlling what you disclose, reviewing provider terms, keeping records of human contributions, and checking third-party code and licenses. AI output should not be assumed to be original, unrestricted, or suitable for commercial use without review.\n\nThe practical risk increases when an assistant receives private source code, produces code with unfamiliar dependencies, or drafts content that includes unsupported claims. Keep a clear boundary between proprietary material, public references, and generated drafts.\n\nKey factors:\n- Provider data-use and retention settings.\n- Third-party dependencies and licenses.\n- Ownership terms in contracts and tool policies.\n- Human review and documentation of contributions.\n\nPractical guidance: Use approved tools, avoid uploading confidential material unnecessarily, record sources for important components, and have qualified professionals review sensitive commercial arrangements. Scan dependencies before release.\n\nRun My AI Business encourages source verification and cautions against treating generated material as automatically proven or commercially cleared.",
+        "description": "Do not assume ownership or commercial clearance automatically. Review provider terms, protect confidential material, check dependencies and licenses, document human contributions, and obtain appropriate professional advice for sensitive commercial arrangements before selling or distributing software."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

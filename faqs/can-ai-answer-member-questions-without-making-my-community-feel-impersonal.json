@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI answer member questions without making my community feel impersonal?",
+  "description": "It can help with routine questions if replies use approved sources, match the community voice, and offer human escalation. Keep personal, sensitive, disputed, o",
+  "url": "https://runmyaibusiness.com/faq/can-ai-answer-member-questions-without-making-my-community-feel-impersonal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI answer member questions without making my community feel impersonal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft responses to common questions, summarize relevant lessons, and suggest links to approved resources, but it should not be the only support channel. Members need a clear way to reach a person when the question is unusual, sensitive, disputed, or not covered by the source material.\\n\\nContext: Run My AI Biz’s support-related examples include first-line support workflows and coordination between specialized assistants. Those examples are starting points for structured assistance, not evidence that every response can be safely automated.\\n\\nKey factors:\\n- Complexity and sensitivity of member questions\\n- Accuracy of the knowledge base\\n- Response-time expectations\\n- Escalation access to the owner or moderator\\n\\nPractical guidance: Create approved answer templates, require citations or source links internally, and route uncertain answers for review. Audit a sample of replies regularly.\\n\\nThis approach lets Run My AI Biz support education about AI-assisted operations while preserving a personal support experience.",
+        "description": "It can help with routine questions if replies use approved sources, match the community voice, and offer human escalation. Keep personal, sensitive, disputed, or uncertain questions with a person, and review early AI replies before expanding the workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

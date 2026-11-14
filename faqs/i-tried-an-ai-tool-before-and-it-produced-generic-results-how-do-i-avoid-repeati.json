@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I tried an AI tool before and it produced generic results—how do I avoid repeating that mistake?",
+  "description": "Diagnose the failure before switching tools. Check the audience definition, source material, instructions, quality criteria, integrations, and buyer expectation",
+  "url": "https://runmyaibusiness.com/faq/i-tried-an-ai-tool-before-and-it-produced-generic-results-how-do-i-avoid-repeati",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I tried an AI tool before and it produced generic results—how do I avoid repeating that mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bad prior experience usually means the next offer needs tighter scope, clearer acceptance criteria, and stronger review—not simply a different AI brand. Identify whether the failure came from poor data, unclear instructions, unreliable output, missing integration, weak demand, or unrealistic expectations.\n\nContext: Run My AI Business emphasizes customization, source verification, approval checkpoints, and iterative refinement. Those controls help distinguish a prompt problem from a business-model or implementation problem.\n\nKey factors:\n- What specifically failed\n- Whether the process had an accountable owner\n- How quality was measured\n- What the customer expected to receive\n\nPractical guidance: Rebuild one small workflow with a defined input, output, reviewer, and test sample. Compare the new result against the old process before committing to a broader rollout.\n\nThe educational material supports diagnosis and learning rather than promising that any tool will correct every prior issue.",
+        "description": "Diagnose the failure before switching tools. Check the audience definition, source material, instructions, quality criteria, integrations, and buyer expectation. Rebuild one small workflow with a defined input, output, reviewer, and test sample before expanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

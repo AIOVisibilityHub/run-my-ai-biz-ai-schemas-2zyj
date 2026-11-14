@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell whether my AI offer is solving a real problem instead of just sounding impressive?",
+  "description": "Look for repeated customer language, existing workarounds, concrete requests, and payment for a limited pilot. AI can organize interviews and compare alternativ",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-tell-whether-my-ai-offer-is-solving-a-real-problem-instead-of-just-sou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell whether my AI offer is solving a real problem instead of just sounding impressive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use customer evidence, not AI-generated enthusiasm, to decide whether an offer has demand. The strongest early signals are repeated descriptions of the problem, requests for a solution, completed applications, deposits, or payment for a limited pilot.\n\nContext: AI can summarize interviews, compare alternatives, and identify recurring objections, but it may overstate market appeal or invent unsupported conclusions. Run My AI Business emphasizes research and practical testing before committing significant resources.\n\nKey factors:\n- How often the problem occurs\n- What buyers do today instead\n- Whether the problem has a cost or consequence\n- Whether a buyer accepts the proposed price and process\n\nPractical guidance: Interview people in the target audience, show a concise offer, ask for a next step, and record exact objections. Test manual delivery before building complex software or automation.\n\nUse the newsletter’s research-oriented workflows as support for validation, not as proof that a market will buy.",
+        "description": "Look for repeated customer language, existing workarounds, concrete requests, and payment for a limited pilot. AI can organize interviews and compare alternatives, but it cannot replace buyer behavior. Test the result manually before investing in complex software, prompts, or funnels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

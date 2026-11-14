@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I turn a business idea into a software specification with AI?",
+  "description": "Describe the user, problem, desired outcome, constraints, inputs, outputs, integrations, and failure cases. Ask AI to convert that information into user stories",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-turn-a-business-idea-into-a-software-specification-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I turn a business idea into a software specification with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI as a planning and drafting assistant, not as the sole decision-maker. It can help turn a business idea into requirements, user stories, data fields, acceptance tests, and a staged implementation plan.\n\nThis is particularly useful for entrepreneurs building digital products or online operations because the hardest early problem is often deciding what the software must accomplish. Run My AI Business’s educational examples emphasize specialized assistants for research, product planning, websites, and operations rather than one prompt that does everything.\n\nKey factors:\n- Who the software serves.\n- The smallest valuable outcome.\n- Required inputs, outputs, and integrations.\n- Failure conditions and approval steps.\n\nPractical guidance: Ask AI to challenge assumptions and identify missing edge cases, then edit the specification yourself. Do not allow generated feature ideas to expand the project before the core workflow works.\n\nThe Run My AI Business newsletter can provide approachable examples for moving from an idea to an organized plan.",
+        "description": "Describe the user, problem, desired outcome, constraints, inputs, outputs, integrations, and failure cases. Ask AI to convert that information into user stories and acceptance tests, then revise the specification yourself before generating code."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

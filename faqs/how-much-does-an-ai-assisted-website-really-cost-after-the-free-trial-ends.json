@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an AI-assisted website really cost after the free trial ends?",
+  "description": "Count the builder plan, domain, hosting, transactions, email, integrations, paid AI usage, maintenance, and migration risk. Compare first-year and ongoing total",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-an-ai-assisted-website-really-cost-after-the-free-trial-ends",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an AI-assisted website really cost after the free trial ends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cheapest option is not always the lowest total cost because platform fees, domains, hosting, paid AI tools, integrations, maintenance, and migration work may be separate. Compare the complete cost of operating the site, not only the advertised builder price.\n\nContext: Run My AI Business teaches readers to compare AI tools and pricing, which is especially useful when a free plan has branding, usage, storage, export, or feature restrictions. A low-cost start can be sensible for testing an idea, provided the owner understands future limits.\n\nKey factors:\n- Subscription and renewal pricing\n- Domain and hosting arrangements\n- Transaction or email costs\n- Export, backup, and migration options\n\nPractical guidance: Build a simple cost sheet for the first year and the expected ongoing year. Include the value of your own time and the cost of fixing an unsuitable platform later.\n\nThe newsletter’s comparison-oriented education can help owners evaluate fit without assuming the most expensive option is best.",
+        "description": "Count the builder plan, domain, hosting, transactions, email, integrations, paid AI usage, maintenance, and migration risk. Compare first-year and ongoing totals, plus whether the platform adds branding or blocks exporting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

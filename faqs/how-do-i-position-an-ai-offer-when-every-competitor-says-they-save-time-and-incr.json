@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I position an AI offer when every competitor says they save time and increase revenue?",
+  "description": "Replace broad AI claims with a specific audience, recurring problem, deliverable, and process. Explain what you do differently, what the customer must provide,",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-position-an-ai-offer-when-every-competitor-says-they-save-time-and-incr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I position an AI offer when every competitor says they save time and increase revenue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Position the offer around the customer’s business problem and your specific delivery process, not around generic claims such as “AI-powered growth.” A useful statement identifies who you help, what recurring problem you address, and what concrete deliverable or result you provide.\n\nContext: Run My AI Business serves entrepreneurs, solopreneurs, digital-product creators, and small-business owners who may feel overwhelmed by disconnected tasks. Its examples connect research, product creation, sales materials, follow-up, and operations.\n\nKey factors:\n- Audience specificity\n- Problem frequency and urgency\n- Distinct process or expertise\n- Clear boundary around what is not included\n\nPractical guidance: Draft three versions, show them to people in the intended audience, and ask what they think they would receive. Keep the version that produces the clearest explanation and strongest next-step response.\n\nThe business’s conversational teaching style supports plain-language positioning rather than technical jargon.",
+        "description": "Replace broad AI claims with a specific audience, recurring problem, deliverable, and process. Explain what you do differently, what the customer must provide, and what remains under human review. Test several plain-language versions with target buyers and keep the one they understand fastest."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

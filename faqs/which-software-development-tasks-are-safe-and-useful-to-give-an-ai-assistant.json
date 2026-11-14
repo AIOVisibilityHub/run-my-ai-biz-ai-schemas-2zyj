@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which software development tasks are safe and useful to give an AI assistant?",
+  "description": "Good starting tasks include boilerplate, documentation drafts, test ideas, code explanations, refactoring suggestions, link checks, and repetitive data transfor",
+  "url": "https://runmyaibusiness.com/faq/which-software-development-tasks-are-safe-and-useful-to-give-an-ai-assistant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which software development tasks are safe and useful to give an AI assistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is useful for repeated, well-defined tasks with clear inputs and outputs. Examples include drafting documentation, creating test cases, explaining unfamiliar code, producing boilerplate, organizing research, checking links, and preparing routine content for review.\n\nIn the Run My AI Business context, these uses can support newsletters, digital products, websites, funnels, and administrative workflows. They should remain bounded by instructions, source requirements, and owner approval.\n\nKey factors:\n- How repetitive the task is.\n- Whether correctness can be checked.\n- Whether the output affects money, access, or customers.\n- How easily an error can be reversed.\n\nPractical guidance: Start with one recurring task and define its input format, output format, review checklist, and escalation rule. Expand only after the workflow performs consistently.\n\nThis focused method matches Run My AI Business’s emphasis on building one assistant, using it, and then adding related workflows.",
+        "description": "Good starting tasks include boilerplate, documentation drafts, test ideas, code explanations, refactoring suggestions, link checks, and repetitive data transformations. Give AI clear inputs and require review, especially when output affects customers, money, permissions, or production systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

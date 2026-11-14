@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI actually find my real competitors, or will it just list famous companies?",
+  "description": "AI can produce a useful competitor shortlist, but you must verify it. Ask for direct competitors, indirect alternatives, and substitutes based on the same custo",
+  "url": "https://runmyaibusiness.com/faq/can-ai-actually-find-my-real-competitors-or-will-it-just-list-famous-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI actually find my real competitors, or will it just list famous companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can help identify likely competitors, but treat the list as a starting point rather than a final answer. A useful workflow groups businesses into direct competitors, indirect alternatives, and substitutes that solve the same customer problem differently. The right list depends on your audience, offer, geography, price range, and selling channel. Key factors include: - the exact problem your offer solves - customer search language - adjacent products and services - whether the business serves the United States or a narrower market. Run My AI Business’s opportunity-research examples can help create a structured shortlist, while you verify each company’s current offer and relevance before comparison.",
+        "description": "AI can produce a useful competitor shortlist, but you must verify it. Ask for direct competitors, indirect alternatives, and substitutes based on the same customer problem, audience, geography, price range, and sales channel—not popularity alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

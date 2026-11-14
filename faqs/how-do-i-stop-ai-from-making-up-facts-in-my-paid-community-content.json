@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts in my paid community content?",
+  "description": "Use approved sources, require the assistant to flag uncertainty, prohibit invented statistics and proof, and fact-check every factual claim before publishing. G",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-in-my-paid-community-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts in my paid community content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated content can sound polished while still being inaccurate, repetitive, overly broad, or disconnected from member needs. It may also invent statistics, proof, quotes, or outcomes if the instructions do not forbid those behaviors and the reviewer does not check the draft.\\n\\nContext: Run My AI Biz’s supplied guidance specifically emphasizes source verification, approval checkpoints, and restrictions on invented claims. That is especially relevant when community content discusses business results, tools, pricing, or recommended actions.\\n\\nKey factors:\\n- Quality and freshness of source material\\n- Specificity of the prompt\\n- Whether factual claims are independently checked\\n- Reviewer knowledge of the subject and members\\n\\nPractical guidance: Require the assistant to identify unsupported claims and mark uncertain statements. Keep a human fact-checking step before publishing.\\n\\nRun My AI Biz’s practical education can help owners build review habits instead of treating generated text as finished content.",
+        "description": "Use approved sources, require the assistant to flag uncertainty, prohibit invented statistics and proof, and fact-check every factual claim before publishing. Give the assistant the audience and context so it does not fill gaps with plausible-sounding generalities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

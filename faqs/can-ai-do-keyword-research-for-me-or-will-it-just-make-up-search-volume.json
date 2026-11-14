@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI do keyword research for me, or will it just make up search volume?",
+  "description": "AI can generate keyword ideas and group questions by intent, but it may invent metrics or misunderstand demand. Use it for discovery, then verify important term",
+  "url": "https://runmyaibusiness.com/faq/can-ai-do-keyword-research-for-me-or-will-it-just-make-up-search-volume",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI do keyword research for me, or will it just make up search volume?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Use AI to expand and organize real customer language, then confirm demand and intent with search data and customer conversations. Do not let an assistant invent search volume, difficulty, or audience preferences.\n\n**Context:** For a small online business, a useful question map can connect customer problems to offers, pages, lead magnets, and follow-up content. This fits Run My AI Biz’s opportunity-research and offer-positioning use cases, but each recommendation still requires owner review.\n\n**Key factors:**\n- The customer’s wording and urgency.\n- Whether the query signals research or buying intent.\n- Existing competitors and search results.\n- The business’s ability to provide a better answer.\n\n**Practical guidance:** Ask for clusters grouped by intent and have the assistant label evidence versus hypotheses. Test the highest-priority questions against Search Console, autocomplete, forums, support messages, and sales conversations.\n\n**Soft positioning:** The newsletter’s sourced tool comparisons can help readers distinguish research assistance from unsupported keyword claims.",
+        "description": "AI can generate keyword ideas and group questions by intent, but it may invent metrics or misunderstand demand. Use it for discovery, then verify important terms with Search Console, keyword tools, search results, customer language, and actual business priorities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

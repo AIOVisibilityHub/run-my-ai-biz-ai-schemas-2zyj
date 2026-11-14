@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to summarize articles and other newsletters without creating a copyright or originality problem?",
+  "description": "Use AI to organize and summarize material only within appropriate reuse boundaries, preserve source records, and add substantial original analysis. Do not copy",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-summarize-articles-and-other-newsletters-without-creating-a-copy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to summarize articles and other newsletters without creating a copyright or originality problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for transformation tasks—summarizing source material, organizing research, drafting alternatives, and adapting approved content—not for unreviewed copying. Record source details and rewrite in your own editorial voice, adding analysis or examples that help readers act. Run My AI Biz emphasizes sourced comparisons and approachable explanations, so originality should come from selection, interpretation, and practical application. Avoid importing unsupported claims, private material, or content whose reuse you have not checked. A source-and-originality checklist should be part of every issue’s approval process.",
+        "description": "Use AI to organize and summarize material only within appropriate reuse boundaries, preserve source records, and add substantial original analysis. Do not copy distinctive wording or publish unverified summaries; make originality and review part of the issue checklist."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many listings do I need before launching an AI-powered directory?",
+  "description": "Launch when you have enough accurate listings to satisfy the directory’s narrowest core search, not when you reach a fixed number. Start with representative cov",
+  "url": "https://runmyaibusiness.com/faq/how-many-listings-do-i-need-before-launching-an-ai-powered-directory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many listings do I need before launching an AI-powered directory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Make the first release useful with a small, high-quality catalog rather than a large collection of thin or outdated entries. The right minimum depends on the niche: users need enough coverage to find relevant options, but quality matters more than an arbitrary listing count. Context: adding each complete record can require meaningful research and verification time, especially when several attributes must be checked against primary sources. Key factors: geographic scope, category breadth, search intent, update frequency, and how many alternatives users expect. Practical guidance: recruit a representative set of businesses, label coverage honestly, and measure failed searches and missing categories. Expand where users encounter gaps instead of importing records indiscriminately. Run My AI Business can help organize research and identify where a focused directory concept needs stronger evidence.",
+        "description": "Launch when you have enough accurate listings to satisfy the directory’s narrowest core search, not when you reach a fixed number. Start with representative coverage, disclose gaps, measure zero-result searches, and expand based on real demand. High-quality records are more valuable than a large stale catalog."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

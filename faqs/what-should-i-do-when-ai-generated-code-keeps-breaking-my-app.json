@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI-generated code keeps breaking my app?",
+  "description": "Stop unrelated changes, preserve the failing example, inspect logs, and reproduce the problem consistently. Revert if needed, isolate one variable, add a regres",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-ai-generated-code-keeps-breaking-my-app",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI-generated code keeps breaking my app?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the AI-generated code fails, first preserve the failing example and stop making unrelated changes. Ask the assistant to explain the likely cause, but use logs, tests, reproduction steps, and documentation to confirm the diagnosis.\n\nRepeatedly prompting for random fixes can create a patchwork of changes that hides the original defect. This is especially risky in integrations, payment flows, authentication, and data processing.\n\nKey factors:\n- A reliable reproduction case.\n- Recent code and configuration changes.\n- Error logs and expected behavior.\n- Whether the failure affects data or access.\n\nPractical guidance: Revert to the last known-good version if necessary, isolate one variable, add a regression test, and review the complete diff. Escalate to a qualified developer when the cause involves security, data loss, production outages, or unfamiliar infrastructure.\n\nRun My AI Business supports staged troubleshooting and clear review boundaries rather than endless prompt experimentation.",
+        "description": "Stop unrelated changes, preserve the failing example, inspect logs, and reproduce the problem consistently. Revert if needed, isolate one variable, add a regression test, and seek qualified help for security issues, data loss, outages, or unfamiliar infrastructure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

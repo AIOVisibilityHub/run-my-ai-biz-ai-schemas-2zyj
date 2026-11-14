@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI content support is actually helping my membership community?",
+  "description": "Track preparation time, correction rate, useful member responses, unanswered questions, support workload, and retention signals. Compare results with a pre-AI b",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-content-support-is-actually-helping-my-membership-commu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI content support is actually helping my membership community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measure whether the workflow improves consistency, reduces preparation time, and helps members find useful material—not merely how many posts AI produces. Track draft-to-publish time, member replies, unanswered questions, repeated topics, content corrections, participation by content type, and cancellations where appropriate.\\n\\nContext: More content can create noise if it does not support the community’s purpose. Run My AI Biz’s approach connects content production with broader business goals, so the measurement plan should reflect member usefulness and operational effort.\\n\\nKey factors:\\n- Baseline time before automation\\n- Quality and correction rate\\n- Member engagement with specific formats\\n- Support workload and response consistency\\n\\nPractical guidance: Record a baseline for two to four content cycles, then compare the same measures after introducing one workflow. Ask members directly what helped and what felt repetitive.\\n\\nUse the results to refine the assistant rather than assuming automation is successful because output volume increased.",
+        "description": "Track preparation time, correction rate, useful member responses, unanswered questions, support workload, and retention signals. Compare results with a pre-AI baseline and ask members whether the content helps them achieve the community’s purpose."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

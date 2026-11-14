@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m overwhelmed by AI website tools—what is the safest first automation to build?",
+  "description": "Choose one repetitive, low-risk task with clear inputs and outputs, such as drafting a page or checking links. Document the workflow, require review, use it rep",
+  "url": "https://runmyaibusiness.com/faq/i-m-overwhelmed-by-ai-website-tools-what-is-the-safest-first-automation-to-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m overwhelmed by AI website tools—what is the safest first automation to build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one recurring website-related task, such as drafting a newsletter landing page, organizing product content, checking links, or preparing a content update. Use the workflow repeatedly, review its output, refine the instructions, and only then add another assistant.\n\nContext: Run My AI Business recommends selecting relevant workflows, building one assistant, using it, and expanding gradually. Attempting to automate the entire website at once makes errors harder to trace and can create unclear ownership.\n\nKey factors:\n- Frequency and repetition of the task\n- Clear inputs and expected output\n- Cost of an incorrect result\n- Required integrations and permissions\n\nPractical guidance: Document the trigger, inputs, steps, approval point, output, and exception process. Keep publishing, spending, messaging, and account changes behind explicit approval.\n\nThis focused approach reflects the business’s educational emphasis on manageable, owner-directed systems.",
+        "description": "Choose one repetitive, low-risk task with clear inputs and outputs, such as drafting a page or checking links. Document the workflow, require review, use it repeatedly, and expand only after it works reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

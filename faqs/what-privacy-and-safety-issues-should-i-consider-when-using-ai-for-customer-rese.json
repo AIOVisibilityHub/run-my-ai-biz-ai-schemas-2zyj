@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What privacy and safety issues should I consider when using AI for customer research?",
+  "description": "Avoid sharing unnecessary personal or confidential data, define who can access research inputs, and review the platform’s handling terms before uploading custom",
+  "url": "https://runmyaibusiness.com/faq/what-privacy-and-safety-issues-should-i-consider-when-using-ai-for-customer-rese",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What privacy and safety issues should I consider when using AI for customer research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to identify patterns and draft recommendations, but do not allow it to publish claims, contact prospects, spend money, or change live assets without review. The supplied business approach specifically emphasizes approval before messages, publication, spending, or service sign-ups, plus source verification and restrictions on invented statistics or proof. Key factors include: - access permissions - sensitivity of customer data - consequences of an error - who owns final approval. Keep research inputs organized, remove unnecessary personal information, and test the workflow on a small sample. Review both the evidence and the action before release.",
+        "description": "Avoid sharing unnecessary personal or confidential data, define who can access research inputs, and review the platform’s handling terms before uploading customer material. Require human approval before outreach or publication, and test the workflow with a small, de-identified sample when possible."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

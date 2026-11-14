@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI good at building internal links, or will it create a confusing mess?",
+  "description": "AI can find plausible internal-link opportunities, but it may suggest forced or irrelevant connections. Require the source page, destination, reason, and anchor",
+  "url": "https://runmyaibusiness.com/faq/is-ai-good-at-building-internal-links-or-will-it-create-a-confusing-mess",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI good at building internal links, or will it create a confusing mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI can suggest internal links by matching related questions, products, and supporting pages, but the owner should approve the destination and anchor text. Links should help people complete a task, not merely increase link counts.\n\n**Context:** This is a relatively manageable first workflow for Run My AI Biz readers because it can be reviewed page by page without granting publishing authority. It also connects educational content, lead magnets, funnels, and product pages into a clearer path.\n\n**Key factors:**\n- Relationship between source and destination.\n- User intent and journey stage.\n- Accurate, descriptive anchor text.\n- Avoidance of orphaned or circular paths.\n\n**Practical guidance:** Ask for a table showing source page, proposed link, reason, anchor text, and confidence. Reject links that are forced, misleading, outdated, or aimed only at manipulating relevance.\n\n**Soft positioning:** The business’s coordinated-workflow examples can help owners connect content and offers while retaining approval over every customer-facing change.",
+        "description": "AI can find plausible internal-link opportunities, but it may suggest forced or irrelevant connections. Require the source page, destination, reason, and anchor text for each suggestion, then approve only links that genuinely help readers and support a clear site structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

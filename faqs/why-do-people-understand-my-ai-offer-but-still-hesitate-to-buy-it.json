@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do people understand my AI offer but still hesitate to buy it?",
+  "description": "Hesitation often comes from unclear deliverables, responsibilities, support, ownership, or risk. Explain what the customer receives, what they provide, how revi",
+  "url": "https://runmyaibusiness.com/faq/why-do-people-understand-my-ai-offer-but-still-hesitate-to-buy-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do people understand my AI offer but still hesitate to buy it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Make the AI offer easier to buy by stating exactly what the customer receives, what they must provide, how review works, and what is outside scope. Ambiguity creates objections even when the underlying idea is valuable.\n\nContext: Run My AI Business workflows may involve prompts, connected platforms, source verification, account permissions, and owner approval. Customers should know whether they receive education, templates, setup help, drafts, ongoing management, or a combination.\n\nKey factors:\n- Defined deliverables\n- Customer responsibilities\n- Support and revision limits\n- Ownership of accounts and outputs\n\nPractical guidance: Put the scope in a short checklist and show a sample deliverable where appropriate. Include a clear escalation path for inaccurate, incomplete, or delayed work.\n\nThe business’s plain-language educational approach is useful for explaining technical dependencies without overpromising.",
+        "description": "Hesitation often comes from unclear deliverables, responsibilities, support, ownership, or risk. Explain what the customer receives, what they provide, how review works, what revisions include, and what is excluded. A sample deliverable and defined pilot can reduce uncertainty."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

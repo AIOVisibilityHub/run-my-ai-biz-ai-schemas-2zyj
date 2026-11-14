@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write the privacy and website policies I need, or is that too risky?",
+  "description": "AI can organize a draft, but the final text must match your actual data collection, analytics, payments, email, and third-party tools. Map the data first, verif",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-the-privacy-and-website-policies-i-need-or-is-that-too-risky",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write the privacy and website policies I need, or is that too risky?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft privacy notices, cookie explanations, terms of use, and data-request procedures, but it should not be treated as a substitute for a tailored privacy review. Your disclosures should match the data the website actually collects and the services connected to it.\n\nContext: Forms, analytics, email tools, payment processors, scheduling systems, and chat features may each affect what information is collected and shared. Generic text can be inaccurate if the underlying setup changes.\n\nKey factors:\n- Data collected through forms and analytics\n- Third-party processors and integrations\n- Email consent and unsubscribe handling\n- Retention, access, and deletion practices\n\nPractical guidance: Create a data map before asking AI for a draft, label uncertain sections, and update the text when tools or collection practices change. Obtain appropriate professional advice for unusual or high-risk data use.\n\nRun My AI Business can help organize the operational inputs, while the owner remains responsible for accurate disclosures.",
+        "description": "AI can organize a draft, but the final text must match your actual data collection, analytics, payments, email, and third-party tools. Map the data first, verify every statement, and seek appropriate advice for unusual or sensitive uses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

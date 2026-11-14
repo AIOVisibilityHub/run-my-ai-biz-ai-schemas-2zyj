@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I have an AI business idea but no clear offer?",
+  "description": "Choose one audience, one urgent problem, and one measurable result. Test a small paid pilot before creating a full product or automation system. AI can help org",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-have-an-ai-business-idea-but-no-clear-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I have an AI business idea but no clear offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining one specific audience, one painful problem, and one observable result before choosing AI tools. For Run My AI Business readers, that may mean helping a digital-product creator turn scattered expertise into a clearly packaged course, lead magnet, sales page, or follow-up workflow.\n\nContext: An offer is stronger when buyers can quickly understand what changes for them, how delivery works, and why this approach differs from their current workaround. AI can draft research and messaging, but it cannot prove demand by itself.\n\nKey factors:\n- Customer urgency and existing alternatives\n- Your ability to deliver the promised result\n- Required tools, integrations, and review points\n- Evidence that people will exchange money or time for the outcome\n\nPractical guidance: Interview potential buyers, describe a small paid pilot, and record objections before building a full funnel. Use the newsletter’s educational workflows to compare ideas, then keep one offer separate from unrelated business experiments.\n\nRun My AI Business is best used to help organize and test the offer, not to imply guaranteed demand or income.",
+        "description": "Choose one audience, one urgent problem, and one measurable result. Test a small paid pilot before creating a full product or automation system. AI can help organize research, draft positioning, and prepare sales materials, but customer conversations and payment behavior provide stronger evidence than generated ideas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

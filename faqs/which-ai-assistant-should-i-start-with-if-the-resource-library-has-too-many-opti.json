@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which AI assistant should I start with if the resource library has too many options?",
+  "description": "Start with one workflow tied to a current bottleneck, such as research, product outlining, newsletter drafting, funnel preparation, or administration. Choose th",
+  "url": "https://runmyaibusiness.com/faq/which-ai-assistant-should-i-start-with-if-the-resource-library-has-too-many-opti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which AI assistant should I start with if the resource library has too many options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to build all 38 bot examples or launch several offers at once. Start with the workflow closest to a current business problem, such as opportunity research, product outlining, newsletter drafting, funnel preparation, or recurring administration.\n\nContext: The 38 Bot Empire is described as a library of adaptable master prompts and resources, not 38 identical software products or 38 proven income streams. Each workflow still requires customization, platform access, review, and maintenance.\n\nKey factors:\n- Immediate business bottleneck\n- Availability of inputs and source material\n- Ease of reviewing the output\n- Ability to measure a useful result\n\nPractical guidance: Choose one assistant, define its responsibilities and limits, run it repeatedly, and document what needs correction. Add another assistant only when the first workflow is stable enough to support the next step.\n\nRun My AI Business promotes focused experimentation instead of collecting tools without implementation.",
+        "description": "Start with one workflow tied to a current bottleneck, such as research, product outlining, newsletter drafting, funnel preparation, or administration. Choose the assistant whose output is easiest to review and measure. Expand only after the first workflow works consistently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

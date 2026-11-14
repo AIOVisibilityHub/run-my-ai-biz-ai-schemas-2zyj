@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when AI writes my application code, and how do I catch it?",
+  "description": "AI-written code may contain logic errors, insecure input handling, vulnerable dependencies, or unsafe permissions. Catch problems with version control, tests, s",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-ai-writes-my-application-code-and-how-do-i-catch-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when AI writes my application code, and how do I catch it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated code can contain security weaknesses, incorrect assumptions, vulnerable dependencies, or unsafe handling of input. It can also produce code that appears polished while failing under unusual conditions.\n\nSecurity should be treated as a lifecycle activity rather than a final proofreading step. Current technical guidance highlights prompt filtering, static analysis, software composition analysis, and runtime testing as useful controls for AI-assisted workflows.\n\nKey factors:\n- Input validation and authentication.\n- Dependency provenance and updates.\n- Secret handling and access controls.\n- Tests for abuse cases and failure paths.\n\nPractical guidance: Use version control, automated tests, static analysis, dependency checks, and an independent security review for important systems. Never let generated code publish, spend money, or change permissions without explicit approval.\n\nRun My AI Business’s educational approach can help owners define review checkpoints before connecting assistants to business systems.",
+        "description": "AI-written code may contain logic errors, insecure input handling, vulnerable dependencies, or unsafe permissions. Catch problems with version control, tests, static analysis, dependency checks, abuse-case testing, and human review before deployment or account access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

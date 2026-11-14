@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep an AI-built website from becoming outdated or breaking six months from now?",
+  "description": "Create a maintenance calendar for links, forms, offers, analytics, backups, security, and recurring content. Document account ownership, renewals, integrations,",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-keep-an-ai-built-website-from-becoming-outdated-or-breaking-six-months",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep an AI-built website from becoming outdated or breaking six months from now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat an AI-created site as an evolving business asset, not a one-time project. Schedule checks for links, forms, hours, prices, product delivery, analytics, backups, security settings, and the accuracy of recurring content.\n\nContext: Website owners commonly worry whether an AI site remains manageable months later. Run My AI Business addresses ongoing operations through examples involving scheduled research, support workflows, billing checks, and server-health reporting, while still requiring owner oversight.\n\nKey factors:\n- Frequency of content and offer changes\n- Number of connected services\n- Backup and rollback capability\n- Clear responsibility for approvals\n\nPractical guidance: Keep a maintenance calendar and a short operating document explaining accounts, renewals, integrations, and safe editing boundaries. Test forms and key actions after significant changes.\n\nThe strongest long-term result comes from a maintainable workflow, not merely a fast initial launch.",
+        "description": "Create a maintenance calendar for links, forms, offers, analytics, backups, security, and recurring content. Document account ownership, renewals, integrations, and rollback steps, then test the main customer action after major changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

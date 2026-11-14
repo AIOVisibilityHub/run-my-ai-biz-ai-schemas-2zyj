@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to build an AI-powered business directory?",
+  "description": "Choose one audience and search problem first, then define the listing fields, categories, approval rules, and revenue model. Test the concept with a small set o",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-build-an-ai-powered-business-directory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to build an AI-powered business directory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining a narrow audience, directory purpose, and listing schema before choosing software. For Run My AI Business readers, an AI-assisted directory could support local businesses, professional services, software tools, or another clearly bounded niche, but the first version should solve one search problem well. Context: AI can help draft categories, fields, descriptions, and filters, yet it cannot decide whether the directory has enough demand or trustworthy data. Key factors: target users, geographic scope, required listing fields, submission rules, search behavior, and monetization. Practical guidance: interview potential users, collect a small sample of listings, and test whether people can find a useful result quickly. Write down which actions require owner approval before implementation. Run My AI Business can help entrepreneurs evaluate the opportunity and organize the first workflow without treating the concept as guaranteed income.",
+        "description": "Choose one audience and search problem first, then define the listing fields, categories, approval rules, and revenue model. Test the concept with a small set of real listings before paying for custom development. AI can speed up planning and drafts, but demand and data quality still require human validation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

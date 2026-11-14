@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI-generated directory pages rank on Google?",
+  "description": "They can rank when they provide accurate, useful, distinct information, but AI text alone is not a ranking strategy. Create unique listing and category pages, u",
+  "url": "https://runmyaibusiness.com/faq/can-ai-generated-directory-pages-rank-on-google",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI-generated directory pages rank on Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated pages do not automatically earn search visibility. Each page needs a real purpose, accurate unique information, useful titles and descriptions, crawlable links, sensible internal linking, and quality control. Context: directory guidance commonly recommends unique listing and category metadata, structured information, and a sitemap, but automated page volume without substance can create thin or repetitive content. Key factors: uniqueness, indexable URLs, duplicate pages, canonical handling, business accuracy, and user value. Practical guidance: index only pages that add meaningful value, improve weak records before publishing them, and monitor search performance and errors. Do not generate thousands of location pages merely by swapping city names. Run My AI Business can help plan content and review workflows, but search results remain dependent on quality, relevance, and sustained maintenance.",
+        "description": "They can rank when they provide accurate, useful, distinct information, but AI text alone is not a ranking strategy. Create unique listing and category pages, use clear metadata and structured information, avoid thin city-swapped pages, and monitor indexing and user engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

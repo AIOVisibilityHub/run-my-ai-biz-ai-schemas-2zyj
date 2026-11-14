@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is my AI newsletter not growing even though I publish consistently?",
+  "description": "Consistency cannot overcome a vague promise, broad audience, weak signup page, disconnected lead magnet, or poor channel fit. Audit subscriber conversion and re",
+  "url": "https://runmyaibusiness.com/faq/why-is-my-ai-newsletter-not-growing-even-though-i-publish-consistently",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my AI newsletter not growing even though I publish consistently?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Growth can be slower than expected when the newsletter is broad, the signup page is vague, the lead magnet is disconnected, or distribution reaches people who do not need the content. More AI automation will not solve a positioning or audience-fit problem.\n\nContext: Community advice about stalled AI newsletters often points toward narrowing the audience, improving specificity, using useful formats, and diversifying distribution. These are hypotheses to test, not guaranteed formulas.\n\nKey factors:\n- Visitor-to-subscriber conversion.\n- Subscriber quality and retention.\n- Topic relevance and issue usefulness.\n- Distribution channel fit.\n\nPractical guidance: Audit the last four issues and classify each by topic, format, acquisition source, and subscriber outcome. Make one change—such as a sharper promise or stronger lead magnet—then compare results over a defined test period.\n\nRun My AI Biz’s focus on practical business applications gives readers several concrete dimensions to audit without promising a fixed growth rate.",
+        "description": "Consistency cannot overcome a vague promise, broad audience, weak signup page, disconnected lead magnet, or poor channel fit. Audit subscriber conversion and retention, then test one focused change—such as a narrower audience or more actionable issue format."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

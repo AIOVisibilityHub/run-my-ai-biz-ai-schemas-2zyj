@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build an AI business directory without knowing how to code?",
+  "description": "Yes. AI-assisted and no-code platforms can create a basic directory, but you still need to define the database, search fields, moderation process, user permissi",
+  "url": "https://runmyaibusiness.com/faq/can-i-build-an-ai-business-directory-without-knowing-how-to-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build an AI business directory without knowing how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a small directory can be created with no-code or AI-assisted tools, but “no coding” does not mean no setup. The platform still needs a database, submission workflow, search and filters, administration controls, hosting, and payment connections if listings are paid. Context: AI builders may generate screens and basic structures quickly, while the owner remains responsible for permissions, moderation, data rules, and testing. Key factors: customization limits, export options, integrations, vendor lock-in, recurring fees, and whether the tool supports location and category fields. Practical guidance: build a prototype with 20–50 listings and test submissions, edits, duplicate detection, and mobile use before committing. Run My AI Business’s educational workflows are most useful for turning the idea into manageable tasks rather than promising a fully automatic build.",
+        "description": "Yes. AI-assisted and no-code platforms can create a basic directory, but you still need to define the database, search fields, moderation process, user permissions, and payment setup. Prototype with a small listing set first, then confirm that the platform can handle your required integrations and future growth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to give an AI website assistant my customer information and business logins?",
+  "description": "Do not share sensitive information or credentials by default. Minimize and anonymize data, check provider controls, use secure connections and limited permissio",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-give-an-ai-website-assistant-my-customer-information-and-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to give an AI website assistant my customer information and business logins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not place confidential customer, financial, login, health, or proprietary business information into an AI tool unless its terms, settings, and organizational controls are suitable for that use. Minimize data, remove identifying details, and keep credentials out of prompts.\n\nContext: Website workflows may involve forms, support drafts, prospect research, billing, and account connections. Run My AI Business emphasizes secure connections, review checkpoints, and owner control, but a prompt alone does not make data handling safe.\n\nKey factors:\n- Type and sensitivity of the information\n- Provider retention and training settings\n- Access permissions and connected services\n- Human review and deletion practices\n\nPractical guidance: Create a simple data-handling rule before building assistants. Use placeholders for sensitive values, restrict permissions, enable multi-factor authentication, and review connected apps periodically.\n\nSecurity-conscious setup is essential when educational workflows become operational systems.",
+        "description": "Do not share sensitive information or credentials by default. Minimize and anonymize data, check provider controls, use secure connections and limited permissions, enable multi-factor authentication, and review integrations regularly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

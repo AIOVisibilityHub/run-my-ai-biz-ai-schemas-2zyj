@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI customer research enough, or do I still need interviews and surveys?",
+  "description": "AI research is useful for finding patterns and preparing questions, but it should not replace direct customer evidence when the decision is important or the aud",
+  "url": "https://runmyaibusiness.com/faq/is-ai-customer-research-enough-or-do-i-still-need-interviews-and-surveys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI customer research enough, or do I still need interviews and surveys?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for desk research, synthesis, and question development; use interviews, surveys, or usability tests when you need direct evidence from your own audience. Public competitor reviews may reveal recurring complaints, but they do not prove that your customers share those views. Key factors include: - whether the decision involves high cost or risk - how specific your audience is - whether you need broad patterns or personal explanations - how quickly the decision must be made. Run My AI Business’s research and customer-focused workflows can prepare interview questions, survey drafts, and comparison frameworks. Keep humans responsible for recruiting participants, interpreting nuance, and approving conclusions.",
+        "description": "AI research is useful for finding patterns and preparing questions, but it should not replace direct customer evidence when the decision is important or the audience is specialized. Combine public research with interviews, surveys, or usability tests and compare whether the findings agree."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

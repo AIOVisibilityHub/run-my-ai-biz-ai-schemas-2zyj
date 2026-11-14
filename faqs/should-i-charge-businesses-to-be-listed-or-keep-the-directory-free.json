@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I charge businesses to be listed, or keep the directory free?",
+  "description": "Start free when you need coverage and user trust, then test paid upgrades for real value such as enhanced profiles, featured placement, analytics, or qualified",
+  "url": "https://runmyaibusiness.com/faq/should-i-charge-businesses-to-be-listed-or-keep-the-directory-free",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I charge businesses to be listed, or keep the directory free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A free listing can attract initial coverage, while paid tiers may offer enhanced fields, featured placement, lead tools, or analytics. The distinction must be understandable and should not make free records look incomplete or untrustworthy. Context: membership tiers and sponsored placements are common directory features, but the right structure depends on whether businesses receive measurable value. Key factors: audience size, listing engagement, update frequency, competition, support costs, and the fairness of ranking rules. Practical guidance: define exactly what each tier includes, avoid promising leads, and give businesses a way to cancel or correct information. Track conversion from listing views to inquiries before expanding paid features. Run My AI Business can help owners draft comparison tables and test an offer while retaining human review of claims.",
+        "description": "Start free when you need coverage and user trust, then test paid upgrades for real value such as enhanced profiles, featured placement, analytics, or qualified inquiries. Explain ranking rules clearly, avoid lead guarantees, and measure engagement before adding fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

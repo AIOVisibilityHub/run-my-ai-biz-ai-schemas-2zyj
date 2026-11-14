@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does an AI SEO assistant need from me to do a good job?",
+  "description": "Provide your audience, offers, priorities, brand voice, customer questions, evidence standards, website structure, and approval rules. Do not place passwords or",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-an-ai-seo-assistant-need-from-me-to-do-a-good-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does an AI SEO assistant need from me to do a good job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Give an AI assistant enough context to understand the business, but avoid sharing secrets or unnecessary personal and customer data. Use a structured brief covering audience, offers, voice, exclusions, evidence standards, and approval rules.\n\n**Context:** Run My AI Biz’s customizable master prompts are intended to be adapted to a niche, audience, products, and objectives. A prompt alone is not a complete system; integrations, permissions, secure connections, and owner review affect what the workflow can actually do.\n\n**Key factors:**\n- Business goals and priority pages.\n- Customer and product terminology.\n- Approved and prohibited claims.\n- Data handling and account permissions.\n\n**Practical guidance:** Start with non-sensitive information and define what the assistant must ask before proceeding. Keep credentials out of prompts, limit access, and document who approves content, edits, messages, and external actions.\n\n**Soft positioning:** Run My AI Biz can help owners translate everyday business instructions into reusable workflows without requiring coding knowledge.",
+        "description": "Provide your audience, offers, priorities, brand voice, customer questions, evidence standards, website structure, and approval rules. Do not place passwords or unnecessary personal data in prompts, and specify which claims or actions require human confirmation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

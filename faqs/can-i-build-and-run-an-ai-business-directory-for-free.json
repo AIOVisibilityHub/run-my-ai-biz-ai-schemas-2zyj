@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build and run an AI business directory for free?",
+  "description": "You may prototype one with free tiers, but a public directory usually incurs domain, hosting, AI usage, email, payment, data, moderation, or maintenance costs.",
+  "url": "https://runmyaibusiness.com/faq/can-i-build-and-run-an-ai-business-directory-for-free",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build and run an AI business directory for free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat a “free” AI directory as a prototype opportunity, not as cost-free operations. You may still pay for a domain, hosting, AI usage, database capacity, email, payment processing, data preparation, moderation, analytics, and maintenance. Context: platform pricing examples show that free or low-cost tiers often limit records, usage, features, or production hosting, while custom systems add development and infrastructure expenses. Key factors: listing volume, AI generation frequency, traffic, storage, integrations, support, and vendor pricing changes. Practical guidance: write a monthly operating budget and a threshold for upgrading. Track the cost per approved listing and per useful visitor action. Run My AI Business can help readers compare tools and identify recurring tasks before they commit to a paid stack.",
+        "description": "You may prototype one with free tiers, but a public directory usually incurs domain, hosting, AI usage, email, payment, data, moderation, or maintenance costs. Check limits on listings and usage, calculate ongoing expenses, and track cost per approved listing and useful visitor action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

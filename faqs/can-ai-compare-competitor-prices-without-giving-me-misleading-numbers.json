@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI compare competitor prices without giving me misleading numbers?",
+  "description": "AI can collect and organize public pricing, but verify dates, plan limits, billing terms, add-ons, discounts, and custom-quote conditions. Ask for an apples-to-",
+  "url": "https://runmyaibusiness.com/faq/can-ai-compare-competitor-prices-without-giving-me-misleading-numbers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI compare competitor prices without giving me misleading numbers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can summarize visible competitor pricing, but pricing pages often omit discounts, usage limits, onboarding costs, regional differences, or custom quotes. Treat every figure as evidence tied to a date and page, not as a permanent fact. Key factors include: - plan limits - included features - billing frequency - add-ons and implementation work. Ask the workflow to create an apples-to-apples comparison and mark missing information rather than estimating it. Use the result to understand positioning and customer tradeoffs, not to copy a competitor’s price automatically.",
+        "description": "AI can collect and organize public pricing, but verify dates, plan limits, billing terms, add-ons, discounts, and custom-quote conditions. Ask for an apples-to-apples comparison and clear missing-data labels. Use pricing research to understand value and tradeoffs, not to copy a number blindly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

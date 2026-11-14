@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell whether my AI-built website is actually working?",
+  "description": "Track the action the site is meant to produce: qualified inquiries, signups, downloads, purchases, or bookings. Test that action on mobile, confirm analytics re",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-tell-whether-my-ai-built-website-is-actually-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell whether my AI-built website is actually working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A website can be attractive and still fail if visitors cannot quickly understand the offer or complete the intended action. Measure outcomes such as qualified inquiries, email signups, downloads, purchases, booking requests, and completed actions—not simply whether AI produced the pages.\n\nContext: Run My AI Business connects website work with lead magnets, funnels, email follow-up, digital products, and ongoing operations. That broader view helps owners test whether pages support a real business workflow.\n\nKey factors:\n- Clarity of the offer and next step\n- Mobile completion of the main action\n- Form and checkout reliability\n- Analytics configured for meaningful events\n\nPractical guidance: Choose one primary conversion event and test it from a visitor’s perspective. Review the data after launch, then improve the weakest step rather than redesigning everything at once.\n\nAI can generate test ideas and reports, while the owner decides which changes serve the business.",
+        "description": "Track the action the site is meant to produce: qualified inquiries, signups, downloads, purchases, or bookings. Test that action on mobile, confirm analytics records it, and improve the weakest step using real visitor behavior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to build an AI-assisted paid newsletter but have no idea where to start?",
+  "description": "Choose one audience and one recurring problem before selecting tools. Draft three sample issues, ask potential readers what they would pay to learn or accomplis",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-build-an-ai-assisted-paid-newsletter-but-hav",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to build an AI-assisted paid newsletter but have no idea where to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining one specific reader and the recurring problem your newsletter will solve. For Run My AI Biz, that could mean practical AI workflows for solopreneurs rather than broad AI news. A focused promise makes research, issue planning, pricing, and promotion easier to evaluate. Key factors include reader urgency, available expertise, publishing frequency, and whether the benefit is information, implementation help, or both. Write a one-sentence promise, outline three sample issues, and ask potential readers what outcome they would pay to achieve. Run My AI Biz can help you turn that initial idea into a structured publishing workflow, but audience validation should come before extensive automation.",
+        "description": "Choose one audience and one recurring problem before selecting tools. Draft three sample issues, ask potential readers what they would pay to learn or accomplish, and use that feedback to shape the newsletter promise, format, and publishing workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

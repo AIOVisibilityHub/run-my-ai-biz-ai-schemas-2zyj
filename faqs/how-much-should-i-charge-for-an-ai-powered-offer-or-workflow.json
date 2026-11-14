@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I charge for an AI-powered offer or workflow?",
+  "description": "Price according to customer value, scope, delivery effort, support, review time, and software costs—not the number of prompts or bots. Start with a defined pilo",
+  "url": "https://runmyaibusiness.com/faq/how-much-should-i-charge-for-an-ai-powered-offer-or-workflow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I charge for an AI-powered offer or workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right price depends on the customer’s perceived value, delivery effort, risk, support level, and the cost of tools or human review. Avoid pricing solely by the number of prompts, bots, or AI-generated pages included.\n\nContext: Run My AI Business discusses digital products, funnels, newsletters, and workflows with different levels of customization. A reusable prompt library may reduce setup time, but it does not remove platform, integration, quality-control, or support costs.\n\nKey factors:\n- One-time product versus ongoing service\n- Standardized versus customized delivery\n- Customer access, support, and revisions\n- Software usage and maintenance costs\n\nPractical guidance: Estimate the time to research, produce, review, deliver, and support one customer. Test a clearly scoped pilot price, state what is excluded, and revisit the price after observing acceptance and delivery costs.\n\nThe educational content can help compare pricing considerations, but it does not establish a universal price for every AI offer.",
+        "description": "Price according to customer value, scope, delivery effort, support, review time, and software costs—not the number of prompts or bots. Start with a defined pilot, state included revisions and exclusions, then adjust after measuring delivery cost and buyer willingness to continue."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

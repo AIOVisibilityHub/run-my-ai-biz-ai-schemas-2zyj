@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which SEO tasks can AI actually handle, and which ones still need a human?",
+  "description": "AI can help with research, clustering, outlines, content audits, internal-link ideas, and technical checklists. Humans should decide priorities, verify claims,",
+  "url": "https://runmyaibusiness.com/faq/which-seo-tasks-can-ai-actually-handle-and-which-ones-still-need-a-human",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which SEO tasks can AI actually handle, and which ones still need a human?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI can accelerate keyword discovery, clustering, outlines, internal-link suggestions, content refreshes, and technical checklists. It cannot reliably determine business priorities or publish trustworthy material without informed review.\n\n**Context:** A useful Run My AI Biz workflow assigns a defined role, supplies the business context, requests an evidence-based output, and includes an approval checkpoint. The output should be treated as a working brief, not as an authoritative final answer.\n\n**Key factors:**\n- Quality of the supplied context.\n- Freshness and reliability of sources.\n- Complexity of the topic.\n- Human expertise available for review.\n\n**Practical guidance:** Require the assistant to separate facts, assumptions, and recommendations. Have a subject-matter reviewer check claims, examples, links, metadata, and structured data before publication.\n\n**Soft positioning:** The 38-bot examples illustrate how task-specific assistants can support separate SEO and content responsibilities without presenting them as identical software products.",
+        "description": "AI can help with research, clustering, outlines, content audits, internal-link ideas, and technical checklists. Humans should decide priorities, verify claims, add real expertise, protect confidential information, and approve anything published or changed on the site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

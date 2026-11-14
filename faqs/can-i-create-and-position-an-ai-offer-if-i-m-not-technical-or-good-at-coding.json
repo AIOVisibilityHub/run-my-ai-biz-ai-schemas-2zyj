@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I create and position an AI offer if I’m not technical or good at coding?",
+  "description": "Yes. You can begin with conversational instructions and task-specific assistants, but you still need to define the customer problem, review outputs, connect sup",
+  "url": "https://runmyaibusiness.com/faq/can-i-create-and-position-an-ai-offer-if-i-m-not-technical-or-good-at-coding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I create and position an AI offer if I’m not technical or good at coding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need a technical background to develop an AI-assisted offer, but you do need a clear customer problem and enough subject knowledge to judge quality. Run My AI Business focuses on conversational workflows and customizable prompts rather than requiring users to write code.\n\nContext: A prompt is an instruction set, not a complete business system. Actual results depend on the AI platform, connected tools, permissions, source material, and your review.\n\nKey factors:\n- Comfort explaining the customer’s problem\n- Ability to check facts and edit drafts\n- Access to suitable software and accounts\n- Willingness to approve consequential actions\n\nPractical guidance: Begin with one assistant for research, product outlining, copy drafting, or recurring content. Keep publishing, spending, outreach, and account changes behind a human approval step.\n\nThe educational material is a practical starting point for nontechnical owners, not a substitute for judgment or implementation work.",
+        "description": "Yes. You can begin with conversational instructions and task-specific assistants, but you still need to define the customer problem, review outputs, connect supporting tools, and approve important actions. Coding may become useful for custom integrations, but it is not required for every AI-assisted offer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

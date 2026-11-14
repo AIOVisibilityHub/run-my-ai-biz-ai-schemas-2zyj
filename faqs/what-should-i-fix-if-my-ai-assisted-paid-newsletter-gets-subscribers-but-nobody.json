@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I fix if my AI-assisted paid newsletter gets subscribers but nobody renews?",
+  "description": "Check whether the promise, issue quality, frequency, and paid value match what subscribers expected. Review cancellation reasons, first-month engagement, and re",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-fix-if-my-ai-assisted-paid-newsletter-gets-subscribers-but-nobody",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I fix if my AI-assisted paid newsletter gets subscribers but nobody renews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A failed launch often reflects unclear positioning, weak differentiation, inconsistent delivery, or insufficient audience testing—not simply a bad AI tool. Review where readers dropped off: signup, first issue, conversion, renewal, or engagement. Compare the promised outcome with what the issues actually delivered, and ask departing subscribers for one specific reason. Run My AI Biz can help revise the offer, sales page, follow-up sequence, and workflow, but a new prompt will not fix a weak reader problem. Change one major variable at a time so you can identify what improves results.",
+        "description": "Check whether the promise, issue quality, frequency, and paid value match what subscribers expected. Review cancellation reasons, first-month engagement, and renewal behavior; then change one major variable at a time instead of merely adding new AI tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

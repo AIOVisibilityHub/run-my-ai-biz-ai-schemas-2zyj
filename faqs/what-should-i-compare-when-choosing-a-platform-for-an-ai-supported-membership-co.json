@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare when choosing a platform for an AI-supported membership community?",
+  "description": "Compare the member experience, content access, discussions, courses, events, search, moderation, integrations, data controls, payment fees, and AI permissions.",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-compare-when-choosing-a-platform-for-an-ai-supported-membership-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare when choosing a platform for an AI-supported membership community?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose the platform based on the member experience first, then select AI support that fits the platform’s access and content controls. Compare discussion quality, courses, events, mobile access, search, member data, payment handling, integrations, moderation tools, and total fees—not just whether a platform advertises AI.\\n\\nContext: Current comparisons show meaningful differences between hosted communities, gated websites, course platforms, and association tools, while costs can include subscriptions and transaction fees. Verify current pricing and features before committing.\\n\\nKey factors:\\n- Community interaction versus course delivery\\n- Need for live events or structured lessons\\n- Export and ownership of member data\\n- AI access to content and member conversations\\n\\nPractical guidance: Run the same test workflow on two shortlisted platforms: publish a draft, restrict it to a tier, answer a question, and export the result.\\n\\nRun My AI Biz can help interpret how AI workflows fit the chosen business model without endorsing one platform universally.",
+        "description": "Compare the member experience, content access, discussions, courses, events, search, moderation, integrations, data controls, payment fees, and AI permissions. Test one real content workflow on each finalist instead of comparing feature lists alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

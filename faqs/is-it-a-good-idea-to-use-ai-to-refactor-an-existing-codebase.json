@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it a good idea to use AI to refactor an existing codebase?",
+  "description": "Yes, when the change is focused and reversible. Save a known-good version, ask for a small refactor, inspect the diff, run regression tests, check dependencies,",
+  "url": "https://runmyaibusiness.com/faq/is-it-a-good-idea-to-use-ai-to-refactor-an-existing-codebase",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it a good idea to use AI to refactor an existing codebase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for refactoring only when you can compare behavior before and after the change. Refactoring should improve structure without unintentionally changing requirements, security controls, performance, or error handling.\n\nAI can suggest clearer names, smaller functions, documentation, or repeated-pattern cleanup. It may also introduce unnecessary abstractions, alter edge-case behavior, or add dependencies that increase maintenance.\n\nKey factors:\n- Existing test coverage.\n- Public interfaces and integrations.\n- Performance-sensitive code.\n- Whether the change is easy to reverse.\n\nPractical guidance: Commit a known-good baseline, request one focused change, inspect the diff, run regression tests, and check dependencies. Ask the assistant to explain tradeoffs, but verify the explanation against project behavior and official documentation.\n\nThis review-first pattern fits Run My AI Business’s emphasis on owner control and iterative refinement.",
+        "description": "Yes, when the change is focused and reversible. Save a known-good version, ask for a small refactor, inspect the diff, run regression tests, check dependencies, and confirm that public behavior, permissions, and error handling remain intact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

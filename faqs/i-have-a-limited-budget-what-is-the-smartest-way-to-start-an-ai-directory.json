@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a limited budget—what is the smartest way to start an AI directory?",
+  "description": "Build one narrow workflow and a small catalog first. Use a hosted or no-code tool, define only essential fields, manually verify initial records, and delay maps",
+  "url": "https://runmyaibusiness.com/faq/i-have-a-limited-budget-what-is-the-smartest-way-to-start-an-ai-directory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a limited budget—what is the smartest way to start an AI directory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one tightly defined workflow, such as collecting and approving listings, before connecting search, payments, email, and promotional automation. This reduces failure points and makes it easier to tell whether the directory is useful. Context: the Run My AI Business resource approach recommends selecting relevant assistants, building one, using it, and expanding after learning from the process. Key factors: owner capacity, data complexity, platform limits, integration permissions, and the cost of reviewing output. Practical guidance: document inputs, expected output, approval checkpoints, failure cases, and the person responsible for each step. Add a second workflow only after the first is stable and measurable. This approach is especially suitable for solopreneurs managing multiple projects.",
+        "description": "Build one narrow workflow and a small catalog first. Use a hosted or no-code tool, define only essential fields, manually verify initial records, and delay maps, reviews, complex payments, and custom AI search. Track actual user actions before paying for features or custom development."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

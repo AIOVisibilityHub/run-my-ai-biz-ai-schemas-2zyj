@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI-generated website code safe to use in production, or am I asking for trouble?",
+  "description": "Treat AI code as unreviewed code. Test security, data handling, dependencies, errors, accessibility, performance, deployment, backups, and rollback before relea",
+  "url": "https://runmyaibusiness.com/faq/is-ai-generated-website-code-safe-to-use-in-production-or-am-i-asking-for-troubl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI-generated website code safe to use in production, or am I asking for trouble?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume AI-generated code is production-ready. Review the code, dependencies, authentication, data handling, error states, accessibility, performance, and deployment process before using it for a customer-facing site or application.\n\nContext: Community users report that AI can accelerate development but debugging can become difficult, especially when the generated project is deployed outside the original platform. Run My AI Business distinguishes prompts from the integrations, permissions, and supporting services required for execution.\n\nKey factors:\n- Whether the project is static or interactive\n- Sensitive data and account permissions\n- Backup and rollback capability\n- Availability of technical review\n\nPractical guidance: Keep development separate from the live site, test failure cases, and record how to restore a working version. For custom software, obtain qualified technical review before handling important customer or business data.\n\nAI is most valuable here as a development assistant within a controlled engineering process.",
+        "description": "Treat AI code as unreviewed code. Test security, data handling, dependencies, errors, accessibility, performance, deployment, backups, and rollback before release; complex applications warrant qualified technical review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

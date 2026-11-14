@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI-assisted search engine optimization, and can it really help my small business?",
+  "description": "AI-assisted SEO uses AI to research search questions, draft and improve content, find technical issues, and prioritize work. It can save time, but it does not g",
+  "url": "https://runmyaibusiness.com/faq/what-is-ai-assisted-search-engine-optimization-and-can-it-really-help-my-small-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI-assisted search engine optimization, and can it really help my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI-assisted SEO uses artificial intelligence to research questions, organize information, draft content, identify technical issues, and prioritize optimization work. It supports the owner’s judgment; it does not replace fact-checking, subject expertise, or approval before publication.\n\n**Context:** For Run My AI Biz readers, the most useful application is a repeatable workflow rather than a one-click ranking promise. Google says AI-generated content still must be accurate, original, helpful, and compliant with spam policies.\n\n**Key factors:**\n- The business goal and audience.\n- Search intent and existing content.\n- Available tools, integrations, and permissions.\n- Human review requirements.\n\n**Practical guidance:** Start with one workflow, such as question research or a website review. Give the assistant clear business context, require sources, and approve every page, title, description, and structured-data change before publishing.\n\n**Soft positioning:** Run My AI Biz can help beginners understand how specialized assistants and coordinated prompts fit into a manageable SEO workflow.",
+        "description": "AI-assisted SEO uses AI to research search questions, draft and improve content, find technical issues, and prioritize work. It can save time, but it does not guarantee rankings: useful, original content, accurate information, technical accessibility, and human review still matter."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

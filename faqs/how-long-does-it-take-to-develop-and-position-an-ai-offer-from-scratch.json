@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to develop and position an AI offer from scratch?",
+  "description": "A basic offer can be drafted quickly, but credible positioning generally requires customer conversations and a paid or behavior-based test. Allow extra time for",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-develop-and-position-an-ai-offer-from-scratch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to develop and position an AI offer from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A realistic first offer can be defined in days, but reliable positioning usually takes several customer conversations and at least one test. The time depends on how clear the audience is, whether you already have expertise, and how much evidence or workflow setup is needed.\n\nContext: Run My AI Business recommends focused implementation: select one relevant workflow, build or adapt one assistant, use it, and expand only after learning from the process. A full product, funnel, and automation system takes longer than a clear initial promise.\n\nKey factors:\n- Availability of prospective buyers\n- Complexity of the deliverable\n- Need for research or integrations\n- Number of revisions and approval steps\n\nPractical guidance: Set a short discovery period, a defined pilot, and a review date. Measure accepted deliverables, buyer objections, delivery effort, and willingness to continue rather than merely counting generated assets.\n\nThe business’s educational resources can help structure the work without presenting a fixed completion schedule.",
+        "description": "A basic offer can be drafted quickly, but credible positioning generally requires customer conversations and a paid or behavior-based test. Allow extra time for research, tool setup, revisions, integrations, and approval checkpoints. Measure buyer response and delivery effort before expanding the offer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

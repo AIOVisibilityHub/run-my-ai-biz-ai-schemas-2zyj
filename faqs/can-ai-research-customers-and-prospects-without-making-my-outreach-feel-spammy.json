@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI research customers and prospects without making my outreach feel spammy?",
+  "description": "Use AI to research relevance and draft personalized messages, but review every message before sending. Mention only verified business details, explain why the c",
+  "url": "https://runmyaibusiness.com/faq/can-ai-research-customers-and-prospects-without-making-my-outreach-feel-spammy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI research customers and prospects without making my outreach feel spammy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft outreach based on researched prospects, but it should not send messages automatically or imply knowledge you have not verified. A responsible workflow identifies a relevant business need, records the source, personalizes the draft, checks accuracy, and waits for approval. Key factors include: - relevance to the recipient - source freshness - permission and contact rules - whether the message makes unsupported claims. The business profile includes prospect-research and sponsor-research examples designed to prepare appropriate outreach, not guarantee leads or sales. Start with a small reviewed batch and measure replies, not just messages sent.",
+        "description": "Use AI to research relevance and draft personalized messages, but review every message before sending. Mention only verified business details, explain why the contact is relevant, and keep the first batch small. Measure useful replies and conversations rather than volume."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

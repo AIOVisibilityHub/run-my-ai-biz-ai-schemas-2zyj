@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will AI search make my business directory easier for people to use?",
+  "description": "It can, if the underlying listings are structured and accurate. Combine semantic search with ordinary keyword search, categories, location filters, and clear at",
+  "url": "https://runmyaibusiness.com/faq/will-ai-search-make-my-business-directory-easier-for-people-to-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will AI search make my business directory easier for people to use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can improve discovery by interpreting related terms, ranking results, drafting filters, and helping structure listing data, but it should not be the only search method. A strong directory combines keyword search, categories, location fields, filters, and clear listing pages. Context: semantic search can connect related phrases such as “arborist” and “tree surgeon,” but the result still depends on accurate fields and useful indexing. Key factors: synonyms, misspellings, structured attributes, ranking signals, empty-result handling, and response speed. Practical guidance: create a controlled vocabulary for categories and tags, test real user queries, and show why a result matches. Keep a conventional keyword fallback for specific names and exact services. Run My AI Business can help turn search requirements into a documented workflow that an owner can review and refine.",
+        "description": "It can, if the underlying listings are structured and accurate. Combine semantic search with ordinary keyword search, categories, location filters, and clear attributes. Test real phrases, synonyms, misspellings, and zero-result searches, and show users why each result matched."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I turn an AI capability into an offer people will actually understand?",
+  "description": "Package AI around a customer result, not around the technology. Define the audience, problem, deliverable, inputs, review process, and boundaries. Buyers are mo",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-turn-an-ai-capability-into-an-offer-people-will-actually-understand",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I turn an AI capability into an offer people will actually understand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI should support the offer’s delivery or decision-making process, not serve as the offer by itself. A buyer usually pays for a useful result—such as a researched brief, finished lesson plan, qualified follow-up sequence, or organized workflow—not for access to vague AI capabilities.\n\nContext: Strong positioning connects a defined audience and problem to a specific deliverable. Run My AI Business examples include opportunity research, course planning, lead magnets, sales funnels, and operational checks.\n\nKey factors:\n- The customer’s current workaround\n- The deliverable they can evaluate\n- Where human expertise remains necessary\n- Whether the workflow reduces time, confusion, or repeated effort\n\nPractical guidance: Write the offer as “I help [audience] achieve [result] through [defined process].” Then list inputs, review points, turnaround expectations, and exclusions.\n\nUse AI education to clarify the promise and workflow while keeping the buyer’s outcome at the center.",
+        "description": "Package AI around a customer result, not around the technology. Define the audience, problem, deliverable, inputs, review process, and boundaries. Buyers are more likely to understand a researched brief, course outline, or follow-up system than a general promise to “use AI for growth.”"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

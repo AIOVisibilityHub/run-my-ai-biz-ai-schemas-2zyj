@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I add an AI chatbot to my website if I’m a one-person business?",
+  "description": "Add one only for a narrow, well-defined purpose. Use approved information, limit access, require escalation when uncertain, retain a human contact option, and t",
+  "url": "https://runmyaibusiness.com/faq/should-i-add-an-ai-chatbot-to-my-website-if-i-m-a-one-person-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I add an AI chatbot to my website if I’m a one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI chatbot or assistant should be limited to clearly defined tasks, approved information, and safe escalation rules. It should not invent answers, make unauthorized promises, expose private data, or take consequential action without approval.\n\nContext: Run My AI Business emphasizes human-directed automation and approval before sending messages, publishing content, spending money, or signing up for services. That principle also applies to website chat and support workflows.\n\nKey factors:\n- Questions the assistant can answer reliably\n- Information it is allowed to access\n- Handoff path for uncertain or urgent issues\n- Logging and review of conversations\n\nPractical guidance: Build a small approved knowledge base, instruct the assistant to say when it is unsure, and provide a visible human contact option. Test misleading, ambiguous, and out-of-scope questions before launch.\n\nA narrow support workflow is safer and easier to improve than an assistant claiming to handle everything.",
+        "description": "Add one only for a narrow, well-defined purpose. Use approved information, limit access, require escalation when uncertain, retain a human contact option, and test privacy, accuracy, and out-of-scope questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

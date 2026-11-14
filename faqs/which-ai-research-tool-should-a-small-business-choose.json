@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which AI research tool should a small business choose?",
+  "description": "Choose by research job, not by popularity. SEO, traffic, ads, social listening, reviews, content, and website changes require different data sources. Compare co",
+  "url": "https://runmyaibusiness.com/faq/which-ai-research-tool-should-a-small-business-choose",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which AI research tool should a small business choose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help choose tools by matching the research job to the data required, but there is no single best platform for every task. Current comparisons distinguish tools for SEO and backlinks, modeled traffic, paid-search history, social listening, review analysis, content research, and website-change monitoring. Key factors include: - the question you need answered - source coverage - usage limits - recurring cost and setup effort. Run My AI Business’s educational comparisons can help explain tool differences, while your own workflow should specify the minimum evidence needed. Avoid buying an all-in-one platform before proving that you will use its core data.",
+        "description": "Choose by research job, not by popularity. SEO, traffic, ads, social listening, reviews, content, and website changes require different data sources. Compare coverage, freshness, limits, export options, setup effort, and cost, then test the smallest tool or workflow that answers your immediate question."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

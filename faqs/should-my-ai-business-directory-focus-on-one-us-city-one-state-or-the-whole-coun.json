@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my AI business directory focus on one US city, one state, or the whole country?",
+  "description": "Choose the smallest geographic area that contains enough demand and useful listings. Use location fields only when they affect availability or choice, and disti",
+  "url": "https://runmyaibusiness.com/faq/should-my-ai-business-directory-focus-on-one-us-city-one-state-or-the-whole-coun",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my AI business directory focus on one US city, one state, or the whole country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Location fields are valuable when geography changes the user’s decision, such as service areas, opening hours, delivery coverage, or local availability. They should not be added merely to create more pages. Context: a directory serving local businesses may need city, state, ZIP code, service radius, and map coordinates, while a software directory may need country or market instead. Key factors: the audience’s search habits, coverage area, address accuracy, service boundaries, and update frequency. Practical guidance: define one consistent location format, separate physical address from service area, and provide filters users can understand. Test nearby-city and statewide searches to prevent misleading results. Run My AI Business can help adapt a directory workflow to a local newsletter, website-service project, or another clearly defined US audience without assuming every niche is location-driven.",
+        "description": "Choose the smallest geographic area that contains enough demand and useful listings. Use location fields only when they affect availability or choice, and distinguish a physical address from a service area. Expand after testing search behavior, data quality, and repeat usage in the initial market."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

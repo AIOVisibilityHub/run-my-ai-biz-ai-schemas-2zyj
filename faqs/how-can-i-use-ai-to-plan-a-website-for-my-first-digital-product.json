@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI to plan a website for my first digital product?",
+  "description": "Define the audience, product promise, format, delivery, proof, objections, and desired action first. Then ask AI to map the path from lead magnet or landing pag",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-to-plan-a-website-for-my-first-digital-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI to plan a website for my first digital product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can suggest pages and structures for a digital product website, but the offer must be clear before the site is built. Define the audience, transformation, format, delivery method, price or access model, proof, objections, and next step.\n\nContext: Run My AI Business connects digital-product creation with sales pages, lead magnets, funnels, email follow-up, and launch preparation. This prevents the website from becoming a collection of disconnected information pages.\n\nKey factors:\n- Product promise and realistic scope\n- Delivery and customer-support process\n- Lead magnet relationship to the offer\n- Checkout, confirmation, and access flow\n\nPractical guidance: Ask AI to map the customer path from first visit through purchase or signup, then identify every page and message required. Test the path with a small audience before expanding the product or funnel.\n\nThe business’s educational workflows are particularly relevant for turning an idea into a reviewed launch sequence.",
+        "description": "Define the audience, product promise, format, delivery, proof, objections, and desired action first. Then ask AI to map the path from lead magnet or landing page through checkout, confirmation, delivery, and follow-up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

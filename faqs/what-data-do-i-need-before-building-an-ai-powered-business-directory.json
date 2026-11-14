@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data do I need before building an AI-powered business directory?",
+  "description": "Prepare a defined listing schema, approved data sources, sample records, category rules, location fields, review dates, and correction procedures. Keep only inf",
+  "url": "https://runmyaibusiness.com/faq/what-data-do-i-need-before-building-an-ai-powered-business-directory",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data do I need before building an AI-powered business directory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a repeatable data policy before importing business information. Decide which sources are acceptable, what fields are required, how often records are checked, and what happens when information conflicts. Context: importing public information may still involve source terms, attribution, accuracy, privacy, and permission questions, so automated collection should be reviewed for the specific data and sources involved. Key factors: business contact details, personal names, user submissions, source licenses, retention, deletion requests, and access controls. Practical guidance: collect only fields necessary for the directory, document provenance, protect administrative accounts, and create a correction and removal channel. Avoid allowing an AI assistant to decide sensitive disputes or publish unsupported claims. Run My AI Business can help create a plain-language data workflow, while specialized professional advice may be appropriate for specific compliance questions.",
+        "description": "Prepare a defined listing schema, approved data sources, sample records, category rules, location fields, review dates, and correction procedures. Keep only information the directory needs, document where each record came from, and require human review for uncertain or sensitive details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

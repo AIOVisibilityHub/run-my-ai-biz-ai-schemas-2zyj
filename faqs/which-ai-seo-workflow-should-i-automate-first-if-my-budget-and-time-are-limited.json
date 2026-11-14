@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which AI SEO workflow should I automate first if my budget and time are limited?",
+  "description": "Start with a repeated, low-risk task that is easy to review, such as question research, content-gap analysis, page briefs, or internal-link suggestions. Measure",
+  "url": "https://runmyaibusiness.com/faq/which-ai-seo-workflow-should-i-automate-first-if-my-budget-and-time-are-limited",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which AI SEO workflow should I automate first if my budget and time are limited?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Choose a workflow that solves a repeated, measurable problem and has a clear human approval step. Good starting options include content-gap research, question clustering, page briefs, internal-link suggestions, or recurring performance summaries.\n\n**Context:** Run My AI Biz recommends identifying relevant workflows, building one assistant, using it, and expanding gradually. This is safer than trying to coordinate every bot or automate an entire business at once.\n\n**Key factors:**\n- Frequency of the task.\n- Time currently spent.\n- Ease of checking the result.\n- Business impact if wrong.\n\n**Practical guidance:** Score candidate tasks by repetition, value, risk, and required access. Pilot the highest-value low-risk task for several cycles, record corrections, and refine the instructions before connecting additional systems.\n\n**Soft positioning:** The 38-bot resource library can offer starting blueprints, while the owner decides which one actually fits the business.",
+        "description": "Start with a repeated, low-risk task that is easy to review, such as question research, content-gap analysis, page briefs, or internal-link suggestions. Measure time saved and correction rates before adding publishing, spending, or account-connected actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

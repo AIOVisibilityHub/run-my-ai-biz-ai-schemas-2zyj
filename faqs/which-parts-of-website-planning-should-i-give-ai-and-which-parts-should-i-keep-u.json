@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of website planning should I give AI, and which parts should I keep under my control?",
+  "description": "Give AI research, outlines, drafts, checklists, and repetitive updates. Keep control of business strategy, factual claims, customer promises, sensitive data, fi",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-website-planning-should-i-give-ai-and-which-parts-should-i-keep-u",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of website planning should I give AI, and which parts should I keep under my control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for research, structure, first drafts, and repetitive updates; use human judgment for positioning, factual claims, customer promises, design approval, privacy-sensitive information, and publishing. This division fits Run My AI Business’s emphasis on customizable assistants with review checkpoints.\n\nContext: AI is fast at organizing inputs and generating alternatives, but it may invent details, misunderstand an audience, or produce generic content. A human should decide what the business stands for and whether every public statement is supportable.\n\nKey factors:\n- Risk of inaccurate or unsupported claims\n- Importance of brand voice\n- Sensitivity of customer data\n- Consequences of a publishing error\n\nPractical guidance: Create an approval checklist covering facts, links, prices, calls to action, images, forms, accessibility, and tracking. Keep automated actions limited until the workflow has produced reliable drafts.\n\nRun My AI Business can help users design that controlled workflow rather than promising hands-free website management.",
+        "description": "Give AI research, outlines, drafts, checklists, and repetitive updates. Keep control of business strategy, factual claims, customer promises, sensitive data, final design decisions, and publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

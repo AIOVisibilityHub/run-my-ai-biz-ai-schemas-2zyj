@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a very specific niche for a paid AI newsletter, or can I cover AI for everyone?",
+  "description": "A specific audience is usually easier to serve because it clarifies topics, examples, pricing, and promotion. Start with one reader group and one recurring busi",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-a-very-specific-niche-for-a-paid-ai-newsletter-or-can-i-cover-ai-for-e",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a very specific niche for a paid AI newsletter, or can I cover AI for everyone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A single broad AI newsletter can work, but a defined audience usually makes the promise and editorial decisions clearer. “AI for everyone” creates difficult choices about which tools, industries, skill levels, and use cases deserve attention. Run My AI Biz serves entrepreneurs, solopreneurs, digital-product creators, and small-business owners, so a newsletter can focus on practical business applications rather than every AI development. Compare audience size with the strength of the problem and your ability to publish distinctive material. Start narrower than your eventual ambition, then broaden only when reader behavior supports it.",
+        "description": "A specific audience is usually easier to serve because it clarifies topics, examples, pricing, and promotion. Start with one reader group and one recurring business problem, then broaden only when engagement shows that adjacent readers want the same practical outcome."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
