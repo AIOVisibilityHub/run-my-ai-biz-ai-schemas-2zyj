@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-14T04:27:34.824Z",
+  "generatedAt": "2026-11-14T05:09:37.972Z",
   "client": {
     "name": "Run My AI Biz",
     "canonicalUrl": "https://ai-data.runmyaibusiness.com",
@@ -75,14 +75,14 @@
     "jurisdictions": []
   },
   "package": {
-    "totalFiles": 1277,
-    "totalBytes": 5614910,
+    "totalFiles": 1271,
+    "totalBytes": 5565435,
     "stats": {
       "faqs": 1200,
       "helpArticles": 0,
       "services": 48,
       "webpages": 0,
-      "personnel": 7,
+      "personnel": 1,
       "products": 0,
       "locations": 1,
       "awards": 0,
@@ -92,7 +92,7 @@
       "reviews": 0,
       "qna": 0,
       "research": 0,
-      "total": 1257
+      "total": 1251
     }
   },
   "entrypoints": {
@@ -348,54 +348,10 @@
         "purpose": "schema"
       }
     ],
-    "team": [
-      {
-        "path": "team/jacqueline-abrams-profile.json",
-        "bytes": 5281,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/jacqueline-abrams-united-states.json",
-        "bytes": 5279,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/jacqueline-abrams-ai-powered-online-business-creation-united-states-faq.json",
-        "bytes": 4629,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/jacqueline-abrams-business-launch-automation-united-states-faq.json",
-        "bytes": 4593,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/jacqueline-abrams-ai-assisted-product-development-united-states-faq.json",
-        "bytes": 4613,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/jacqueline-abrams-ai-lead-magnet-creation-united-states-faq.json",
-        "bytes": 4581,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/jacqueline-abrams-ai-sales-funnels-united-states-faq.json",
-        "bytes": 4553,
-        "purpose": "schema"
-      }
-    ],
     "locations": [
       {
         "path": "locations/run-my-ai-biz-office.json",
         "bytes": 308,
-        "purpose": "schema"
-      }
-    ],
-    "organization": [
-      {
-        "path": "organization/run-my-ai-biz-organization.json",
-        "bytes": 23723,
         "purpose": "schema"
       }
     ],
@@ -6401,35 +6357,49 @@
         "purpose": "schema"
       }
     ],
+    "team": [
+      {
+        "path": "team/jacqueline-abrams-profile.json",
+        "bytes": 4217,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/run-my-ai-biz-organization.json",
+        "bytes": 25172,
+        "purpose": "schema"
+      }
+    ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 28007,
+        "bytes": 32358,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 111503,
+        "bytes": 86614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 69687,
+        "bytes": 74351,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 26784,
+        "bytes": 30868,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1509580,
+        "bytes": 1513706,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 65004,
+        "bytes": 38012,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -6441,7 +6411,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4256,
+        "bytes": 6296,
         "purpose": "LLM hint"
       },
       {
@@ -6461,37 +6431,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3442,
+        "bytes": 7575,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 644365,
+        "bytes": 646184,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 171524,
+        "bytes": 172862,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 171524,
+        "bytes": 172862,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4247,
+        "bytes": 6287,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 236997,
+        "bytes": 238101,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 181404,
+        "bytes": 180636,
         "purpose": "AI sitemap"
       },
       {
@@ -6506,21 +6476,6 @@
       "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
       "pagesUrl": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/",
       "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3",
-      "pagesUrl": "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/24212493"
     }
   }
 }

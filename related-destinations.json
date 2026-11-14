@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-14T04:27:34.812Z",
+  "generatedAt": "2026-11-14T05:09:37.959Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -14,7 +14,38 @@
     "canonicalUrl": "https://ai-data.runmyaibusiness.com",
     "primaryWebsiteUrl": "https://runmyaibusiness.com",
     "aiDataHub": "https://ai-data.runmyaibusiness.com/ai-data.html",
-    "sameAs": []
+    "sameAs": [
+      "https://ai-data.runmyaibusiness.com",
+      "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
+      "https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3",
+      "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/",
+      "https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas",
+      "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/index.html",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas",
+      "https://aiovisibilityhub.srht.site/run-my-ai-biz-ai-schemas/",
+      "https://zenodo.org/records/24212493",
+      "https://codeberg.org/aiovisibilityhub/run-my-ai-biz-ai-schemas",
+      "https://aiovisibilityhub.codeberg.page/run-my-ai-biz-ai-schemas/",
+      "https://substack.com/@runmyaibiz",
+      "https://runmyaibiz.com",
+      "https://www.youtube.com/@runmyaibiz",
+      "https://x.com/runmyaibiz",
+      "https://www.facebook.com/profile.php?id=61596194422500",
+      "https://www.instagram.com/runmyaibusiness/",
+      "https://www.tiktok.com/@run.my.ai.biz",
+      "https://www.threads.com/@runmyaibusiness",
+      "https://bsky.app/profile/runmyaibiz.bsky.social",
+      "https://mastodon.social/@runmyaibiz",
+      "https://www.pinterest.com/runmyaibiz/",
+      "https://www.tumblr.com/runmyaibiz",
+      "https://www.dailymotion.com/user/run.my.ai.biz",
+      "https://runmyaibiz.wordpress.com/",
+      "https://medium.com/@hello_27451",
+      "https://www.skool.com/run-my-ai-biz-9875",
+      "https://www.quora.com/profile/Jacqui-Abrams-2",
+      "https://issuu.com/runmyaibiz",
+      "https://www.tiktok.com/@run.my.ai.biz/video/7707696217031068958"
+    ]
   },
   "related": [
     {
@@ -40,40 +71,144 @@
       "url": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/ai-data.html"
     },
     {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
+      "role": "same-as",
+      "label": "Run My AI Biz on gitlab.com",
       "url": "https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3"
     },
     {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/ai-data.html"
+      "role": "same-as",
+      "label": "Run My AI Biz on run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io",
+      "url": "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/"
     },
     {
-      "role": "mirror-repo",
-      "platform": "huggingface",
-      "label": "Hugging Face repository",
+      "role": "same-as",
+      "label": "Run My AI Biz on huggingface.co",
       "url": "https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas"
     },
     {
-      "role": "mirror-pages",
-      "platform": "huggingface",
-      "label": "Hugging Face — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/ai-data.html"
+      "role": "same-as",
+      "label": "Run My AI Biz on aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/index.html"
     },
     {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
+      "role": "same-as",
+      "label": "Run My AI Biz on kaggle.com",
       "url": "https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas"
     },
     {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/24212493"
+      "role": "same-as",
+      "label": "Run My AI Biz on aiovisibilityhub.srht.site",
+      "url": "https://aiovisibilityhub.srht.site/run-my-ai-biz-ai-schemas/"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on zenodo.org",
+      "url": "https://zenodo.org/records/24212493"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on codeberg.org",
+      "url": "https://codeberg.org/aiovisibilityhub/run-my-ai-biz-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/run-my-ai-biz-ai-schemas/"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on substack.com",
+      "url": "https://substack.com/@runmyaibiz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on runmyaibiz.com",
+      "url": "https://runmyaibiz.com"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on youtube.com",
+      "url": "https://www.youtube.com/@runmyaibiz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on x.com",
+      "url": "https://x.com/runmyaibiz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on facebook.com",
+      "url": "https://www.facebook.com/profile.php?id=61596194422500"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on instagram.com",
+      "url": "https://www.instagram.com/runmyaibusiness/"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on tiktok.com",
+      "url": "https://www.tiktok.com/@run.my.ai.biz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on threads.com",
+      "url": "https://www.threads.com/@runmyaibusiness"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on bsky.app",
+      "url": "https://bsky.app/profile/runmyaibiz.bsky.social"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on mastodon.social",
+      "url": "https://mastodon.social/@runmyaibiz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on pinterest.com",
+      "url": "https://www.pinterest.com/runmyaibiz/"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on tumblr.com",
+      "url": "https://www.tumblr.com/runmyaibiz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on dailymotion.com",
+      "url": "https://www.dailymotion.com/user/run.my.ai.biz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on runmyaibiz.wordpress.com",
+      "url": "https://runmyaibiz.wordpress.com/"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on medium.com",
+      "url": "https://medium.com/@hello_27451"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on skool.com",
+      "url": "https://www.skool.com/run-my-ai-biz-9875"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on quora.com",
+      "url": "https://www.quora.com/profile/Jacqui-Abrams-2"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on issuu.com",
+      "url": "https://issuu.com/runmyaibiz"
+    },
+    {
+      "role": "same-as",
+      "label": "Run My AI Biz on tiktok.com",
+      "url": "https://www.tiktok.com/@run.my.ai.biz/video/7707696217031068958"
     }
   ],
   "destinations": {
@@ -81,21 +216,6 @@
       "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
       "pagesUrl": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/",
       "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3",
-      "pagesUrl": "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/24212493"
     }
   }
 }
