@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I keep AI assistants from mixing up two businesses, brands, newsletters, or products I run?",
+  "description": "Give each project its own brief, knowledge area, identifier, voice, sources, and approval rules. Separate reusable operating instructions from project facts, pr",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-keep-ai-assistants-from-mixing-up-two-businesses-brands-newsletters-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I keep AI assistants from mixing up two businesses, brands, newsletters, or products I run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a dedicated project brief and separate knowledge areas for each brand, audience, offer, and product. Give every assistant an explicit project identifier and prohibit it from borrowing claims, tone, customer information, or source material from another project. Keep shared operating rules separate from project-specific facts, and review outputs for accidental crossover. If several projects use the same prompt blueprint, duplicate the instructions but customize the context and approval rules. Run My AI Biz’s materials describe reusable prompts across different niches and projects, but each adaptation must preserve distinct audiences, voices, sources, and offers.",
+        "description": "Give each project its own brief, knowledge area, identifier, voice, sources, and approval rules. Separate reusable operating instructions from project facts, prohibit cross-project borrowing, and review outputs for mixed audiences, claims, or branding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

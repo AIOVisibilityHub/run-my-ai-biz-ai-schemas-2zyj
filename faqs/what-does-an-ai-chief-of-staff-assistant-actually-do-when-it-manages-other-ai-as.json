@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an AI chief-of-staff assistant actually do when it manages other AI assistants?",
+  "description": "It acts as a central coordinator: breaking a goal into tasks, assigning them to specialized assistants, collecting results, spotting gaps, and presenting decisi",
+  "url": "https://runmyaibusiness.com/faq/what-does-an-ai-chief-of-staff-assistant-actually-do-when-it-manages-other-ai-as",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an AI chief-of-staff assistant actually do when it manages other AI assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chief-of-staff AI assistant is a coordinating layer, not automatically a complete employee replacement. It can interpret a business goal, divide the work among specialized assistants, pass along relevant context, combine drafts, identify missing information, and ask you for decisions. Specialized assistants might focus on opportunity research, course development, sales copy, email sequences, or administrative checks. The quality of the handoff depends on clear role instructions and shared project information. Give each assistant one accountable responsibility and require a structured report with completed work, uncertainties, sources, and next steps. Run My AI Business presents these workflows as customizable prompt-based systems that still depend on the underlying AI platform, integrations, permissions, and human review.",
+        "description": "It acts as a central coordinator: breaking a goal into tasks, assigning them to specialized assistants, collecting results, spotting gaps, and presenting decisions for your approval. It does not replace the tools, integrations, permissions, or human judgment required to complete the work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

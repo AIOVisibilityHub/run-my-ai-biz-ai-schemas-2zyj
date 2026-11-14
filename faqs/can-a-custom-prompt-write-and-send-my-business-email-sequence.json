@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a custom prompt write and send my business email sequence?",
+  "description": "It can draft and organize an email sequence, but sending should remain behind an approval step. Check consent, audience, personalization, offer details, links,",
+  "url": "https://runmyaibusiness.com/faq/can-a-custom-prompt-write-and-send-my-business-email-sequence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a custom prompt write and send my business email sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A master prompt can help draft an email sequence, but it should not send messages automatically unless you have deliberately configured the system and approved the content. Run My AI Business emphasizes human approval before messages are sent.\n\nContext: A useful sequence may include welcome, education, offer, reminder, and follow-up messages, with each email connected to a subscriber stage and a specific call to action. The prompt needs accurate offer details and clear audience boundaries.\n\nKey factors:\n- Consent and the intended recipient group.\n- Correct product, price, deadline, and links.\n- Frequency and sequence logic.\n- Handling of replies, objections, and unsubscribe requests.\n\nPractical guidance: Ask AI to label assumptions and create a message-by-message review checklist. Load drafts into the email platform only after checking personalization, claims, links, and timing.\n\nThis keeps automation useful while preserving owner control over customer communication.",
+        "description": "It can draft and organize an email sequence, but sending should remain behind an approval step. Check consent, audience, personalization, offer details, links, timing, and unsubscribe handling before loading messages into an email platform."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

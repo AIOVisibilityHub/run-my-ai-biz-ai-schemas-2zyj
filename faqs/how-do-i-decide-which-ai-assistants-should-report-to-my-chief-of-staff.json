@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I decide which AI assistants should report to my chief of staff?",
+  "description": "Choose assistants based on recurring work with clear inputs and reviewable outputs. Match them to your current project—for example, research and product outlini",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-decide-which-ai-assistants-should-report-to-my-chief-of-staff",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I decide which AI assistants should report to my chief of staff?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right first assistants are determined by repeated work, clear inputs, and reviewable outputs—not by how many examples are available. For a digital product creator, a useful sequence could be opportunity research, product outlining, sales-page drafting, and launch planning. For a newsletter owner, research, issue drafting, subscriber-growth ideas, and sponsor prospecting may fit better. Avoid assigning two assistants the same responsibility unless you deliberately want a second opinion. Write down the task frequency, expected output, source needs, approval point, and consequence of an error. Run My AI Business describes the library as adaptable blueprints, so select only the prompts that match your current project rather than attempting to use all 38 examples.",
+        "description": "Choose assistants based on recurring work with clear inputs and reviewable outputs. Match them to your current project—for example, research and product outlining for a digital product, or research and drafting for a newsletter. Give each assistant a distinct responsibility and approval rule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can custom AI prompts help me run a local newsletter or local business project in the United States?",
+  "description": "Yes. They can support local research, activity guides, sponsor prospecting, newsletters, and website workflows. Supply a defined area and approved sources, then",
+  "url": "https://runmyaibusiness.com/faq/can-custom-ai-prompts-help-me-run-a-local-newsletter-or-local-business-project-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can custom AI prompts help me run a local newsletter or local business project in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt can help with local business research and content, but local details must be checked because names, hours, events, links, and availability can change. Run My AI Business includes examples involving local newsletters, local activities, websites for local businesses, and sponsorship research.\n\nContext: Local workflows are especially dependent on current sources and accurate place information. A generated list or outreach message should not be treated as verified merely because it sounds specific.\n\nKey factors:\n- The target city, area, or service radius.\n- Source date and reliability.\n- Current business details and contact information.\n- Permission and appropriateness of outreach.\n\nPractical guidance: Give the prompt approved local sources and require dates for researched facts. Manually confirm businesses, events, addresses, and links immediately before publication or contact.\n\nLocal customization is valuable when it improves relevance, not when it replaces verification.",
+        "description": "Yes. They can support local research, activity guides, sponsor prospecting, newsletters, and website workflows. Supply a defined area and approved sources, then verify businesses, events, addresses, dates, contact details, and links before publishing or reaching out."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

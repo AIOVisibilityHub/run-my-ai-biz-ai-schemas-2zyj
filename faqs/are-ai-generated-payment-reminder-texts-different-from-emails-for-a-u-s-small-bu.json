@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI-generated payment reminder texts different from emails for a U.S. small business?",
+  "description": "Yes. Text reminders may involve consent, opt-out handling, timing, registration, and channel-specific requirements, while email has different considerations. Tr",
+  "url": "https://runmyaibusiness.com/faq/are-ai-generated-payment-reminder-texts-different-from-emails-for-a-u-s-small-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI-generated payment reminder texts different from emails for a U.S. small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Treat email and text reminders as separate workflows. Email drafts may be easier to review, while automated texts can involve consent, opt-out, timing, registration, and other communication requirements that should be checked before implementation.\n\n**Context:** A reminder’s channel changes the operational and compliance questions. The researched guidance notes that automated messages remain communications and that rules can differ depending on the sender, recipient, message type, and collection context.\n\n**Key factors:**\n- Confirm the recipient’s permission and preferred channel.\n- Maintain an immediate suppression process for opt-outs.\n- Use local-time scheduling and avoid unnecessary frequency.\n\n**Practical guidance:** Start with reviewed email drafts unless text messaging is already documented and controlled. Have a qualified compliance professional assess your specific communication setup when uncertainty remains.\n\n**Soft positioning:** Run My AI Biz can help organize channel-specific approval steps without making a compliance determination for the business.",
+        "description": "Yes. Text reminders may involve consent, opt-out handling, timing, registration, and channel-specific requirements, while email has different considerations. Treat each channel separately and verify the rules that apply to your setup before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

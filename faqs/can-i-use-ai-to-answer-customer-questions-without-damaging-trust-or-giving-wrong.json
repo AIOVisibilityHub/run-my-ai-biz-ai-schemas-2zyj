@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to answer customer questions without damaging trust or giving wrong information?",
+  "description": "Start with draft-only support. Give AI an approved knowledge base, restrict it to documented information, and require escalation for uncertainty, payment issues",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-answer-customer-questions-without-damaging-trust-or-giving-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to answer customer questions without damaging trust or giving wrong information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For routine customer support, let AI classify requests, retrieve approved information, and draft responses while escalating uncertain, sensitive, or high-impact issues to a person. Do not let it improvise policies, refunds, commitments, or explanations that are not supported by your approved materials.\n\n**Context:** The business profile includes first-line support as a possible administrative workflow. Its usefulness depends on a current knowledge base, clear escalation rules, and careful review of customer-facing language.\n\n**Key factors:**\n- Accuracy and freshness of FAQs, policies, and product information.\n- Categories that require owner review.\n- A record of the question, draft response, approval, and final outcome.\n\n**Practical guidance:** Start in draft-only mode, create approved response patterns, and sample-check conversations regularly. Add an escalation label for missing information, dissatisfaction, payment issues, or requests outside the documented scope.\n\nRun My AI Business treats support automation as a controlled first-line aid rather than an unsupervised replacement for owner judgment.",
+        "description": "Start with draft-only support. Give AI an approved knowledge base, restrict it to documented information, and require escalation for uncertainty, payment issues, dissatisfaction, or unusual requests. Review samples regularly before allowing any automatic replies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much control should I keep if my chief-of-staff AI is assigning work to other assistants?",
+  "description": "Keep approval for publishing, sending messages, spending money, signing up for services, and changing accounts. Require the system to show its proposed action,",
+  "url": "https://runmyaibusiness.com/faq/how-much-control-should-i-keep-if-my-chief-of-staff-ai-is-assigning-work-to-othe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much control should I keep if my chief-of-staff AI is assigning work to other assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Define a human approval checkpoint before any action that publishes, sends, spends, subscribes, edits an account, or communicates externally. The chief-of-staff assistant should present the proposed action, source material, audience, expected result, and unresolved risks instead of silently executing it. Use test or draft modes where available, limit permissions, and maintain an activity record. A multi-agent chain can repeat a bad assumption or trigger a runaway sequence when no stop condition exists. Run My AI Business specifically emphasizes approval before messages, publication, spending, or service sign-ups, along with source verification and restrictions on invented proof, statistics, or income claims.",
+        "description": "Keep approval for publishing, sending messages, spending money, signing up for services, and changing accounts. Require the system to show its proposed action, sources, assumptions, and unresolved issues. Use limited permissions, draft mode, stop conditions, and an activity record."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

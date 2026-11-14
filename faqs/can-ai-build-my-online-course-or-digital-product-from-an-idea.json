@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build my online course or digital product from an idea?",
+  "description": "AI can help research the audience, outline the product, draft lessons, create presentation materials, and prepare launch assets. You still need to validate dema",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-my-online-course-or-digital-product-from-an-idea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build my online course or digital product from an idea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft a digital product, but it cannot determine whether the product solves a real problem or meets your audience’s expectations. Run My AI Business describes workflows for audience research, outlines, lessons, slides, videos, and launch materials, with owner review throughout. Context: Product development is strongest when research, content creation, feedback, and launch planning are connected rather than treated as separate prompts. Key factors: - Audience need and willingness to act - Accuracy and originality of material - Learning or customer outcome - Delivery and support requirements Practical guidance: Define the customer problem before asking for an outline, then test a small section with representative users. Review every claim, example, image, and instruction for accuracy and fit. Run My AI Business can help creators structure the work while keeping product judgment with the owner.",
+        "description": "AI can help research the audience, outline the product, draft lessons, create presentation materials, and prepare launch assets. You still need to validate demand, check accuracy and originality, test the material with users, and decide what the finished product should deliver."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

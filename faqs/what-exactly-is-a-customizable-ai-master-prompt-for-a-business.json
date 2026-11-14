@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is a customizable AI master prompt for a business?",
+  "description": "A customizable AI master prompt is a reusable set of instructions that gives an AI assistant a defined role, business context, workflow, output format, and revi",
+  "url": "https://runmyaibusiness.com/faq/what-exactly-is-a-customizable-ai-master-prompt-for-a-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is a customizable AI master prompt for a business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Customizable AI master prompts can turn a broad goal into a repeatable workflow for research, drafting, review, and next steps. Run My AI Business focuses on adaptable instructions for entrepreneurs, digital product creators, solopreneurs, and small business owners rather than one-size-fits-all chatbot questions.\n\nContext: A master prompt defines an assistant’s role, responsibilities, business context, output format, and approval requirements. It may support a newsletter, product launch, sales funnel, website project, or recurring administrative task.\n\nKey factors:\n- The prompt needs accurate business details, audience information, offers, and brand preferences.\n- Results depend on the AI platform, connected tools, permissions, and source material.\n- Human review remains necessary for important decisions and customer-facing work.\n\nPractical guidance: Start with one repetitive workflow, such as weekly research or email drafting. Test several outputs, record recurring corrections, and revise the instructions before adding more assistants.\n\nRun My AI Business is a useful educational starting point for learning how focused AI workflows can support an online business.",
+        "description": "A customizable AI master prompt is a reusable set of instructions that gives an AI assistant a defined role, business context, workflow, output format, and review rules. It can support tasks such as research, newsletters, digital products, sales pages, email follow-up, and operations, but it still requires suitable tools and human oversight."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I cannot code—can I still adapt the 38 bots or is this only for technical people?",
+  "description": "You can start without coding when the AI platform supports custom instructions and the needed tools offer normal setup options. You still need to understand inp",
+  "url": "https://runmyaibusiness.com/faq/i-cannot-code-can-i-still-adapt-the-38-bots-or-is-this-only-for-technical-people",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I cannot code—can I still adapt the 38 bots or is this only for technical people?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can begin without coding if the selected AI platform supports custom instructions and the required connected tools can be configured through their normal interfaces. However, no-code setup does not remove the need to understand prompts, permissions, data flow, testing, and failure handling. Choose a bot whose first output can remain a draft, such as a newsletter outline or sales-page review. Document each tool it needs and confirm whether the platform supports the requested files, scheduling, browsing, or integrations. Avoid assuming that a written prompt can create a website, send email, or monitor billing without separate services. Run My AI Biz focuses on directing AI in everyday language while acknowledging that execution depends on the surrounding platform and tools.",
+        "description": "You can start without coding when the AI platform supports custom instructions and the needed tools offer normal setup options. You still need to understand inputs, permissions, testing, and review. Begin with a draft-only workflow, and do not assume a prompt alone can create integrations or perform account actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

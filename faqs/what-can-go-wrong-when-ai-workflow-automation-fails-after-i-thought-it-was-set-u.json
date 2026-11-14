@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when AI workflow automation fails after I thought it was set up?",
+  "description": "Failures may come from incomplete instructions, poor data, changed sources, broken integrations, permissions, or unhandled exceptions. Run a low-risk pilot, log",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-ai-workflow-automation-fails-after-i-thought-it-was-set-u",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when AI workflow automation fails after I thought it was set up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect some rework. Workflows commonly need refinement because business context is incomplete, sources change, integrations fail, outputs vary, or exceptions were not included in the original design.\n\n## Context\nRun My AI Business encourages users to supply context, review drafts, request changes, and refine instructions over time. Its materials also distinguish demonstrated workflows from experimental or not-yet-used examples.\n\n## Key factors\n- Quality of the initial process map\n- Completeness of examples and rules\n- Reliability of connected services\n- Frequency of changes in offers, platforms, or source information\n\n## Practical guidance\nPilot with real but low-risk work, log errors, and categorize each failure as a prompt issue, data issue, integration issue, or business-rule issue. Update the workflow deliberately instead of adding random instructions after every mistake.\n\nA tested system is more valuable than a larger collection of unproven examples.",
+        "description": "Failures may come from incomplete instructions, poor data, changed sources, broken integrations, permissions, or unhandled exceptions. Run a low-risk pilot, log failures by cause, define stop conditions, and review workflows whenever your offer, platform, or business rules change."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if the payment data feeding my AI reminder workflow stops syncing?",
+  "description": "Pause drafting immediately, check the last successful sync, compare records with the source system, and use a manual fallback for urgent accounts. Resume only a",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-if-the-payment-data-feeding-my-ai-reminder-workflow-stops-synci",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if the payment data feeding my AI reminder workflow stops syncing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** If payment data does not sync correctly, stop reminder generation and mark the workflow as needing review. Do not let the assistant infer that an invoice remains unpaid from an old export or missing update.\n\n**Context:** Integrations can fail through delayed updates, changed field names, revoked permissions, duplicate records, or processor outages. Run My AI Biz’s process guidance stresses that execution depends on integrations and supporting services, not on prompts alone.\n\n**Key factors:**\n- Monitor last-sync time and error messages.\n- Compare record counts and totals with the source system.\n- Keep a manual fallback for urgent accounts.\n\n**Practical guidance:** Add a freshness threshold and an alert when records are incomplete. Reconcile a small sample after every integration change before resuming drafts.\n\n**Soft positioning:** Run My AI Biz can help users make integration checks part of a repeatable assistant workflow.",
+        "description": "Pause drafting immediately, check the last successful sync, compare records with the source system, and use a manual fallback for urgent accounts. Resume only after testing a sample and confirming current payment statuses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

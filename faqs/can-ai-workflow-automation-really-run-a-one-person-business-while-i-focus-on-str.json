@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI workflow automation really run a one-person business while I focus on strategy?",
+  "description": "It can reduce preparation and coordination work, but it cannot responsibly run everything unattended. A solopreneur must provide direction, review outputs, main",
+  "url": "https://runmyaibusiness.com/faq/can-ai-workflow-automation-really-run-a-one-person-business-while-i-focus-on-str",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI workflow automation really run a one-person business while I focus on strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI workflow automation can support a one-person business by preparing research, content, marketing materials, project updates, and routine administration, but it does not eliminate the owner’s responsibility. The owner still supplies context, reviews quality, manages accounts, and approves consequential actions.\n\n## Context\nRun My AI Business specifically addresses solopreneurs who need a central way to coordinate specialized assistants. Its examples span newsletters, digital products, funnels, websites, social content, and administrative monitoring.\n\n## Key factors\n- The owner’s available review time\n- Number of active business projects\n- Consistency of brand and customer information\n- Capacity to maintain connected tools\n\n## Practical guidance\nChoose one revenue-related or operational bottleneck and define a weekly review routine. Keep a simple dashboard of pending approvals, failed runs, exceptions, and work that still requires manual completion.\n\nThe goal is leverage with control, not an imaginary unattended business.",
+        "description": "It can reduce preparation and coordination work, but it cannot responsibly run everything unattended. A solopreneur must provide direction, review outputs, maintain connections, handle exceptions, and approve publishing, spending, customer communication, and other consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

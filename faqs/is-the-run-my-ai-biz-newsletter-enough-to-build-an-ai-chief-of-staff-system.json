@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is the Run My AI Biz newsletter enough to build an AI chief-of-staff system?",
+  "description": "The newsletter is educational, not a fully configured business operating system. It offers a free starting option and a $9 monthly paid subscription for full we",
+  "url": "https://runmyaibusiness.com/faq/is-the-run-my-ai-biz-newsletter-enough-to-build-an-ai-chief-of-staff-system",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the Run My AI Biz newsletter enough to build an AI chief-of-staff system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A subscription can be useful when you want continuing education, sourced tool comparisons, pricing explanations, and practical workflow ideas rather than a one-time prompt. Run My AI Business describes its newsletter as a separate educational publication, with a free starting option and a $9 monthly paid subscription for full weekly issues. It does not automatically provide a fully configured operating system for your business. Review whether each issue helps you make a concrete decision, test a workflow, or improve an existing process. If you are still choosing a business direction, start with the free material and define the specific problem you want to solve before paying for more information.",
+        "description": "The newsletter is educational, not a fully configured business operating system. It offers a free starting option and a $9 monthly paid subscription for full weekly issues, with tool comparisons and practical workflow ideas. Use it to choose and test a specific workflow; additional platforms, setup, and review remain your responsibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

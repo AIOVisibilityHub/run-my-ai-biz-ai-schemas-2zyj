@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up an AI customer support workflow that actually works?",
+  "description": "A simple FAQ or draft-reply pilot can be prepared faster than a workflow connected to billing, orders, or multiple channels. Time depends on documentation, inte",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-an-ai-customer-support-workflow-that-actually-wo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up an AI customer support workflow that actually works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plan on an initial setup period for documenting policies, preparing examples, connecting tools, and testing past questions; the exact duration depends on scope and integrations. A basic draft-and-triage workflow is generally faster to pilot than one that changes records, checks billing, or sends customer-facing messages automatically. Context: Run My AI Biz’s recommended focused approach is to build one assistant, use it, and then expand. That reduces the chance of spending weeks designing an oversized system before its first useful result. Key factors: - number of channels - quality of existing documentation - integration complexity - review and approval requirements. Practical guidance: Begin with historical tickets and an off-hours pilot. Measure accuracy, escalation quality, and time saved before adding actions. Treat any timeline as a planning estimate rather than a promise because external platforms and account permissions can create delays.",
+        "description": "A simple FAQ or draft-reply pilot can be prepared faster than a workflow connected to billing, orders, or multiple channels. Time depends on documentation, integrations, permissions, testing, and approval rules. Start with historical tickets and expand only after the first workflow performs reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

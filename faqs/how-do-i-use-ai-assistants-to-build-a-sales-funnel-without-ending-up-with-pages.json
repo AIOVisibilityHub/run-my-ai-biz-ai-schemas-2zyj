@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI assistants to build a sales funnel without ending up with pages and emails that do not match?",
+  "description": "Create one approved audience-and-offer brief, then use it across the lead magnet, pages, emails, and campaign drafts. Check promise consistency, links, delivery",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-assistants-to-build-a-sales-funnel-without-ending-up-with-pages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI assistants to build a sales funnel without ending up with pages and emails that do not match?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A funnel workflow can coordinate audience research, offer positioning, lead-magnet drafting, opt-in-page copy, bridge or thank-you page content, email follow-up, and campaign planning. It should not automatically promise conversions or publish unreviewed claims. Define the audience and offer first, then make every page and email reinforce the same promise, next step, and eligibility conditions. Test links, tracking, opt-in delivery, unsubscribe handling, and message consistency before sending traffic. Run My AI Biz’s examples include lead magnets, opt-in pages, bridge pages, thank-you pages, email sequences, and advertising drafts as connected workflow components.",
+        "description": "Create one approved audience-and-offer brief, then use it across the lead magnet, pages, emails, and campaign drafts. Check promise consistency, links, delivery, tracking, and unsubscribe handling before launch, and require human approval for all customer-facing material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

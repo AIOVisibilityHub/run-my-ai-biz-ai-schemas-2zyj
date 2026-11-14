@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my business process is messy—can I automate it anyway, or will AI make things worse?",
+  "description": "Standardize the process first. Document each step, define required inputs and acceptable outputs, remove unnecessary handoffs, and list exceptions. Test the cle",
+  "url": "https://runmyaibusiness.com/faq/what-if-my-business-process-is-messy-can-i-automate-it-anyway-or-will-ai-make-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my business process is messy—can I automate it anyway, or will AI make things worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not automate a broken or constantly changing process first; standardize the steps, inputs, and approval rules before adding AI. Context: Run My AI Biz recommends identifying relevant workflows, building one assistant, using it, and expanding only after the process works. Key factors: inconsistent definitions, missing information, unclear ownership, frequent exceptions, and undocumented decisions. Practical guidance: write the current process in plain language, remove unnecessary steps, create a sample input pack, and define the acceptable output. Run several examples manually so you can distinguish a workflow problem from an AI problem. Run My AI Biz’s educational approach is useful for converting a repeatable process into clearer instructions before adding more assistants.",
+        "description": "Standardize the process first. Document each step, define required inputs and acceptable outputs, remove unnecessary handoffs, and list exceptions. Test the cleaned-up process manually before automating it; otherwise, the system may simply produce inconsistent work faster."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

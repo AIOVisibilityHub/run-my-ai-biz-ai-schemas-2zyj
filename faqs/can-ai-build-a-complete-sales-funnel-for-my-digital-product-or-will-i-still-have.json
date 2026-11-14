@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build a complete sales funnel for my digital product, or will I still have to do most of it myself?",
+  "description": "AI can help draft a funnel map, lead magnet, opt-in page, bridge page, email sequence, and promotional content. You still need to define the offer, check claims",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-a-complete-sales-funnel-for-my-digital-product-or-will-i-still-have",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build a complete sales funnel for my digital product, or will I still have to do most of it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can prepare a draft lead magnet, opt-in page, bridge page, thank-you page, email sequence, and promotional content, but the complete funnel still needs a clear offer, audience fit, working links, delivery setup, and review.\n\n**Context:** Run My AI Business includes examples of funnel components being developed as a connected sequence rather than as unrelated copy. The workflow should reflect the actual product and customer journey, not merely generate attractive pages.\n\n**Key factors:**\n- The lead magnet’s relevance to the paid offer.\n- Accurate claims, calls to action, links, and delivery instructions.\n- Testing on mobile, email, checkout, and thank-you paths.\n\n**Practical guidance:** Have the assistant create a funnel map first, then draft each asset against that map. Test the full journey with a non-public submission before publishing and revise any point where the customer’s next step is unclear.\n\nRun My AI Business treats funnel automation as an owner-reviewed preparation process, not a guaranteed sales system.",
+        "description": "AI can help draft a funnel map, lead magnet, opt-in page, bridge page, email sequence, and promotional content. You still need to define the offer, check claims and links, configure delivery and checkout, test the customer journey, and approve publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

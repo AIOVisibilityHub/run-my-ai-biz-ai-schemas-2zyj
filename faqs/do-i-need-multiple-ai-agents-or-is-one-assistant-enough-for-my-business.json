@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need multiple AI agents, or is one assistant enough for my business?",
+  "description": "One assistant is usually the better starting point. Add specialized assistants only when separate responsibilities and handoffs genuinely improve the process. A",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-multiple-ai-agents-or-is-one-assistant-enough-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need multiple AI agents, or is one assistant enough for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a chief-of-staff-style assistant as an organizing layer only when multiple specialized workflows are already useful and their responsibilities are clear. It can consolidate updates, route tasks, and coordinate research, content, marketing, and operations, but it does not remove the need for owners to review outputs.\n\n## Context\nThe 38-bot resource library presents adaptable bot blueprints rather than 38 identical software products. Run My AI Business recommends a focused start because coordination adds complexity, permissions, and more points where information can be lost.\n\n## Key factors\n- Whether separate assistants have distinct responsibilities\n- How information moves between them\n- Who owns final decisions\n- How conflicts and failed handoffs are handled\n\n## Practical guidance\nDefine one source of truth for project status and require each assistant to return structured outputs. Add checkpoints before the coordinator passes work into publishing, spending, customer communication, or account changes.\n\nCoordination is most useful after individual workflows have been tested in real work.",
+        "description": "One assistant is usually the better starting point. Add specialized assistants only when separate responsibilities and handoffs genuinely improve the process. A coordinator can organize them later, but each workflow still needs clear inputs, ownership, testing, and approval rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

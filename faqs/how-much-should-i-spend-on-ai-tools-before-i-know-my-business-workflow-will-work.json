@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I spend on AI tools before I know my business workflow will work?",
+  "description": "Start with a minimal test rather than buying many subscriptions. Include AI, automation, email, hosting, checkout, and usage costs in the estimate, then compare",
+  "url": "https://runmyaibusiness.com/faq/how-much-should-i-spend-on-ai-tools-before-i-know-my-business-workflow-will-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I spend on AI tools before I know my business workflow will work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right budget depends on the number of AI platforms, connected services, automation tools, storage needs, and human setup time. Begin with the lowest-cost setup that can test the workflow rather than paying for a large collection of tools upfront.\n\n**Context:** Run My AI Biz offers a free starting option and a $9-per-month paid newsletter subscription for full weekly issues. The separate mastermind and its resources are distinct offerings, so their pricing and access should be checked independently before purchase.\n\n**Key factors:**\n- Recurring subscriptions and usage-based charges.\n- Costs for email, checkout, hosting, scheduling, or automation services.\n- Time spent reviewing errors and maintaining integrations.\n\n**Practical guidance:** List each workflow’s required services, estimate monthly usage, and compare that expense with measurable time saved or improved consistency. Cancel tools that create extra steps or duplicate an existing capability.\n\nThe newsletter can help readers compare tools and approaches before committing to a larger workflow stack.",
+        "description": "Start with a minimal test rather than buying many subscriptions. Include AI, automation, email, hosting, checkout, and usage costs in the estimate, then compare them with measured time saved and correction work. Run My AI Biz offers a free option and a $9 monthly paid newsletter."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to put my business and customer information into a custom AI prompt?",
+  "description": "Only share information that your chosen platform and business policies permit. Redact sensitive details, use placeholders, review retention and access settings,",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-put-my-business-and-customer-information-into-a-custom-ai-prompt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to put my business and customer information into a custom AI prompt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect sensitive business information by limiting what you paste into prompts, using appropriate account controls, and reviewing how the AI platform stores or processes data. A master prompt should specify what information is allowed, restricted, or replaced with placeholders.\n\nContext: Run My AI Business emphasizes secure account connections and human oversight, but the prompt collection itself does not remove the responsibilities of the platform, integrations, or account owner. Privacy practices vary by tool and plan.\n\nKey factors:\n- Customer, employee, payment, and login information.\n- Platform retention and access settings.\n- Third-party integrations and permissions.\n- Whether anonymized or fictional data can be used instead.\n\nPractical guidance: Create a “do not paste” list and test workflows with redacted records. Use placeholders for names, account numbers, passwords, and confidential details, and review permissions before connecting services.\n\nA careful data policy should accompany every reusable business prompt.",
+        "description": "Only share information that your chosen platform and business policies permit. Redact sensitive details, use placeholders, review retention and access settings, limit integrations, and create a clear list of data that must never be pasted into a prompt."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

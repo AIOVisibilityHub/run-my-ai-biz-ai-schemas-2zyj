@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use one general AI support bot or several specialized assistants?",
+  "description": "Use one focused assistant for a small, well-defined support process. Add specialized assistants only when tasks need different sources, permissions, or review r",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-one-general-ai-support-bot-or-several-specialized-assistants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use one general AI support bot or several specialized assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with an assistant that drafts replies and categorizes requests, then add approved information retrieval, routing, and carefully selected actions. A single broad bot may be simpler at first, but specialized assistants can be easier to control when research, support, billing checks, and reporting have different instructions. Context: Run My AI Biz’s 38-bot resource is described as a library of adaptable blueprints, not 38 identical products. Its chief-of-staff-style examples can coordinate specialized work, but coordination adds setup and review complexity. Key factors: - number of support tasks - shared data requirements - need for separate permissions - ability to monitor each step. Practical guidance: Build one support workflow first, document its inputs and outputs, and add another assistant only when a clear boundary exists. Do not create multiple bots merely because a library contains multiple examples.",
+        "description": "Use one focused assistant for a small, well-defined support process. Add specialized assistants only when tasks need different sources, permissions, or review rules. Run My AI Biz’s bot library offers adaptable examples, but multiple assistants increase coordination and monitoring work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

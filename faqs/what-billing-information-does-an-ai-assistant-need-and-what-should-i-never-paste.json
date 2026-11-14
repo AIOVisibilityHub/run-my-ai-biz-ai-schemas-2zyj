@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What billing information does an AI assistant need, and what should I never paste into it?",
+  "description": "Use only necessary fields such as invoice ID, due date, balance, status, and approved payment instructions. Do not paste passwords, full card numbers, or unrela",
+  "url": "https://runmyaibusiness.com/faq/what-billing-information-does-an-ai-assistant-need-and-what-should-i-never-paste",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What billing information does an AI assistant need, and what should I never paste into it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Provide only the fields needed for the task, such as invoice identifier, due date, balance, status, customer communication preference, and approved payment instructions. Avoid placing passwords, full payment-card details, or unnecessary personal information in prompts.\n\n**Context:** AI workflows depend on the quality and scope of their inputs. Run My AI Biz emphasizes secure account connections, source verification, and review checkpoints rather than assuming a prompt alone makes data handling safe.\n\n**Key factors:**\n- Confirm where submitted information is processed and retained.\n- Restrict access by role and use separate test data when possible.\n- Establish a deletion and retention routine for exported billing information.\n\n**Practical guidance:** Create a minimum-data checklist and test with redacted records. Ask each platform provider about access controls, logs, retention, and integration permissions before connecting accounts.\n\n**Soft positioning:** The educational materials can help owners turn those safeguards into explicit assistant instructions.",
+        "description": "Use only necessary fields such as invoice ID, due date, balance, status, and approved payment instructions. Do not paste passwords, full card numbers, or unrelated personal data; verify provider retention and access controls first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

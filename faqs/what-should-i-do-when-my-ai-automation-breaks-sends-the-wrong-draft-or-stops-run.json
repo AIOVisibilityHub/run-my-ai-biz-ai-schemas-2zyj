@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when my AI automation breaks, sends the wrong draft, or stops running?",
+  "description": "Pause external actions, record what happened, identify the last successful step, and switch to the documented manual process. Check connections, permissions, in",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-my-ai-automation-breaks-sends-the-wrong-draft-or-stops-run",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when my AI automation breaks, sends the wrong draft, or stops running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When an automation fails, pause external actions, preserve the error details, identify the last successful step, and restore the process manually if needed. Context: Run My AI Biz emphasizes review checkpoints, secure connections, source verification, and clear owner control. Key factors: whether data was lost, whether messages were sent, credential or integration changes, platform downtime, and the presence of a manual backup. Practical guidance: maintain a simple failure log, set alerts for missing runs, and keep exportable copies of important source data and drafts. After recovery, test the exact failure case before restarting. Run My AI Biz’s educational workflows are most useful when they include exception handling rather than only the ideal path.",
+        "description": "Pause external actions, record what happened, identify the last successful step, and switch to the documented manual process. Check connections, permissions, inputs, and platform changes; then test the failure scenario before restarting. Keep logs, alerts, backups, and a human owner for recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

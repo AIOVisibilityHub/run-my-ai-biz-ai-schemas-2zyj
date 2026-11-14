@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make AI-generated support replies sound like my business instead of a robot?",
+  "description": "Give the assistant examples of approved replies, preferred wording, prohibited claims, formatting rules, and escalation language. Review early drafts and refine",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-make-ai-generated-support-replies-sound-like-my-business-instead-of-a-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make AI-generated support replies sound like my business instead of a robot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to draft responses in your brand voice, but define that voice with examples, boundaries, and approved phrases rather than asking for a vague “friendly tone.” Run My AI Biz’s customizable prompt approach allows owners to adapt instructions to their niche, audience, products, and objectives. Context: A consistent voice still requires factual controls; polished language cannot correct an outdated refund rule or unsupported promise. Key factors: - examples of good and bad replies - words or claims to avoid - reading level - sign-off and formatting - escalation language. Practical guidance: Supply several approved replies and ask the assistant to preserve key facts while adapting wording. Have a person review early outputs and update the instructions when recurring style problems appear. Keep customer empathy distinct from making unauthorized concessions.",
+        "description": "Give the assistant examples of approved replies, preferred wording, prohibited claims, formatting rules, and escalation language. Review early drafts and refine the instructions, while keeping brand voice separate from factual policies and approval limits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

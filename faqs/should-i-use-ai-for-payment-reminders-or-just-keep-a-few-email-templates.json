@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use AI for payment reminders or just keep a few email templates?",
+  "description": "Use templates for predictable, low-volume reminders and AI when messages need controlled personalization or multiple scenarios. A practical compromise is to kee",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-ai-for-payment-reminders-or-just-keep-a-few-email-templates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use AI for payment reminders or just keep a few email templates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI drafting can make reminders more consistent and easier to personalize, while templates offer simpler controls and predictable wording. The right choice depends on message variety, billing volume, data quality, and how much review you can provide.\n\n**Context:** For stable invoices and a small number of reminder stages, a template may be safer. AI becomes more useful when messages need context-sensitive wording, multiple tones, or structured exception notes.\n\n**Key factors:**\n- Templates are easier to audit and maintain.\n- AI can prepare variations but may introduce factual or tone errors.\n- Both approaches require accurate status checks.\n\n**Practical guidance:** Keep fixed sections—amount, due date, payment instructions—and let AI draft only the explanation or courteous opening. Compare correction rates before replacing templates.\n\n**Soft positioning:** Run My AI Biz can help owners evaluate AI as one component rather than assuming it should replace a proven template.",
+        "description": "Use templates for predictable, low-volume reminders and AI when messages need controlled personalization or multiple scenarios. A practical compromise is to keep factual sections fixed and use AI only for reviewed wording."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

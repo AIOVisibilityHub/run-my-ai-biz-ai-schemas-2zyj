@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should happen when two AI assistants disagree about the offer, audience, facts, or next step?",
+  "description": "Pause the workflow, identify the decision owner, summarize both positions, verify the evidence, and request an explicit choice. Record the decision and update t",
+  "url": "https://runmyaibusiness.com/faq/what-should-happen-when-two-ai-assistants-disagree-about-the-offer-audience-fact",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should happen when two AI assistants disagree about the offer, audience, facts, or next step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The workflow needs a clear pause-and-ask rule for ambiguity, conflicting instructions, missing evidence, sensitive data, or actions outside the assistant’s authority. Identify the decision owner for each business area and send that person a short summary with the available options and a recommendation. Record the decision and update the relevant instruction so the same conflict is less likely to recur. Never resolve a disagreement by allowing the most recent or most confident-looking assistant to decide automatically. Multi-agent practitioners report using centralized decision queues, ownership rules, and documented conflict resolutions for this purpose. Run My AI Biz’s chief-of-staff-style examples are well suited to organizing these requests, provided approval remains with the owner.",
+        "description": "Pause the workflow, identify the decision owner, summarize both positions, verify the evidence, and request an explicit choice. Record the decision and update the instructions. Do not let confidence, recency, or majority opinion substitute for human judgment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

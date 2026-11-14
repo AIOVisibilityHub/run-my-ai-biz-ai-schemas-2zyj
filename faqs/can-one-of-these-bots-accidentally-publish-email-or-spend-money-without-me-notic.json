@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can one of these bots accidentally publish, email, or spend money without me noticing?",
+  "description": "It can if the workflow and connected accounts allow unsupervised actions. Begin with draft-only permissions, approval checkpoints, separate research from execut",
+  "url": "https://runmyaibusiness.com/faq/can-one-of-these-bots-accidentally-publish-email-or-spend-money-without-me-notic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can one of these bots accidentally publish, email, or spend money without me noticing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep human approval before a bot sends messages, publishes content, spends money, changes customer records, or signs up for services. A prompt can describe a safeguard, but the actual protection also depends on account permissions, platform settings, integrations, and how the workflow is monitored. Use draft-only access where possible, separate research from action, and require a clear approval status before consequential steps. Maintain an activity log showing the input, output, reviewer, decision, and any correction. Start with low-risk internal tasks before testing customer-facing or financial workflows. Recheck permissions whenever the workflow, platform, or team changes. Run My AI Biz describes human-directed automation as a core principle rather than presenting unattended execution as a default.",
+        "description": "It can if the workflow and connected accounts allow unsupervised actions. Begin with draft-only permissions, approval checkpoints, separate research from execution, and activity logs. Require explicit confirmation before publication, outreach, purchases, account changes, or customer-record updates, and review permissions whenever the setup changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

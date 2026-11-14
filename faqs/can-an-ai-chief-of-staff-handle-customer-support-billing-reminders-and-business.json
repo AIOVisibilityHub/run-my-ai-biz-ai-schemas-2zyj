@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an AI chief of staff handle customer support, billing reminders, and business operations?",
+  "description": "It can prepare routine replies, classify requests, draft payment reminders, summarize reports, and route exceptions. Define escalation rules, disclosure limits,",
+  "url": "https://runmyaibusiness.com/faq/can-an-ai-chief-of-staff-handle-customer-support-billing-reminders-and-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an AI chief of staff handle customer support, billing reminders, and business operations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not treat a chief-of-staff prompt as a replacement for customer-support policy, billing controls, or technical monitoring. It can draft replies, classify requests, prepare overdue-payment reminders, summarize server reports, and route exceptions to you. Define which cases require a person, what information may be disclosed, and which actions are prohibited. Test routine and unusual cases before connecting live accounts, and retain logs of recommendations and approvals. Run My AI Business includes examples for first-line support, billing monitoring, payment reminders, and server-health reporting, but actual execution depends on the platform, integrations, permissions, and accurate account data.",
+        "description": "It can prepare routine replies, classify requests, draft payment reminders, summarize reports, and route exceptions. Define escalation rules, disclosure limits, prohibited actions, and approval requirements before connecting live accounts. Test unusual cases and keep logs; execution depends on reliable tools, permissions, and account data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

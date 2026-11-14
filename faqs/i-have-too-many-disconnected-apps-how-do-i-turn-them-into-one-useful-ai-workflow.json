@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have too many disconnected apps—how do I turn them into one useful AI workflow?",
+  "description": "Map the process first: trigger, inputs, decisions, output, owner, and exceptions. Pick one recurring bottleneck, test it manually, and clarify handoffs before c",
+  "url": "https://runmyaibusiness.com/faq/i-have-too-many-disconnected-apps-how-do-i-turn-them-into-one-useful-ai-workflow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have too many disconnected apps—how do I turn them into one useful AI workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin by mapping the current process before choosing an automation tool. Write down the trigger, information collected, decisions made, output created, person responsible, and exceptions that require individual handling.\n\n**Context:** Automating a broken or unclear process often makes mistakes happen faster. Small businesses usually gain more from removing a recurring bottleneck than from trying to connect every application at once.\n\n**Key factors:**\n- Frequency and time consumed by the task.\n- Consistency of the steps and availability of required data.\n- Risk if the assistant misunderstands the request.\n\n**Practical guidance:** Select one repeatable workflow, such as compiling a research brief or drafting a weekly email. Run it manually with AI assistance, refine the checklist, and connect tools only after the handoff points are clear.\n\nRun My AI Business recommends focused implementation before broader business automation.",
+        "description": "Map the process first: trigger, inputs, decisions, output, owner, and exceptions. Pick one recurring bottleneck, test it manually, and clarify handoffs before connecting more tools. Automation should simplify a proven process, not hide an unclear one."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

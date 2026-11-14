@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a chief-of-staff AI assistant actually do for a solopreneur?",
+  "description": "It can organize projects, summarize progress, identify blockers, and coordinate specialized assistants. To work well, it needs an up-to-date project brief, defi",
+  "url": "https://runmyaibusiness.com/faq/what-does-a-chief-of-staff-ai-assistant-actually-do-for-a-solopreneur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a chief-of-staff AI assistant actually do for a solopreneur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chief-of-staff-style assistant can help organize projects, summarize progress, identify stalled work, and route tasks to specialized assistants. It still needs accurate updates, clear priorities, and owner approval for consequential decisions.\n\nContext: Run My AI Business describes coordination between assistants for research, product development, video production, launch preparation, publishing, and operations. The central assistant organizes work; it does not replace the tools or expertise required to complete every task.\n\nKey factors:\n- A current project brief.\n- Defined responsibilities for each assistant.\n- Consistent status and handoff formats.\n- Approval points for publishing, spending, and external communication.\n\nPractical guidance: Ask for a weekly status report showing completed work, blockers, assumptions, and the next action. Keep source files and final decisions in a location the owner can inspect.\n\nThis setup can give a solopreneur a clearer operating rhythm without implying full autonomy.",
+        "description": "It can organize projects, summarize progress, identify blockers, and coordinate specialized assistants. To work well, it needs an up-to-date project brief, defined handoffs, consistent status reports, and approval rules for publishing, spending, or contacting others."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

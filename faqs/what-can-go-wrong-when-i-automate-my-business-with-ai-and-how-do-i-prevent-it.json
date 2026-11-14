@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when I automate my business with AI, and how do I prevent it?",
+  "description": "AI can produce inaccurate content, mishandle sensitive information, or take an unsuitable action when inputs are incomplete. Limit permissions, verify sources,",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-i-automate-my-business-with-ai-and-how-do-i-prevent-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when I automate my business with AI, and how do I prevent it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not give an AI assistant unrestricted authority over publishing, spending, customer commitments, or account changes. Use it to prepare drafts, organize information, and recommend next steps while a person approves consequential actions.\n\n**Context:** Errors can arise from incomplete context, outdated information, misunderstood instructions, weak source material, or faulty integrations. A workflow that looks reliable for routine cases may still fail when a request is unusual or ambiguous.\n\n**Key factors:**\n- Sensitive business, customer, payment, or login information.\n- Clear escalation rules for uncertainty and exceptions.\n- A record of inputs, outputs, approvals, and changes.\n\n**Practical guidance:** Remove unnecessary sensitive data, use secure account connections, verify sources, and create a “stop and ask” rule for missing facts. Review permissions regularly and test what happens when a tool, field, or integration is unavailable.\n\nRun My AI Business promotes human-directed automation with approval safeguards built into the workflow.",
+        "description": "AI can produce inaccurate content, mishandle sensitive information, or take an unsuitable action when inputs are incomplete. Limit permissions, verify sources, require approval before publishing or spending, define escalation rules, and test failure cases before relying on the workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

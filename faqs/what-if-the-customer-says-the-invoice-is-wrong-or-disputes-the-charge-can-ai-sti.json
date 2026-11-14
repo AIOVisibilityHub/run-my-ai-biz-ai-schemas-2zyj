@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the customer says the invoice is wrong or disputes the charge—can AI still send a reminder?",
+  "description": "Do not let AI send a routine reminder while an invoice is disputed. Mark the account for human review, pause follow-ups, verify the issue, and create separate i",
+  "url": "https://runmyaibusiness.com/faq/what-if-the-customer-says-the-invoice-is-wrong-or-disputes-the-charge-can-ai-sti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the customer says the invoice is wrong or disputes the charge—can AI still send a reminder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI can draft a polite reminder, but it should not decide how to handle a disputed invoice. Disputed, partially paid, refunded, or service-quality-related accounts should be routed to a human review queue.\n\n**Context:** A reminder may be factually correct about an unpaid balance yet inappropriate because the customer has raised an unresolved issue. Run My AI Biz’s process model supports exception handling and owner review rather than treating every overdue status alike.\n\n**Key factors:**\n- Add dispute and hold fields to the input data.\n- Pause reminders when a customer has requested clarification.\n- Keep escalation language separate from routine follow-up.\n\n**Practical guidance:** Create explicit “do not draft” and “needs owner decision” rules. Record the reason for the hold so another person does not restart the sequence accidentally.\n\n**Soft positioning:** Run My AI Biz can help owners convert common exceptions into clear assistant instructions.",
+        "description": "Do not let AI send a routine reminder while an invoice is disputed. Mark the account for human review, pause follow-ups, verify the issue, and create separate instructions for legitimate balances and unresolved questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

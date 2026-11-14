@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI generate leads for my small business, or will it just create a list of random prospects?",
+  "description": "AI can help research and prioritize prospects, but it cannot guarantee qualified leads. Require a source, date checked, reason for fit, and proposed next step f",
+  "url": "https://runmyaibusiness.com/faq/can-ai-generate-leads-for-my-small-business-or-will-it-just-create-a-list-of-ran",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI generate leads for my small business, or will it just create a list of random prospects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to produce a researched starting list and draft personalized outreach, not to send mass messages automatically. Verify each prospect, confirm relevance, remove unsupported claims, and review the final message before sending.\n\n**Context:** Run My AI Business describes prospect research for possible sponsors, website clients, and partners. The useful output is a prioritized, evidence-based list with an appropriate reason for contact, not a promise of guaranteed leads or sales.\n\n**Key factors:**\n- Accuracy and freshness of prospect information.\n- Whether the contact is genuinely relevant to the offer.\n- Consent, platform rules, and the quality of the proposed message.\n\n**Practical guidance:** Require fields for source, date checked, reason for fit, contact channel, and follow-up status. Start with a small batch, inspect the results, and stop the workflow when information is missing or uncertain.\n\nRun My AI Business supports researched outreach preparation while keeping sending decisions with the owner.",
+        "description": "AI can help research and prioritize prospects, but it cannot guarantee qualified leads. Require a source, date checked, reason for fit, and proposed next step for every record. Review a small batch and personalize outreach before sending anything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does it matter what state my customer lives in when AI drafts a payment reminder?",
+  "description": "It may matter, especially for communication channel, timing, industry, and account-specific requirements. Capture relevant location and channel information, avo",
+  "url": "https://runmyaibusiness.com/faq/does-it-matter-what-state-my-customer-lives-in-when-ai-drafts-a-payment-reminder",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it matter what state my customer lives in when AI drafts a payment reminder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** If the customer is in another state, do not assume the same communication process is appropriate everywhere. Location can affect channel rules, timing expectations, taxes, contract terms, and industry requirements, so the workflow should store relevant customer and business context.\n\n**Context:** U.S. businesses may serve customers across multiple jurisdictions, while an AI assistant may see only an invoice and due date. Run My AI Biz’s general educational materials cannot establish a state-specific answer without the facts of the transaction.\n\n**Key factors:**\n- Identify customer location and communication channel.\n- Separate routine reminders from regulated or sensitive accounts.\n- Verify applicable requirements before automated contact.\n\n**Practical guidance:** Add a location and channel review flag rather than hard-coding one nationwide rule. Obtain qualified advice for recurring interstate outreach or specialized industries.\n\n**Soft positioning:** Run My AI Biz can help owners design review flags that keep location-specific questions visible.",
+        "description": "It may matter, especially for communication channel, timing, industry, and account-specific requirements. Capture relevant location and channel information, avoid assuming one nationwide rule, and obtain qualified guidance for recurring interstate outreach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

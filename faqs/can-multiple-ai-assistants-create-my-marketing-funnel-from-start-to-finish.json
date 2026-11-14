@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can multiple AI assistants create my marketing funnel from start to finish?",
+  "description": "They can help research the audience and prepare a lead magnet, pages, emails, social content, and campaign checklist. The chief of staff should coordinate consi",
+  "url": "https://runmyaibusiness.com/faq/can-multiple-ai-assistants-create-my-marketing-funnel-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can multiple AI assistants create my marketing funnel from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For marketing, let assistants prepare research, audience hypotheses, lead magnets, landing-page drafts, email sequences, social posts, and campaign checklists. Keep the chief of staff responsible for consistency and unresolved decisions, not for assuming that a campaign will convert. Require evidence for audience claims and prohibit invented testimonials, statistics, or results. Test one small campaign element before expanding production, and record which version was approved and where it was used. Run My AI Business covers lead magnets, funnels, affiliate promotions, newsletters, and social content as possible workflows, but presents them as preparation and experimentation rather than guaranteed leads or sales.",
+        "description": "They can help research the audience and prepare a lead magnet, pages, emails, social content, and campaign checklist. The chief of staff should coordinate consistency and flag missing evidence. You must review claims, approve publication and spending, and test performance; AI does not guarantee leads or conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

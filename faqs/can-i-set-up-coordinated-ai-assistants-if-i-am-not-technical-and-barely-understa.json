@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I set up coordinated AI assistants if I am not technical and barely understand automation?",
+  "description": "Yes. You can begin with plain-language instructions and draft-only tasks, but integrations, permissions, APIs, or custom software may require technical help. Ga",
+  "url": "https://runmyaibusiness.com/faq/can-i-set-up-coordinated-ai-assistants-if-i-am-not-technical-and-barely-understa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I set up coordinated AI assistants if I am not technical and barely understand automation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to be a programmer to begin, but you do need to describe the work clearly and connect any required tools or accounts. Prompts can define an assistant’s role, steps, source requirements, output format, and approval limits in everyday language. Technical work may still arise when a workflow needs APIs, webhooks, databases, permissions, hosting, or custom software. Start with a prompt-based workflow that produces drafts or reports before attempting actions that change systems. Prepare examples of good and bad outputs, your brand information, and a list of tasks the assistant must never perform without approval. Run My AI Biz is designed around approachable AI education for entrepreneurs who want practical workflows without learning code first.",
+        "description": "Yes. You can begin with plain-language instructions and draft-only tasks, but integrations, permissions, APIs, or custom software may require technical help. Gather examples, business context, output rules, and approval limits before building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

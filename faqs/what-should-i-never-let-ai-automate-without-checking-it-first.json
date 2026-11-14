@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I never let AI automate without checking it first?",
+  "description": "Do not allow unsupervised AI to publish, spend money, send consequential messages, make sensitive decisions, or invent claims. Require approval for high-impact",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-never-let-ai-automate-without-checking-it-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I never let AI automate without checking it first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for structured research, first drafts, classification, summaries, and routine preparation; keep business strategy, sensitive decisions, money movement, publishing, and unusual customer situations under human control. The correct boundary depends on the consequences of an error.\n\n## Context\nRun My AI Business materials emphasize approval before assistants send messages, publish content, spend money, or sign up for services. They also stress source verification and restrictions against invented statistics, proof, or income claims.\n\n## Key factors\n- Impact of a wrong result\n- Sensitivity of the data involved\n- Reversibility of the action\n- Frequency and predictability of exceptions\n\n## Practical guidance\nCreate three categories: AI may draft, AI may act after approval, and AI must not act. Add an escalation route for missing information, conflicting instructions, refunds, complaints, or unsupported claims.\n\nThat structure lets educational examples remain useful without treating AI as an unsupervised business owner.",
+        "description": "Do not allow unsupervised AI to publish, spend money, send consequential messages, make sensitive decisions, or invent claims. Require approval for high-impact actions and define what happens when information is missing, conflicting, outdated, or outside the workflow’s instructions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

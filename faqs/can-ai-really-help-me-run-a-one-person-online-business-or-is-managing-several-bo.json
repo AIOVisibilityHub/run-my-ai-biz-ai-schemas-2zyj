@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI really help me run a one-person online business, or is managing several bots just more work?",
+  "description": "AI can reduce repeated research, drafting, coordination, and administrative work, but a solo owner still sets priorities, reviews outputs, manages permissions,",
+  "url": "https://runmyaibusiness.com/faq/can-ai-really-help-me-run-a-one-person-online-business-or-is-managing-several-bo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI really help me run a one-person online business, or is managing several bots just more work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help a solo owner coordinate research, content, marketing, product work, and administration, but it does not remove the need for direction and review. Context: Run My AI Biz describes a chief-of-staff-style assistant that organizes projects and routes work to specialized assistants. Key factors: project count, deadlines, account access, review capacity, and the owner’s ability to resolve exceptions. Practical guidance: keep one central task list, assign each assistant a narrow responsibility, and set a daily or weekly review window. Avoid launching several business models at once; expand only after one workflow is reliable. Run My AI Biz’s examples are intended to help one-person businesses organize work without implying that every bot is a separate income-producing operation.",
+        "description": "AI can reduce repeated research, drafting, coordination, and administrative work, but a solo owner still sets priorities, reviews outputs, manages permissions, and handles exceptions. Start with one assistant and one business workflow; add specialized assistants only after the first system is dependable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

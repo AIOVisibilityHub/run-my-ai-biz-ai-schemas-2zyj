@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a solo entrepreneur realistically manage a workflow built from the 38-bot library?",
+  "description": "Yes, if the workflow stays narrow and owner-controlled. Start with research, drafting, repurposing, or routine updates rather than assigning strategy and conseq",
+  "url": "https://runmyaibusiness.com/faq/can-a-solo-entrepreneur-realistically-manage-a-workflow-built-from-the-38-bot-li",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a solo entrepreneur realistically manage a workflow built from the 38-bot library?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a one-person business, choose workflows that remove repetitive preparation while leaving judgment and approvals with you. Useful starting points may include research briefs, newsletter outlines, content repurposing, prospect organization, or routine project updates. Avoid giving one assistant responsibility for strategy, publishing, customer communication, and financial action at the same time. Create a weekly review that checks completed outputs, failed tasks, pending approvals, and changes needed in the prompt. Keep the workflow simple enough that you can understand and repair it without outside help. Use separate business contexts when serving different brands or audiences so voice, sources, and offers do not get mixed. Run My AI Biz specifically addresses solopreneurs through accessible, conversational AI workflows.",
+        "description": "Yes, if the workflow stays narrow and owner-controlled. Start with research, drafting, repurposing, or routine updates rather than assigning strategy and consequential actions to one assistant. Use separate brand contexts, weekly checks, and clear approval points so the system remains understandable and repairable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

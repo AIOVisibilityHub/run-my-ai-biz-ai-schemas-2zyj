@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business admin tasks can I automate without accidentally upsetting customers or mishandling payments?",
+  "description": "Start with low-risk monitoring, summaries, task creation, and reminder drafts. Keep refunds, disputes, account changes, payment decisions, and sensitive support",
+  "url": "https://runmyaibusiness.com/faq/which-business-admin-tasks-can-i-automate-without-accidentally-upsetting-custome",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business admin tasks can I automate without accidentally upsetting customers or mishandling payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Automate information preparation and reminders first; keep refunds, disputes, unusual billing decisions, and sensitive support conversations with a person. Context: Run My AI Biz lists billing monitoring, overdue-payment reminders, first-line support workflows, and server-health reporting among possible administrative uses, while emphasizing review and approval. Key factors: account permissions, customer history, payment status accuracy, escalation rules, and the cost of a wrong action. Practical guidance: allow the system to flag overdue items, prepare a reminder draft, summarize the account, and create a task for review. Require confirmation before changing balances, issuing refunds, or making commitments. Run My AI Biz can help organize routine operations without presenting automation as a substitute for judgment.",
+        "description": "Start with low-risk monitoring, summaries, task creation, and reminder drafts. Keep refunds, disputes, account changes, payment decisions, and sensitive support conversations under human control. Use clear thresholds and escalation rules, and verify customer history before any message or financial action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

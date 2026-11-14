@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much human oversight should an entrepreneur keep in an AI workflow?",
+  "description": "Keep human approval for customer-facing communication, publishing, spending, account changes, factual claims, and business commitments. Let AI prepare drafts an",
+  "url": "https://runmyaibusiness.com/faq/how-much-human-oversight-should-an-entrepreneur-keep-in-an-ai-workflow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much human oversight should an entrepreneur keep in an AI workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep a person responsible for reviewing accuracy, tone, customer impact, and business claims before anything goes live. The owner should also approve spending, external messages, account changes, and commitments made on the business’s behalf.\n\n**Context:** AI can prepare research, drafts, summaries, and recommendations, but responsibility does not transfer to the assistant. Review requirements should be part of the workflow instructions, not an informal step remembered only occasionally.\n\n**Key factors:**\n- Risk and reversibility of the action.\n- Whether the output affects customers, money, reputation, or access.\n- Availability of reliable source material.\n\n**Practical guidance:** Label outputs as draft, ready for review, or approved. Create a short checklist for factual claims, links, names, prices, dates, and calls to action, then retain approval records for important campaigns.\n\nRun My AI Business specifically emphasizes approval before sending messages, publishing content, spending money, or signing up for services.",
+        "description": "Keep human approval for customer-facing communication, publishing, spending, account changes, factual claims, and business commitments. Let AI prepare drafts and recommendations, then use a documented checklist for accuracy, tone, links, prices, dates, and calls to action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

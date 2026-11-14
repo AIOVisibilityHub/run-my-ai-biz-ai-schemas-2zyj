@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first in my business if I’m overwhelmed by AI options?",
+  "description": "Start with one frequent, repeatable task that has a clear output, such as research summaries, newsletter drafts, lead-magnet preparation, or routine follow-up.",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-in-my-business-if-i-m-overwhelmed-by-ai-options",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first in my business if I’m overwhelmed by AI options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repetitive task that occurs often, follows recognizable steps, and has a clear owner. For Run My AI Business readers, that might be turning research into a newsletter draft, organizing a lead magnet workflow, or preparing routine follow-up.\n\n**Context:** Trying to automate an entire business at once usually creates too many unclear handoffs. A focused workflow makes it easier to test the instructions, inputs, output format, and approval point before adding more assistants.\n\n**Key factors:**\n- Choose work that consumes time but does not require final judgment at every step.\n- Define the expected input, output, deadline, and quality standard.\n- Mark actions that always need your approval, such as publishing, spending, or sending messages.\n\n**Practical guidance:** Document the current process in plain language, build one task-specific assistant, and run it manually several times. Track time saved, corrections required, and missed details before expanding.\n\nRun My AI Business emphasizes focused implementation: build one assistant, use it, refine it, and only then coordinate additional workflows.",
+        "description": "Start with one frequent, repeatable task that has a clear output, such as research summaries, newsletter drafts, lead-magnet preparation, or routine follow-up. Document the steps, require approval before external actions, and measure corrections and time saved before adding more assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

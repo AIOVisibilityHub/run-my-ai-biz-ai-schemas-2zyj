@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI bot libraries worth it, or am I just buying a pile of prompts I won’t use?",
+  "description": "A bot library is worthwhile only when a blueprint matches a real recurring problem and can be adapted to your business. Treat prompts as starting instructions,",
+  "url": "https://runmyaibusiness.com/faq/are-ai-bot-libraries-worth-it-or-am-i-just-buying-a-pile-of-prompts-i-won-t-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI bot libraries worth it, or am I just buying a pile of prompts I won’t use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat a prompt library as a starting point for adapting workflows, not as a collection of guaranteed businesses. Each blueprint still needs your niche, audience, offer, data, platform setup, integrations, review rules, and sustained execution.\n\n**Context:** The 38 Bot Empire contains examples across planning, research, content, marketing, sales, websites, and operations. The collection includes adaptable master prompts, and some materials are referenced separately; the examples are not 38 identical independent software products.\n\n**Key factors:**\n- Whether the assistant matches a real business problem.\n- What supporting services and permissions the workflow needs.\n- Whether the example is demonstrated, experimental, or not yet used by you.\n\n**Practical guidance:** Choose one blueprint that matches an immediate need, rewrite its context and boundaries, and test it on your own inputs. Record what requires manual work before deciding whether to expand.\n\nRun My AI Business presents the library as an educational resource for exploration, not an automatic income engine.",
+        "description": "A bot library is worthwhile only when a blueprint matches a real recurring problem and can be adapted to your business. Treat prompts as starting instructions, then add your context, tools, permissions, review rules, and testing. They are not guaranteed income-producing software."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

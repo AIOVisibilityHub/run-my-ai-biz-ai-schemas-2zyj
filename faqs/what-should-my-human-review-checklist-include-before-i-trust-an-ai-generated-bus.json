@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should my human review checklist include before I trust an AI-generated business task?",
+  "description": "Check facts, sources, dates, links, audience, tone, formatting, sensitive data, permissions, and the requested action. Ask the assistant to show assumptions and",
+  "url": "https://runmyaibusiness.com/faq/what-should-my-human-review-checklist-include-before-i-trust-an-ai-generated-bus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should my human review checklist include before I trust an AI-generated business task?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful review process checks factual accuracy, source quality, tone, formatting, links, audience, permissions, and the intended action. Context: Run My AI Biz’s materials call for source verification and approval before publishing, sending messages, spending money, or signing up for services. Key factors: the task’s risk, customer impact, claim sensitivity, and whether the output changes external records. Practical guidance: convert the review into a short checklist and require the assistant to show inputs, assumptions, unresolved questions, and proposed action. Sample the work even after the workflow becomes reliable. Run My AI Biz can help owners build review checkpoints into specialized assistant instructions.",
+        "description": "Check facts, sources, dates, links, audience, tone, formatting, sensitive data, permissions, and the requested action. Ask the assistant to show assumptions and unresolved questions. Keep approval before external messages, publication, purchases, or account changes, and continue periodic sampling afterward."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

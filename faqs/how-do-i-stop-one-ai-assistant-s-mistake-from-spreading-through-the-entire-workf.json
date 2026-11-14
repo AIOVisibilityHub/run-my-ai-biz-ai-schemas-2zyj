@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop one AI assistant’s mistake from spreading through the entire workflow?",
+  "description": "Require structured outputs that distinguish facts, assumptions, recommendations, and open questions. Verify important claims against original sources, keep rese",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-one-ai-assistant-s-mistake-from-spreading-through-the-entire-workf",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop one AI assistant’s mistake from spreading through the entire workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not let one assistant silently pass unsupported claims to the next. Require every research output to separate sourced facts, assumptions, recommendations, and unanswered questions, then have a human verify important claims before publication or spending. Preserve source links internally, record the research date, and reject invented statistics, testimonials, proof, or income claims. If two assistants disagree, send the conflict to an owner instead of asking another assistant to guess. Run My AI Biz’s bot guidance includes source verification and restrictions against inventing statistics, proof, or income claims, which makes those checks useful in research, marketing, and product workflows.",
+        "description": "Require structured outputs that distinguish facts, assumptions, recommendations, and open questions. Verify important claims against original sources, keep research records, and require human approval before the result reaches customers, marketing, or a public product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

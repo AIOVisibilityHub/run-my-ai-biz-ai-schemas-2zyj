@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up AI workflows for a small online business?",
+  "description": "A simple research or drafting workflow may be usable quickly, while connected workflows take longer because they require permissions, integrations, testing, and",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-ai-workflows-for-a-small-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up AI workflows for a small online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect setup to take longer than writing the first prompt because reliable coordination requires workflow design, examples, permissions, integrations, testing, and review rules. For a simple drafting or research workflow, the first usable version may be created quickly; connected systems usually require more iteration. Context: Run My AI Business recommends starting with one assistant, using it, and refining it before expanding. The time depends on whether the workflow only prepares drafts or also updates systems and triggers external actions. Key factors: - Number of tools involved - Complexity of handoffs - Data quality - Approval and exception requirements Practical guidance: Estimate effort by workflow stages, not by assistant count. Test one real but low-risk case, document failures, and revise instructions before automating recurring runs. Run My AI Business’s educational examples can help clarify the work involved before a user commits to a larger setup.",
+        "description": "A simple research or drafting workflow may be usable quickly, while connected workflows take longer because they require permissions, integrations, testing, and exception rules. Start with one low-risk process and expand only after real use reveals what needs fixing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

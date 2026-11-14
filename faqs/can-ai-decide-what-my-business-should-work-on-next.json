@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI decide what my business should work on next?",
+  "description": "AI can rank tasks using deadlines, dependencies, effort, and stated goals, but it should recommend rather than make important decisions alone. Require reasons a",
+  "url": "https://runmyaibusiness.com/faq/can-ai-decide-what-my-business-should-work-on-next",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI decide what my business should work on next?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help prioritize work by summarizing status, deadlines, dependencies, and blocked items, but priority still depends on business goals and consequences. Run My AI Business describes project-tracking and chief-of-staff-style assistants that can organize updates and coordinate specialized work. Context: A system may overvalue urgent-looking tasks unless the owner defines strategic priorities, customer commitments, and deadlines. Key factors: - Revenue or customer impact - Dependency and deadline - Effort required - Cost of delaying another task Practical guidance: Ask for a ranked list with reasons, assumptions, dependencies, and the next action rather than a bare priority label. Review the ranking at a regular cadence and adjust the rules when business conditions change. Run My AI Business can help turn scattered updates into a more usable decision brief.",
+        "description": "AI can rank tasks using deadlines, dependencies, effort, and stated goals, but it should recommend rather than make important decisions alone. Require reasons and assumptions, then adjust priorities based on customer impact, revenue needs, and changing conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

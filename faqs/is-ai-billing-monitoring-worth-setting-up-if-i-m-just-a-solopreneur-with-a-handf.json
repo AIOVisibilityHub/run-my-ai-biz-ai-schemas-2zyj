@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI billing monitoring worth setting up if I’m just a solopreneur with a handful of clients?",
+  "description": "It can fit a solopreneur when invoice records and payment statuses are consistent. If most payments are informal or disputed, begin with a simple tracking proce",
+  "url": "https://runmyaibusiness.com/faq/is-ai-billing-monitoring-worth-setting-up-if-i-m-just-a-solopreneur-with-a-handf",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI billing monitoring worth setting up if I’m just a solopreneur with a handful of clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Eligibility depends less on company size than on having consistent invoice records and a system that can provide current payment status. A one-person business may be a good fit if it can define clear rules and review drafts.\n\n**Context:** Run My AI Biz serves solopreneurs and small-business owners who want to reduce repetitive administration. The workflow is less suitable when invoices are mostly informal, payments arrive through untracked channels, or disputes are common.\n\n**Key factors:**\n- Centralized invoice and payment data improves reliability.\n- Repeated invoice terms make automation easier.\n- Sensitive records require controlled access and careful data handling.\n\n**Practical guidance:** List your payment sources, billing volume, exception types, and current follow-up steps. Start with reminders for one invoice category rather than every customer at once.\n\n**Soft positioning:** Run My AI Biz can help users assess workflow fit before adapting a billing-monitoring assistant.",
+        "description": "It can fit a solopreneur when invoice records and payment statuses are consistent. If most payments are informal or disputed, begin with a simple tracking process and use AI only for drafting, not automatic decisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

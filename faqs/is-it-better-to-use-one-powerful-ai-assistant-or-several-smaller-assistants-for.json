@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to use one powerful AI assistant or several smaller assistants for my online business?",
+  "description": "Use one assistant when tasks share the same context and review standard. Split work when responsibilities, sources, outputs, or permissions differ. Multiple ass",
+  "url": "https://runmyaibusiness.com/faq/is-it-better-to-use-one-powerful-ai-assistant-or-several-smaller-assistants-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to use one powerful AI assistant or several smaller assistants for my online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One large general assistant is convenient, but several specialized assistants can provide clearer responsibilities, reusable instructions, and easier testing. The tradeoff is greater coordination effort, more context passing, more model usage, and more places for inconsistent information to appear. Choose specialization when tasks require different source rules, skills, output formats, or approval standards. Keep tasks together when they share the same context and can be checked through one simple checklist. Run My AI Biz’s library includes separate examples for research, courses, videos, funnels, newsletters, websites, and operations, allowing owners to compare a focused workflow with a broader assistant.",
+        "description": "Use one assistant when tasks share the same context and review standard. Split work when responsibilities, sources, outputs, or permissions differ. Multiple assistants improve specialization but add handoff, consistency, and usage costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

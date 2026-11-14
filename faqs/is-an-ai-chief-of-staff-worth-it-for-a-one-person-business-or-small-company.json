@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is an AI chief of staff worth it for a one-person business or small company?",
+  "description": "It can be useful when recurring tasks—research, drafting, product work, marketing, or operations—need coordination. It is less suitable for rare, undefined, or",
+  "url": "https://runmyaibusiness.com/faq/is-an-ai-chief-of-staff-worth-it-for-a-one-person-business-or-small-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an AI chief of staff worth it for a one-person business or small company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small-business owner can use a chief-of-staff workflow when several repetitive tasks need coordination but final decisions still belong to the owner. It is especially suitable for organizing research, content drafts, product development, email campaigns, website tasks, or recurring operational checks. It may be a poor fit when the process is rare, poorly defined, highly sensitive, or impossible to verify. Begin by documenting how the task is currently done and where delays occur. Separate preparation from consequential actions: assistants can draft, classify, summarize, and recommend while you approve publication, spending, account changes, or outreach. Run My AI Business is aimed at solopreneurs and small businesses, but its examples are educational possibilities rather than guarantees of savings or revenue.",
+        "description": "It can be useful when recurring tasks—research, drafting, product work, marketing, or operations—need coordination. It is less suitable for rare, undefined, or difficult-to-check work. Start with preparation and recommendations, keeping approval for publishing, spending, outreach, and account changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

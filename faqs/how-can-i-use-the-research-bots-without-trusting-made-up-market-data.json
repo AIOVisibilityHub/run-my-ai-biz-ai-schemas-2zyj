@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use the research bots without trusting made-up market data?",
+  "description": "Require a dated research brief with defined sources, geography, audience, evidence fields, uncertainty labels, and open questions. Make the bot separate observa",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-the-research-bots-without-trusting-made-up-market-data",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use the research bots without trusting made-up market data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adapt the research bot to produce a traceable brief rather than a confident list of conclusions. Specify the audience, geography if relevant, research question, date range, source quality, required fields, and uncertainty labels. Ask it to separate observed evidence from interpretation and to flag missing or conflicting information. For opportunity research, require a comparison of demand signals, competitors, customer problems, and open questions rather than an automatic recommendation. Verify important claims yourself before using them in an offer, product, or public content. Save the source notes with the resulting brief so later decisions can be audited. Run My AI Biz includes opportunity-research and competitor-research examples intended to support evaluation, not guarantee demand.",
+        "description": "Require a dated research brief with defined sources, geography, audience, evidence fields, uncertainty labels, and open questions. Make the bot separate observations from interpretation and preserve source notes with the output. Verify important claims manually before using them to shape an offer, product, or public statement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

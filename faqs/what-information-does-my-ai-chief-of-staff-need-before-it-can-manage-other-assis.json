@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does my AI chief of staff need before it can manage other assistants?",
+  "description": "Provide the business goal, audience, offers, voice, priorities, approved facts, prohibited claims, available tools, and decision rules. Keep detailed references",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-my-ai-chief-of-staff-need-before-it-can-manage-other-assis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does my AI chief of staff need before it can manage other assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give the chief of staff a concise operating brief rather than every document you own. Include the business model, target audience, offer, brand voice, current priorities, approved facts, prohibited claims, tools available, and decision rules. Store detailed reference material separately and retrieve only what the assigned task needs. Mark assumptions and outdated information clearly. This reduces irrelevant context and makes it easier to identify which assistant caused a mistake. Run My AI Business encourages adapting prompts to a niche, audience, products, voice, and objectives, so generic instructions should be replaced with business-specific facts before use.",
+        "description": "Provide the business goal, audience, offers, voice, priorities, approved facts, prohibited claims, available tools, and decision rules. Keep detailed references in an organized source library and pass only relevant material to each assistant. Label assumptions and outdated information so errors are easier to catch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

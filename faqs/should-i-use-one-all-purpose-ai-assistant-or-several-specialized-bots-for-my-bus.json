@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use one all-purpose AI assistant or several specialized bots for my business?",
+  "description": "Use one assistant for a simple, consistent process. Use specialized assistants when research, product creation, marketing, and operations need different instruc",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-one-all-purpose-ai-assistant-or-several-specialized-bots-for-my-bus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use one all-purpose AI assistant or several specialized bots for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose between one integrated assistant and several specialized assistants based on task complexity, consistency, and the amount of coordination required. One assistant is usually easier to maintain; separate assistants can provide clearer roles for research, product creation, marketing, and operations.\n\n**Context:** Run My AI Business describes both approaches. A chief-of-staff-style assistant can coordinate work, while specialized assistants can handle defined functions such as opportunity research, course planning, newsletter production, or launch preparation.\n\n**Key factors:**\n- Whether tasks use the same context and output standards.\n- How often information must pass between assistants.\n- Whether separate review points reduce errors or create extra work.\n\n**Practical guidance:** Start with one clearly bounded assistant. Split it only when instructions become confusing, outputs need different expertise, or independent testing would make quality easier to assess.\n\nThe 38-bot resource is a library of adaptable blueprints, not 38 identical software products that must all be deployed.",
+        "description": "Use one assistant for a simple, consistent process. Use specialized assistants when research, product creation, marketing, and operations need different instructions or review standards. Start small and split responsibilities only when the single workflow becomes difficult to manage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

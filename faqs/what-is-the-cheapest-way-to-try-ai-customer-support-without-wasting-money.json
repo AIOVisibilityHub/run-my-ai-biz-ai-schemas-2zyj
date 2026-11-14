@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cheapest way to try AI customer support without wasting money?",
+  "description": "Start with a documented FAQ, ticket categorization, and draft replies before purchasing complex integrations. Keep sending, refunds, account changes, and other",
+  "url": "https://runmyaibusiness.com/faq/what-is-the-cheapest-way-to-try-ai-customer-support-without-wasting-money",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cheapest way to try AI customer support without wasting money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a limited budget, start with documentation, ticket tagging, and draft replies before paying for complex integrations or autonomous actions. The cheapest useful workflow is often the one that reduces preparation time while leaving sending, refunds, account changes, and publication under human control. Context: Run My AI Biz’s educational model supports comparing tools and beginning with one assistant rather than building every possible workflow. A narrow pilot also reveals whether the problem is truly a software problem or an unclear policy. Key factors: - highest weekly support burden - available free features - integration requirements - time available for review. Practical guidance: Organize FAQs and past answers, test a small prompt-based workflow, and measure correction time. Upgrade only when a specific limitation is costing more than the added tool or integration.",
+        "description": "Start with a documented FAQ, ticket categorization, and draft replies before purchasing complex integrations. Keep sending, refunds, account changes, and other consequential actions under human approval. Measure time saved and correction time before upgrading."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

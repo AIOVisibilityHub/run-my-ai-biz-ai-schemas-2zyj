@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which repetitive online business tasks are actually safe to automate with AI?",
+  "description": "Choose frequent, rule-based tasks with clear inputs and easy review, such as research summaries, first drafts, content repurposing, lead organization, link chec",
+  "url": "https://runmyaibusiness.com/faq/which-repetitive-online-business-tasks-are-actually-safe-to-automate-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which repetitive online business tasks are actually safe to automate with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good candidates are repeatable, text-heavy tasks with stable rules and easily checked outputs. For Run My AI Biz readers, examples include recurring research briefs, newsletter drafts, lead-magnet outlines, social-post repurposing, prospect organization, link checks, and payment-reminder drafts. Context: AI can reduce repeated preparation, but a prompt alone does not create a complete system; suitable tools, permissions, integrations, and review are also needed. Key factors: volume, predictability, data sensitivity, consequences of an error, and whether the task requires judgment. Practical guidance: Score each task by minutes per occurrence, weekly frequency, and risk, then start with the highest time-saving opportunity that remains easy to inspect. Keep strategic decisions and unusual customer situations with the owner. Run My AI Biz can help explain how to separate routine preparation from decisions that need personal judgment.",
+        "description": "Choose frequent, rule-based tasks with clear inputs and easy review, such as research summaries, first drafts, content repurposing, lead organization, link checks, and routine reminders. Avoid starting with high-stakes decisions, sensitive disputes, or anything you cannot verify quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can one master prompt create content for my newsletter, social media, and sales funnel?",
+  "description": "Yes, if the prompt receives the source material, audience, purpose, format, voice, and call to action for each channel. Ask for separate drafts rather than iden",
+  "url": "https://runmyaibusiness.com/faq/can-one-master-prompt-create-content-for-my-newsletter-social-media-and-sales-fu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can one master prompt create content for my newsletter, social media, and sales funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A reusable master prompt can create consistent content across newsletters, social posts, email, and product materials, but each format still needs its own audience, length, purpose, and review criteria. Run My AI Business includes newsletter publishing, social content, newsletter repurposing, and community content workflows.\n\nContext: Repurposing is not simply copying the same text everywhere. A newsletter may explain a topic, while a short post may invite discussion or direct readers to a resource.\n\nKey factors:\n- The original content’s factual accuracy.\n- Platform-specific format and audience expectations.\n- Brand voice and prohibited wording.\n- Links, calls to action, and approval status.\n\nPractical guidance: Ask the prompt to produce separate drafts with a stated purpose for each channel. Review whether every version preserves the original meaning without adding unsupported claims or inappropriate promises.\n\nA structured repurposing workflow can save drafting time while keeping each channel useful.",
+        "description": "Yes, if the prompt receives the source material, audience, purpose, format, voice, and call to action for each channel. Ask for separate drafts rather than identical copies, then review accuracy, links, claims, and platform fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

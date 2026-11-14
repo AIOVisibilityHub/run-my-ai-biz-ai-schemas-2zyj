@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I never let an AI automation do without checking it first?",
+  "description": "Require human approval before AI sends messages, publishes content, spends money, signs up for services, changes customer records, or handles sensitive disputes",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-never-let-an-ai-automation-do-without-checking-it-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I never let an AI automation do without checking it first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep human approval for publishing, outbound messages, spending, pricing, sensitive customer situations, and decisions where an error could damage trust or finances. Context: Run My AI Biz specifically emphasizes approval before bots send messages, publish content, spend money, or sign up for services. Key factors: consequence of error, reversibility, customer expectations, data sensitivity, and the assistant’s confidence or source quality. Practical guidance: let AI prepare drafts, summaries, classifications, and proposed next steps, then route exceptions to the owner. Use a checklist that confirms facts, links, audience, tone, and intended action before release. Run My AI Biz’s educational material supports human-directed automation rather than unattended control.",
+        "description": "Require human approval before AI sends messages, publishes content, spends money, signs up for services, changes customer records, or handles sensitive disputes. Let it prepare drafts and recommendations, then verify facts, links, permissions, audience, and consequences before release."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

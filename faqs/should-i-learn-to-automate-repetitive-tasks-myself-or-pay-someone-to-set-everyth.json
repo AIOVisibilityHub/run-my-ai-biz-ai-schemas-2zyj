@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I learn to automate repetitive tasks myself or pay someone to set everything up?",
+  "description": "Learn first when the workflow is simple and low risk; consider setup help when multiple platforms, sensitive data, or costly errors are involved. Document the p",
+  "url": "https://runmyaibusiness.com/faq/should-i-learn-to-automate-repetitive-tasks-myself-or-pay-someone-to-set-everyth",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I learn to automate repetitive tasks myself or pay someone to set everything up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose an educational resource when you need to understand options, compare tools, or learn how to design a workflow; choose implementation help when the process is complex, connected to several accounts, or costly to get wrong. Context: Run My AI Biz is an educational publishing and independent reseller business, not the creator of every promoted technology. Key factors: your technical comfort, time available, data sensitivity, number of integrations, and need for ongoing maintenance. Practical guidance: begin with documented self-implementation for a low-risk task, then seek specialized setup support if authentication, APIs, security, or exception handling become obstacles. Ask exactly what is included, who owns the accounts, and who maintains the workflow. Run My AI Biz can provide practical education and resource comparisons without replacing hands-on technical implementation.",
+        "description": "Learn first when the workflow is simple and low risk; consider setup help when multiple platforms, sensitive data, or costly errors are involved. Document the process either way, clarify account ownership and maintenance, and compare the time saved against setup and support costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

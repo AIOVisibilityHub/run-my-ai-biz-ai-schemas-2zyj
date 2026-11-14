@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to give one AI chief of staff access to all my business information?",
+  "description": "Usually, broad access is unnecessary and increases exposure. Use least-privilege permissions, separate accounts or projects where practical, redact data during",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-give-one-ai-chief-of-staff-access-to-all-my-business-information",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to give one AI chief of staff access to all my business information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not let the chief of staff freely share every document or account with every specialist. Create separate access levels based on task necessity, keep sensitive information out of prompts when it is not required, and review connected permissions regularly. Use redacted or sample data during testing. Require assistants to identify the source of customer, financial, or operational information and to stop when access is missing. The platform’s privacy and retention terms also matter, so inspect them before connecting business data. Run My AI Business emphasizes secure account connections and human control, but a prompt library cannot by itself guarantee privacy or security.",
+        "description": "Usually, broad access is unnecessary and increases exposure. Use least-privilege permissions, separate accounts or projects where practical, redact data during testing, and review platform privacy and retention terms. Require assistants to stop when information is missing instead of guessing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

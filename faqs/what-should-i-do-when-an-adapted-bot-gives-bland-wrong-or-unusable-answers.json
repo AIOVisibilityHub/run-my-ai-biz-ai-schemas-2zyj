@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when an adapted bot gives bland, wrong, or unusable answers?",
+  "description": "First narrow the task and check the quality of the inputs, sources, output format, and platform capabilities. Add specific examples, missing-information rules,",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-an-adapted-bot-gives-bland-wrong-or-unusable-answers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when an adapted bot gives bland, wrong, or unusable answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect the first version to require correction; customization is an iterative process rather than a one-time paste. If results are poor, check whether the task is too broad, the inputs are incomplete, the output format is vague, the source material is unreliable, or the platform cannot perform the requested action. Break a large assignment into stages such as research, outline, draft, review, and final formatting. Add a few strong examples and specify what the assistant must do when information is missing or conflicting. Test one variable at a time so you can identify the cause of improvement or decline. Keep a fallback manual process until the bot meets your quality standard repeatedly. Run My AI Biz’s educational framing supports refinement and owner review instead of promising automatic success.",
+        "description": "First narrow the task and check the quality of the inputs, sources, output format, and platform capabilities. Add specific examples, missing-information rules, and staged steps rather than making the prompt much longer at once. Test one change at a time and retain a manual fallback until results are dependable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

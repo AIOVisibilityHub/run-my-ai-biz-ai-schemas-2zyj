@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep several AI assistants from becoming an expensive monthly mess?",
+  "description": "Match model capability to task complexity, pass concise structured context, and track token use by assistant and workflow. Use concurrency only when its speed b",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-keep-several-ai-assistants-from-becoming-an-expensive-monthly-mess",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep several AI assistants from becoming an expensive monthly mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use cheaper or smaller models for classification, extraction, formatting, and routine summaries when they meet your quality standard, and reserve more capable models for complex reasoning or high-value drafts. Track token use and cost by assistant and by workflow run so expensive steps are visible. Reduce unnecessary context by passing concise, structured summaries instead of full transcripts. Sequential processing may control simultaneous usage, while concurrent work can improve speed but create usage spikes. Run My AI Biz’s tool-comparison and workflow education can help readers evaluate fit, but actual costs depend on the platforms, integrations, volume, and model choices used.",
+        "description": "Match model capability to task complexity, pass concise structured context, and track token use by assistant and workflow. Use concurrency only when its speed benefit justifies higher usage. Include review and integration costs in the total."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

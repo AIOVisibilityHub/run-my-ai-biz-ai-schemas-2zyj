@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How could an AI chief of staff coordinate a digital product launch?",
+  "description": "Sequence research, offer definition, product outlining, sales-page drafting, funnel preparation, email drafting, and launch checks. Track dependencies and pause",
+  "url": "https://runmyaibusiness.com/faq/how-could-an-ai-chief-of-staff-coordinate-a-digital-product-launch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How could an AI chief of staff coordinate a digital product launch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a staged workflow for a product launch: research the audience and offer, outline the product, prepare the sales page and funnel materials, draft follow-up emails, then create a launch checklist. The chief of staff should keep dependencies visible and prevent later-stage work from starting when an earlier decision is unresolved. Require your approval before publishing pages, sending emails, changing checkout settings, or spending on promotion. Run My AI Business includes examples for digital products, sales pages, lead magnets, funnels, email follow-up, and launch preparation, but these materials remain drafts until reviewed and implemented in the relevant platforms.",
+        "description": "Sequence research, offer definition, product outlining, sales-page drafting, funnel preparation, email drafting, and launch checks. Track dependencies and pause when an earlier decision is unresolved. Review all claims and approve pages, emails, checkout changes, and promotional spending before anything goes live."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

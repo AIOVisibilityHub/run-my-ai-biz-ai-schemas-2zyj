@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I saw an AI customer support demo that looked perfect—why shouldn’t I copy it exactly?",
+  "description": "A demo may use prepared inputs, manual intervention, or tools you do not have. Confirm the actual automated steps, permissions, integrations, data requirements,",
+  "url": "https://runmyaibusiness.com/faq/i-saw-an-ai-customer-support-demo-that-looked-perfect-why-shouldn-t-i-copy-it-ex",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I saw an AI customer support demo that looked perfect—why shouldn’t I copy it exactly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume that a successful demo proves the workflow will work in production. Demonstrations may use clean inputs, prepared prompts, limited scenarios, or manual intervention that is not obvious to the viewer. Context: Run My AI Biz explicitly distinguishes adaptable bot blueprints and demonstrated workflows from guaranteed income-producing or fully independent systems. The same caution applies to support automation. Key factors: - whether the example matches your tools - data quality - exception handling - required permissions - ongoing monitoring. Practical guidance: Ask what is automated, what remains manual, which integrations are required, and how failures are handled. Recreate the workflow with your own anonymized tickets before making customer-facing claims or commitments.",
+        "description": "A demo may use prepared inputs, manual intervention, or tools you do not have. Confirm the actual automated steps, permissions, integrations, data requirements, and failure handling. Test the workflow with your own anonymized tickets before using it with customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

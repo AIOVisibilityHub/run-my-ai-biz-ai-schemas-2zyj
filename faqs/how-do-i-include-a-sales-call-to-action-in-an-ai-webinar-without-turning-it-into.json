@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I include a sales call to action in an AI webinar without turning it into a pitch?",
+  "description": "Teach a focused problem first, then connect the demonstrated workflow to one relevant next step. Make the call to action specific and optional, provide a useful",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-include-a-sales-call-to-action-in-an-ai-webinar-without-turning-it-into",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I include a sales call to action in an AI webinar without turning it into a pitch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Build the webinar around a problem your audience recognizes, then connect the solution to a product or service only after teaching something useful. The call to action should be specific, optional, and consistent with what the session actually demonstrated. Context: Run My AI Biz connects educational content with digital products, newsletters, funnels, and launch preparation while avoiding guaranteed income claims. Key factors: - Educational value before promotion - Fit between lesson and offer - Evidence supporting the recommendation - Follow-up permission and timing Practical guidance: Decide the desired next action before outlining the closing section. Give attendees a practical takeaway even if they do not buy or subscribe. Review promotional language for unsupported results, urgency, testimonials, or income implications.",
+        "description": "Teach a focused problem first, then connect the demonstrated workflow to one relevant next step. Make the call to action specific and optional, provide a useful takeaway regardless of purchase, and remove unsupported income or results claims. The offer should extend the lesson rather than interrupt it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

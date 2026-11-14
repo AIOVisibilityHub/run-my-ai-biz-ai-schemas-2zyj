@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I stop an AI support bot from making up answers about my policies?",
+  "description": "Limit the assistant to approved, current documents and system records, and require it to identify missing or conflicting information. Add review dates to polici",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-stop-an-ai-support-bot-from-making-up-answers-about-my-policies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I stop an AI support bot from making up answers about my policies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not rely on the assistant’s confidence alone; require evidence from approved business documents, records, or system fields before a response is sent. Run My AI Biz’s materials specifically emphasize source verification and restrictions against inventing statistics, proof, or income claims, which translates well to customer support. Context: A response can sound polished while still using an outdated policy or missing account-specific information. Evidence checks are especially important for refunds, billing, access, delivery, and service commitments. Key factors: - freshness of the source - whether the answer is customer-specific - whether the source conflicts with another document - whether the action is reversible. Practical guidance: Label source documents with owners and review dates, and instruct the assistant to say when required information is unavailable. Route unsupported or conflicting answers to a person rather than encouraging a guess. This creates a practical review standard for future workflow refinements.",
+        "description": "Limit the assistant to approved, current documents and system records, and require it to identify missing or conflicting information. Add review dates to policies, test against real tickets, and send unsupported answers to a person instead of allowing guesses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

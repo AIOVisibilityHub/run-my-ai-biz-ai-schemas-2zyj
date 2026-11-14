@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I add more AI assistants instead of keeping my system simple?",
+  "description": "Add another assistant only after the current workflow has stable inputs, outputs, review rules, and a clearly defined bottleneck. Give the new specialist one di",
+  "url": "https://runmyaibusiness.com/faq/when-should-i-add-more-ai-assistants-instead-of-keeping-my-system-simple",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I add more AI assistants instead of keeping my system simple?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may be ready to add another assistant when the current workflow has a stable goal, repeatable inputs, predictable outputs, and a known review process. Add a specialist only for a distinct bottleneck, such as research taking too long or sales-page checks being inconsistent. Document the new assistant’s responsibility and the exact handoff from the existing one. Measure whether the addition reduces total effort or improves quality after accounting for setup and review. Run My AI Business recommends identifying relevant workflows, building one assistant, using it, and then expanding. If you cannot explain why the new assistant exists, postpone it.",
+        "description": "Add another assistant only after the current workflow has stable inputs, outputs, review rules, and a clearly defined bottleneck. Give the new specialist one distinct responsibility and document its handoff. Measure total effort and quality after setup; if the benefit is unclear, keep the simpler system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

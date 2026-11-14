@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I bought access to the 38-bot library and feel overwhelmed—what should I do first?",
+  "description": "Choose one repetitive task with a clear business outcome, such as newsletter research or lead-magnet drafting. Define its inputs, output, review point, and dest",
+  "url": "https://runmyaibusiness.com/faq/i-bought-access-to-the-38-bot-library-and-feel-overwhelmed-what-should-i-do-firs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I bought access to the 38-bot library and feel overwhelmed—what should I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing one recurring business problem, not by trying to customize all 38 bots. For example, select newsletter research, lead-magnet drafting, or billing follow-up, then define the output you need and who approves it. The library is a set of adaptable bot blueprints and master prompts, not 38 identical software products. A focused first project helps you test whether the prompt, AI platform, integrations, and review steps work together. Key factors include task frequency, business value, available source material, account permissions, and the cost of errors. Write down the trigger, inputs, desired output, approval point, and final destination before editing the prompt. Run several examples manually, record weak results, and refine the instructions before connecting automated actions. Run My AI Biz can provide educational context for turning a broad resource collection into a manageable workflow.",
+        "description": "Choose one repetitive task with a clear business outcome, such as newsletter research or lead-magnet drafting. Define its inputs, output, review point, and destination before editing the bot prompt. Test that single workflow manually, fix weak instructions, and expand only after it works consistently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

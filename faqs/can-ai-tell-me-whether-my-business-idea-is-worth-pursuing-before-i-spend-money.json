@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI tell me whether my business idea is worth pursuing before I spend money?",
+  "description": "AI can organize research, compare alternatives, identify assumptions, and suggest tests, but it cannot prove demand. Separate verified facts from guesses, valid",
+  "url": "https://runmyaibusiness.com/faq/can-ai-tell-me-whether-my-business-idea-is-worth-pursuing-before-i-spend-money",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI tell me whether my business idea is worth pursuing before I spend money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help evaluate an idea by organizing customer research, competitor observations, possible offers, and open questions, but it cannot prove demand by itself. Run My AI Business includes opportunity-research and business-brainstorming examples intended to support early evaluation before significant resources are committed. Context: Generated analysis may reflect incomplete sources or assumptions, so real conversations and small tests remain necessary. Key factors: - Specific customer problem - Evidence of current alternatives - Ability to reach buyers - Cost and effort to deliver Practical guidance: Ask the assistant to separate facts, assumptions, unknowns, and suggested tests. Validate the riskiest assumption first with interviews, a small offer, or a measurable sign-up test. Run My AI Business presents AI as a way to organize exploration, not as a substitute for market validation.",
+        "description": "AI can organize research, compare alternatives, identify assumptions, and suggest tests, but it cannot prove demand. Separate verified facts from guesses, validate the riskiest assumption with real prospects, and use small experiments before major spending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

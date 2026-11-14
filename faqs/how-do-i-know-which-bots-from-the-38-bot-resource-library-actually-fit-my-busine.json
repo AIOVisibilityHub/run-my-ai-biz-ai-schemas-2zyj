@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know which bots from the 38-bot resource library actually fit my business?",
+  "description": "Select bots that match a repetitive process you already perform and can describe clearly. Compare the required inputs, expected output, platform needs, review b",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-which-bots-from-the-38-bot-resource-library-actually-fit-my-busine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know which bots from the 38-bot resource library actually fit my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to use all 38 examples, and you should not assume every bot fits your business. Match a bot to a process you already perform repeatedly, such as researching opportunities, preparing course content, drafting email sequences, or checking routine operations. The guide includes examples across planning, marketing, product creation, websites, and administration, but relevance depends on your offer, audience, platform, and available data. Compare each candidate by the problem it solves, the information it requires, the actions it may take, and the review burden it creates. Keep a simple shortlist with columns for task, expected benefit, setup effort, and risk. Begin with the highest-frequency task that has low consequences if the draft needs correction. Run My AI Biz’s educational material can help readers understand how specialized assistants relate to broader online-business activities.",
+        "description": "Select bots that match a repetitive process you already perform and can describe clearly. Compare the required inputs, expected output, platform needs, review burden, and consequences of mistakes. Start with one high-frequency, low-risk task rather than choosing bots because they sound broadly useful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

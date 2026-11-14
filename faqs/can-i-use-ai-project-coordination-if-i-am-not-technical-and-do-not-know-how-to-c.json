@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI project coordination if I am not technical and do not know how to code?",
+  "description": "Yes. You can begin with conversational instructions and customizable prompts, but you still need to explain your business context, define boundaries, connect su",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-project-coordination-if-i-am-not-technical-and-do-not-know-how-to-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI project coordination if I am not technical and do not know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need coding experience to begin, but you do need to describe your business, audience, desired result, and rules clearly. Run My AI Business focuses on conversational workflows and customizable master prompts so owners can direct assistants in everyday language. Context: A prompt is an instruction set, not a complete software system. Actual execution may require an AI platform, connected services, account permissions, and testing. Key factors: - How clearly the task is described - Whether the platform supports the needed action - How sensitive the information is - Whether the result needs expert review Practical guidance: Start with a task you already understand, provide examples of acceptable output, and specify what the assistant must never do without approval. Review early results closely and refine the instructions rather than expecting a perfect first attempt. Run My AI Business is particularly relevant for solopreneurs who want approachable explanations without beginning with code.",
+        "description": "Yes. You can begin with conversational instructions and customizable prompts, but you still need to explain your business context, define boundaries, connect suitable tools, and review the results. Start with one familiar task instead of building a complex system immediately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

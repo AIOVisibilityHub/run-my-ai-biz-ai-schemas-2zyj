@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI customer support is actually a good fit for my small business?",
+  "description": "AI support is usually a fit when questions repeat, answers are documented, and a person can handle exceptions. It is less suitable when every case needs negotia",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-customer-support-is-actually-a-good-fit-for-my-small-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI customer support is actually a good fit for my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business can use an AI-assisted support workflow when it has repeatable questions, reasonably accurate documentation, and a clear way to involve a person. It is a weaker fit when every request requires negotiation, sensitive judgment, or investigation across poorly connected systems. Context: Run My AI Biz serves solopreneurs and small business owners who may benefit from reducing repetitive preparation work. The right fit depends more on process stability than company size. Key factors: - repeated ticket categories - consistency of policies - data access - cost of an incorrect response - human availability. Practical guidance: Count recent support requests by category and mark each as routine, review-needed, or human-only. Start with routine requests and use the results to decide whether broader automation is justified. An educational workflow review can help identify a realistic first use instead of forcing every support task into AI.",
+        "description": "AI support is usually a fit when questions repeat, answers are documented, and a person can handle exceptions. It is less suitable when every case needs negotiation, sensitive judgment, or investigation across disconnected systems. Classify recent tickets before choosing a tool."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

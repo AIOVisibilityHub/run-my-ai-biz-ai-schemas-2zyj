@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI send payment reminders automatically, or does someone need to check every message?",
+  "description": "Someone should check every message until the workflow has been thoroughly tested, and many businesses should retain that review permanently. Confirm the custome",
+  "url": "https://runmyaibusiness.com/faq/can-ai-send-payment-reminders-automatically-or-does-someone-need-to-check-every",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI send payment reminders automatically, or does someone need to check every message?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Require human review before any reminder is sent. AI can draft wording, but a person should confirm the recipient, balance, due date, payment status, tone, and any dispute history.\n\n**Context:** A paid invoice, credit, refund, or payment delay can make an otherwise polished message incorrect. Run My AI Biz’s stated approach keeps owners in control of sending, spending, publishing, and other consequential actions.\n\n**Key factors:**\n- Use a send-approval queue rather than unrestricted automation.\n- Flag mismatched balances, missing records, and customer replies.\n- Keep a record of the reviewed version and the underlying invoice data.\n\n**Practical guidance:** Have the assistant label each draft with its reason, source fields, and confidence or exception status. Never let an unreviewed draft trigger escalation or account suspension.\n\n**Soft positioning:** Run My AI Biz can show how approval requirements become part of the workflow design.",
+        "description": "Someone should check every message until the workflow has been thoroughly tested, and many businesses should retain that review permanently. Confirm the customer, balance, due date, payment status, tone, and exceptions before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

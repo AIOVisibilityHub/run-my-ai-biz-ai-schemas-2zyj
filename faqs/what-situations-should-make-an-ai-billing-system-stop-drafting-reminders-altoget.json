@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What situations should make an AI billing system stop drafting reminders altogether?",
+  "description": "Pause reminders for disputes, pending payments, expected credits or refunds, unreliable contact data, manual-review requests, and other unresolved exceptions. R",
+  "url": "https://runmyaibusiness.com/faq/what-situations-should-make-an-ai-billing-system-stop-drafting-reminders-altoget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What situations should make an AI billing system stop drafting reminders altogether?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** A customer’s account should be paused when payment is pending, the invoice is disputed, a credit is expected, contact information is unreliable, or the owner has requested manual handling. The assistant should record the reason and prevent duplicate follow-ups.\n\n**Context:** Exception handling is as important as identifying overdue invoices. Run My AI Biz’s business-operations examples include support and billing workflows, but successful execution still depends on clear rules and connected systems.\n\n**Key factors:**\n- Use explicit hold statuses with an owner and review date.\n- Keep payment, dispute, refund, and contact errors distinct.\n- Prevent one system from clearing a hold without confirmation.\n\n**Practical guidance:** Create a suppression list or status field that every reminder step checks. Review aged holds regularly so paused accounts do not disappear from attention.\n\n**Soft positioning:** Run My AI Biz can help convert recurring exceptions into reusable workflow instructions.",
+        "description": "Pause reminders for disputes, pending payments, expected credits or refunds, unreliable contact data, manual-review requests, and other unresolved exceptions. Record the hold reason and make every reminder step check it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

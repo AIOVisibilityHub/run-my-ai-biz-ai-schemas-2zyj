@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are these specialized AI assistants real tools I can turn on, or are they just prompts in a guide?",
+  "description": "Many are adaptable master prompts and workflow blueprints, not identical standalone software products. Their results depend on your AI platform, context, integr",
+  "url": "https://runmyaibusiness.com/faq/are-these-specialized-ai-assistants-real-tools-i-can-turn-on-or-are-they-just-pr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are these specialized AI assistants real tools I can turn on, or are they just prompts in a guide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume a bot blueprint is a finished software product or a plug-and-play business. A master prompt supplies role and workflow instructions, while actual performance depends on the AI platform, integrations, permissions, supporting services, business context, and review. Some examples may be demonstrations or experiments rather than validated commercial systems. Before relying on one, identify missing files, private materials, account connections, model requirements, and human steps. Run My AI Biz describes The 38 Bot Empire as a library of adaptable bot blueprints and resources, not 38 identical, independently functioning products.",
+        "description": "Many are adaptable master prompts and workflow blueprints, not identical standalone software products. Their results depend on your AI platform, context, integrations, permissions, and review. Check what materials and connections each example requires before relying on it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I adapt the social-media bots so my posts do not sound repetitive or off-brand?",
+  "description": "Give the bot a source-of-truth brief with your audience, offer, voice, approved claims, prohibited wording, links, and schedule. Repurpose specific source mater",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-adapt-the-social-media-bots-so-my-posts-do-not-sound-repetitive-or-off",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I adapt the social-media bots so my posts do not sound repetitive or off-brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For social content, create a source-of-truth brief containing the approved offer, audience, voice, topics, claims, prohibited wording, links, and publication schedule. Ask the bot to repurpose a specific newsletter or source item instead of generating unsupported posts from a broad topic. Require platform-specific length and formatting, but keep the underlying message consistent. Review facts, tone, accessibility, hashtags, links, and replies before approval, especially for sensitive subjects or customer complaints. Measure saves, replies, clicks, sign-ups, and qualified inquiries rather than judging success by posting volume alone. Run My AI Biz includes Facebook, X, newsletter-repurposing, and community-content examples that can be tailored to a defined brand context.",
+        "description": "Give the bot a source-of-truth brief with your audience, offer, voice, approved claims, prohibited wording, links, and schedule. Repurpose specific source material, vary the format by platform, and review facts, tone, links, and replies before approval. Measure meaningful actions, not posting volume alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

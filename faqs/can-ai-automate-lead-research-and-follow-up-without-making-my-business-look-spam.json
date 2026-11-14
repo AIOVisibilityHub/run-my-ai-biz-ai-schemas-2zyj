@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI automate lead research and follow-up without making my business look spammy?",
+  "description": "Use AI to research prospects, organize information, draft relevant messages, and flag follow-ups, but review recipients and wording before sending. Require a cl",
+  "url": "https://runmyaibusiness.com/faq/can-ai-automate-lead-research-and-follow-up-without-making-my-business-look-spam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI automate lead research and follow-up without making my business look spammy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but have AI prepare individualized drafts or organized prospect information rather than sending unchecked mass outreach. Context: Run My AI Biz includes prospect-research and sponsorship examples that focus on researched contacts and appropriate outreach, with owner review. Key factors: relevance, contact accuracy, consent expectations, message quality, frequency, and the risk of damaging relationships. Practical guidance: define the target profile, require evidence for why each prospect fits, remove duplicates, and review every message before sending at first. Measure replies and complaints, not just the number of messages produced. Run My AI Biz can help explain prospecting workflows while keeping relationship-sensitive communication under human control.",
+        "description": "Use AI to research prospects, organize information, draft relevant messages, and flag follow-ups, but review recipients and wording before sending. Require a clear reason each prospect fits, remove duplicates, and monitor replies or complaints. More outreach is not automatically better outreach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

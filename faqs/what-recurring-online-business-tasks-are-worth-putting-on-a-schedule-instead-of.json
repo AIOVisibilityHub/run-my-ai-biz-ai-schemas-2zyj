@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What recurring online business tasks are worth putting on a schedule instead of running manually?",
+  "description": "Scheduled research briefs, weekly summaries, content repurposing, routine checks, payment-status reviews, and operational reports are often suitable when inputs",
+  "url": "https://runmyaibusiness.com/faq/what-recurring-online-business-tasks-are-worth-putting-on-a-schedule-instead-of",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What recurring online business tasks are worth putting on a schedule instead of running manually?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use recurring automations for stable inputs and predictable reports, not for decisions that require fresh judgment or incomplete information. Context: Run My AI Biz includes examples for scheduled research, daily updates, consolidated reports, billing monitoring, support workflows, and server-health reporting. Key factors: data freshness, source reliability, schedule, alert thresholds, and who responds when something is abnormal. Practical guidance: define the report period, required sources, missing-data message, delivery destination, and escalation rule. Review the first several reports for omissions and false alerts before trusting the schedule. Run My AI Biz can help owners understand how recurring assistants fit into broader business operations.",
+        "description": "Scheduled research briefs, weekly summaries, content repurposing, routine checks, payment-status reviews, and operational reports are often suitable when inputs and rules are stable. Define the schedule, sources, missing-data response, recipient, and escalation rule, then inspect early reports for errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

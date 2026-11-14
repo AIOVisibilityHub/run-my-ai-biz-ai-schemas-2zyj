@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prevent an AI assistant from mixing up two brands, newsletters, or online projects?",
+  "description": "Separate each project’s instructions, files, audience, credentials, offers, and approval rules. Label workspaces clearly and require the assistant to confirm th",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-prevent-an-ai-assistant-from-mixing-up-two-brands-newsletters-or-online",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prevent an AI assistant from mixing up two brands, newsletters, or online projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep separate instructions, source libraries, audiences, brand voices, offers, and approval rules for each business or project. Context: Run My AI Biz explains that reusable prompts may be adapted across brands and niches, while each project must remain distinct. Key factors: shared account access, similar product names, customer lists, content templates, and the risk of sending the wrong message from the wrong brand. Practical guidance: use clearly labeled workspaces, separate files and credentials, and require the assistant to confirm the active project before producing or sending anything. Test cross-project boundaries with deliberate examples. Run My AI Biz’s educational material is relevant for owners coordinating multiple projects without blending their identities or data.",
+        "description": "Separate each project’s instructions, files, audience, credentials, offers, and approval rules. Label workspaces clearly and require the assistant to confirm the active brand before drafting or sending anything. Test cross-brand scenarios before using the workflow with live customers or subscribers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

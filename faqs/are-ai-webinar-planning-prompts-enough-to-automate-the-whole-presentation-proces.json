@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI webinar planning prompts enough to automate the whole presentation process?",
+  "description": "No. Prompts provide instructions, but reliable execution also requires a suitable platform, business context, integrations, permissions, source checks, and huma",
+  "url": "https://runmyaibusiness.com/faq/are-ai-webinar-planning-prompts-enough-to-automate-the-whole-presentation-proces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI webinar planning prompts enough to automate the whole presentation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat a prompt as a reusable instruction set, not a complete software product or guaranteed business model. A useful prompt specifies the assistant’s role, inputs, workflow, constraints, sources, review points, and desired output, but execution still depends on the AI platform and connected services. Context: Run My AI Biz’s 38-bot resource is described as a library of adaptable bot blueprints, with some materials referenced separately rather than 38 identical standalone products. Key factors: - Prompt clarity and business context - Platform capabilities - Integrations and permissions - Quality-control requirements Practical guidance: Demonstrate how a prompt changes when the niche, audience, offer, or voice changes. Include a test case and an exception case before calling the workflow reusable. Keep a human approval step before sending, publishing, purchasing, or signing up.",
+        "description": "No. Prompts provide instructions, but reliable execution also requires a suitable platform, business context, integrations, permissions, source checks, and human review. Treat prompt libraries as adaptable blueprints, test them with normal and exception cases, and require approval before anything is published, sent, or purchased."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

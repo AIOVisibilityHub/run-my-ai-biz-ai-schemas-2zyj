@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use real customer data in an AI webinar demonstration?",
+  "description": "Only use real data when you have confirmed that the tool, account settings, permissions, retention practices, and organizational approvals permit it. Safer demo",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-real-customer-data-in-an-ai-webinar-demonstration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use real customer data in an AI webinar demonstration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not upload confidential customer, employee, financial, or proprietary information to an AI tool unless the data handling, retention, permissions, and organizational approval are suitable. Use fictional or de-identified examples for demonstrations and explain whether the session is recorded or transcribed. Context: AI meeting tools may process voices, images, transcripts, and chat according to platform and administrator settings. Key factors: - Sensitivity of the information - Vendor retention and training terms - Account and workspace controls - Recording and attendee disclosure Practical guidance: Create a data-handling checklist before building the deck. Replace real records with synthetic examples and limit integrations to what the demonstration needs. Ask the relevant administrator to confirm settings rather than relying on a personal account view.",
+        "description": "Only use real data when you have confirmed that the tool, account settings, permissions, retention practices, and organizational approvals permit it. Safer demonstrations use fictional or de-identified examples. Explain recording and transcription practices, limit integrations, and verify administrator-level settings before the event."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

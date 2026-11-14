@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up an AI chief of staff with several assistants?",
+  "description": "There is no reliable universal timeline. Setup depends on the platform, integrations, data quality, number of assistants, and process complexity. A narrow draft",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-an-ai-chief-of-staff-with-several-assistants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up an AI chief of staff with several assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect setup time for defining roles, supplying context, testing handoffs, correcting instructions, and deciding approval rules. The calendar time depends on the platform, number of assistants, integrations, data quality, and how clearly the process is already documented. A narrow draft-only workflow can be tested sooner than a connected process involving email, payments, publishing, or multiple projects. Run My AI Business recommends a focused progression: identify a relevant workflow, build one assistant, use it, and expand. Before estimating a deadline, list every input, output, tool connection, human decision, and exception. A workflow is not ready merely because the prompt has been written; it should produce acceptable results repeatedly on representative tasks.",
+        "description": "There is no reliable universal timeline. Setup depends on the platform, integrations, data quality, number of assistants, and process complexity. A narrow draft workflow can be tested sooner than one involving publishing, payments, or multiple projects. Build one workflow first and expand after repeatable testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

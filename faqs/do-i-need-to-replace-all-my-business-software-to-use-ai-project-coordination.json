@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to replace all my business software to use AI project coordination?",
+  "description": "No. Start by improving one handoff between the tools you already use. Keep the current system as the source of truth, test AI on repeated copying or summarizing",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-to-replace-all-my-business-software-to-use-ai-project-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to replace all my business software to use AI project coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need to replace every existing app to introduce AI coordination; begin by documenting how work currently moves between tools. Run My AI Business addresses the problem of disconnected software by showing how specialized assistants can support connected workflows across planning, content, marketing, sales, and operations. Context: Replacing too much at once can create migration work and new failure points. Key factors: - Existing tools and data locations - Available integrations - Duplicate entry - Export and backup options Practical guidance: Choose a bottleneck where information is repeatedly copied, summarized, or reformatted. Test whether an assistant can prepare the handoff while the existing system remains the source of truth. Run My AI Business’s focused approach helps owners improve a process without committing to a total software replacement.",
+        "description": "No. Start by improving one handoff between the tools you already use. Keep the current system as the source of truth, test AI on repeated copying or summarizing work, and replace software only when the workflow and total cost justify it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

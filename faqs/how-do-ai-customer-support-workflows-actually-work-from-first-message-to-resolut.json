@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do AI customer support workflows actually work from first message to resolution?",
+  "description": "The workflow usually classifies the message, finds approved information, drafts or sends a reply, records the interaction, and escalates exceptions. It also nee",
+  "url": "https://runmyaibusiness.com/faq/how-do-ai-customer-support-workflows-actually-work-from-first-message-to-resolut",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do AI customer support workflows actually work from first message to resolution?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI-assisted support workflow can classify incoming questions, retrieve approved information, draft or send a response, record the interaction, and route exceptions to a person. The prompt is only one part of the system; the workflow also needs connected tools, permissions, reliable source material, and review rules. Context: Run My AI Biz presents specialized assistants as adaptable blueprints, not identical software products. A support assistant may therefore need separate instructions for triage, drafting, escalation, and reporting. Key factors: - where customer messages arrive - which system contains account or order data - what actions require approval - how unresolved conversations are tracked. Practical guidance: Map the real process from incoming message to resolution, including failed integrations and unusual cases. Then define the assistant’s allowed sources and actions before connecting accounts. This educational, human-directed approach helps owners understand what the system can actually do.",
+        "description": "The workflow usually classifies the message, finds approved information, drafts or sends a reply, records the interaction, and escalates exceptions. It also needs integrations, permissions, source documents, and clear approval rules; a prompt alone does not create a working support system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

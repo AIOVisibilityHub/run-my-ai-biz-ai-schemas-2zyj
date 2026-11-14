@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a custom AI prompt build and launch my digital product?",
+  "description": "It can assist with product outlines, lessons, sales pages, funnel materials, emails, and launch checklists, but it cannot guarantee sales or complete setup with",
+  "url": "https://runmyaibusiness.com/faq/can-a-custom-ai-prompt-build-and-launch-my-digital-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a custom AI prompt build and launch my digital product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt can help create a launch plan and draft related materials, but it cannot guarantee sales, traffic, approvals, or a profitable offer. Run My AI Business presents launch workflows as educational examples that require adaptation, platform setup, testing, and owner review.\n\nContext: A launch workflow may include an offer, sales page, checkout and delivery steps, upsells, thank-you pages, email follow-up, and promotional content. Each element has its own facts, links, settings, and customer experience concerns.\n\nKey factors:\n- Whether the offer addresses a real audience need.\n- Accuracy of prices, claims, links, and delivery details.\n- Correct configuration of the selling platform.\n- Review of every customer-facing asset.\n\nPractical guidance: Ask AI to produce a launch checklist and identify dependencies before drafting copy. Test the purchase, delivery, confirmation, and follow-up experience yourself before going live.\n\nThe resource library is best used to organize launch work, not to promise a particular business result.",
+        "description": "It can assist with product outlines, lessons, sales pages, funnel materials, emails, and launch checklists, but it cannot guarantee sales or complete setup without supporting platforms and permissions. Review all claims, links, prices, delivery steps, and customer-facing content before launch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

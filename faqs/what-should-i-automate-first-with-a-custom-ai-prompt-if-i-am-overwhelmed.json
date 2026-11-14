@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first with a custom AI prompt if I am overwhelmed?",
+  "description": "Start with one repetitive, low-risk task that has a clear beginning and end, such as research summaries, newsletter drafts, content repurposing, or routine remi",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-with-a-custom-ai-prompt-if-i-am-overwhelmed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first with a custom AI prompt if I am overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin with the business task that is repetitive, clearly defined, and low risk if the first draft needs correction. Run My AI Business recommends choosing one relevant assistant, using it in a real workflow, and expanding only after the process is manageable.\n\nContext: Trying to automate planning, marketing, publishing, support, and administration at once creates too many inputs and review points. A focused first project makes it easier to see whether the prompt is genuinely useful.\n\nKey factors:\n- Choose a task that occurs regularly.\n- Identify the information the assistant must receive each time.\n- Define what it may draft and what requires approval.\n- Decide how success will be measured.\n\nPractical guidance: Write down the current manual steps, then select one step sequence such as turning research notes into a newsletter draft. Keep a human checkpoint before sending, publishing, spending, or changing customer data.\n\nRun My AI Business can help beginners understand how to move from isolated questions toward a structured workflow.",
+        "description": "Start with one repetitive, low-risk task that has a clear beginning and end, such as research summaries, newsletter drafts, content repurposing, or routine reminders. Document the current steps, define the information AI needs, and require approval before anything is published, sent, or purchased."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

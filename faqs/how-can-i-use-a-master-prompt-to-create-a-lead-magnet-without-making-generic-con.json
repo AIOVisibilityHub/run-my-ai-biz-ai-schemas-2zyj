@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use a master prompt to create a lead magnet without making generic content?",
+  "description": "Give the prompt a defined audience, problem, offer, format, source rules, and follow-up goal. Ask it to use only supplied or verified information, flag uncertai",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-a-master-prompt-to-create-a-lead-magnet-without-making-generic-con",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use a master prompt to create a lead magnet without making generic content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use custom prompts to create a first draft of a lead magnet, not to decide automatically whether it is useful or appropriate for your audience. The prompt should connect the resource to a specific audience problem, offer, and follow-up sequence.\n\nContext: Run My AI Business describes examples such as a local activities PDF and an affiliate-related checklist, along with opt-in pages and email follow-up. These examples require accurate research and a clear reason for a subscriber to continue.\n\nKey factors:\n- A specific audience and problem.\n- Current, verifiable information.\n- A practical format the reader can use.\n- A relevant next step after sign-up.\n\nPractical guidance: Tell the assistant to distinguish facts from suggestions and flag information needing verification. Review the resource for usefulness, readability, branding, privacy-sensitive details, and links before distribution.\n\nA prompt can speed production while the owner remains responsible for relevance and quality.",
+        "description": "Give the prompt a defined audience, problem, offer, format, source rules, and follow-up goal. Ask it to use only supplied or verified information, flag uncertain claims, and produce a practical draft that you review for usefulness, accuracy, links, and brand fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

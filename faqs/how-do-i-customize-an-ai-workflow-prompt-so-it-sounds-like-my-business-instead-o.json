@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I customize an AI workflow prompt so it sounds like my business instead of generic AI content?",
+  "description": "Add your audience, offer, niche, brand voice, approved facts, sources, output format, and approval rules. Include examples of good work and tell the assistant w",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-customize-an-ai-workflow-prompt-so-it-sounds-like-my-business-instead-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I customize an AI workflow prompt so it sounds like my business instead of generic AI content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customize prompts with your niche, audience, offer, brand voice, source rules, output format, and approval requirements. A generic instruction may produce generic work because it lacks the context needed to make useful decisions.\n\n## Context\nThe 38-bot materials emphasize customizable master prompts that define an assistant’s role, responsibilities, workflow, and safeguards. Run My AI Business presents them as adaptable blueprints, with some supporting materials referenced separately.\n\n## Key factors\n- Specificity of the assistant’s role\n- Quality of business context\n- Examples of acceptable outputs\n- Clear limits and escalation instructions\n\n## Practical guidance\nCreate a short business brief and attach it to the workflow instructions. Ask for structured outputs, source notes, uncertainty flags, and a final review checklist; update the prompt when recurring corrections reveal a missing rule.\n\nCustomization turns an example into a more relevant starting point, not a guaranteed result.",
+        "description": "Add your audience, offer, niche, brand voice, approved facts, sources, output format, and approval rules. Include examples of good work and tell the assistant when to ask questions or stop. Refine the prompt based on repeated corrections rather than expecting one perfect version."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

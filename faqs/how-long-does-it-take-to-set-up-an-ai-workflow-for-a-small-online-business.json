@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up an AI workflow for a small online business?",
+  "description": "A simple drafting process can be tested quickly, but connected workflows take longer because they need organized inputs, integrations, permissions, exception ru",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-an-ai-workflow-for-a-small-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up an AI workflow for a small online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The setup time depends on the workflow’s complexity, the quality of your existing process, and how many tools or permissions it requires. A simple drafting workflow can be tested quickly, while a coordinated funnel or operations system requires more preparation.\n\n**Context:** The prompt itself is only one part of implementation. Reliable execution may also require source rules, examples, account connections, integrations, approval gates, and instructions for handling missing or conflicting data.\n\n**Key factors:**\n- Number of steps and assistants involved.\n- Whether information already exists in organized systems.\n- How much review is required before the output is usable.\n\n**Practical guidance:** Estimate the work in stages: document the current process, create the first assistant, test typical cases, test exceptions, then connect supporting tools. Do not promise a launch date until the owner has reviewed representative outputs.\n\nRun My AI Business recommends starting with one manageable assistant instead of attempting a full business system immediately.",
+        "description": "A simple drafting process can be tested quickly, but connected workflows take longer because they need organized inputs, integrations, permissions, exception rules, and review checkpoints. Start with one assistant and expand only after typical and unusual cases work consistently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

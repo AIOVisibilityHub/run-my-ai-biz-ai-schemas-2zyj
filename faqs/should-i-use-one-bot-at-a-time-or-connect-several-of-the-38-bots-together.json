@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use one bot at a time or connect several of the 38 bots together?",
+  "description": "Start with one bot for a clearly defined task. Add a second bot only after the first produces a reliable, reviewable output. Coordinated workflows can divide re",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-one-bot-at-a-time-or-connect-several-of-the-38-bots-together",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use one bot at a time or connect several of the 38 bots together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not connect every bot into one large system at the beginning. Compare a single assistant, a small coordinated pair, and a chief-of-staff-style coordinator based on task complexity, review needs, platform support, and your ability to troubleshoot failures. One assistant is easier to test and usually suits a clearly defined task; several assistants can divide research, production, and launch work but create handoff and consistency issues. A coordinator may reduce the number of conversations you manage, yet it can make errors harder to trace. Define the output contract between bots, including required fields, sources, status, and owner approval. Add the next assistant only after the previous handoff works with real examples. Run My AI Biz presents coordination as an option, not a requirement for every owner.",
+        "description": "Start with one bot for a clearly defined task. Add a second bot only after the first produces a reliable, reviewable output. Coordinated workflows can divide research, production, and launch work, but they also create handoff, consistency, permission, and troubleshooting challenges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to give an AI assistant access to my email, customer data, and business accounts?",
+  "description": "Only provide the minimum access required, review the platform’s data practices, protect credentials, and keep approval gates for external actions. Remove unnece",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-give-an-ai-assistant-access-to-my-email-customer-data-and-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to give an AI assistant access to my email, customer data, and business accounts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect business information by sharing only what the workflow needs, limiting account permissions, separating projects and brands, and reviewing the provider’s data practices before connecting accounts. Context: Run My AI Biz advises secure account connections, source verification, and clear approval safeguards. Key factors: customer information, payment details, credentials, proprietary plans, retention settings, access roles, and whether a tool can act externally. Practical guidance: remove unnecessary personal data from prompts, use separate credentials where possible, enable multi-factor authentication, and keep an activity log of automated actions. Do not give an assistant broad access merely because a workflow might use it later. Run My AI Biz can explain the planning and oversight questions to ask before adopting a connected workflow.",
+        "description": "Only provide the minimum access required, review the platform’s data practices, protect credentials, and keep approval gates for external actions. Remove unnecessary personal information, use separate permissions where possible, and monitor activity logs rather than granting broad access by default."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

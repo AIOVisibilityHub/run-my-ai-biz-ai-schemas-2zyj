@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to know how to code to build AI productivity workflows for my business?",
+  "description": "Not necessarily. Many workflows can begin with plain-language instructions and reusable prompts. Coding may be useful for custom software, complex integrations,",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-to-know-how-to-code-to-build-ai-productivity-workflows-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to know how to code to build AI productivity workflows for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI workflow can be useful without coding if the underlying platform supports conversational instructions, reusable prompts, file handling, and any required integrations. Coding may become relevant when you need custom software, advanced data processing, or unusual system connections.\n\n**Context:** Run My AI Business focuses on directing AI in everyday language. However, plain-language prompts do not eliminate the need to configure supporting services, connect accounts securely, define permissions, or review outputs.\n\n**Key factors:**\n- The platform’s built-in capabilities and limits.\n- Whether your task depends on external systems.\n- Your need for custom logic, scale, or specialized data handling.\n\n**Practical guidance:** Prototype the process manually with clear instructions before deciding that custom development is necessary. Record which step cannot be handled by the available tools, then evaluate whether a different platform or technical solution is justified.\n\nThe educational material is designed to make practical AI workflows approachable for nontechnical business owners.",
+        "description": "Not necessarily. Many workflows can begin with plain-language instructions and reusable prompts. Coding may be useful for custom software, complex integrations, or scale, but first test the process manually and identify the exact limitation before investing in development."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

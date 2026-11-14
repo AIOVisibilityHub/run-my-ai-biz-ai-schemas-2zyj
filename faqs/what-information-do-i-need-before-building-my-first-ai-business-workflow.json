@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before building my first AI business workflow?",
+  "description": "Gather the workflow trigger, inputs, desired output, examples, business facts, approved sources, brand voice, connected tools, and approval rules. Also document",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-before-building-my-first-ai-business-workflow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before building my first AI business workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by writing the process in plain language: what triggers it, what information it needs, what steps occur, what the finished result looks like, and when a person must intervene. Then gather representative examples, current instructions, approved sources, and access details for the tools involved.\n\n## Context\nThis preparation fits Run My AI Business’s emphasis on conversational workflows and customizable master prompts. A bot blueprint becomes more useful when it is adapted to your niche, audience, offer, voice, platform, and objectives.\n\n## Key factors\n- One clearly bounded task\n- Examples of good and bad outputs\n- Business facts that must remain consistent\n- Approval and escalation requirements\n\n## Practical guidance\nDocument the current process before trying to improve it. Mark steps that are predictable, steps needing AI interpretation, and decisions that still require your judgment.\n\nGood preparation reduces the risk of automating confusion or producing generic material.",
+        "description": "Gather the workflow trigger, inputs, desired output, examples, business facts, approved sources, brand voice, connected tools, and approval rules. Also document exceptions and escalation steps so the assistant knows when to stop instead of guessing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

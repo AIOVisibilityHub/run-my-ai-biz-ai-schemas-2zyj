@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to use customizable AI master prompts for business tasks?",
+  "description": "Costs may include prompt resources, an AI platform, integrations, email or hosting tools, and setup time. Run My AI Business lists a free starting option and a",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-use-customizable-ai-master-prompts-for-business-tasks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to use customizable AI master prompts for business tasks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost is not limited to the prompt itself. You may also need an AI platform, subscriptions, integrations, email or hosting services, storage, and time for setup and review.\n\nContext: Run My AI Business describes a free starting option and a $9-per-month paid newsletter subscription for full weekly issues. The separate mastermind and supporting tools may have their own terms, access arrangements, or charges, so confirm current pricing before purchasing.\n\nKey factors:\n- Which educational or resource access you need.\n- AI platform and model usage costs.\n- Automation, email, hosting, or software subscriptions.\n- Your time for customization, testing, and maintenance.\n\nPractical guidance: List every required service before committing and calculate the monthly cost against the workflow’s measurable value. Start with the smallest setup that can test one real business task.\n\nRun My AI Business can help readers understand possible workflows, while each external tool should be evaluated separately.",
+        "description": "Costs may include prompt resources, an AI platform, integrations, email or hosting tools, and setup time. Run My AI Business lists a free starting option and a $9 monthly paid newsletter subscription for full weekly issues; confirm current terms and evaluate other tools separately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

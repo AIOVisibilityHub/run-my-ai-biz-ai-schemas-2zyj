@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI automation for repetitive business tasks work if I don’t know how to code?",
+  "description": "You describe the task in ordinary language, provide business context and rules, and use an assistant to prepare outputs or trigger connected steps. You still ne",
+  "url": "https://runmyaibusiness.com/faq/how-does-ai-automation-for-repetitive-business-tasks-work-if-i-don-t-know-how-to",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI automation for repetitive business tasks work if I don’t know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI assistant can collect information, follow written instructions, produce a draft, and prepare the next step, but it should not automatically make every consequential decision. Context: Run My AI Biz describes specialized assistants for planning, research, content, marketing, sales, and administration, coordinated through a chief-of-staff-style workflow. Key factors: the quality of your instructions, source material, connected accounts, platform limits, and approval rules. Practical guidance: Define the assistant’s role, required sources, output format, exceptions, and escalation point; then test normal and unusual examples before allowing any external action. Require approval before messages are sent, content is published, money is spent, or services are purchased. Run My AI Biz provides educational examples for building that structure without implying that every workflow is fully autonomous.",
+        "description": "You describe the task in ordinary language, provide business context and rules, and use an assistant to prepare outputs or trigger connected steps. You still need suitable platforms, permissions, integrations, testing, and approval checkpoints before anything is sent, published, or purchased."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

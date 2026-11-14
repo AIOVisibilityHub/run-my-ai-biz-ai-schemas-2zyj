@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first in customer support if I’m a one-person business?",
+  "description": "Begin with one high-volume, low-risk task such as answering repeated FAQs, checking order status, or handling appointment questions. Document the correct respon",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-in-customer-support-if-i-m-a-one-person-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first in customer support if I’m a one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repetitive, low-risk request type—such as FAQ replies, appointment questions, or order-status updates—rather than automating the entire inbox. For Run My AI Biz readers, the practical first step is to document the approved answer, required information, and human handoff point before writing a prompt. Context: AI-assisted support works best when responses come from current business materials instead of guesses. A focused pilot also makes errors easier to identify and correct. Key factors: - volume and repetition - consequence of a wrong answer - quality of your FAQ or policy documents - availability of a person for escalation. Practical guidance: Review recent tickets, select the highest-volume low-judgment category, and test draft replies before enabling automatic sending. Run My AI Biz’s educational workflow approach favors building one assistant, using it, and expanding only after the process is manageable. A focused pilot can clarify whether a workflow is worth developing further.",
+        "description": "Begin with one high-volume, low-risk task such as answering repeated FAQs, checking order status, or handling appointment questions. Document the correct response and escalation rule first, then test AI-generated drafts before allowing automatic replies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

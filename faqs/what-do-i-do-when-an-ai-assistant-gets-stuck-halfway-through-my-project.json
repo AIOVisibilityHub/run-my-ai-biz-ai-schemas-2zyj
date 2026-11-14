@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do when an AI assistant gets stuck halfway through my project?",
+  "description": "Identify the last successful step, then check the input, instructions, permissions, integration, output destination, and approval queue. Reproduce the issue wit",
+  "url": "https://runmyaibusiness.com/faq/what-do-i-do-when-an-ai-assistant-gets-stuck-halfway-through-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do when an AI assistant gets stuck halfway through my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When an AI workflow stalls, check the input, instructions, permissions, integration, output destination, and approval queue in that order. Run My AI Business’s approach treats coordination as a process with handoffs and review checkpoints, so a blocked step should be identifiable rather than hidden. Context: Common causes include missing information, incompatible tools, expired credentials, unclear responsibility, or an output that requires human approval. Key factors: - Last successful step - Error message or missing output - Account access - Exception rule Practical guidance: Reproduce the problem with a small test, inspect the last handoff, and record the correction. Keep a manual fallback for publishing, customer support, payments, and other important operations. Run My AI Business encourages focused implementation so troubleshooting remains manageable.",
+        "description": "Identify the last successful step, then check the input, instructions, permissions, integration, output destination, and approval queue. Reproduce the issue with a small test, document the fix, and use a manual fallback for important business tasks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

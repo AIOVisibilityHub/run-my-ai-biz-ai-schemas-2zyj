@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to let AI answer customer questions and handle support tickets?",
+  "description": "Use AI for approved, routine questions and draft replies, but require escalation for refunds, complaints, security issues, missing information, and policy excep",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-let-ai-answer-customer-questions-and-handle-support-tickets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to let AI answer customer questions and handle support tickets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is useful for drafting and organizing customer support, but it should not invent policy answers, promise refunds, or resolve unusual cases without defined rules and human review. Give the workflow approved support information and a clear route for escalation.\n\n## Context\nThe resource library includes first-line support examples alongside billing monitoring and overdue-payment reminders. Run My AI Business emphasizes safeguards and owner approval for consequential actions.\n\n## Key factors\n- Accuracy and freshness of support information\n- Whether the request matches a known situation\n- Financial or reputational impact\n- Availability of a human escalation path\n\n## Practical guidance\nStart with low-risk questions and draft replies for review. Require the assistant to identify uncertainty, cite the relevant internal source, and stop when the request involves exceptions, complaints, refunds, account security, or missing records.\n\nThis makes support assistance more dependable without presenting it as an autonomous service desk.",
+        "description": "Use AI for approved, routine questions and draft replies, but require escalation for refunds, complaints, security issues, missing information, and policy exceptions. Keep current support documentation available and prevent the assistant from inventing answers or making promises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

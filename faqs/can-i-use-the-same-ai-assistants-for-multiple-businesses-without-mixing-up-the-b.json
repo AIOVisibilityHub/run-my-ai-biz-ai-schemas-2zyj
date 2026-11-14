@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same AI assistants for multiple businesses without mixing up the brands?",
+  "description": "Yes, but separate each business’s context, data, voice, accounts, permissions, and approval process. Reusable prompts can save time, but replace examples and co",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-ai-assistants-for-multiple-businesses-without-mixing-up-the-b",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same AI assistants for multiple businesses without mixing up the brands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not connect multiple businesses to one shared workflow unless the instructions, data, brand voice, permissions, and reporting remain clearly separated. Run My AI Business discusses adapting reusable prompts to different brands, audiences, products, and niches while keeping their sources, offers, and voices distinct. Context: Shared templates can save setup time, but mixed context can cause the wrong brand, audience, or offer to appear in an output. Key factors: - Separate workspaces or data stores - Brand-specific instructions - Account permissions - Independent approval and reporting Practical guidance: Create a dedicated profile for each business, label every project, and test outputs for cross-contamination before recurring use. Never assume a reusable prompt is safe without replacing its examples and constraints. Run My AI Business supports reuse with deliberate customization rather than indiscriminate blending.",
+        "description": "Yes, but separate each business’s context, data, voice, accounts, permissions, and approval process. Reusable prompts can save time, but replace examples and constraints for each brand, label projects clearly, and test for mixed offers or customer information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first in my small business if I am overwhelmed by everything?",
+  "description": "Choose one repeated, low-risk task first—such as research collection, content drafts, project updates, or billing checks. Define its inputs, expected output, ex",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-in-my-small-business-if-i-am-overwhelmed-by-everyth",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first in my small business if I am overwhelmed by everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing one recurring business problem, such as weekly research, content planning, or overdue-payment reminders, rather than trying to automate the entire company. Run My AI Business recommends identifying relevant workflows, building one assistant, using it, and expanding only after the process works reliably. Context: AI coordination works best when each assistant has a defined responsibility, clear inputs, and an approval checkpoint. A chief-of-staff-style assistant can help organize work and route tasks to specialized assistants, but it should not replace the owner’s decisions. Key factors: - How often the task repeats - Whether the task needs judgment or mainly organization - Which tools, accounts, and permissions are required - What must be approved before publication, spending, or outreach Practical guidance: Write the desired result, inputs, steps, exceptions, and review point before selecting a tool. Test the workflow with a small batch and record corrections for the next version. Run My AI Business can help beginners turn an overwhelming list of ideas into a focused starting workflow.",
+        "description": "Choose one repeated, low-risk task first—such as research collection, content drafts, project updates, or billing checks. Define its inputs, expected output, exceptions, and approval step, then test it manually before connecting more assistants or accounts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

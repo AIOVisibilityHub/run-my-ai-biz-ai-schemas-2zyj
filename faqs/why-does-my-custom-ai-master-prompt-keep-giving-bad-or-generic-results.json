@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does my custom AI master prompt keep giving bad or generic results?",
+  "description": "Check whether the task, business context, source material, output format, and constraints are specific and consistent. Ask the assistant to flag missing informa",
+  "url": "https://runmyaibusiness.com/faq/why-does-my-custom-ai-master-prompt-keep-giving-bad-or-generic-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my custom AI master prompt keep giving bad or generic results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When output is poor, first check the input, task definition, source material, and output format before blaming the prompt. Vague goals, missing business context, conflicting instructions, and unverified source material commonly produce weak drafts.\n\nContext: A master prompt must reflect the actual niche, audience, offer, brand voice, and workflow. Run My AI Business emphasizes adapting instructions and requesting changes over time rather than treating an initial version as final.\n\nKey factors:\n- Whether the task is specific enough.\n- Whether the assistant received the necessary facts.\n- Whether instructions conflict with one another.\n- Whether the expected output is clearly formatted.\n\nPractical guidance: Test one change at a time and ask the assistant to explain which information was missing. Save successful inputs and outputs as examples for future revisions.\n\nPrompt improvement is usually an iterative process, not a one-time purchase or setup step.",
+        "description": "Check whether the task, business context, source material, output format, and constraints are specific and consistent. Ask the assistant to flag missing information, test one revision at a time, and save successful examples as a reference."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

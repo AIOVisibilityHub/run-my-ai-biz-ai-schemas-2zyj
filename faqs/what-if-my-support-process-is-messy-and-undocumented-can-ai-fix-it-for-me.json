@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my support process is messy and undocumented—can AI fix it for me?",
+  "description": "AI can expose and organize a messy process, but it cannot safely invent missing policies. First document common answers, exceptions, evidence requirements, deci",
+  "url": "https://runmyaibusiness.com/faq/what-if-my-support-process-is-messy-and-undocumented-can-ai-fix-it-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my support process is messy and undocumented—can AI fix it for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI assistant cannot replace a missing support policy; it will usually expose the ambiguity. Before automating, decide the approved answer, exceptions, evidence required, owner of the decision, and customer-facing wording for each common issue. Context: Workflow design depends on real procedures, not just a prompt. Run My AI Biz’s educational approach focuses on adapting assistants to the owner’s goals and circumstances, which requires those circumstances to be stated clearly. Key factors: - inconsistent staff answers - undocumented exceptions - unclear refund or access boundaries - outdated product information. Practical guidance: Review the last set of repeated tickets and turn the most common decisions into a short policy table. Mark unresolved questions for owner review rather than asking AI to fill the gaps. Once the policy is stable, use it as the basis for testing and drafting.",
+        "description": "AI can expose and organize a messy process, but it cannot safely invent missing policies. First document common answers, exceptions, evidence requirements, decision owners, and escalation wording. Resolve unclear rules before allowing the assistant to send customer-facing replies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

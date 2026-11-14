@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I set up AI customer support workflows if I’m not technical and don’t know how to code?",
+  "description": "Yes, you can begin with conversational instructions and a small FAQ-based workflow, but no-code does not mean no setup. You still need to connect tools, define",
+  "url": "https://runmyaibusiness.com/faq/can-i-set-up-ai-customer-support-workflows-if-i-m-not-technical-and-don-t-know-h",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I set up AI customer support workflows if I’m not technical and don’t know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need coding experience to learn the workflow, but you do need to define the business rules clearly. Run My AI Biz emphasizes conversational instructions and customizable master prompts, so a beginner can start by describing the audience, support tasks, approved sources, tone, and escalation conditions in ordinary language. Context: No-code or low-code tools may still require account connections and configuration. Someone must also review outputs, maintain policies, and resolve cases the assistant cannot safely handle. Key factors: - comfort with spreadsheets and web tools - complexity of the support process - number of systems involved - willingness to review results. Practical guidance: Begin with a draft-only assistant using sample tickets and a small FAQ. Keep a checklist of incorrect assumptions, missing information, and handoff triggers. Run My AI Biz’s educational materials can help users compare tools and understand workflow design without treating automation as a substitute for judgment.",
+        "description": "Yes, you can begin with conversational instructions and a small FAQ-based workflow, but no-code does not mean no setup. You still need to connect tools, define escalation rules, review responses, and maintain the information the assistant uses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a custom prompt handle customer support for my small business?",
+  "description": "It can draft replies to routine questions and flag cases for review, provided you supply approved policies, response boundaries, and escalation rules. Review un",
+  "url": "https://runmyaibusiness.com/faq/can-a-custom-prompt-handle-customer-support-for-my-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a custom prompt handle customer support for my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft customer-support replies and organize common questions, but responses should remain within defined boundaries and be reviewed when the issue is unusual, sensitive, or financially consequential. Run My AI Business includes first-line support workflows as an administrative application.\n\nContext: A support prompt should contain approved policies, tone guidelines, escalation conditions, and information the assistant may use. It should not invent refunds, delivery promises, account changes, or explanations that are not supported by the business.\n\nKey factors:\n- The type and urgency of the customer issue.\n- Approved response language and policies.\n- Account access and privacy limits.\n- Clear escalation triggers.\n\nPractical guidance: Build a response library for routine questions and require the assistant to label cases needing owner review. Check names, orders, dates, promises, and links before sending.\n\nThis approach can reduce repetitive drafting while preserving a human response for exceptions.",
+        "description": "It can draft replies to routine questions and flag cases for review, provided you supply approved policies, response boundaries, and escalation rules. Review unusual, sensitive, account-specific, refund-related, or otherwise consequential messages before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

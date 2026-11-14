@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI run my newsletter every week without making it sound generic?",
+  "description": "AI can support topic research, drafting, repurposing, and promotion, but your editorial judgment and fact checking preserve quality. Give the workflow a clear a",
+  "url": "https://runmyaibusiness.com/faq/can-ai-run-my-newsletter-every-week-without-making-it-sound-generic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI run my newsletter every week without making it sound generic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can make recurring newsletters easier to research, draft, repurpose, and promote, but the owner still needs to choose the editorial direction and verify facts. Run My AI Business covers newsletter topic research, issue drafting, subscriber acquisition, local sponsorship research, and repurposing workflows. Context: Consistency improves when a workflow stores the publication’s audience, voice, source standards, format, and approval checklist. Key factors: - Editorial purpose - Source quality and recency - Distinctive perspective - Subscriber and sponsor relevance Practical guidance: Create a repeatable issue brief with topic, evidence, audience benefit, call to action, and review status. Approve the final issue and any sponsor outreach before publication. Run My AI Biz’s newsletter provides an example of ongoing AI education and practical workflow discussion.",
+        "description": "AI can support topic research, drafting, repurposing, and promotion, but your editorial judgment and fact checking preserve quality. Give the workflow a clear audience, voice, source standard, issue format, and approval checklist before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best backup plan if my AI demo fails during the webinar?",
+  "description": "Keep a reviewed slide or video version of the demonstration, downloadable speaker notes, screenshots of key steps, and a moderator communication plan. Rehearse",
+  "url": "https://runmyaibusiness.com/faq/what-is-the-best-backup-plan-if-my-ai-demo-fails-during-the-webinar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best backup plan if my AI demo fails during the webinar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare a backup plan that covers the deck, speaker notes, demonstration, presenter connection, audience communication, and recording. Keep a downloadable version of the slides, a non-live example, a second presenter or moderator where possible, and a way to notify attendees if the session changes. Context: AI demonstrations add dependency on platforms, accounts, permissions, integrations, and internet access. Key factors: - Which parts require live software - Availability of a recording or screenshots - Moderator communication - Attendee expectations Practical guidance: Rehearse the fallback as part of the technical test. If a live tool fails, explain the intended workflow with prepared screenshots rather than improvising account access. Never expose private credentials, participant data, or unreviewed generated output while troubleshooting.",
+        "description": "Keep a reviewed slide or video version of the demonstration, downloadable speaker notes, screenshots of key steps, and a moderator communication plan. Rehearse the fallback, avoid exposing credentials or participant data, and explain the intended workflow clearly instead of improvising access to live accounts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

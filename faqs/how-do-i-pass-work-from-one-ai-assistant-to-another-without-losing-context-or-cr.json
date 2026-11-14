@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I pass work from one AI assistant to another without losing context or creating contradictory results?",
+  "description": "Use a fixed handoff containing the task, context, completed work, evidence, assumptions, open questions, and next action. Keep approved business information in",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-pass-work-from-one-ai-assistant-to-another-without-losing-context-or-cr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I pass work from one AI assistant to another without losing context or creating contradictory results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A workable handoff should identify the task, relevant business context, completed work, evidence, assumptions, open questions, and the exact next action. Use a fixed template or structured fields instead of passing a long conversational transcript. Store the approved version of the offer, audience, brand voice, and source rules in a shared location that each assistant can access appropriately. Ask the receiving assistant to confirm what it received before acting on it. Community practitioners commonly use shared status records, centralized queues, and one decision question per request to reduce confusion. Run My AI Biz’s coordination examples can be adapted around these fields for newsletters, products, funnels, or operations.",
+        "description": "Use a fixed handoff containing the task, context, completed work, evidence, assumptions, open questions, and next action. Keep approved business information in one controlled source, and ask the receiving assistant to confirm the handoff before proceeding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do specialized AI assistants actually coordinate, and do I need one main bot in charge?",
+  "description": "Each assistant should receive a clear input, complete one defined task, and return a predictable output. A chief-of-staff-style assistant can route work and tra",
+  "url": "https://runmyaibusiness.com/faq/how-do-specialized-ai-assistants-actually-coordinate-and-do-i-need-one-main-bot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do specialized AI assistants actually coordinate, and do I need one main bot in charge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A coordinated assistant workflow is a sequence in which each specialized assistant receives a defined input, performs a limited task, and passes a structured output to the next step. A chief-of-staff-style assistant can organize requests, track progress, and route work, while research, product, content, marketing, or operations assistants handle their assigned responsibilities. The workflow is not automatically reliable just because several prompts are connected. Define the shared business context, required fields, review checkpoints, and escalation rules. Use a common project brief or knowledge base so assistants do not receive conflicting versions of the offer, audience, or brand voice. Run My AI Biz’s educational material focuses on these practical handoffs across online-business workflows rather than treating assistants as guaranteed autonomous businesses.",
+        "description": "Each assistant should receive a clear input, complete one defined task, and return a predictable output. A chief-of-staff-style assistant can route work and track progress, but coordination still requires shared context, handoff rules, and human review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

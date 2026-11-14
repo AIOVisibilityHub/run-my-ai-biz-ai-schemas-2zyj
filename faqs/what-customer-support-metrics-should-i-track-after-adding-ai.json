@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What customer support metrics should I track after adding AI?",
+  "description": "Track first-contact resolution, repeat contacts, escalation accuracy, response time, customer feedback, customer effort, and staff correction time. Compare thes",
+  "url": "https://runmyaibusiness.com/faq/what-customer-support-metrics-should-i-track-after-adding-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What customer support metrics should I track after adding AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Track whether customers receive a useful answer without repeating themselves, waiting longer, or being transferred unnecessarily. Useful outcome measures include first-contact resolution, repeat contacts, escalation accuracy, response time, customer feedback, and staff correction time. Context: A workflow that closes tickets quickly but increases repeat questions is not delivering a good result. Run My AI Biz’s emphasis on practical, testable applications supports measuring the actual process rather than assuming automation equals improvement. Key factors: - customer effort - resolution quality - handoff completeness - time saved after review. Practical guidance: Tag conversations by outcome and compare pilot results with a baseline period. Read a sample of resolved and escalated tickets each week, then revise the knowledge base or workflow rules based on recurring failures.",
+        "description": "Track first-contact resolution, repeat contacts, escalation accuracy, response time, customer feedback, customer effort, and staff correction time. Compare these with a pre-AI baseline and review actual conversations, because faster replies do not help if customers still need to ask again."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

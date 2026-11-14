@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I make an AI webinar presentation accessible to people with disabilities?",
+  "description": "Plan accessibility from the start: use readable slides, meaningful titles, strong contrast, captions, a reviewed transcript, verbal descriptions of key visuals,",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-make-an-ai-webinar-presentation-accessible-to-people-with-disabilities",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make an AI webinar presentation accessible to people with disabilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design accessibility into the deck, platform settings, registration process, and follow-up materials from the beginning. Use readable contrast and text, meaningful slide titles, captions or a transcript, verbal descriptions of important visuals, and a low-bandwidth alternative when practical. Context: Accessibility guidance recommends treating inclusion as a core requirement and retaining manual or human support when automated tools fail. Key factors: - Caption accuracy and correction process - Screen-reader reading order - Visual and audio dependence - Participant accommodation requests Practical guidance: Test captions with domain-specific terms such as AI product names and prompts. Provide materials in an accessible format and tell attendees how to request support. Treat automated captions as a draft requiring review, especially when technical vocabulary affects meaning.",
+        "description": "Plan accessibility from the start: use readable slides, meaningful titles, strong contrast, captions, a reviewed transcript, verbal descriptions of key visuals, and accessible follow-up materials. Test technical terms in captions, offer a low-bandwidth option when practical, and provide a clear way to request support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

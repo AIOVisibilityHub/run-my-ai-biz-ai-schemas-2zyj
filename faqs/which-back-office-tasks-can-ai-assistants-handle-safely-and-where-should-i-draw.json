@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which back-office tasks can AI assistants handle safely, and where should I draw the line?",
+  "description": "Assistants can prepare support drafts, payment reminders, monitoring reports, prospect lists, and recurring updates. Limit data access and require approval for",
+  "url": "https://runmyaibusiness.com/faq/which-back-office-tasks-can-ai-assistants-handle-safely-and-where-should-i-draw",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which back-office tasks can AI assistants handle safely, and where should I draw the line?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use coordinated assistants for customer support drafts, billing checks, server-health reports, prospect research, and recurring content preparation, but sensitive or consequential actions need tighter controls. Keep customer data limited to what the task requires, redact unnecessary details, and prevent assistants from changing records or issuing refunds without approval. Create escalation categories for payment disputes, account access, security concerns, and unusual requests. Run My AI Biz’s resource examples include first-line support, billing monitoring, overdue-payment reminders, and server-health reporting as workflow illustrations—not permission to automate every operational decision.",
+        "description": "Assistants can prepare support drafts, payment reminders, monitoring reports, prospect lists, and recurring updates. Limit data access and require approval for refunds, account changes, security issues, unusual requests, or any action affecting a customer or system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

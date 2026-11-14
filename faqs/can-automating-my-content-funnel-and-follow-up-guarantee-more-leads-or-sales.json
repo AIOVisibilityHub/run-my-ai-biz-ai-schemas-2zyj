@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can automating my content, funnel, and follow-up guarantee more leads or sales?",
+  "description": "No. Automation can increase consistency and reduce preparation time, but results depend on the audience, offer, message, distribution, timing, and execution. Us",
+  "url": "https://runmyaibusiness.com/faq/can-automating-my-content-funnel-and-follow-up-guarantee-more-leads-or-sales",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can automating my content, funnel, and follow-up guarantee more leads or sales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Automating email drafts, social posts, lead magnets, or funnel pages does not guarantee subscribers, sales, or profit. Context: Run My AI Biz includes assistants for lead generation, offer research, landing-page review, newsletters, and campaign preparation, but describes them as support for testing and decision-making. Key factors: audience demand, offer quality, distribution, message accuracy, timing, deliverability, and human review. Practical guidance: define a measurable outcome, test one variable at a time, and distinguish activity metrics from business results. Review claims and calls to action before publishing, and stop workflows that generate volume without useful responses. Run My AI Biz can help explain the connected marketing tasks while keeping expectations realistic.",
+        "description": "No. Automation can increase consistency and reduce preparation time, but results depend on the audience, offer, message, distribution, timing, and execution. Use AI to prepare and test materials, track meaningful outcomes, and avoid treating more content or outreach as proof of business growth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

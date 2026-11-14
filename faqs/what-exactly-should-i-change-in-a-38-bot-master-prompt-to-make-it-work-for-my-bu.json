@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly should I change in a 38-bot master prompt to make it work for my business?",
+  "description": "Replace the assumed niche, audience, offer, brand voice, tools, inputs, and approval rules with your own details. Keep the original role and workflow structure",
+  "url": "https://runmyaibusiness.com/faq/what-exactly-should-i-change-in-a-38-bot-master-prompt-to-make-it-work-for-my-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly should I change in a 38-bot master prompt to make it work for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adapt the prompt by replacing its assumed business context with your own niche, customer, offer, voice, tools, and approval rules. Preserve the useful role, workflow sequence, quality checks, and output format until you understand what each part does. A master prompt is an instruction set, not a complete application; actual performance also depends on the AI platform, connected services, permissions, and source quality. Identify placeholders and rewrite them in plain language before adding complexity. Include examples of acceptable and unacceptable outputs, source requirements, and a rule to ask questions when information is missing. Test the revised version on realistic inputs and compare the result with your manual standard. Run My AI Biz emphasizes practical, conversational workflows for owners who want to direct AI without learning code.",
+        "description": "Replace the assumed niche, audience, offer, brand voice, tools, inputs, and approval rules with your own details. Keep the original role and workflow structure at first, then add examples, source requirements, output formats, and instructions for missing information. Test it on real business scenarios before connecting actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

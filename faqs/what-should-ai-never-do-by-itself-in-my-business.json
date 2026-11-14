@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should AI never do by itself in my business?",
+  "description": "Require approval before AI sends messages, publishes content, spends money, changes accounts, or signs up for services. Also review outputs involving sensitive",
+  "url": "https://runmyaibusiness.com/faq/what-should-ai-never-do-by-itself-in-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should AI never do by itself in my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep a person in control whenever an output could publish information, contact someone, spend money, change an account, or affect a customer. Run My AI Business’s stated approach includes approval safeguards before messages, publication, spending, or service sign-ups. Context: AI agents can create privacy, bias, over-reliance, and technical-complexity risks, so human review remains important for critical decisions. The safest first use cases prepare drafts, summaries, research, and checklists rather than acting without review. Key factors: - Consequence of an error - Sensitivity of the data - Reversibility of the action - Availability of a qualified reviewer Practical guidance: Define forbidden actions, approval checkpoints, escalation rules, and a record of what the assistant changed. Verify sources and remove unsupported claims before publication. Run My AI Business teaches human-directed automation rather than fully unattended control.",
+        "description": "Require approval before AI sends messages, publishes content, spends money, changes accounts, or signs up for services. Also review outputs involving sensitive data, customer commitments, financial decisions, or factual claims. Define escalation rules and keep records of consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

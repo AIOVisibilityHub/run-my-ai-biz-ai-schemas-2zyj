@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to give a 38-bot assistant so it stops producing generic results?",
+  "description": "Provide a concise business brief containing your offer, audience, voice, approved claims, examples, sources, and escalation rules. Label assumptions, require ve",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-to-give-a-38-bot-assistant-so-it-stops-producing-gene",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to give a 38-bot assistant so it stops producing generic results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give the assistant a controlled information pack rather than relying on general background knowledge. Useful inputs can include your offer description, audience notes, brand voice, approved claims, product facts, source list, examples of good work, and escalation rules. Separate verified facts from assumptions and label information that needs confirmation. For research, require links or source names in the internal workflow and instruct the bot not to invent statistics, testimonials, proof, or income claims. Remove confidential customer, payment, and account credentials unless the platform and process are specifically approved for that data. Review a sample of outputs against your source materials before using them publicly. Run My AI Biz’s resource context supports this approach because its workflows are intended to be customized around each owner’s business circumstances.",
+        "description": "Provide a concise business brief containing your offer, audience, voice, approved claims, examples, sources, and escalation rules. Label assumptions, require verification for research, and prohibit invented statistics or proof. Use realistic sample inputs and check outputs against the source materials before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I tell whether my AI customer support automation is actually helping?",
+  "description": "Track accuracy, first-response time, resolution rate, repeat contacts, escalations, customer feedback, and review time—not just automated-message volume. Compar",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-tell-whether-my-ai-customer-support-automation-is-actually-helping",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I tell whether my AI customer support automation is actually helping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measure support quality and business impact together: resolution accuracy, escalation quality, first-response time, time saved, repeat contacts, and customer feedback. Avoid judging success only by the number of automated replies, because a high automation rate can hide poor answers or more follow-up work. Context: Run My AI Biz frames AI applications as opportunities to test and improve rather than guaranteed outcomes. A useful workflow should make a defined process clearer or less repetitive. Key factors: - baseline performance before automation - error and rework rate - unresolved-ticket rate - owner review time. Practical guidance: Record a baseline from recent tickets, run a limited pilot, and compare like-for-like categories. Review failed cases weekly and widen the scope only when quality remains acceptable. This gives a solopreneur evidence for deciding whether to keep, change, or stop the workflow.",
+        "description": "Track accuracy, first-response time, resolution rate, repeat contacts, escalations, customer feedback, and review time—not just automated-message volume. Compare results with a pre-automation baseline, inspect failed cases, and expand only when quality and workload improve together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

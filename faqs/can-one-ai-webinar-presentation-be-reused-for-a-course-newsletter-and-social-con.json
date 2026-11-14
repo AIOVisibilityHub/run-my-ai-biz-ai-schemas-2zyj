@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can one AI webinar presentation be reused for a course, newsletter, and social content?",
+  "description": "Yes, if you treat the webinar as a source asset rather than copying it everywhere. Keep verified claims, examples, definitions, and approved language in a sourc",
+  "url": "https://runmyaibusiness.com/faq/can-one-ai-webinar-presentation-be-reused-for-a-course-newsletter-and-social-con",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can one AI webinar presentation be reused for a course, newsletter, and social content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a modular outline so the same core lesson can become a live webinar, replay, short video, newsletter issue, worksheet, or course segment. Keep audience assumptions, examples, calls to action, and follow-up separate for each format. Context: Run My AI Biz explores newsletters, digital products, presentations, lesson scripts, video production, and content repurposing as related but distinct workflows. Key factors: - Format-specific attention span - Rights to visuals and recordings - New context required for each channel - Different calls to action Practical guidance: Create a source document containing verified claims, examples, definitions, and approved language. Ask AI to adapt that source into each format, then review for omissions and stale references. Do not publish every output automatically; approve each channel separately.",
+        "description": "Yes, if you treat the webinar as a source asset rather than copying it everywhere. Keep verified claims, examples, definitions, and approved language in a source document, then adapt structure, length, context, visuals, and calls to action for each format. Review every version separately before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

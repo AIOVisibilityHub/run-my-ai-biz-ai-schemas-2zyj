@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI personalize payment reminders without accidentally revealing private customer information?",
+  "description": "It can be designed to use approved fields only, but privacy is not automatic. Isolate customer records, block unrelated context, validate every placeholder, and",
+  "url": "https://runmyaibusiness.com/faq/can-ai-personalize-payment-reminders-without-accidentally-revealing-private-cust",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI personalize payment reminders without accidentally revealing private customer information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI can personalize a reminder only from information you deliberately provide and permit it to use. It should not infer private circumstances, invent a personal reference, or expose one customer’s details in another customer’s message.\n\n**Context:** Personalization can improve clarity but increases the risk of data leakage and inappropriate wording. Run My AI Biz’s customizable prompts should keep brand voice and customer-specific facts separate, with review before publication or sending.\n\n**Key factors:**\n- Define approved personalization fields.\n- Keep customer records isolated by account.\n- Prevent the model from using unrelated conversation history.\n\n**Practical guidance:** Use placeholders for names, invoice IDs, and balances, then validate each substitution. Test cross-account leakage deliberately before using real records.\n\n**Soft positioning:** Run My AI Biz can help owners specify personalization boundaries in plain-language instructions.",
+        "description": "It can be designed to use approved fields only, but privacy is not automatic. Isolate customer records, block unrelated context, validate every placeholder, and test specifically for cross-account data leakage before production use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

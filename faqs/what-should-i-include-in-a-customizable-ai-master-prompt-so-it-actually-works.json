@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I include in a customizable AI master prompt so it actually works?",
+  "description": "Include the assistant’s role, your business context, audience, objective, step-by-step workflow, allowed sources, output format, tone, exclusions, and approval",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-include-in-a-customizable-ai-master-prompt-so-it-actually-works",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I include in a customizable AI master prompt so it actually works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong master prompt usually includes the assistant’s role, business background, target audience, task sequence, constraints, output format, source rules, and approval checkpoints. Clear instructions reduce ambiguity and make results easier to review.\n\nContext: Public prompt examples often separate the instruction from pasted context and specify tone, length, exclusions, and an example output. Run My AI Business emphasizes adapting these elements to the owner’s niche, products, voice, and objectives.\n\nKey factors:\n- State what the assistant must accomplish.\n- Supply the facts and materials it may use.\n- Define what it must not invent or assume.\n- Specify when it must stop and request approval.\n\nPractical guidance: Add a final quality check that flags unsupported claims, missing data, unclear recommendations, and steps requiring human approval. Test the prompt with both an easy case and an incomplete case.\n\nThis structure helps turn a copied template into a workflow that fits a real business.",
+        "description": "Include the assistant’s role, your business context, audience, objective, step-by-step workflow, allowed sources, output format, tone, exclusions, and approval rules. Add instructions to flag missing information and unsupported assumptions, then test the prompt with complete and incomplete examples."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

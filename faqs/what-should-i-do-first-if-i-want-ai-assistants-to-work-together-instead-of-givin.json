@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI assistants to work together instead of giving me random disconnected answers?",
+  "description": "Choose one repeatable workflow, define its inputs and finished result, and assign one approval point. Test a single specialized assistant before adding others.",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-assistants-to-work-together-instead-of-givin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI assistants to work together instead of giving me random disconnected answers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repeatable business problem, such as turning research into a newsletter draft, rather than assigning assistants to every business function at once. Define the desired result, required inputs, owner approval, and handoff format before adding another assistant. A small pilot exposes missing context and unclear responsibilities without creating a large system to maintain. Key factors include task frequency, business impact, data sensitivity, and how easily the result can be checked. Write the first assistant’s master prompt around your audience, offer, voice, sources, and limits; then run several real examples and record corrections. Run My AI Biz is a useful fit for learning how specialized assistants can support planning, products, marketing, funnels, and recurring operations while keeping the owner in control.",
+        "description": "Choose one repeatable workflow, define its inputs and finished result, and assign one approval point. Test a single specialized assistant before adding others. For example, begin with research-to-newsletter drafting, then expand to content repurposing or promotion after the first process works reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

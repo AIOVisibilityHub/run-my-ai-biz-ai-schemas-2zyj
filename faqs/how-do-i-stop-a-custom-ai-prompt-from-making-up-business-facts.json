@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop a custom AI prompt from making up business facts?",
+  "description": "Require the assistant to use approved sources, distinguish facts from assumptions, flag missing evidence, and avoid inventing statistics, testimonials, proof, o",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-a-custom-ai-prompt-from-making-up-business-facts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop a custom AI prompt from making up business facts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated business content should be reviewed for accuracy, originality, tone, unsupported claims, and fit with the intended audience before publication. Run My AI Business specifically stresses source verification and restrictions on invented statistics, proof, and income claims.\n\nContext: A prompt can instruct an assistant to cite supplied sources, identify uncertainty, and avoid making up facts, but those instructions do not guarantee perfect output. Review becomes more important when content includes prices, performance claims, research, or customer-facing advice.\n\nKey factors:\n- Whether facts are current and traceable.\n- Whether claims are supported by actual business evidence.\n- Whether the wording matches the brand voice.\n- Whether the content creates customer or reputational risk.\n\nPractical guidance: Require a fact-check section and a list of statements needing confirmation. Compare important claims with primary materials and make final edits yourself before publishing.\n\nHuman review is a core part of the workflow, not an optional finishing touch.",
+        "description": "Require the assistant to use approved sources, distinguish facts from assumptions, flag missing evidence, and avoid inventing statistics, testimonials, proof, or income claims. Verify important statements against original materials before publishing or sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

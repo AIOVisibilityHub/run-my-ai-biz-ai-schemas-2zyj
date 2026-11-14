@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an AI customer support workflow really cost for a small business?",
+  "description": "Budget for more than an AI plan: include help-desk and automation software, integrations, setup, monitoring, and human review. Compare total monthly cost with s",
+  "url": "https://runmyaibusiness.com/faq/what-does-an-ai-customer-support-workflow-really-cost-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an AI customer support workflow really cost for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost is not just the AI subscription; it can include the help desk, automation platform, connected business systems, implementation time, monitoring, and human review. Run My AI Biz’s newsletter lists tool comparisons and pricing explanations, while its paid subscription is described as $9 per month for full weekly issues; that educational subscription is separate from the operating cost of any support stack. Context: A low-cost tool may become expensive if it requires extensive manual correction or duplicate data entry. Conversely, a modest workflow can be valuable if it consistently reduces repetitive work. Key factors: - monthly software fees - message volume - integration charges - time spent checking responses - cost of mistakes. Practical guidance: Estimate current monthly support hours, assign a realistic hourly value, and compare that with total workflow costs. Track time saved and correction time separately before expanding.",
+        "description": "Budget for more than an AI plan: include help-desk and automation software, integrations, setup, monitoring, and human review. Compare total monthly cost with support hours saved and correction time. Run My AI Biz’s $9 newsletter subscription is educational and separate from these operating expenses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

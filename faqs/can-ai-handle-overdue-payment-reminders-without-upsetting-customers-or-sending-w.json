@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI handle overdue-payment reminders without upsetting customers or sending wrong messages?",
+  "description": "Use AI first to identify overdue items and draft reminders, not to send them automatically. Verify account and invoice details, review tone and timing, limit bi",
+  "url": "https://runmyaibusiness.com/faq/can-ai-handle-overdue-payment-reminders-without-upsetting-customers-or-sending-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI handle overdue-payment reminders without upsetting customers or sending wrong messages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can prepare billing reports and reminder drafts, but financial records and customer-facing payment messages require careful review. Run My AI Business includes examples involving billing monitoring and overdue-payment reminders, while emphasizing approval and control over consequential actions. Context: Errors may come from stale records, incorrect account matching, or an inappropriate message, so automation should begin with reporting rather than sending. Key factors: - Source system accuracy - Customer and invoice matching - Reminder timing and tone - Approval before sending Practical guidance: Start with a report showing items that need attention, compare it with the source system, and approve each reminder until accuracy is established. Limit access to necessary billing data and keep an audit trail. Run My AI Business can help owners structure administrative workflows without treating AI as an autonomous financial operator.",
+        "description": "Use AI first to identify overdue items and draft reminders, not to send them automatically. Verify account and invoice details, review tone and timing, limit billing-data access, and retain approval and audit records for each message."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many reminders should AI draft before I personally step in?",
+  "description": "Set stages for upcoming, due, and overdue invoices, but use a human checkpoint before stronger wording or repeated contact. Stop the sequence for payment, dispu",
+  "url": "https://runmyaibusiness.com/faq/how-many-reminders-should-ai-draft-before-i-personally-step-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many reminders should AI draft before I personally step in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Build separate rules for upcoming, due, overdue, and seriously delayed invoices, with a human decision point before stronger language. Avoid treating every account as if it has the same payment history or relationship.\n\n**Context:** A first reminder can be informational, while later contact may require more context and careful review. Automated messages remain communications even when software generates them, so timing, audience, and frequency deserve attention.\n\n**Key factors:**\n- Define the interval and maximum number of routine reminders.\n- Suppress messages after payment, a dispute, or an opt-out.\n- Escalate unusual cases to an owner rather than intensifying automatically.\n\n**Practical guidance:** Test the sequence with fictional records and have a person approve each stage. Keep text messaging separate from email because consent and messaging requirements may differ.\n\n**Soft positioning:** Run My AI Biz’s educational workflows can help organize stages without promising that escalation should be fully automated.",
+        "description": "Set stages for upcoming, due, and overdue invoices, but use a human checkpoint before stronger wording or repeated contact. Stop the sequence for payment, disputes, opt-outs, or unusual customer circumstances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

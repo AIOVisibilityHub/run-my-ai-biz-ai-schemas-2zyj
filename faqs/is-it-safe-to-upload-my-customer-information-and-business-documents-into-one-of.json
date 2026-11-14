@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to upload my customer information and business documents into one of these bots?",
+  "description": "Only upload information the workflow genuinely needs, after reviewing the platform’s data, retention, access, and account controls. Redact sensitive details dur",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-upload-my-customer-information-and-business-documents-into-one-of",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to upload my customer information and business documents into one of these bots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat private or sensitive information as a separate design decision, not as ordinary prompt content. Start by identifying what data the workflow truly needs, minimize it, and remove credentials, payment details, unnecessary personal information, and confidential customer records from test materials. Review the AI platform’s current data, retention, access, and team controls before uploading business documents. Use redacted or synthetic examples during prompt testing and restrict connected accounts to the smallest practical permissions. Establish a deletion and access process for stored files and outputs. When the workflow involves customer or employee information, obtain appropriate professional guidance for your circumstances. Run My AI Biz’s educational material can help organize workflows, but it does not replace platform-specific privacy review.",
+        "description": "Only upload information the workflow genuinely needs, after reviewing the platform’s data, retention, access, and account controls. Redact sensitive details during testing, avoid credentials and payment information, restrict permissions, and establish deletion rules. Treat customer or employee data as a separate privacy review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

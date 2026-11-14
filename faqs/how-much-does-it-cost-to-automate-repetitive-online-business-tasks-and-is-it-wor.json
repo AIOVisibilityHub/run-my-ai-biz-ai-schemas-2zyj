@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to automate repetitive online business tasks, and is it worth it?",
+  "description": "Costs range from using built-in features to paying for AI platforms, integrations, and setup help. Compare recurring fees and maintenance with the hours saved a",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-automate-repetitive-online-business-tasks-and-is-it-wor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to automate repetitive online business tasks, and is it worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The price depends on whether you use existing platform features, paid AI tools, integrations, educational resources, or custom technical work. Context: Run My AI Biz offers a free starting option and lists a $9-per-month paid newsletter subscription for full weekly issues; those educational offerings are separate from the cost of third-party platforms and services. Key factors: monthly software fees, usage volume, number of connected tools, setup labor, maintenance, and the cost of mistakes. Practical guidance: estimate current monthly hours, multiply them by the value of your time, and compare that figure with recurring software and setup costs. Begin with one workflow whose benefit can be measured rather than buying a large collection of tools. Run My AI Biz can help readers compare tools and understand possible workflows, but it does not guarantee financial returns.",
+        "description": "Costs range from using built-in features to paying for AI platforms, integrations, and setup help. Compare recurring fees and maintenance with the hours saved and the cost of errors. Start with one measurable workflow; Run My AI Biz’s newsletter has a free option and a listed $9 monthly paid option for education."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are the 38 bots real working software, or are they just prompts?",
+  "description": "They are best understood as adaptable bot blueprints and supporting resources, not 38 identical standalone software products. They still require an AI platform,",
+  "url": "https://runmyaibusiness.com/faq/are-the-38-bots-real-working-software-or-are-they-just-prompts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are the 38 bots real working software, or are they just prompts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 38-bot collection should be treated as a library of adaptable bot blueprints and supporting resources, not 38 identical software products. Some prompts appear in the guide, while others may be referenced in separate materials. The examples cover research, content, marketing, sales, websites, and operations, but each workflow still needs a suitable AI platform, integrations, permissions, business context, and review. Before selecting an example, identify the exact task, required output, source requirements, and approval point. Run My AI Business advises focused implementation instead of launching every possible project at once. That distinction helps prevent a common mistake: confusing a prompt that describes a process with a finished service that can operate independently.",
+        "description": "They are best understood as adaptable bot blueprints and supporting resources, not 38 identical standalone software products. They still require an AI platform, business context, tools, permissions, testing, and human review. Choose one relevant workflow instead of assuming every example works independently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

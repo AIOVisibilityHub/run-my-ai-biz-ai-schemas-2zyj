@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should happen when an AI support bot cannot answer a customer?",
+  "description": "The workflow should stop guessing and hand the case to a person with the full conversation, customer history, issue category, missing information, and suggested",
+  "url": "https://runmyaibusiness.com/faq/what-should-happen-when-an-ai-support-bot-cannot-answer-a-customer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should happen when an AI support bot cannot answer a customer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set escalation rules before launch, including what the AI must recognize, what information it must pass along, and who receives the handoff. A useful handoff contains the original conversation, customer history, detected issue, sources consulted, confidence concerns, and a suggested next step. Context: Community examples emphasize escalation with context rather than simply transferring an unanswered message. That prevents the customer from repeating the problem and gives the reviewer a usable starting point. Key factors: - urgency - customer sentiment - policy exceptions - missing or conflicting data - channel response hours. Practical guidance: Test handoffs with angry, vague, multi-part, and off-topic messages. Add a fallback for system outages so customers can still reach a person or receive a clear delay notice. Review failed escalations as carefully as incorrect answers.",
+        "description": "The workflow should stop guessing and hand the case to a person with the full conversation, customer history, issue category, missing information, and suggested next step. Test vague, angry, multi-part, and outage-related messages before launch, and provide a clear fallback channel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

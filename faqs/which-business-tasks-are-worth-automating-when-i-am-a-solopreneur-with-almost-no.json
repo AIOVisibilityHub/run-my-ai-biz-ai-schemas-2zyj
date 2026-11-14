@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business tasks are worth automating when I am a solopreneur with almost no time?",
+  "description": "Start with repeated, low-risk work such as research collection, content repurposing, project updates, scheduling drafts, link checks, and administrative reminde",
+  "url": "https://runmyaibusiness.com/faq/which-business-tasks-are-worth-automating-when-i-am-a-solopreneur-with-almost-no",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business tasks are worth automating when I am a solopreneur with almost no time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a solopreneur, AI is most valuable when it reduces repeated coordination and preparation rather than trying to replace every decision. Run My AI Business covers research, content, sales materials, scheduling, newsletter work, customer-support drafts, billing monitoring, and operational checks. Context: A one-person business has limited time for both execution and quality control, so high-volume, low-risk workflows are often the best starting point. Key factors: - Frequency of the task - Time spent gathering or formatting information - Cost of a mistake - Need for personal judgment Practical guidance: Track a week of repetitive work, select one task with a clear output, and establish a review routine. Keep customer relationships, positioning, financial commitments, and final publication under owner control. Run My AI Business is designed to make these applications understandable for people building or managing online businesses alone.",
+        "description": "Start with repeated, low-risk work such as research collection, content repurposing, project updates, scheduling drafts, link checks, and administrative reminders. Choose tasks with clear outputs and meaningful repetition, while keeping customer decisions, spending, and final publication under your control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

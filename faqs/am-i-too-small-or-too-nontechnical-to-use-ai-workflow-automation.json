@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Am I too small or too nontechnical to use AI workflow automation?",
+  "description": "No. Solopreneurs and small businesses can use AI workflows when a task repeats, has defined inputs and outputs, and can be reviewed. Begin with one manageable a",
+  "url": "https://runmyaibusiness.com/faq/am-i-too-small-or-too-nontechnical-to-use-ai-workflow-automation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Am I too small or too nontechnical to use AI workflow automation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may be a good fit if you have a recurring process with reasonably clear inputs, a measurable output, and enough repetition to justify setup. You do not need a large company or coding background, but you do need time to define the workflow and review results.\n\n## Context\nRun My AI Business is especially relevant to solopreneurs, digital product creators, aspiring entrepreneurs, and small business owners working on research, newsletters, funnels, product creation, or routine administration.\n\n## Key factors\n- The task repeats often enough to matter\n- You can describe acceptable quality\n- The workflow does not require constant subjective judgment\n- You can supply reliable business information\n\n## Practical guidance\nStart with a task such as preparing a research brief or drafting an email sequence rather than an unrestricted “run my business” request. Keep final decisions, spending, publishing, and sensitive account actions under your control.\n\nThe educational material helps readers assess fit before committing to a larger system.",
+        "description": "No. Solopreneurs and small businesses can use AI workflows when a task repeats, has defined inputs and outputs, and can be reviewed. Begin with one manageable activity—such as research, drafting, or content organization—and expand after you understand its limitations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

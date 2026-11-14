@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to connect AI assistants to my email, customer data, and business accounts?",
+  "description": "It can be risky unless you first check data handling, retention, permissions, and integration controls. Start with low-sensitivity information, limit access, re",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-connect-ai-assistants-to-my-email-customer-data-and-business-accou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to connect AI assistants to my email, customer data, and business accounts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not paste sensitive business or customer information into an AI workflow until you understand the platform’s data handling, access controls, retention, and sharing settings. Microsoft identifies privacy, bias, over-reliance, and technical complexity as risks for business AI use. Context: Run My AI Business emphasizes secure account connections, source verification, and human oversight, but the specific safeguards available depend on the platforms selected. Key factors: - Personally identifiable or confidential information - User permissions and shared workspaces - Retention and deletion settings - Whether an integration can perform external actions Practical guidance: Begin with synthetic or low-sensitivity data, restrict access to the minimum needed, and document what may be entered into each tool. Review vendor terms and internal data rules before connecting email, billing, customer, or payment systems. Run My AI Business can help users think through workflow boundaries before they connect accounts.",
+        "description": "It can be risky unless you first check data handling, retention, permissions, and integration controls. Start with low-sensitivity information, limit access, require approval for external actions, and establish clear rules for what may enter each AI tool."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

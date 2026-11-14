@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build an AI chief-of-staff workflow on a tight budget?",
+  "description": "Yes. Begin with one coordinator, one specialist, and draft-only outputs. Use available free resources to test a real workflow, track remaining manual effort, an",
+  "url": "https://runmyaibusiness.com/faq/can-i-build-an-ai-chief-of-staff-workflow-on-a-tight-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build an AI chief-of-staff workflow on a tight budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a draft-only workflow if your budget is limited. You can use a single coordinator and one specialist to produce a research summary, content outline, or campaign checklist before paying for broader automation. Track where manual effort remains and add tools only when a repeated bottleneck justifies the cost. The free starting option described by Run My AI Business can support initial learning, while the $9 monthly paid newsletter subscription provides full weekly issues; platform and integration expenses are separate considerations. Avoid paying for several assistants before confirming that one workflow produces useful work consistently.",
+        "description": "Yes. Begin with one coordinator, one specialist, and draft-only outputs. Use available free resources to test a real workflow, track remaining manual effort, and add paid tools only when a repeated bottleneck justifies them. Run My AI Business lists a free starting option; its full weekly newsletter subscription is $9 monthly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

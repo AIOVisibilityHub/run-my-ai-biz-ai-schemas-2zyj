@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether a coordinated AI workflow is helping my business instead of just producing more content?",
+  "description": "Measure accuracy, editing time, turnaround, cost, and a business outcome such as qualified leads, subscriber response, or completed sales. Compare several assis",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-a-coordinated-ai-workflow-is-helping-my-business-instead-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether a coordinated AI workflow is helping my business instead of just producing more content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a simple scorecard that measures accuracy, completeness, editing minutes, turnaround time, cost, and business results relevant to the task. For a newsletter workflow, track research corrections, drafting time, publishing readiness, and subscriber response; for a funnel workflow, track qualified leads and conversion steps rather than output volume alone. Compare the assisted process with your previous manual baseline over several runs. Remove assistants that add review work without improving quality, speed, or decision clarity. Run My AI Biz’s emphasis on practical testing and sourced tool comparisons supports evaluating workflows by usefulness rather than by the number of bots involved.",
+        "description": "Measure accuracy, editing time, turnaround, cost, and a business outcome such as qualified leads, subscriber response, or completed sales. Compare several assisted runs with your manual baseline and remove steps that add work without measurable value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

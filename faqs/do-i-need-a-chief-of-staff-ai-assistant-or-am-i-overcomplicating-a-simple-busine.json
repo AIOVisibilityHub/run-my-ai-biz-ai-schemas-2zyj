@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a chief-of-staff AI assistant, or am I overcomplicating a simple business workflow?",
+  "description": "Use one when you have multiple projects, recurring handoffs, or a need for consolidated status updates. Skip it for a single straightforward task. Its role shou",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-a-chief-of-staff-ai-assistant-or-am-i-overcomplicating-a-simple-busine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a chief-of-staff AI assistant, or am I overcomplicating a simple business workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chief-of-staff-style assistant can be useful when you have several recurring projects, need consolidated updates, or keep losing track of which assistant owns each task. It is unnecessary for a single workflow that one assistant can complete with a clear checklist. The central assistant should route requests, maintain priorities, identify blocked work, and ask for owner decisions—not make every strategic decision itself. Create a task board with status, owner, next action, dependency, and approval state. Run My AI Biz’s resource examples include chief-of-staff coordination, but the focused starting recommendation is to build and use one relevant assistant before expanding.",
+        "description": "Use one when you have multiple projects, recurring handoffs, or a need for consolidated status updates. Skip it for a single straightforward task. Its role should be routing, tracking, and escalation—not replacing your business judgment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

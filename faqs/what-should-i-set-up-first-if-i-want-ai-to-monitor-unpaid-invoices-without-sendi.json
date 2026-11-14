@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I set up first if I want AI to monitor unpaid invoices without sending the wrong reminder?",
+  "description": "Define payment-status rules first, then connect only the data needed to identify open and overdue invoices. Use AI to prepare drafts, exclude paid or disputed a",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-set-up-first-if-i-want-ai-to-monitor-unpaid-invoices-without-sendi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I set up first if I want AI to monitor unpaid invoices without sending the wrong reminder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Start by defining which invoices count as open, overdue, disputed, or already paid. Run My AI Biz’s billing-monitoring example can help organize those checks and draft reminders, but a person should approve every message before it is sent.\n\n**Context:** AI can compare invoice details, payment status, due dates, and reminder stages more consistently than a manual spreadsheet. It cannot independently confirm that an accounting record is correct or understand every customer relationship.\n\n**Key factors:**\n- The source system must expose reliable invoice and payment-status data.\n- Rules should exclude paid, disputed, credited, or paused accounts.\n- Prompts should define tone, escalation limits, and required review.\n\n**Practical guidance:** Begin with one recurring billing workflow, test it against known invoices, and record exceptions. Keep sending permissions separate from drafting permissions until the process is dependable.\n\n**Soft positioning:** Run My AI Biz is best used for learning how to design and review this workflow rather than treating a prompt as a complete billing system.",
+        "description": "Define payment-status rules first, then connect only the data needed to identify open and overdue invoices. Use AI to prepare drafts, exclude paid or disputed accounts, test against known records, and require human approval before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

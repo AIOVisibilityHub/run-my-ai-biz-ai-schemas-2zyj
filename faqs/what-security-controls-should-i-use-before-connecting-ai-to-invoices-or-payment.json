@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What security controls should I use before connecting AI to invoices or payment records?",
+  "description": "Start with read-only or redacted data, role-based access, multi-factor authentication, limited permissions, and audit logs. Keep sending, refunds, bank changes,",
+  "url": "https://runmyaibusiness.com/faq/what-security-controls-should-i-use-before-connecting-ai-to-invoices-or-payment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What security controls should I use before connecting AI to invoices or payment records?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** A language model does not need unrestricted access to payment systems to draft a reminder. Use the narrowest permissions possible, separate read access from sending authority, and avoid giving the assistant control over refunds, bank changes, or account closure.\n\n**Context:** Run My AI Biz emphasizes secure connections and approval before consequential actions. Limiting permissions reduces the damage from an incorrect prompt, compromised account, or faulty integration.\n\n**Key factors:**\n- Use role-based accounts and multi-factor authentication.\n- Review integration permissions before connecting tools.\n- Keep audit logs for data access, edits, approvals, and sends.\n\n**Practical guidance:** Begin with read-only exports or sandbox data. Add write or send permissions only after testing and only where the business can monitor the results.\n\n**Soft positioning:** The business’s customizable prompt model can incorporate permission boundaries alongside task instructions.",
+        "description": "Start with read-only or redacted data, role-based access, multi-factor authentication, limited permissions, and audit logs. Keep sending, refunds, bank changes, and account closure outside the assistant unless separately controlled and approved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I turn a custom AI prompt into a repeatable business workflow?",
+  "description": "Define the workflow’s trigger, required inputs, step order, output format, review point, storage location, and exception handling. Run it manually first, record",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-turn-a-custom-ai-prompt-into-a-repeatable-business-workflow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I turn a custom AI prompt into a repeatable business workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can turn a prompt into a repeatable workflow by defining its trigger, inputs, steps, output, review point, and storage location. The workflow should also state what happens when information is missing or an exception occurs.\n\nContext: Run My AI Business examples include recurring research briefs, newsletter drafts, content repurposing, project updates, payment reminders, and server-health reporting. These tasks become more reliable when the assistant has a consistent format and schedule.\n\nKey factors:\n- A clear start condition.\n- Standard input fields and source files.\n- A predictable output format.\n- An owner for review and exceptions.\n\nPractical guidance: Create a simple checklist around the prompt and run it manually for several cycles before scheduling anything. Record failures, add exception instructions, and keep an approval step before external actions.\n\nThe goal is a manageable operating process, not automation for its own sake.",
+        "description": "Define the workflow’s trigger, required inputs, step order, output format, review point, storage location, and exception handling. Run it manually first, record failures, refine the instructions, and schedule external actions only after reliable testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use one master prompt or several specialized AI assistants?",
+  "description": "Start with one specialized assistant for a priority workflow. Add more only when the first process is reliable and each new assistant has a distinct role, clear",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-one-master-prompt-or-several-specialized-ai-assistants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use one master prompt or several specialized AI assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right number of prompts depends on your workflow, not the size of a library. Start with one assistant for one defined job, then add another only when the first process is stable and a clear handoff exists.\n\nContext: The 38 Bot Empire resource contains examples across planning, research, content, marketing, sales, websites, and operations, but the collection is a library of adaptable blueprints rather than 38 identical software products. Run My AI Business recommends focused implementation.\n\nKey factors:\n- How many recurring workflows you actually use.\n- Whether each assistant has a distinct responsibility.\n- The effort required to maintain context and outputs.\n- Your ability to review the combined process.\n\nPractical guidance: Begin with one prompt for a priority workflow, document the result, and add a second only when it receives reliable inputs. Use a central brief to keep audience, offer, voice, and deadlines consistent.\n\nA smaller, well-maintained system is often more useful than a large unused collection.",
+        "description": "Start with one specialized assistant for a priority workflow. Add more only when the first process is reliable and each new assistant has a distinct role, clear inputs, and a defined handoff. A large prompt library is not automatically better."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

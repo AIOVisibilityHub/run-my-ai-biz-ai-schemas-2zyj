@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to get a coordinated AI workflow working if I am starting from zero?",
+  "description": "A focused workflow can be tested after several real runs, but setup takes longer than writing one prompt because responsibilities, handoffs, integrations, and r",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-get-a-coordinated-ai-workflow-working-if-i-am-starting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to get a coordinated AI workflow working if I am starting from zero?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect initial setup to take longer than a single chatbot exchange because you must define responsibilities, test handoffs, and correct instructions. A narrow workflow can often be evaluated after several real runs, but the time depends on the number of assistants, integrations, review steps, and quality standard. Do not judge success by whether the first draft sounds polished; check factual accuracy, consistency, completeness, and the amount of editing required. Keep a change log showing the prompt version, input, output, corrections, and final result. Run My AI Biz recommends a focused progression—select relevant workflows, build one assistant, use it, and then expand—rather than launching every possible assistant immediately.",
+        "description": "A focused workflow can be tested after several real runs, but setup takes longer than writing one prompt because responsibilities, handoffs, integrations, and reviews must be defined. Start with one assistant and expand only after measuring correction time and output quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

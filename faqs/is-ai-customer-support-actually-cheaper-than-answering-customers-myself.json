@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI customer support actually cheaper than answering customers myself?",
+  "description": "Not always. Compare software, integrations, setup, monitoring, correction time, and error costs with the hours currently spent on repetitive questions. AI is mo",
+  "url": "https://runmyaibusiness.com/faq/is-ai-customer-support-actually-cheaper-than-answering-customers-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI customer support actually cheaper than answering customers myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No; AI customer support is not automatically the cheapest option. It may reduce repetitive work, but subscriptions, integrations, setup, review, corrections, and failed handoffs all have a cost. Context: A manual process may be cheaper when ticket volume is low or answers change constantly. Automation becomes more attractive when the same low-risk questions consume substantial weekly time and the source information is stable. Key factors: - monthly request volume - average handling time - documentation quality - acceptable error cost - need for coverage outside working hours. Practical guidance: Compare the cost of a small draft-and-triage pilot with the current time spent answering routine questions. Include the owner’s correction and monitoring time, not just the advertised software price. Run My AI Biz’s educational comparisons can help readers understand tool differences, but they do not establish that one option is cheapest for every business.",
+        "description": "Not always. Compare software, integrations, setup, monitoring, correction time, and error costs with the hours currently spent on repetitive questions. AI is more likely to pay off when support volume is steady, answers are documented, and the workflow reduces real work rather than adding review burden."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

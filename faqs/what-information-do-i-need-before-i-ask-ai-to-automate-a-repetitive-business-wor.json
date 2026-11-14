@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before I ask AI to automate a repetitive business workflow?",
+  "description": "Prepare the task trigger, inputs, desired output, examples, business context, audience, tone, source requirements, deadline, approval rules, and exception proce",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-before-i-ask-ai-to-automate-a-repetitive-business-wor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before I ask AI to automate a repetitive business workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a clear task description, examples of good and bad outputs, source material, platform details, approval rules, and an owner for exceptions. Context: Run My AI Biz’s customizable master prompts are designed to receive business context, niche, audience, brand voice, objectives, and responsibilities. Key factors: input quality, tone requirements, required fields, deadlines, connected services, and prohibited actions. Practical guidance: prepare a short workflow brief containing the trigger, inputs, steps, output format, review checklist, and failure response. Include three representative examples before asking the assistant to handle live work. Run My AI Biz can help readers turn scattered expectations into instructions that an assistant can follow more consistently.",
+        "description": "Prepare the task trigger, inputs, desired output, examples, business context, audience, tone, source requirements, deadline, approval rules, and exception process. Also identify which tools and accounts are involved. A short workflow brief is more useful than a vague request to automate everything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

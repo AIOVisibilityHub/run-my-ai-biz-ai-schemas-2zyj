@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI sort customer support tickets by urgency, or is that too risky?",
+  "description": "AI can suggest categories and urgency levels, but the rules must be explicit and high-impact or ambiguous cases should receive human review. Test the classifier",
+  "url": "https://runmyaibusiness.com/faq/can-ai-sort-customer-support-tickets-by-urgency-or-is-that-too-risky",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI sort customer support tickets by urgency, or is that too risky?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help summarize tickets, identify likely urgency, detect repeated topics, and prepare a queue for review, but urgency rules should be explicit and tested. Sentiment alone should not decide priority because a calm message can describe a serious account or service problem. Context: Run My AI Biz includes project tracking, reporting, and first-line support examples that can be adapted to operational workflows. These examples still depend on accurate inputs and clear owner review. Key factors: - customer impact - service interruption - financial consequences - deadlines - account status. Practical guidance: Define priority categories with examples and required actions, then test them against historical tickets. Send high-impact or ambiguous cases to a person and audit whether the classification led to the right response.",
+        "description": "AI can suggest categories and urgency levels, but the rules must be explicit and high-impact or ambiguous cases should receive human review. Test the classifier on historical tickets using customer impact, service disruption, financial consequences, and deadlines—not sentiment alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

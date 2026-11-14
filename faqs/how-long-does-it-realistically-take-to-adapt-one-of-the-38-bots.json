@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it realistically take to adapt one of the 38 bots?",
+  "description": "Simple drafting bots may be ready after prompt editing and several tests, while integrated workflows take longer because they require tool connections, permissi",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-realistically-take-to-adapt-one-of-the-38-bots",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it realistically take to adapt one of the 38 bots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sensible first implementation can be completed in stages, but the duration depends on prompt complexity, platform setup, integrations, and how much business information you already have. A simple drafting assistant may require only prompt editing and testing, while a funnel, newsletter, or billing workflow may involve multiple tools and permissions. Separate the work into discovery, customization, manual testing, limited pilot use, and broader adoption. Do not measure readiness by how quickly a prompt produces text; measure whether it produces usable work with predictable review requirements. Keep a change log so you know which instruction improved or weakened performance. If an external connection is required, test it with noncritical data before enabling recurring actions. Run My AI Biz presents these resources as educational workflows rather than guaranteed instant implementations.",
+        "description": "Simple drafting bots may be ready after prompt editing and several tests, while integrated workflows take longer because they require tool connections, permissions, and safeguards. Plan separate stages for customization, manual testing, a limited pilot, and wider use. Readiness means dependable outputs, not merely fast responses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

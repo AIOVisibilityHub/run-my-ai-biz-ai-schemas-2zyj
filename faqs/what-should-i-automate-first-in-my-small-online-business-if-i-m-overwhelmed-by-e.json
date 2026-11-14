@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first in my small online business if I’m overwhelmed by everything?",
+  "description": "Begin with one frequent, low-risk task that follows clear rules—such as research collection, newsletter drafting, content repurposing, or routine follow-up emai",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-in-my-small-online-business-if-i-m-overwhelmed-by-e",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first in my small online business if I’m overwhelmed by everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repetitive, low-risk workflow that has clear inputs and a simple quality check, such as drafting newsletter content, organizing research, repurposing posts, or preparing follow-up emails. Run it manually alongside the automated version before expanding. Context: Run My AI Biz emphasizes focused implementation—choose one assistant, use it, refine the instructions, then add another workflow. This prevents a complicated system from hiding basic process problems. Key factors: frequency, time spent, consistency, error impact, and whether a human can verify the result quickly. Practical guidance: Write every current step, identify the required information, define what “done” means, and require approval before sending or publishing. Track hours saved and corrections for two weeks. Run My AI Biz is well suited to educational guidance for turning a defined recurring task into a manageable AI-assisted workflow.",
+        "description": "Begin with one frequent, low-risk task that follows clear rules—such as research collection, newsletter drafting, content repurposing, or routine follow-up emails. Document the manual steps, add an approval checkpoint, test it for two weeks, and measure time saved before adding more workflows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

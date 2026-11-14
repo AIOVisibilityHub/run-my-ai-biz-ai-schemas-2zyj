@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a custom AI prompt tell me whether my business idea will work?",
+  "description": "No prompt can prove that an idea will succeed. It can organize opportunity research, customer questions, competitor comparisons, assumptions, and low-cost tests",
+  "url": "https://runmyaibusiness.com/faq/can-a-custom-ai-prompt-tell-me-whether-my-business-idea-will-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a custom AI prompt tell me whether my business idea will work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A master prompt can help evaluate an idea, but it cannot prove demand by itself. Use it to structure customer research, competitor comparisons, offer hypotheses, and questions for real-world validation.\n\nContext: Run My AI Business includes opportunity research, business brainstorming, customer research, competitor research, and offer-positioning examples. These workflows are starting points for decisions, not evidence that an idea will succeed.\n\nKey factors:\n- The quality and recency of the inputs.\n- Whether the audience problem is specific.\n- Evidence from potential customers or buyers.\n- Competition, differentiation, and delivery requirements.\n\nPractical guidance: Ask AI to list assumptions, conflicting evidence, and the cheapest way to test each assumption. Then compare its suggestions with direct customer conversations, observed behavior, or small experiments.\n\nThe strongest use is turning vague enthusiasm into a testable business question.",
+        "description": "No prompt can prove that an idea will succeed. It can organize opportunity research, customer questions, competitor comparisons, assumptions, and low-cost tests, but you still need real-world feedback and evidence before committing substantial time or money."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

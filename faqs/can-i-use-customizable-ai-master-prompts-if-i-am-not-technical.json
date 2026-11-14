@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use customizable AI master prompts if I am not technical?",
+  "description": "Yes. You can start without coding by supplying clear business information, testing the prompt, and reviewing the output. However, connected tools, account permi",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-customizable-ai-master-prompts-if-i-am-not-technical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use customizable AI master prompts if I am not technical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need coding knowledge to begin using customizable master prompts, but you do need to explain your business clearly and operate the supporting tools. Run My AI Business presents conversational workflows designed for people who want to direct AI in everyday language.\n\nContext: A prompt supplies instructions; it does not automatically create accounts, connect services, verify facts, or complete every action. Actual execution can require an AI platform, integrations, permissions, files, and a defined review process.\n\nKey factors:\n- Comfort with copying, editing, and testing instructions.\n- Ability to provide accurate business context.\n- Willingness to review drafts and correct mistakes.\n- Access to any required software or accounts.\n\nPractical guidance: Begin with a prompt that produces a draft or checklist rather than one that takes external action. Ask the assistant to identify missing information and mark assumptions clearly.\n\nThe educational material is especially suited to owners who want practical explanations without starting with code.",
+        "description": "Yes. You can start without coding by supplying clear business information, testing the prompt, and reviewing the output. However, connected tools, account permissions, integrations, and approval steps may still be needed for tasks such as publishing, scheduling, billing, or sending messages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

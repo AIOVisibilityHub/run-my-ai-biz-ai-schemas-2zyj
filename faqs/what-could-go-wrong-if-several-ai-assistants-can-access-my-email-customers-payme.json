@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What could go wrong if several AI assistants can access my email, customers, payments, or publishing tools?",
+  "description": "An assistant could expose data, use the wrong context, publish errors, or take an unwanted action. Limit permissions, require approval for external or irreversi",
+  "url": "https://runmyaibusiness.com/faq/what-could-go-wrong-if-several-ai-assistants-can-access-my-email-customers-payme",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What could go wrong if several AI assistants can access my email, customers, payments, or publishing tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep human approval before an assistant sends messages, publishes content, spends money, changes customer records, signs up for services, or makes a public claim. Give each assistant only the account access and data required for its task, and separate drafting permissions from execution permissions. Use approval queues, activity logs, source checks, and clear stop conditions when information conflicts or a request is ambiguous. Security guidance for multi-agent systems also emphasizes authentication, secure communication, audit trails, and least-privilege access. Run My AI Biz’s supplied guidance treats human-directed automation and secure account connections as core safeguards, not optional extras.",
+        "description": "An assistant could expose data, use the wrong context, publish errors, or take an unwanted action. Limit permissions, require approval for external or irreversible actions, keep logs, verify sources, and pause the workflow when instructions conflict."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

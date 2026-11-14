@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can customizable AI master prompts find qualified leads for me?",
+  "description": "They can organize prospect research and draft tailored outreach, but they cannot guarantee qualified leads or sales. Define clear criteria, require evidence for",
+  "url": "https://runmyaibusiness.com/faq/can-customizable-ai-master-prompts-find-qualified-leads-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can customizable AI master prompts find qualified leads for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom prompts can support prospect research and outreach preparation, but they should not be treated as a source of guaranteed leads or automatic sales. Run My AI Business includes examples for researching potential customers, sponsors, and website prospects, with outreach prepared for review.\n\nContext: The quality of a prospect list depends on the research criteria, source freshness, audience fit, and how carefully contact information is handled. A polished message sent to the wrong person still wastes time and can damage trust.\n\nKey factors:\n- Clear qualification criteria.\n- Reliable, current prospect information.\n- Relevant personalization based on real evidence.\n- Human review before contact.\n\nPractical guidance: Ask the prompt to show why each prospect matches the criteria and to separate verified facts from guesses. Review every contact and message, remove unsupported claims, and decide whether outreach is appropriate before sending.\n\nThe workflow is most useful for organizing research, not bypassing thoughtful relationship-building.",
+        "description": "They can organize prospect research and draft tailored outreach, but they cannot guarantee qualified leads or sales. Define clear criteria, require evidence for each match, separate facts from guesses, and review every prospect and message before contacting anyone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

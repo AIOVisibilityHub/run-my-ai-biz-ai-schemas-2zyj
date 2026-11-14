@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use a custom AI master prompt for sensitive US business decisions?",
+  "description": "Use AI for organization, drafts, and questions, not unsupported final decisions involving regulated, financial, tax, privacy, employment, or other high-impact m",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-a-custom-ai-master-prompt-for-sensitive-us-business-decisions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use a custom AI master prompt for sensitive US business decisions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom prompts can support US-based business planning and marketing, but they should not be treated as a substitute for professional advice on regulated, financial, tax, privacy, employment, or industry-specific matters. The prompt should identify topics requiring qualified review.\n\nContext: Run My AI Business is educational and focuses on practical AI workflows, not individualized professional determinations. A general draft can organize questions or summarize supplied information, but it may omit important context or contain errors.\n\nKey factors:\n- The sensitivity and consequences of the task.\n- Whether the output affects customers, employees, money, or compliance.\n- The currency and authority of the source material.\n- Whether a qualified reviewer needs to approve the result.\n\nPractical guidance: Add a rule that the assistant must flag regulated or high-impact topics and stop rather than guess. Use AI to prepare checklists and questions for review, not to make unsupported final decisions.\n\nThis boundary keeps educational automation useful without overstating what a prompt can safely decide.",
+        "description": "Use AI for organization, drafts, and questions, not unsupported final decisions involving regulated, financial, tax, privacy, employment, or other high-impact matters. Instruct the assistant to flag sensitive topics and obtain qualified review before action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

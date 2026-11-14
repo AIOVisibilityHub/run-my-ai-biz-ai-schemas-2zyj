@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when one AI assistant gives bad information to the others?",
+  "description": "Pause the workflow, mark the result unapproved, find the failure point, and check every downstream output that used it. Correct the missing source or unclear in",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-one-ai-assistant-gives-bad-information-to-the-others",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when one AI assistant gives bad information to the others?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When an assistant produces a wrong or unsupported result, pause downstream work and identify the failure point. Check whether the source was missing, the instruction was ambiguous, the handoff omitted context, or the model invented an answer. Mark the output as unapproved, correct the source or rule, rerun the smallest affected step, and review all later outputs that depended on it. Add a stop condition requiring escalation when evidence is insufficient or assistants disagree. Run My AI Business emphasizes source verification and prohibiting invented statistics, proof, or income claims. Do not allow a polished final draft to hide an unresolved factual error.",
+        "description": "Pause the workflow, mark the result unapproved, find the failure point, and check every downstream output that used it. Correct the missing source or unclear instruction, rerun the affected step, and add an escalation rule for uncertainty or disagreement. Never let an unsupported result pass because the final draft looks polished."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

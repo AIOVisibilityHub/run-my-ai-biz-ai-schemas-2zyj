@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to automate marketing content completely or use AI only for drafts and ideas?",
+  "description": "For most small businesses, AI-assisted drafting with human approval is safer than fully unattended publishing. Use it for calendars, variations, research, repur",
+  "url": "https://runmyaibusiness.com/faq/is-it-better-to-automate-marketing-content-completely-or-use-ai-only-for-drafts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to automate marketing content completely or use AI only for drafts and ideas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can automate marketing preparation without allowing AI to publish or spend money automatically. Context: Run My AI Biz includes workflows for email sequences, social posts, newsletters, advertising drafts, lead magnets, and funnel pages, with approval requirements before relevant actions. Key factors: brand voice, claims, audience fit, platform rules, budget, frequency, and campaign objective. Practical guidance: have AI produce a content calendar, draft variations, source notes, and a test plan; then approve each asset and schedule it through the platform yourself. Track unsubscribe rates, replies, conversions, and corrections. Run My AI Biz can help explain how separate marketing assistants work together while preserving owner control.",
+        "description": "For most small businesses, AI-assisted drafting with human approval is safer than fully unattended publishing. Use it for calendars, variations, research, repurposing, and campaign preparation, then review claims, tone, audience fit, links, and budget before scheduling or spending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does an AI assistant need before it can help run my business well?",
+  "description": "Provide your audience, offer, goals, brand voice, constraints, examples, source requirements, and approval rules. Keep this information in a reusable business b",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-an-ai-assistant-need-before-it-can-help-run-my-business-we",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does an AI assistant need before it can help run my business well?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a consistent business brief that gives the assistant your audience, offer, voice, goals, constraints, examples, source rules, and approval requirements. Better context usually produces more useful drafts than longer generic prompts.\n\n**Context:** A reusable master prompt can define an assistant’s role, responsibilities, workflow, and boundaries. It should be adapted to the owner’s niche rather than copied unchanged across different projects.\n\n**Key factors:**\n- Specific customer and product information.\n- Examples of acceptable and unacceptable outputs.\n- Rules against inventing statistics, proof, testimonials, or income claims.\n\n**Practical guidance:** Keep a single source-of-truth brief, update it when the business changes, and ask the assistant to identify missing information instead of guessing. Test the same instruction with several examples before making it part of a recurring workflow.\n\nRun My AI Business’s resource approach centers on customizable master prompts rather than one-size-fits-all instructions.",
+        "description": "Provide your audience, offer, goals, brand voice, constraints, examples, source requirements, and approval rules. Keep this information in a reusable business brief, update it as the business changes, and instruct the assistant to ask for missing facts rather than inventing them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

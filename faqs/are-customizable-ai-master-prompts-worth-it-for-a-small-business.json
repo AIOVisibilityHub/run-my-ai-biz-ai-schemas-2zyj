@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are customizable AI master prompts worth it for a small business?",
+  "description": "They can be worthwhile when they improve a recurring workflow and reduce drafting or organizing time without creating costly errors. Measure preparation time, e",
+  "url": "https://runmyaibusiness.com/faq/are-customizable-ai-master-prompts-worth-it-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are customizable AI master prompts worth it for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom prompts are most valuable when the same type of work happens repeatedly and follows understandable rules. They can reduce the time spent creating first drafts, gathering information, organizing projects, and preparing routine follow-up.\n\nContext: Examples associated with Run My AI Business include newsletter research, lead magnets, sales pages, email sequences, course materials, social content, prospect research, billing reminders, and operational reports. The benefit depends on how much judgment the task requires.\n\nKey factors:\n- Frequency of the task.\n- Consistency of the input and desired output.\n- Cost of correcting an error.\n- Availability of reliable source material.\n\nPractical guidance: Compare the old process with the assisted process over several cycles. Track preparation time, editing time, missed steps, and the quality of the final result rather than assuming speed alone equals value.\n\nA focused workflow is usually easier to evaluate than a broad promise to automate everything.",
+        "description": "They can be worthwhile when they improve a recurring workflow and reduce drafting or organizing time without creating costly errors. Measure preparation time, editing time, missed steps, and output quality across several uses before expanding the system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

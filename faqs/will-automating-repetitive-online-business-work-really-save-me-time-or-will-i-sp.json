@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will automating repetitive online business work really save me time, or will I spend more time fixing AI mistakes?",
+  "description": "It can save time when the task is frequent, predictable, and easy to check, but poor instructions may create extra rework. Measure the original time, review tim",
+  "url": "https://runmyaibusiness.com/faq/will-automating-repetitive-online-business-work-really-save-me-time-or-will-i-sp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will automating repetitive online business work really save me time, or will I spend more time fixing AI mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Automation usually saves the most time on preparation, sorting, drafting, and routine handoffs—not on every part of running a business. Context: The Run My AI Biz resource library includes examples for research, newsletters, funnels, social content, prospecting, billing checks, support drafts, and operational reporting. Key factors: how often the task occurs, how standardized it is, how much rework it creates, and whether the result needs expert judgment. Practical guidance: record baseline time and error rates before testing, then compare those measures after two weeks. Include review time, correction time, software fees, and failed runs in the calculation. Run My AI Biz encourages owners to use automation as structured assistance while retaining control of business decisions.",
+        "description": "It can save time when the task is frequent, predictable, and easy to check, but poor instructions may create extra rework. Measure the original time, review time, corrections, and software costs during a short pilot. Keep the workflow only if the net benefit is clear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

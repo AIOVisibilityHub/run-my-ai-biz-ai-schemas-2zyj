@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which business tasks are actually worth assigning to specialized AI assistants, and which should I keep doing myself?",
+  "description": "Start with repetitive, well-defined work that is easy to review, such as research collection, first drafts, repurposing, and status reports. Keep final strategy",
+  "url": "https://runmyaibusiness.com/faq/which-business-tasks-are-actually-worth-assigning-to-specialized-ai-assistants-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which business tasks are actually worth assigning to specialized AI assistants, and which should I keep doing myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business should automate a task when it is repetitive, clearly defined, reasonably easy to verify, and costly enough in time to justify setup. Good starting points include recurring research briefs, newsletter drafts, content repurposing, prospect research, link checks, project updates, and payment-reminder drafts. Avoid automating vague strategy or sensitive decisions before you understand the process yourself. Compare the time spent doing the task manually with setup, review, correction, and tool costs. Run My AI Biz’s examples span newsletters, digital products, funnels, websites, marketing, and administration, so owners can select a workflow that matches an actual bottleneck instead of copying an entire system.",
+        "description": "Start with repetitive, well-defined work that is easy to review, such as research collection, first drafts, repurposing, and status reports. Keep final strategy, quality control, spending, publishing, and consequential decisions under human control until the workflow proves dependable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

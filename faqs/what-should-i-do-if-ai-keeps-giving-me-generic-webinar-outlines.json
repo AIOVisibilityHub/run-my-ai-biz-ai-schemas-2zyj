@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI keeps giving me generic webinar outlines?",
+  "description": "Narrow the audience, problem, outcome, evidence, format, and time limit. Ask AI to list assumptions and missing information before generating an outline, then p",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-if-ai-keeps-giving-me-generic-webinar-outlines",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI keeps giving me generic webinar outlines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI produces an overly broad or generic webinar, narrow the audience, business problem, promise, and available proof before asking for another draft. More prompting alone will not fix an unclear objective. Context: Run My AI Biz recommends focused implementation: identify a relevant workflow, build one assistant, use it, and expand later. Key factors: - Specificity of the audience - Concrete attendee outcome - Real examples available - Clear exclusions and constraints Practical guidance: Rewrite the brief using “for whom,” “to solve what,” “by when,” and “with which evidence.” Ask AI to list assumptions and missing information before drafting. Test the outline with someone who resembles the audience and remove sections they cannot use.",
+        "description": "Narrow the audience, problem, outcome, evidence, format, and time limit. Ask AI to list assumptions and missing information before generating an outline, then provide concrete examples and exclusions. If the draft remains generic, test it with a representative attendee and remove sections they cannot act on."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

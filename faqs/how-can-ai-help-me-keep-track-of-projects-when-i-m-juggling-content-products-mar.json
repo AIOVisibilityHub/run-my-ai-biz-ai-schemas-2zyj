@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI help me keep track of projects when I’m juggling content, products, marketing, and admin?",
+  "description": "Give AI a consistent project record containing the owner, status, deadline, dependencies, and blockers. Use it to summarize progress and suggest next actions, b",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-help-me-keep-track-of-projects-when-i-m-juggling-content-products-mar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI help me keep track of projects when I’m juggling content, products, marketing, and admin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to organize recurring project updates, identify stalled tasks, summarize dependencies, and propose next actions. It should not silently change priorities or make commitments without your approval.\n\n**Context:** A chief-of-staff-style assistant can act as a central point of contact and route work to specialized assistants. This is useful when an owner is balancing research, product development, marketing, publishing, and administration.\n\n**Key factors:**\n- A consistent task format with owner, status, deadline, and dependency.\n- A single source of truth for current project information.\n- Clear escalation when a task lacks an owner or is blocked.\n\n**Practical guidance:** Schedule a regular status brief that lists completed work, stalled items, missing inputs, and three proposed next actions. Verify the underlying project records before acting on the summary.\n\nRun My AI Business includes coordination examples designed to help owners organize multiple business functions without surrendering control.",
+        "description": "Give AI a consistent project record containing the owner, status, deadline, dependencies, and blockers. Use it to summarize progress and suggest next actions, but keep priority changes and commitments under your control. A regular status brief can expose stalled work early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up an AI workflow if I’m starting from scratch?",
+  "description": "A simple workflow may be ready after setup and testing, while connected systems take longer. Plan for process mapping, account connections, sample runs, correct",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-an-ai-workflow-if-i-m-starting-from-scratch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up an AI workflow if I’m starting from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A narrowly defined workflow may be usable after a short pilot, while a multi-tool system can take substantially longer because of account setup, data cleanup, testing, exceptions, and review rules. The task itself—not the number of AI prompts—usually determines the effort.\n\n## Context\nThe resource library includes both focused assistants and coordinated combinations, such as research, course creation, video support, and launch preparation. Run My AI Business recommends building one assistant before expanding to several.\n\n## Key factors\n- Number of platforms and integrations\n- Quality of existing instructions and data\n- Exception frequency\n- Required approval and testing depth\n\n## Practical guidance\nEstimate each stage separately: process mapping, setup, sample tests, corrections, pilot, and maintenance. Do not promise a launch date until the workflow has handled normal and unusual cases.\n\nA staged plan helps readers avoid treating a prompt library as a ready-to-run system.",
+        "description": "A simple workflow may be ready after setup and testing, while connected systems take longer. Plan for process mapping, account connections, sample runs, corrections, approval rules, and a pilot. Run My AI Business recommends proving one assistant before coordinating several."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

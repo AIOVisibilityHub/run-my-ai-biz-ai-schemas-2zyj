@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can coordinated AI assistants generate leads for me, or will they just scrape lists and send spam?",
+  "description": "They can research prospects, organize public details, and draft outreach, but they do not guarantee leads or permission to contact anyone. Define fit criteria,",
+  "url": "https://runmyaibusiness.com/faq/can-coordinated-ai-assistants-generate-leads-for-me-or-will-they-just-scrape-lis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can coordinated AI assistants generate leads for me, or will they just scrape lists and send spam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help research potential prospects, organize public information, draft tailored outreach, and prepare follow-up reminders, but it cannot guarantee qualified leads or permission to contact people. Define your ideal prospect, acceptable sources, personalization limits, and opt-out process before collecting names. Require a human to verify relevance, remove duplicates, check contact rules, and approve every message. Keep evidence for why a prospect fits instead of relying on an assistant’s guess. Run My AI Biz’s examples include sponsor prospecting, website-service research, and YouTube prospect research, framed as preparation for appropriate outreach rather than guaranteed sales.",
+        "description": "They can research prospects, organize public details, and draft outreach, but they do not guarantee leads or permission to contact anyone. Define fit criteria, verify each prospect, remove duplicates, respect opt-outs, and approve messages before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

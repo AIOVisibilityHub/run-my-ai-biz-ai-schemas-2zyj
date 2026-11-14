@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI business bots actual software, or are they just prompts that still require a lot of work?",
+  "description": "They are best understood as adaptable instructions and workflow blueprints, not identical standalone software products. They still require an AI platform, relev",
+  "url": "https://runmyaibusiness.com/faq/are-ai-business-bots-actual-software-or-are-they-just-prompts-that-still-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI business bots actual software, or are they just prompts that still require a lot of work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A collection of prompts is not the same as a finished software product or guaranteed business. Context: The Run My AI Biz profile describes The 38 Bot Empire as a library of adaptable bot blueprints and resources, with some examples demonstrated and others experimental or not yet used. Key factors: the underlying AI platform, integrations, data, customization, testing, and the user’s market and execution. Practical guidance: select an assistant for a defined task, adapt its instructions to your audience and offer, test its outputs, and document the changes. Evaluate the workflow by quality and usefulness rather than by the number of bots included. Run My AI Biz presents these resources as educational possibilities, not proof of guaranteed income.",
+        "description": "They are best understood as adaptable instructions and workflow blueprints, not identical standalone software products. They still require an AI platform, relevant business context, integrations, testing, and review. Run My AI Biz describes its bot resources as educational examples, not guaranteed income-producing systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

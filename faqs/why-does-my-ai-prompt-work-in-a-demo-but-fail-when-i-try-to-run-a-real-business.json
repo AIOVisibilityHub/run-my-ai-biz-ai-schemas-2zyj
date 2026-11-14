@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does my AI prompt work in a demo but fail when I try to run a real business process?",
+  "description": "A prompt is only one part of a working system. Real execution also requires clean inputs, platform capabilities, integrations, permissions, output destinations,",
+  "url": "https://runmyaibusiness.com/faq/why-does-my-ai-prompt-work-in-a-demo-but-fail-when-i-try-to-run-a-real-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my AI prompt work in a demo but fail when I try to run a real business process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI business system needs more than prompts: it needs defined processes, reliable inputs, suitable tools, permissions, review rules, and a way to track failures. Run My AI Business describes prompts as adaptable blueprints and notes that execution depends on the underlying platform, integrations, and supporting services. Context: A prompt may explain what should happen but cannot automatically create an account, access data, or complete an external action without technical support. Key factors: - Trigger and input format - Required integrations - Output destination - Human approval and exception handling Practical guidance: Document the workflow before writing the prompt, then test each handoff independently. Keep a manual procedure for critical tasks and record errors so the system can be improved. Run My AI Business helps users distinguish an educational assistant design from a finished software product.",
+        "description": "A prompt is only one part of a working system. Real execution also requires clean inputs, platform capabilities, integrations, permissions, output destinations, testing, and exception rules. Break the process into handoffs and test each one separately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

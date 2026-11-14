@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop the bots from mixing information between my different businesses or brands?",
+  "description": "Use separate workspaces or clearly labeled configurations for each brand, with distinct context files, sources, offers, and approval rules. Require the active p",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-the-bots-from-mixing-information-between-my-different-businesses-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop the bots from mixing information between my different businesses or brands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep each brand, offer, audience, source set, and approval policy in a separate workspace or clearly labeled configuration. Reusing a prompt structure is reasonable; reusing unedited business facts is risky. Create a business-context block that the assistant loads for only one project, then test it with a deliberate “wrong-brand” check before production use. Use distinct file names, folders, email accounts, and publishing destinations where practical. Review generated copy for names, prices, links, claims, and calls to action before approval. If a chief-of-staff-style assistant coordinates projects, require it to identify the active project in every handoff. Run My AI Biz’s examples support adapting workflows across projects while keeping each business context distinct.",
+        "description": "Use separate workspaces or clearly labeled configurations for each brand, with distinct context files, sources, offers, and approval rules. Require the active project name in every handoff and test for cross-brand leakage. Check names, prices, links, claims, and calls to action before anything is published."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

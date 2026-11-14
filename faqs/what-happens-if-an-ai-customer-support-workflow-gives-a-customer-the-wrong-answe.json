@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if an AI customer support workflow gives a customer the wrong answer?",
+  "description": "A wrong answer can create dissatisfaction and more manual work, so limit the assistant to approved sources and low-risk tasks. Test historical and off-script qu",
+  "url": "https://runmyaibusiness.com/faq/what-happens-if-an-ai-customer-support-workflow-gives-a-customer-the-wrong-answe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if an AI customer support workflow gives a customer the wrong answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, incorrect answers can damage trust, create extra work, or cause a customer to act on outdated information. The safest response is not to abandon AI but to limit its authority, ground replies in approved sources, test edge cases, and require approval for consequential actions. Context: Community discussions commonly distinguish predictable rule-based requests from cases requiring empathy or judgment. Run My AI Biz’s business-specific approach likewise stresses review checkpoints and restrictions on unsupported claims. Key factors: - accuracy of the knowledge base - response confidence and evidence - quality of escalation - monitoring after launch. Practical guidance: Test past tickets, deliberately include off-script questions, and sample live conversations for errors. Add a simple correction log so repeated failures lead to better instructions or updated documentation. Use the workflow to assist decisions before allowing it to make them.",
+        "description": "A wrong answer can create dissatisfaction and more manual work, so limit the assistant to approved sources and low-risk tasks. Test historical and off-script questions, require approval for consequential actions, and keep a correction log that improves the workflow over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

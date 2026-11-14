@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m overwhelmed by all these AI assistants—what should I set up first?",
+  "description": "Choose one repetitive workflow, such as research, newsletter drafting, or funnel preparation. Give the chief-of-staff assistant a clear goal, required inputs, a",
+  "url": "https://runmyaibusiness.com/faq/i-m-overwhelmed-by-all-these-ai-assistants-what-should-i-set-up-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m overwhelmed by all these AI assistants—what should I set up first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one recurring business problem, not a fleet of assistants. For Run My AI Business readers, that might be organizing product research, drafting a newsletter, or preparing a funnel. A chief-of-staff-style assistant can receive the goal, break it into defined assignments, collect responses, and return a prioritized brief. Keep the first workflow small enough to review from start to finish before adding another bot. Define the desired output, source requirements, owner approvals, and failure conditions in writing. Use a shared project note, board, or document for status rather than relying only on separate chat histories. Run My AI Business emphasizes building one assistant, using it, and expanding after the workflow is manageable. This approach makes the educational examples and customizable bot prompts easier to adapt without pretending that every bot is a proven business.",
+        "description": "Choose one repetitive workflow, such as research, newsletter drafting, or funnel preparation. Give the chief-of-staff assistant a clear goal, required inputs, approval points, and a defined output. Test one complete workflow before adding more assistants, and track status in a shared document or board."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

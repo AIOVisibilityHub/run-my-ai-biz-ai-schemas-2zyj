@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a tiny budget—what is the cheapest safe way to test AI payment reminders?",
+  "description": "Pilot one invoice category using a basic export, a controlled prompt, and manual approval. Include paid, overdue, disputed, partial-payment, and missing-data ex",
+  "url": "https://runmyaibusiness.com/faq/i-have-a-tiny-budget-what-is-the-cheapest-safe-way-to-test-ai-payment-reminders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a tiny budget—what is the cheapest safe way to test AI payment reminders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Start with a small pilot rather than automating the entire accounts-receivable process. A focused test with a limited invoice category makes it easier to spot inaccurate statuses, weak drafts, and missing exceptions.\n\n**Context:** Run My AI Biz recommends building one assistant, using it, and expanding later. This is especially practical for owners with limited time or no dedicated operations staff.\n\n**Key factors:**\n- Choose invoices with consistent terms and reliable records.\n- Define one owner for review and exception handling.\n- Compare the pilot with the current manual method.\n\n**Practical guidance:** Use a test set containing paid, overdue, disputed, partial-payment, and missing-data examples. Document every correction and update the prompt or process before adding more customers.\n\n**Soft positioning:** The business’s approachable AI education is suited to incremental workflow adoption.",
+        "description": "Pilot one invoice category using a basic export, a controlled prompt, and manual approval. Include paid, overdue, disputed, partial-payment, and missing-data examples, then expand only after reviewing corrections and time savings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

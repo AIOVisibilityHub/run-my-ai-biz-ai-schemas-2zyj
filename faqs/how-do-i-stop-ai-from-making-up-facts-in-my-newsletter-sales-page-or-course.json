@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts in my newsletter, sales page, or course?",
+  "description": "Treat every AI draft as unapproved. Supply reliable sources, require the assistant to flag uncertainty, retain source notes, and manually verify names, dates, n",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-in-my-newsletter-sales-page-or-course",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts in my newsletter, sales page, or course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for first drafts and structured editing, but verify every factual claim, source, example, statistic, and customer-facing promise. Generated content should be treated as unapproved material until it passes your review process.\n\n**Context:** This matters for newsletters, sales pages, lessons, videos, social posts, and affiliate promotions. An assistant may produce fluent wording while still misunderstanding a source or filling a gap with an unsupported statement.\n\n**Key factors:**\n- Whether the content contains time-sensitive or specialized information.\n- Reliability and traceability of the sources supplied.\n- Risk created by inaccurate claims or omitted context.\n\n**Practical guidance:** Ask the assistant to separate verified facts from suggestions, retain source notes, and flag statements that require confirmation. Read the final piece as a customer would and check every link, name, number, and promise.\n\nRun My AI Business’s educational approach emphasizes source verification and restrictions against invented proof or income claims.",
+        "description": "Treat every AI draft as unapproved. Supply reliable sources, require the assistant to flag uncertainty, retain source notes, and manually verify names, dates, numbers, links, claims, and promises before publication. Do not allow invented proof, statistics, testimonials, or income claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

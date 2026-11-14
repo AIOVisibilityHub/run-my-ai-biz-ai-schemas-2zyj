@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who is responsible when an AI workflow makes a bad business decision?",
+  "description": "The business owner remains responsible for decisions and consequential actions. Assign a named workflow owner, define quality standards, require approval where",
+  "url": "https://runmyaibusiness.com/faq/who-is-responsible-when-an-ai-workflow-makes-a-bad-business-decision",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is responsible when an AI workflow makes a bad business decision?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a workflow only when it has a clear owner, defined review standard, and a way to pause or correct it. AI can draft recommendations, but the owner remains responsible for deciding whether the result is accurate, appropriate, and useful.\n\n## Context\nRun My AI Business repeatedly emphasizes human-directed automation, approval before consequential actions, source verification, and owner control over decisions, spending, and publication.\n\n## Key factors\n- Who approves the output\n- What quality standard applies\n- What happens when confidence is low\n- How corrections are recorded\n\n## Practical guidance\nName an owner for every workflow and set a review schedule. Include a pause instruction, an escalation contact, and a record of changes so the process does not continue using outdated assumptions.\n\nThis is especially important when several assistants coordinate around one business project.",
+        "description": "The business owner remains responsible for decisions and consequential actions. Assign a named workflow owner, define quality standards, require approval where risk is meaningful, log exceptions, and provide a way to pause the workflow when information is uncertain or outdated."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

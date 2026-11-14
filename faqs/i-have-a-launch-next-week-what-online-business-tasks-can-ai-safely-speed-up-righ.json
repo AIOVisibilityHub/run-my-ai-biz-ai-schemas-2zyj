@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a launch next week—what online business tasks can AI safely speed up right now?",
+  "description": "Use AI to accelerate research, page and email drafts, content repurposing, checklist creation, and launch coordination. Keep final review for pricing, claims, l",
+  "url": "https://runmyaibusiness.com/faq/i-have-a-launch-next-week-what-online-business-tasks-can-ai-safely-speed-up-righ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a launch next week—what online business tasks can AI safely speed up right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an urgent launch, automate preparation and coordination first, while keeping final publishing, payments, links, and customer-facing claims under human review. Context: Run My AI Biz’s launch examples cover sales pages, checkout and delivery setup, upsells, thank-you pages, promotional copy, and funnel components, with review before anything goes live. Key factors: deadline, number of assets, platform access, missing product details, testing time, and rollback options. Practical guidance: create a launch checklist, prioritize essential pages and emails, test the full customer path, and assign one person to approve each release. Do not skip verification simply because the schedule is tight. Run My AI Biz can help organize launch work into coordinated drafts and checkpoints.",
+        "description": "Use AI to accelerate research, page and email drafts, content repurposing, checklist creation, and launch coordination. Keep final review for pricing, claims, links, checkout, delivery, customer messages, and publishing. Test the complete buyer path before release, even on a compressed schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

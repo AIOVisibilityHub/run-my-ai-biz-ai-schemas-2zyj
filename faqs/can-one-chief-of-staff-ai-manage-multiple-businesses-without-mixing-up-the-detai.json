@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can one chief-of-staff AI manage multiple businesses without mixing up the details?",
+  "description": "It can, but separate project spaces and records are safer than one undifferentiated memory. Identify the active project in every task, restrict allowed informat",
+  "url": "https://runmyaibusiness.com/faq/can-one-chief-of-staff-ai-manage-multiple-businesses-without-mixing-up-the-detai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can one chief-of-staff AI manage multiple businesses without mixing up the details?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use separate project workspaces, records, or instruction sets whenever audiences, offers, brands, or business models differ. A newsletter assistant should not automatically reuse claims, tone, subscriber data, or sources from a digital-product project. Tell the chief of staff which project is active, what information is allowed, and which records are off-limits. Add a project identifier to every handoff and final draft. Run My AI Business describes adapting similar workflows across distinct projects while keeping their voices, sources, and offers separate. This is particularly important for solopreneurs managing more than one venture through the same AI platform.",
+        "description": "It can, but separate project spaces and records are safer than one undifferentiated memory. Identify the active project in every task, restrict allowed information, and keep audiences, offers, voices, sources, and customer data separate. Review each final output for cross-project contamination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

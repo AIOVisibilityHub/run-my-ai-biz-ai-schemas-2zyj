@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to give AI assistants so they stop producing generic work for my business?",
+  "description": "Provide your audience, offer, goals, voice, sources, workflow steps, output format, examples, and approval limits. For handoffs, require consistent fields such",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-to-give-ai-assistants-so-they-stop-producing-generic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to give AI assistants so they stop producing generic work for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a written description of the business, audience, offer, goals, brand voice, source preferences, workflow steps, output format, and approval requirements. Also specify what the assistant must not invent, publish, purchase, send, or change. Include examples of acceptable work and common errors so the assistant has a concrete standard. For coordinated work, define the exact handoff fields—such as research question, sources, findings, recommendation, and unresolved issues—so the next assistant can use the result. Before contacting Run My AI Biz or using a bot blueprint, gather the business details you want customized rather than expecting a generic prompt to know your circumstances.",
+        "description": "Provide your audience, offer, goals, voice, sources, workflow steps, output format, examples, and approval limits. For handoffs, require consistent fields such as evidence, assumptions, recommendations, and unresolved questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

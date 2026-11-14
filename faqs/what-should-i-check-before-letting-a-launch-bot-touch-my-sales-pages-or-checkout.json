@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check before letting a launch bot touch my sales pages or checkout?",
+  "description": "Keep the launch workflow in draft mode and provide a complete setup brief covering platform, offer, price, delivery, support, pages, emails, tracking, and appro",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-check-before-letting-a-launch-bot-touch-my-sales-pages-or-checkout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check before letting a launch bot touch my sales pages or checkout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give the launch workflow a complete setup brief and keep it in review mode until every customer-facing element has been checked. Include the platform, product, price, checkout, delivery, refund or support process, pages, email sequence, tracking, and approval owner. Ask the bot to produce a checklist and drafts rather than assuming it can configure accounts by itself. Test the purchase path with a controlled transaction, confirm delivery and notifications, and verify that links and analytics work. Recheck the offer language across checkout, thank-you, upsell, downsell, and email materials. Run My AI Biz describes launch assistance as a repeatable setup aid with review before anything goes live.",
+        "description": "Keep the launch workflow in draft mode and provide a complete setup brief covering platform, offer, price, delivery, support, pages, emails, tracking, and approvals. Use a launch checklist, test the purchase and delivery path, verify links and analytics, and review every customer-facing claim before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

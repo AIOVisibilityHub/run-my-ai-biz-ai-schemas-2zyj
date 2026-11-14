@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find leads and email prospects for me without creating spam problems?",
+  "description": "AI can research prospects, organize fit information, draft outreach, and suggest follow-ups, but a person should verify records and approve messages. Avoid unsu",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-leads-and-email-prospects-for-me-without-creating-spam-problems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find leads and email prospects for me without creating spam problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can assist with prospect research, qualification notes, personalized draft outreach, and follow-up reminders, but it should not send mass or misleading messages automatically. Verify each prospect, explain the reason for contact, respect applicable communication requirements, and review personalization before sending.\n\n## Context\nRun My AI Business examples include researching potential sponsors, businesses that may need websites, and other prospects. The stated focus is researched prospects and appropriate outreach—not guaranteed leads or sales.\n\n## Key factors\n- Accuracy of prospect information\n- Relevance of the offer\n- Permission and communication preferences\n- Human review of claims and personalization\n\n## Practical guidance\nHave the workflow produce a prospect record, evidence for the fit, a draft message, and a follow-up suggestion. Keep sending disabled until a person verifies the record and approves the message.\n\nThis preserves efficiency without turning research into uncontrolled outreach.",
+        "description": "AI can research prospects, organize fit information, draft outreach, and suggest follow-ups, but a person should verify records and approve messages. Avoid unsupported claims, irrelevant mass contact, and automatic sending without appropriate review and communication controls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

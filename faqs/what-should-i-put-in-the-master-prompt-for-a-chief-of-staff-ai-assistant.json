@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I put in the master prompt for a chief-of-staff AI assistant?",
+  "description": "Specify the business goal, responsibilities, task sequence, required inputs, output format, source rules, escalation conditions, and approval gates. Include wha",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-put-in-the-master-prompt-for-a-chief-of-staff-ai-assistant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I put in the master prompt for a chief-of-staff AI assistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin with a business process you can describe in ordinary language and verify yourself. For example: gather sources about a topic, summarize findings, draft a newsletter outline, flag unsupported claims, and wait for approval. Break that process into roles only when one assistant would be overloaded or the handoff improves quality. Use the chief-of-staff prompt to specify the goal, sequence, inputs, outputs, source rules, escalation conditions, and approval gates. Test it on several realistic cases, including incomplete information and conflicting sources. Run My AI Business focuses on conversational workflows, so you do not need to learn technical jargon before defining the business result you want.",
+        "description": "Specify the business goal, responsibilities, task sequence, required inputs, output format, source rules, escalation conditions, and approval gates. Include what the assistant must not do, such as publishing or spending without permission. Test the prompt on normal, incomplete, and conflicting cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

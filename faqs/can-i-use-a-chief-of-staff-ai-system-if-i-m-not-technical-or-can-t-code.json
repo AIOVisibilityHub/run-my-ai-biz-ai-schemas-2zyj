@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use a chief-of-staff AI system if I’m not technical or can’t code?",
+  "description": "Yes, you can start with customizable instructions rather than software development. You still need to supply business context, connect approved tools, test the",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-a-chief-of-staff-ai-system-if-i-m-not-technical-or-can-t-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use a chief-of-staff AI system if I’m not technical or can’t code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually do not need to code to begin with the Run My AI Business approach. The 38-bot resource library centers on customizable master prompts that describe an assistant’s role, workflow, and approval requirements. You still need to understand the AI platform, connect permitted tools, provide accurate business context, and test the instructions. Start with a prompt for a narrow task, such as turning approved research into a newsletter outline. Then add explicit rules for sources, tone, prohibited claims, escalation, and final review. Coding may become useful when you need custom integrations, databases, scheduling, or complex permissions, but a prompt alone cannot create those capabilities.",
+        "description": "Yes, you can start with customizable instructions rather than software development. You still need to supply business context, connect approved tools, test the workflow, and review outputs. Coding becomes more relevant only when you need custom integrations, databases, scheduling, or advanced permissions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

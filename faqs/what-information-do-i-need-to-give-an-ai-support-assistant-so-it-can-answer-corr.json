@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to give an AI support assistant so it can answer correctly?",
+  "description": "Provide current customer-safe FAQs, product details, policies, troubleshooting steps, terminology, escalation rules, and examples of approved replies. Assign ow",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-to-give-an-ai-support-assistant-so-it-can-answer-corr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to give an AI support assistant so it can answer correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a current, organized knowledge base with clear ownership, version dates, product details, policies, troubleshooting steps, and escalation instructions. Do not simply upload every document and assume the assistant can resolve contradictions. Context: AI support performs better when answers come from the business’s real documentation rather than general model knowledge. Run My AI Biz’s educational workflows also emphasize source verification and adapting instructions to the owner’s business context. Key factors: - duplicate or conflicting policies - outdated pages - missing exceptions - unclear terminology - access restrictions. Practical guidance: Separate customer-safe material from internal notes, mark obsolete content, and create a change process when policies or offers change. Test questions that previously caused confusion before approving automatic replies.",
+        "description": "Provide current customer-safe FAQs, product details, policies, troubleshooting steps, terminology, escalation rules, and examples of approved replies. Assign ownership and review dates, remove conflicting or obsolete documents, and test the assistant on questions that previously caused confusion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

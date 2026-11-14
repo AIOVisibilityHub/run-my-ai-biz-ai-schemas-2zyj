@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI automate the creation of a digital product, or will the result feel generic and low quality?",
+  "description": "AI can speed research, outlines, scripts, slides, and supporting materials, but quality depends on clear learning goals, original expertise, accurate sources, a",
+  "url": "https://runmyaibusiness.com/faq/can-ai-automate-the-creation-of-a-digital-product-or-will-the-result-feel-generi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI automate the creation of a digital product, or will the result feel generic and low quality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support digital product creation by organizing research, outlining lessons, drafting scripts, preparing slides, and repurposing material, but the owner must verify accuracy and usefulness. Context: Run My AI Biz’s examples cover course planning, presentations, lesson scripts, video production, video editing, supporting materials, sales copy, and launch preparation. Key factors: audience knowledge, instructional sequence, originality, factual accuracy, accessibility, and product promises. Practical guidance: define learning outcomes first, provide source material, review every lesson, and test the product with a small audience before a broader release. Keep AI-generated claims and examples aligned with what the product actually delivers. Run My AI Biz can help connect product development with the marketing and launch tasks that follow.",
+        "description": "AI can speed research, outlines, scripts, slides, and supporting materials, but quality depends on clear learning goals, original expertise, accurate sources, and human editing. Review every asset, test it with a small audience, and ensure the sales promise matches the finished product."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

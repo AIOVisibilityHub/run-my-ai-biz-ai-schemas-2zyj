@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI handle customer support for a one-person business without me being online all day?",
+  "description": "AI can reduce routine support work by classifying messages, summarizing conversations, and drafting answers, but it should not make unverified promises or sensi",
+  "url": "https://runmyaibusiness.com/faq/can-ai-handle-customer-support-for-a-one-person-business-without-me-being-online",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI handle customer support for a one-person business without me being online all day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft a reply, identify the likely topic, summarize prior messages, and suggest the next step; it should not automatically promise a result that the connected systems cannot verify. For a one-person business, the biggest benefit may be reducing the time spent preparing routine answers rather than eliminating all customer interaction. Context: Run My AI Biz includes first-line support and operational examples, but it also states that actual execution depends on platforms, integrations, permissions, and oversight. Key factors: - whether customer history is accessible - whether the support channel supports automation - whether the business has stable policies - how quickly a person can respond. Practical guidance: Begin with inbox triage and draft replies, then add lookups or updates only after permissions and error handling are tested. Keep a human approval step for promises, refunds, account changes, and unusual cases.",
+        "description": "AI can reduce routine support work by classifying messages, summarizing conversations, and drafting answers, but it should not make unverified promises or sensitive changes. Start with triage and drafts, then add limited lookups only after testing permissions and escalation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

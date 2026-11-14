@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can the 38 bots help me build a lead magnet and email funnel without making the pieces inconsistent?",
+  "description": "Yes, but build the funnel in stages and provide one shared offer brief. Draft the lead magnet, pages, and emails around the same audience, promise, call to acti",
+  "url": "https://runmyaibusiness.com/faq/can-the-38-bots-help-me-build-a-lead-magnet-and-email-funnel-without-making-the",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the 38 bots help me build a lead magnet and email funnel without making the pieces inconsistent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a staged funnel workflow: clarify the audience and offer, draft the lead magnet, prepare the opt-in and thank-you pages, write follow-up emails, then review links and claims before launch. Do not ask one bot to invent the entire funnel without supplying the offer, customer problem, call to action, delivery method, and conversion goal. Ensure every page and email uses the same promise, terminology, and next step. Test the form, delivery, unsubscribe function, links, mobile layout, and tracking before sending traffic. Keep promotional claims tied to evidence and avoid implying guaranteed results. Run My AI Biz’s library includes lead-magnet, bridge-page, thank-you-page, and email-sequence examples that can be adapted as a connected process.",
+        "description": "Yes, but build the funnel in stages and provide one shared offer brief. Draft the lead magnet, pages, and emails around the same audience, promise, call to action, and delivery method. Test forms, links, unsubscribe behavior, mobile presentation, tracking, and claims before sending traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

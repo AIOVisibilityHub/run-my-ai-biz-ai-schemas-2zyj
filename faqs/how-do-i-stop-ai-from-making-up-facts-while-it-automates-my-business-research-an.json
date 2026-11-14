@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up facts while it automates my business research and content?",
+  "description": "Require source-based outputs, dates, uncertainty labels, and a human fact-check before publication. Verify important claims independently, especially statistics",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-facts-while-it-automates-my-business-research-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up facts while it automates my business research and content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated research should be treated as a starting point until the underlying information is checked against reliable, current sources. Context: Run My AI Biz’s guidance includes source verification and restrictions against inventing statistics, proof, or income claims. Key factors: date, source authority, conflicting information, geographic relevance, and whether the claim affects a purchase or business decision. Practical guidance: require citations or source links in internal research outputs, record the date checked, and verify important facts independently before using them in sales copy, newsletters, or product materials. Ask the assistant to label uncertainty instead of filling gaps. Run My AI Biz can teach research workflows, but the owner remains responsible for deciding which evidence is trustworthy.",
+        "description": "Require source-based outputs, dates, uncertainty labels, and a human fact-check before publication. Verify important claims independently, especially statistics, testimonials, income statements, pricing, and product details. Treat the assistant’s first draft as research support, not confirmed evidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which customer support issues should never be handled entirely by AI?",
+  "description": "Keep people involved in complaints, exceptions, disputed charges, sensitive-data requests, unusual account histories, and decisions outside written policy. AI c",
+  "url": "https://runmyaibusiness.com/faq/which-customer-support-issues-should-never-be-handled-entirely-by-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which customer support issues should never be handled entirely by AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep a human involved whenever the request involves exceptions, complaints, emotional distress, unusual account history, disputed charges, sensitive data, or a decision outside written policy. AI can summarize the conversation and suggest a reply, but it should not quietly make the judgment for you. Context: Run My AI Biz emphasizes approval before bots send messages, spend money, publish content, or take consequential actions. Customer support deserves the same boundary. Key factors: - financial or reputational impact - sensitivity of the information - ambiguity of the policy - customer frustration - reversibility of the action. Practical guidance: Create explicit escalation triggers and pass the full conversation, relevant customer details, evidence, and suggested next steps to the reviewer. Keep automatic replies limited to well-defined routine questions until the handoff process is reliable. Human oversight remains a design feature, not an indication that the workflow failed.",
+        "description": "Keep people involved in complaints, exceptions, disputed charges, sensitive-data requests, unusual account histories, and decisions outside written policy. AI can summarize and draft, but consequential actions should require approval and a clear escalation path."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop multiple AI assistants from losing context or contradicting each other?",
+  "description": "Use a shared source of truth containing goals, decisions, status, source material, owners, and next steps. Give each assistant limited relevant context, require",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-multiple-ai-assistants-from-losing-context-or-contradicting-each-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop multiple AI assistants from losing context or contradicting each other?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set up a shared source of truth before increasing the number of assistants. This can be a project board, structured document, repository, or notes system containing the business goal, current status, decisions, source material, assigned owner, and next action. Give each assistant only the context needed for its task, then require it to report what it completed, what it assumed, and what remains unresolved. Separate projects and brands so one assistant does not reuse the wrong audience, offer, voice, or claims. Community discussions about multi-agent work commonly emphasize shared context, centralized queues, and explicit handoffs. Run My AI Business similarly stresses adapting prompts to the owner’s niche, audience, products, brand voice, and objectives.",
+        "description": "Use a shared source of truth containing goals, decisions, status, source material, owners, and next steps. Give each assistant limited relevant context, require structured handoffs, and keep separate project or brand records. Do not rely on chat history alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

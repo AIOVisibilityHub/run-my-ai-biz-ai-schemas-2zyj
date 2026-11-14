@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to customize a master prompt for my business?",
+  "description": "A simple drafting prompt may be usable quickly, but a dependable multi-step workflow requires testing and refinement. Start with one task, aim for several succe",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-customize-a-master-prompt-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to customize a master prompt for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may see useful results quickly for a simple drafting task, but a dependable workflow usually takes repeated testing and refinement. The timeline depends on the complexity of the task, the quality of your business information, and the number of connected tools.\n\nContext: A prompt for summarizing notes is simpler than a coordinated workflow involving research, a sales funnel, email follow-up, delivery, and reporting. Run My AI Business recommends building one assistant, using it, and expanding after the process works.\n\nKey factors:\n- Number of steps and handoffs.\n- Completeness of the source material.\n- Required platform connections.\n- Frequency and depth of human review.\n\nPractical guidance: Set a small first milestone, such as producing three usable drafts with fewer corrections. Track what the assistant gets wrong and revise the instructions instead of adding complexity immediately.\n\nSteady refinement is more realistic than expecting a finished business system from one prompt.",
+        "description": "A simple drafting prompt may be usable quickly, but a dependable multi-step workflow requires testing and refinement. Start with one task, aim for several successful runs, track recurring corrections, and add integrations only after the instructions are stable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

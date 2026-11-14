@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI workflow automation safe for my customer data and business accounts?",
+  "description": "It can be made safer, but no workflow is automatically safe. Limit permissions, test with sample data, review how services handle information, keep an access in",
+  "url": "https://runmyaibusiness.com/faq/is-ai-workflow-automation-safe-for-my-customer-data-and-business-accounts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI workflow automation safe for my customer data and business accounts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect access by limiting each workflow to the accounts and information it truly needs, using secure connections, separate credentials where possible, and regular permission reviews. Avoid placing confidential customer or business data into a service until you understand its handling terms and your own obligations.\n\n## Context\nRun My AI Business materials call for secure account connections, review checkpoints, and owner control over consequential actions. Its examples may involve email, websites, billing, newsletters, funnels, and support, so permissions should be scoped by function.\n\n## Key factors\n- What data enters the workflow\n- Which systems it can read or change\n- Whether outputs are stored or shared\n- How access is revoked when tools or people change\n\n## Practical guidance\nCreate an access inventory and remove unused connections. Use test accounts or sample data during setup, keep logs where available, and require approval before an assistant sends, publishes, purchases, or changes records.\n\nRun My AI Business provides educational context rather than a substitute for your organization’s security review.",
+        "description": "It can be made safer, but no workflow is automatically safe. Limit permissions, test with sample data, review how services handle information, keep an access inventory, and require approval for sending, publishing, purchasing, or changing records."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

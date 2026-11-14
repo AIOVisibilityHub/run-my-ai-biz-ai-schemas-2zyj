@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI workflow automation actually work if I’m not technical?",
+  "description": "It links a trigger, instructions, AI assistance, connected tools, and a reviewable result. You do not need to code every step, but you do need to define the pro",
+  "url": "https://runmyaibusiness.com/faq/how-does-ai-workflow-automation-actually-work-if-i-m-not-technical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI workflow automation actually work if I’m not technical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI workflow automation connects a trigger, instructions, AI processing, supporting tools, and an output that someone can review or use. A prompt alone is not a complete workflow; execution also depends on platforms, integrations, permissions, source material, and clear approval rules.\n\n## Context\nFor Run My AI Business audiences, this could mean an opportunity-research assistant producing a brief, a course assistant turning approved material into lesson drafts, or a launch assistant preparing funnel components for review.\n\n## Key factors\n- What starts the workflow\n- Which information the assistant may access\n- Where the result is stored\n- What requires owner approval\n\n## Practical guidance\nMap the process from beginning to end before selecting an AI model. Test with a few representative examples, including an incomplete request or outdated source, and record what needs correction.\n\nRun My AI Business frames specialized assistants as adaptable blueprints, not identical software products.",
+        "description": "It links a trigger, instructions, AI assistance, connected tools, and a reviewable result. You do not need to code every step, but you do need to define the process, provide business context, connect approved tools, and decide when a person must review the output."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need coding skills to automate repetitive tasks in my online business?",
+  "description": "Not necessarily. Many routine workflows can start with plain-language instructions, templates, and no-code connections, but complex multi-platform processes may",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-coding-skills-to-automate-repetitive-tasks-in-my-online-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need coding skills to automate repetitive tasks in my online business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-code tools can be enough for straightforward triggers and handoffs, while more customized workflows may need platform-specific setup or occasional technical help. Context: Run My AI Biz focuses on adaptable master prompts and explains that execution depends on the AI platform, integrations, permissions, and supporting services—not on instructions alone. Key factors: the number of systems involved, available connectors, data format, authentication, and exception handling. Practical guidance: First document the workflow as a checklist and test whether existing features in your email, calendar, storefront, or CRM solve part of it. Add an integration only when the manual handoff is a meaningful bottleneck. Run My AI Biz can help beginners understand the difference between an assistant’s instructions and the technical connections required to execute them.",
+        "description": "Not necessarily. Many routine workflows can start with plain-language instructions, templates, and no-code connections, but complex multi-platform processes may require technical setup. Document the steps first, test one workflow, and confirm that the needed integrations and permissions are available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

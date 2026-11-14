@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same AI workflow for multiple businesses, newsletters, or products without mixing everything together?",
+  "description": "Yes, reuse the general process, but keep separate project briefs, data, source collections, credentials, audiences, offers, and approval rules. Duplicate the wo",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-ai-workflow-for-multiple-businesses-newsletters-or-products-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same AI workflow for multiple businesses, newsletters, or products without mixing everything together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep separate business contexts for each brand, audience, offer, and project. Reusing a workflow is practical, but copying the same voice, claims, source rules, or customer data across projects can cause confusion and inaccurate output.\n\n**Context:** The resource library describes adapting prompts to different niches and business models. Similar workflows can support multiple newsletters or products, but the underlying instructions must remain distinct.\n\n**Key factors:**\n- Separate files, customer lists, credentials, and source collections.\n- Clear project labels and output destinations.\n- Independent approval rules for each offer or audience.\n\n**Practical guidance:** Create a project brief for every business initiative and require the assistant to state which brief it is using. Test one project at a time, then duplicate only the general process—not private data or business-specific claims.\n\nRun My AI Business encourages focused implementation while preserving each project’s identity and context.",
+        "description": "Yes, reuse the general process, but keep separate project briefs, data, source collections, credentials, audiences, offers, and approval rules. Duplicate the workflow structure—not customer information, brand claims, or voice instructions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

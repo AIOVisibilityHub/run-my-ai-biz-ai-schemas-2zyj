@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I automate first in my small business if I’m already overwhelmed by too many AI tools?",
+  "description": "Automate one frequent, repeatable task first, such as research summaries, newsletter drafts, content repurposing, or lead organization. Document the trigger, in",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-automate-first-in-my-small-business-if-i-m-already-overwhelmed-by",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I automate first in my small business if I’m already overwhelmed by too many AI tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one repetitive, clearly defined workflow—not with a collection of AI tools. For Run My AI Business readers, a sensible first candidate may be turning recurring research into a brief, drafting a newsletter issue, repurposing approved content, or organizing lead information.\n\n## Context\nAutomation works best when the current process is understood before prompts or integrations are chosen. The business’s educational approach recommends selecting one assistant, using it, refining it, and expanding only after the workflow is manageable.\n\n## Key factors\n- Frequency and time spent on the task\n- Whether inputs and desired outputs are consistent\n- How often exceptions occur\n- Whether a person must approve the result\n\n## Practical guidance\nWrite down the trigger, inputs, steps, output, review point, and failure response. Measure the current effort so you can compare the pilot fairly.\n\nA focused starting point gives Run My AI Business readers a practical way to learn without attempting to automate an entire venture at once.",
+        "description": "Automate one frequent, repeatable task first, such as research summaries, newsletter drafts, content repurposing, or lead organization. Document the trigger, inputs, expected output, approval step, and exception process before choosing tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

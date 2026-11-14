@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an AI-written payment reminder sound rude or damage my relationship with a good customer?",
+  "description": "It can if the prompt lacks tone rules or a person skips review. Require respectful, fact-based language, an easy way to ask questions, and human handling for va",
+  "url": "https://runmyaibusiness.com/faq/will-an-ai-written-payment-reminder-sound-rude-or-damage-my-relationship-with-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an AI-written payment reminder sound rude or damage my relationship with a good customer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** Use AI to draft a respectful message that states the verified invoice details and asks whether assistance is needed. Do not let it imply wrongdoing, threaten consequences, or invent a reason for the delay.\n\n**Context:** Tone should reflect the business relationship, service history, and known facts. Run My AI Biz emphasizes conversational workflows and owner review, which are useful when a message needs judgment rather than a generic template.\n\n**Key factors:**\n- Separate factual billing content from optional personal wording.\n- Include an approved contact path for questions.\n- Escalate sensitive customer relationships to a person.\n\n**Practical guidance:** Give the assistant examples of acceptable and unacceptable phrasing. Review drafts for blame, pressure, accidental admissions, and statements unsupported by the invoice record.\n\n**Soft positioning:** Run My AI Biz can help owners refine prompts around brand voice while keeping factual controls fixed.",
+        "description": "It can if the prompt lacks tone rules or a person skips review. Require respectful, fact-based language, an easy way to ask questions, and human handling for valuable, sensitive, or long-standing customer relationships."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

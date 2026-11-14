@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I adapt the course and video bots without ending up with low-quality AI content?",
+  "description": "Define the learner, outcome, sequence, evidence standard, and teaching style before generating lessons. Create an outline first, test a short section, and revie",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-adapt-the-course-and-video-bots-without-ending-up-with-low-quality-ai-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I adapt the course and video bots without ending up with low-quality AI content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the course, presentation, lesson, and video examples as production aids, not as substitutes for subject expertise or learner testing. Begin with a defined learner, outcome, module sequence, teaching method, and evidence standard. Ask the assistant to distinguish original explanation from sourced material and to flag areas requiring expert review. Produce an outline before full lessons, then test a short section with a real or representative learner. Check accessibility, factual accuracy, permissions for included materials, and consistency between slides, scripts, exercises, and sales copy. Keep the final instructional judgment with the creator. Run My AI Biz presents these bots as ways to support digital-product development, not as proof that an automatically generated course will sell.",
+        "description": "Define the learner, outcome, sequence, evidence standard, and teaching style before generating lessons. Create an outline first, test a short section, and review factual accuracy, accessibility, source permissions, and consistency across scripts, slides, exercises, and sales copy. Keep subject-matter judgment with the creator."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

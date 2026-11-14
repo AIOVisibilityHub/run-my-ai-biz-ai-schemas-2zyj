@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can one custom AI prompt run my whole business for me?",
+  "description": "Not by itself. A master prompt can organize and support research, content, marketing, product development, and administrative workflows, but the owner must prov",
+  "url": "https://runmyaibusiness.com/faq/can-one-custom-ai-prompt-run-my-whole-business-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can one custom AI prompt run my whole business for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but a master prompt is better viewed as a reusable workflow blueprint than a fully autonomous employee. It can coordinate research, drafting, organization, and recommendations, while the owner remains responsible for judgment and consequential actions.\n\nContext: Run My AI Business describes chief-of-staff-style and specialized assistants that can work together around business goals. Coordination still depends on accurate inputs, suitable platforms, connected services, and clear handoffs.\n\nKey factors:\n- Assign each assistant a narrow responsibility.\n- Define what information moves between assistants.\n- Keep one owner responsible for final decisions.\n- Separate drafting from publishing or spending.\n\nPractical guidance: Use a central project brief and consistent naming for files, audiences, offers, and deadlines. Require each assistant to summarize its work, identify uncertainties, and state the next handoff.\n\nThe approach can make a one-person operation more organized without implying that AI replaces business ownership.",
+        "description": "Not by itself. A master prompt can organize and support research, content, marketing, product development, and administrative workflows, but the owner must provide direction, maintain connected tools, verify results, and approve consequential actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

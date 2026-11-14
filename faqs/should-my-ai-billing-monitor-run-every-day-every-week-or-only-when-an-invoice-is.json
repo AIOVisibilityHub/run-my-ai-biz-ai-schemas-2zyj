@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my AI billing monitor run every day, every week, or only when an invoice is overdue?",
+  "description": "Use the least frequent schedule that still catches important exceptions, based on invoice volume, payment terms, and data-update timing. For many small business",
+  "url": "https://runmyaibusiness.com/faq/should-my-ai-billing-monitor-run-every-day-every-week-or-only-when-an-invoice-is",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my AI billing monitor run every day, every week, or only when an invoice is overdue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** AI can prepare a daily or weekly exception report, but the useful schedule depends on invoice volume, payment terms, and how quickly an error would matter. More frequent checks do not compensate for unreliable source data.\n\n**Context:** A scheduled operational report can be simpler than continuous automation for a small business. Run My AI Biz’s examples include recurring updates and administrative checks, with the owner retaining responsibility for decisions.\n\n**Key factors:**\n- Match the review frequency to due dates and customer expectations.\n- Schedule around when payment records are updated.\n- Send only exceptions rather than a noisy full-data report.\n\n**Practical guidance:** Start with one review window and measure missed or late actions. Adjust the schedule after observing actual payment timing and the time needed to investigate exceptions.\n\n**Soft positioning:** Run My AI Biz’s focused implementation model supports choosing a manageable reporting cadence.",
+        "description": "Use the least frequent schedule that still catches important exceptions, based on invoice volume, payment terms, and data-update timing. For many small businesses, a daily or weekly exception report is a safer starting point than constant automation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

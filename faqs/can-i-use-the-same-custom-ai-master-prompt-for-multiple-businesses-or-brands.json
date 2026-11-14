@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use the same custom AI master prompt for multiple businesses or brands?",
+  "description": "Yes, reuse the workflow structure, but keep each brand’s audience, offer, voice, sources, links, and approval rules separate. Replace business-specific details",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-the-same-custom-ai-master-prompt-for-multiple-businesses-or-brands",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use the same custom AI master prompt for multiple businesses or brands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can reuse a prompt framework across projects, but you should create separate business context for each brand, audience, offer, voice, and source set. Reusing the same facts across projects can produce confusing or inaccurate output.\n\nContext: Run My AI Business describes adapting similar workflows for different newsletters, niches, products, and selling platforms while keeping their identities distinct. The reusable element is the workflow logic, not the entire content or business context.\n\nKey factors:\n- Separate brand instructions and files.\n- Different audiences and customer promises.\n- Distinct offers, links, and performance measures.\n- Independent approval and publishing processes.\n\nPractical guidance: Build a reusable template with placeholders, then maintain a project-specific briefing document. Test the prompt for accidental references to the wrong brand before using the output publicly.\n\nA modular approach preserves efficiency without blending separate business identities.",
+        "description": "Yes, reuse the workflow structure, but keep each brand’s audience, offer, voice, sources, links, and approval rules separate. Replace business-specific details with placeholders and test for accidental cross-brand references before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

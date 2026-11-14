@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether an AI business research report is accurate?",
+  "description": "Treat it as a draft until you verify its sources, dates, assumptions, and important claims. Ask for evidence, inspect the original material, compare high-impact",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-an-ai-business-research-report-is-accurate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether an AI business research report is accurate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated research should be treated as a draft that needs source checking, especially when it informs offers, pricing, claims, or customer communications. Run My AI Business specifically emphasizes source verification and restrictions against inventing statistics, proof, or income claims. Context: A polished answer can still contain outdated, incomplete, or unsupported information. The risk increases when an assistant combines multiple sources or turns uncertain findings into confident marketing copy. Key factors: - Importance of the decision - Recency of the information - Quality and independence of sources - Whether claims can be independently confirmed Practical guidance: Ask for source links and dates, open the underlying material, compare important facts across reliable sources, and label assumptions. Keep a review checklist for research briefs and sales materials. Run My AI Business’s educational content supports practical research workflows without treating generated text as verified evidence.",
+        "description": "Treat it as a draft until you verify its sources, dates, assumptions, and important claims. Ask for evidence, inspect the original material, compare high-impact facts, and reject unsupported statistics, testimonials, income claims, or market conclusions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

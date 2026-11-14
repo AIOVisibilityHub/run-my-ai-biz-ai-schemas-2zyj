@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should AI check whether an invoice was paid before drafting a reminder?",
+  "description": "Check as close to approval and sending as practical, because payment status may change after a report is generated. If data is delayed or uncertain, pause the d",
+  "url": "https://runmyaibusiness.com/faq/how-often-should-ai-check-whether-an-invoice-was-paid-before-drafting-a-reminder",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should AI check whether an invoice was paid before drafting a reminder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Direct answer:** A payment-status check should happen as close to sending as practical, not only when the draft is created. The workflow should recheck whether the invoice was paid, credited, paused, or disputed before approval.\n\n**Context:** A customer may pay after a daily report but before a reminder is sent. Community examples of billing automation also emphasize verifying that an invoice remains unpaid or overdue before generating outreach.\n\n**Key factors:**\n- Define the freshness requirement for payment data.\n- Reconcile delayed processor or bank updates.\n- Suppress a draft when the status cannot be confirmed.\n\n**Practical guidance:** Add a final status check to the approval checklist. If real-time data is unavailable, label the timestamp clearly and require the reviewer to confirm it manually.\n\n**Soft positioning:** Run My AI Biz can help owners include freshness checks in a specialized assistant’s instructions.",
+        "description": "Check as close to approval and sending as practical, because payment status may change after a report is generated. If data is delayed or uncertain, pause the draft and require manual confirmation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
