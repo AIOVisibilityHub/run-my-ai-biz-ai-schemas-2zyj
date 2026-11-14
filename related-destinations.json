@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-14T00:53:34.842Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Run My AI Biz",
+    "canonicalUrl": "https://ai-data.runmyaibusiness.com",
+    "primaryWebsiteUrl": "https://runmyaibusiness.com",
+    "aiDataHub": "https://ai-data.runmyaibusiness.com/ai-data.html",
+    "sameAs": []
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Run My AI Biz — canonical website",
+      "url": "https://ai-data.runmyaibusiness.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Run My AI Biz — AI Data Hub",
+      "url": "https://ai-data.runmyaibusiness.com/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
+    }
+  }
+}

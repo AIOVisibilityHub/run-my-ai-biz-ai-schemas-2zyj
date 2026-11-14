@@ -1,0 +1,3760 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-14T00:53:34.852Z",
+  "client": {
+    "name": "Run My AI Biz",
+    "canonicalUrl": "https://ai-data.runmyaibusiness.com",
+    "primaryWebsiteUrl": "https://runmyaibusiness.com",
+    "pagesUrl": "https://ai-data.runmyaibusiness.com",
+    "phone": "8007702171",
+    "email": "hello@runmyaibusiness.ccom",
+    "locations": [
+      {
+        "name": "Run My AI Biz Office",
+        "address": "301 Bayview Cir",
+        "city": "Newport Bch",
+        "state": "CA",
+        "zip": "92660",
+        "phone": "8007702171",
+        "email": "hello@runmyaibusiness.ccom"
+      }
+    ],
+    "services": [
+      "AI-powered online business planning and creation",
+      "AI-assisted business idea research and evaluation",
+      "AI business launch planning and automation",
+      "AI-assisted product development",
+      "AI digital product creation",
+      "AI-assisted course creation and lesson planning",
+      "AI-generated presentations and educational materials",
+      "AI-assisted video creation and editing",
+      "AI lead magnet and checklist creation",
+      "AI sales funnel planning and development",
+      "AI-assisted sales page and landing page creation",
+      "AI email follow-up sequence creation",
+      "AI-powered prospect research and lead generation",
+      "AI-assisted affiliate marketing workflows",
+      "AI marketing content creation and automation",
+      "AI social media content planning and repurposing",
+      "AI newsletter research and drafting",
+      "AI newsletter growth strategies",
+      "AI-assisted paid newsletter development",
+      "AI content support for membership communities",
+      "AI-assisted website planning and development",
+      "AI-powered business directory development",
+      "AI-assisted software development",
+      "AI-assisted search engine optimization",
+      "AI competitor and customer research",
+      "AI offer development and positioning",
+      "AI landing page analysis and conversion improvement planning",
+      "AI webinar planning and presentation development",
+      "AI workflow automation",
+      "AI-powered project coordination and business management",
+      "AI chief-of-staff assistant managing other ai assistants",
+      "ai workflows for coordinating specialized assistants",
+      "AI-assisted billing monitoring and payment reminder drafting",
+      "AI-assisted customer support workflows",
+      "automation of repetitive online business tasks",
+      "AI productivity workflows for entrepreneurs",
+      "customizable AI master prompts for business tasks",
+      "practical guidance on adapting the mastermind’s 38-bot resource library",
+      "AI tool education for aspiring online business owners",
+      "AI implementation education for small businesses",
+      "AI business workflows for entrepreneurs and startups",
+      "AI tools and workflows for solopreneurs",
+      "practical education on running a one-person business with AI",
+      "AI tools for digital entrepreneurs and product creators",
+      "adapting AI workflows across multiple business projects",
+      "human-directed AI automation with review and approval checkpoints",
+      "practical education on creating and selling digital products with AI",
+      "exploring AI-supported revenue models and multiple income streams"
+    ],
+    "cities": [
+      "United States"
+    ]
+  },
+  "package": {
+    "totalFiles": 727,
+    "totalBytes": 3388942,
+    "stats": {
+      "faqs": 650,
+      "helpArticles": 0,
+      "services": 48,
+      "webpages": 0,
+      "personnel": 7,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
+      "caseStudies": 0,
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 707
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "services": [
+      {
+        "path": "services/ai-powered-online-business-planning-and-creation-service.json",
+        "bytes": 510,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-business-idea-research-and-evaluation-service.json",
+        "bytes": 512,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-business-launch-planning-and-automation-service.json",
+        "bytes": 498,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-product-development-service.json",
+        "bytes": 476,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-digital-product-creation-service.json",
+        "bytes": 468,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-course-creation-and-lesson-planning-service.json",
+        "bytes": 508,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-generated-presentations-and-educational-materials-service.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-video-creation-and-editing-service.json",
+        "bytes": 490,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-lead-magnet-and-checklist-creation-service.json",
+        "bytes": 488,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-sales-funnel-planning-and-development-service.json",
+        "bytes": 494,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-sales-page-and-landing-page-creation-service.json",
+        "bytes": 510,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-email-follow-up-sequence-creation-service.json",
+        "bytes": 486,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-powered-prospect-research-and-lead-generation-service.json",
+        "bytes": 510,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-affiliate-marketing-workflows-service.json",
+        "bytes": 496,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-marketing-content-creation-and-automation-service.json",
+        "bytes": 502,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-social-media-content-planning-and-repurposing-service.json",
+        "bytes": 510,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-newsletter-research-and-drafting-service.json",
+        "bytes": 484,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-newsletter-growth-strategies-service.json",
+        "bytes": 476,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-paid-newsletter-development-service.json",
+        "bytes": 492,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-content-support-for-membership-communities-service.json",
+        "bytes": 504,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-website-planning-and-development-service.json",
+        "bytes": 502,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-powered-business-directory-development-service.json",
+        "bytes": 496,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-software-development-service.json",
+        "bytes": 478,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-search-engine-optimization-service.json",
+        "bytes": 490,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-competitor-and-customer-research-service.json",
+        "bytes": 484,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-offer-development-and-positioning-service.json",
+        "bytes": 486,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-landing-page-analysis-and-conversion-improvement-planning-service.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-webinar-planning-and-presentation-development-service.json",
+        "bytes": 510,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-workflow-automation-service.json",
+        "bytes": 458,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-powered-project-coordination-and-business-management-service.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-chief-of-staff-assistant-managing-other-ai-assistants-service.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-workflows-for-coordinating-specialized-assistants-service.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-billing-monitoring-and-payment-reminder-drafting-service.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-customer-support-workflows-service.json",
+        "bytes": 490,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/automation-of-repetitive-online-business-tasks-service.json",
+        "bytes": 506,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-productivity-workflows-for-entrepreneurs-service.json",
+        "bytes": 500,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/customizable-ai-master-prompts-for-business-tasks-service.json",
+        "bytes": 512,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/practical-guidance-on-adapting-the-mastermind-s-38-bot-resource-library-service.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-tool-education-for-aspiring-online-business-owners-service.json",
+        "bytes": 520,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-implementation-education-for-small-businesses-service.json",
+        "bytes": 510,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-business-workflows-for-entrepreneurs-and-startups-service.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-tools-and-workflows-for-solopreneurs-service.json",
+        "bytes": 492,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/practical-education-on-running-a-one-person-business-with-ai-service.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-tools-for-digital-entrepreneurs-and-product-creators-service.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/adapting-ai-workflows-across-multiple-business-projects-service.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/human-directed-ai-automation-with-review-and-approval-checkpoints-service.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/practical-education-on-creating-and-selling-digital-products-with-ai-service.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exploring-ai-supported-revenue-models-and-multiple-income-streams-service.json",
+        "bytes": 544,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/jacqueline-abrams-profile.json",
+        "bytes": 5281,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jacqueline-abrams-united-states.json",
+        "bytes": 5279,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jacqueline-abrams-ai-powered-online-business-creation-united-states-faq.json",
+        "bytes": 4629,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jacqueline-abrams-business-launch-automation-united-states-faq.json",
+        "bytes": 4593,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jacqueline-abrams-ai-assisted-product-development-united-states-faq.json",
+        "bytes": 4613,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jacqueline-abrams-ai-lead-magnet-creation-united-states-faq.json",
+        "bytes": 4581,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jacqueline-abrams-ai-sales-funnels-united-states-faq.json",
+        "bytes": 4553,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/run-my-ai-biz-office.json",
+        "bytes": 308,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/run-my-ai-biz-organization.json",
+        "bytes": 23723,
+        "purpose": "schema"
+      }
+    ],
+    "faqs": [
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-build-an-online-business-with-ai.json",
+        "bytes": 2073,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-powered-online-business-creation-actually-work.json",
+        "bytes": 2118,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-really-take-to-launch-an-online-business-using-ai.json",
+        "bytes": 2037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-start-an-ai-powered-online-business.json",
+        "bytes": 2078,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-build-an-online-business-if-i-don-t-know-how-to-code.json",
+        "bytes": 2039,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-tell-me-whether-my-online-business-idea-will-actually-work.json",
+        "bytes": 2090,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-to-create-and-sell-a-digital-product-without-making-junk.json",
+        "bytes": 2080,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-build-my-entire-sales-funnel-or-do-i-still-need-to-do-the-work.json",
+        "bytes": 2026,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-mistakes-in-my-online-business.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-put-my-customer-or-business-data-into-ai-tools.json",
+        "bytes": 2095,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-a-small-business-automate-first-with-ai.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-chief-of-staff-ai-assistant-and-do-i-need-one.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-the-38-ai-bots-real-businesses-or-just-prompts.json",
+        "bytes": 2101,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-ai-online-business-model-is-best-for-a-beginner.json",
+        "bytes": 2039,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-a-business-plan-for-me-in-one-afternoon.json",
+        "bytes": 1951,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-for-customer-and-competitor-research-if-i-have-no-documentation.json",
+        "bytes": 2058,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-when-my-ai-business-assistant-keeps-giving-bad-answers.json",
+        "bytes": 1965,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-let-ai-publish-posts-send-emails-or-spend-money-for-my-business.json",
+        "bytes": 1931,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-generate-leads-for-my-online-business-while-i-sleep.json",
+        "bytes": 1971,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-ai-assisted-newsletter-a-realistic-online-business-for-one-person.json",
+        "bytes": 2043,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-and-run-my-ads-without-me-checking-them.json",
+        "bytes": 1941,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-the-same-ai-system-for-several-online-businesses.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-ai-business-system-keep-working-after-i-set-it-up-once.json",
+        "bytes": 1942,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-and-tools-do-i-need-before-setting-up-an-ai-business-workflow.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-marketing-copy-without-making-false-promises.json",
+        "bytes": 1995,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-have-a-business-idea-and-want-ai-to-tell-me-whether.json",
+        "bytes": 2170,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-actually-validate-my-business-idea-or-is-it-just-guessing.json",
+        "bytes": 2050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-step-by-step-way-to-research-a-business-idea-with-ai.json",
+        "bytes": 2050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-ai-assisted-business-idea-research-usually-take.json",
+        "bytes": 2009,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-spend-on-ai-business-idea-research-if-my-budget-is-tight.json",
+        "bytes": 2038,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-i-use-ai-to-evaluate-a-business-idea.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-to-research-my-business-idea-properly.json",
+        "bytes": 1987,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-several-ai-generated-business-ideas-without-getting-overwhelmed.json",
+        "bytes": 2033,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-one-person-realistically-use-ai-to-research-launch-and-run-a-small-online-bu.json",
+        "bytes": 1993,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-figure-out-who-would-actually-buy-my-product-or-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-accurate-are-ai-generated-market-size-and-demand-estimates.json",
+        "bytes": 1942,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-use-ai-to-research-competitors-without-copying-them-or-trusting-bad.json",
+        "bytes": 2032,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-research-a-business-idea-if-i-have-almost-no-documentation-or-bu.json",
+        "bytes": 1949,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-need-to-decide-by-tomorrow-can-ai-quickly-evaluate-a-business-idea-without-was.json",
+        "bytes": 2031,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-decide-what-my-offer-should-be-before-i-build-the-product.json",
+        "bytes": 1927,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-give-an-ai-business-research-assistant-my-customer-data-and-busine.json",
+        "bytes": 2114,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-find-customers-or-leads-for-a-new-business-idea.json",
+        "bytes": 1954,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-ai-generated-business-plan-good-enough-to-start-a-business.json",
+        "bytes": 1946,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-parts-of-business-idea-research-should-i-automate-and-which-should-i-do-my.json",
+        "bytes": 1953,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-build-one-ai-assistant-first-or-use-several-bots-for-my-business-idea.json",
+        "bytes": 1929,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-ai-generated-business-ideas-original-enough-to-build-around.json",
+        "bytes": 1884,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-an-ai-business-evaluation-gives-me-advice-that-feels-complet.json",
+        "bytes": 2037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-a-high-quality-ai-business-idea-evaluation-report-include.json",
+        "bytes": 1860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-help-me-evaluate-a-local-business-idea-in-a-specific-us-city.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-accurately-predict-how-much-money-my-business-idea-could-make.json",
+        "bytes": 1949,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-automate-first-if-i-m-starting-an-online-business-with-ai-and-feel.json",
+        "bytes": 2182,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-actually-help-me-launch-a-business-or-is-it-just-going-to-give-me-generic.json",
+        "bytes": 2124,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-business-automation-actually-work-if-i-don-t-know-how-to-code.json",
+        "bytes": 2104,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-really-take-to-launch-an-ai-powered-online-business-if-i-m-doin.json",
+        "bytes": 2129,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-start-an-ai-business-and-how-do-i-know-if-the-automatio.json",
+        "bytes": 2207,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-before-buying-an-ai-business-automation-program-or-bot-lib.json",
+        "bytes": 2099,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-ai-business-automation-success-stories-real-or-are-people-exaggerating-what.json",
+        "bytes": 2131,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-i-use-ai-to-run-parts-of-my-business-and-how-do-i-prevent.json",
+        "bytes": 2127,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-ai-automation-actually-make-my-small-online-business-more-profitable-or-wil.json",
+        "bytes": 2164,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-repetitive-tasks-should-i-automate-first-in-a-one-person-business.json",
+        "bytes": 1963,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-to-give-ai-before-asking-it-to-create-my-business-lau.json",
+        "bytes": 2097,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-create-and-sell-an-online-course-if-i-m-not-a-professional-conten.json",
+        "bytes": 2057,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-use-ai-to-create-a-lead-magnet-that-attracts-real-customers-instead-of.json",
+        "bytes": 2065,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-build-my-whole-sales-funnel-including-the-landing-page-emails-and-follow.json",
+        "bytes": 2043,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-give-an-ai-assistant-my-customer-list-business-files-or-email-acco.json",
+        "bytes": 2174,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-a-ready-made-ai-prompt-customize-a-bot-or-pay-someone-to-build-auto.json",
+        "bytes": 2086,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-ai-keep-writing-bland-sales-copy-for-my-business-and-how-do-i-fix-it.json",
+        "bytes": 2048,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-trust-ai-to-research-my-market-and-competitors-before-i-launch.json",
+        "bytes": 2025,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-find-customers-for-my-new-business-or-will-it-just-produce-a-list-of-bad.json",
+        "bytes": 2074,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-one-person-use-ai-to-run-multiple-online-businesses-or-income-streams-withou.json",
+        "bytes": 2139,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-a-local-us-business-use-ai-without-publishing-wrong-hours-services-price.json",
+        "bytes": 2151,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-starting-an-ai-newsletter-a-realistic-first-business-and-what-could-ai-automa.json",
+        "bytes": 2142,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-an-ai-sales-funnel-for-my-new-business-or-am-i-overcomplicating.json",
+        "bytes": 2009,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-ai-automation-really-save-time-or-will-i-spend-weeks-setting-it-up-and-fixi.json",
+        "bytes": 2076,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-ai-generated-launch-plan-gets-no-sales-or-my-automation-p.json",
+        "bytes": 2026,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-use-ai-to-develop-a-product.json",
+        "bytes": 1728,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-really-create-a-digital-product-with-ai-if-i-m-not-technical.json",
+        "bytes": 1645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-assisted-product-development-actually-work-from-idea-to-launch.json",
+        "bytes": 1723,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-a-product-with-ai-when-i-m-doing-it-alone.json",
+        "bytes": 1659,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-assisted-product-development-cost-for-a-small-business.json",
+        "bytes": 1715,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-before-it-can-help-me-develop-a-product.json",
+        "bytes": 1666,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-i-use-ai-to-develop-a-product.json",
+        "bytes": 1650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-using-ai-guarantee-that-my-new-product-sells.json",
+        "bytes": 1548,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-ai-product-development-tools-without-wasting-money.json",
+        "bytes": 1613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-ai-product-development-tools-different-for-a-small-business-in-the-united-st.json",
+        "bytes": 1763,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-m-worried-ai-automation-will-be-too-complicated-can-i-start-small.json",
+        "bytes": 1594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-help-me-decide-which-product-idea-is-worth-pursuing.json",
+        "bytes": 1649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-turn-my-expertise-into-a-course-or-online-product.json",
+        "bytes": 1608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-use-ai-to-build-an-mvp-without-overbuilding-it.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-people-actually-want-the-product-ai-helped-me-create.json",
+        "bytes": 1700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-human-oversight-is-necessary-when-ai-is-helping-develop-my-product.json",
+        "bytes": 1700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-develop-the-product-and-the-marketing-funnel-at-the-same-time.json",
+        "bytes": 1627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-master-prompt-and-is-it-the-same-as-a-finished-ai-product.json",
+        "bytes": 1661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-one-ai-assistant-or-several-for-product-development.json",
+        "bytes": 1658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-assisted-product-development-worth-it-for-a-one-person-business.json",
+        "bytes": 1668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-when-ai-keeps-producing-poor-product-drafts.json",
+        "bytes": 1624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-develop-a-product-if-my-business-processes-are-undocumented.json",
+        "bytes": 1626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-to-meet-an-urgent-product-launch-deadline.json",
+        "bytes": 1599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-find-customers-for-a-new-product-or-will-the-leads-be-unreliable.json",
+        "bytes": 1655,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-measure-whether-ai-assisted-product-development-is-working.json",
+        "bytes": 1667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-create-a-digital-product-with-ai.json",
+        "bytes": 2033,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-really-create-a-complete-digital-product-for-me-from-scratch.json",
+        "bytes": 2084,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-digital-product-is-actually-worth-making-with-ai.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-make-a-digital-product-with-ai.json",
+        "bytes": 1950,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-create-and-sell-a-digital-product-with-ai.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-ai-generated-digital-product-content-is-accurate.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-copyright-a-digital-product-that-was-made-with-ai-in-the-united-states.json",
+        "bytes": 2197,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-avoid-selling-an-ai-digital-product-that-copies-someone-else-s-work.json",
+        "bytes": 2007,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-ai-prompt-packs-still-worth-selling-or-are-they-too-easy-to-copy.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-coding-skills-to-create-an-ai-powered-digital-product.json",
+        "bytes": 1902,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-review-before-selling-an-ai-generated-ebook-course-or-template.json",
+        "bytes": 1915,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-step-by-step-workflow-for-creating-a-digital-product-with-ai.json",
+        "bytes": 2017,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-help-me-market-and-sell-a-digital-product-without-sounding-fake.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-small-business-task-should-i-automate-with-ai-first.json",
+        "bytes": 1899,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-one-person-really-run-multiple-ai-assistants-without-getting-overwhelmed.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-ai-tools-for-creating-digital-products.json",
+        "bytes": 1853,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-validate-an-ai-digital-product-idea-before-spending-weeks-making-it.json",
+        "bytes": 2027,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-still-worth-creating-digital-products-with-ai-when-everyone-else-is-doing.json",
+        "bytes": 2033,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-ai-generated-ebook-course-and-marketing-content-consistent.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-turn-one-digital-product-idea-into-a-lead-magnet-emails-and-social-conten.json",
+        "bytes": 1924,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-put-customer-information-into-ai-tools-while-creating-digital-prod.json",
+        "bytes": 2102,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-build-an-online-course-including-lessons-slides-and-videos.json",
+        "bytes": 1985,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-create-an-ai-lead-magnet-that-people-will-actually-download.json",
+        "bytes": 1961,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-platform-should-i-use-to-sell-a-digital-product-i-created-with-ai.json",
+        "bytes": 2028,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-when-ai-creates-a-terrible-digital-product-draft.json",
+        "bytes": 1924,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-use-ai-to-create-an-online-course-without-ending-up-with-generic-lesson.json",
+        "bytes": 1725,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-build-my-course.json",
+        "bytes": 1483,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-lesson-objectives-that-actually-match-what-students-need-to-learn.json",
+        "bytes": 1519,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-accurate-is-ai-generated-course-content-and-how-do-i-catch-mistakes.json",
+        "bytes": 1574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-put-student-information-into-an-ai-lesson-planner.json",
+        "bytes": 1643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-sell-an-ai-created-course-or-could-copyright-problems-come-back-on-me.json",
+        "bytes": 1519,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-an-ai-generated-lesson-plan-include.json",
+        "bytes": 1514,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-my-ai-lesson-plans-sound-shallow-and-what-prompt-should-i-use.json",
+        "bytes": 1603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-ai-do-in-course-creation-and-what-should-a-human-still-handle.json",
+        "bytes": 1611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-paying-for-an-ai-course-creator-worth-it-for-a-small-business.json",
+        "bytes": 1697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-for-course-creation-if-i-cannot-afford-another-monthly-tool.json",
+        "bytes": 1549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-really-take-to-create-a-course-with-ai.json",
+        "bytes": 1532,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-make-good-quizzes-and-assessments-for-my-course.json",
+        "bytes": 1403,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-personalize-lessons-for-beginners-advanced-learners-or-different-learning.json",
+        "bytes": 1553,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-sure-an-ai-created-course-is-accessible.json",
+        "bytes": 1483,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-align-my-lessons-with-us-standards-or-workplace-training-requirements.json",
+        "bytes": 1510,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-have-no-clean-course-materials-for-ai-to-work-from.json",
+        "bytes": 1467,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-ai-to-turn-my-messy-notes-and-recordings-into-a-coherent-course.json",
+        "bytes": 1570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-ai-created-course-sound-robotic-or-lose-my-teaching-voice.json",
+        "bytes": 1489,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-chatgpt-an-ai-course-builder-or-an-online-course-platform.json",
+        "bytes": 1561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-ai-made-my-course-quickly-but-students-still-are-not-finishing-it.json",
+        "bytes": 1530,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-my-course-sales-page-without-making-claims-i-cannot-support.json",
+        "bytes": 1511,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-am-overwhelmed-by-all-the-ai-course-tools-what-is-the-simplest-setup-that-work.json",
+        "bytes": 1519,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-course-creation-tasks-should-i-automate-first-and-which-should-stay-manual.json",
+        "bytes": 1626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-ai-course-workflow-keeps-breaking-or-producing-inconsistent-lessons.json",
+        "bytes": 1581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-make-a-presentation-or-lesson.json",
+        "bytes": 1897,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-trust-an-ai-generated-lesson-plan-or-presentation-without-checking-it.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-ai-tools-for-presentations-versus-full-educational-materials.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-really-take-to-create-an-ai-generated-presentation-or-course.json",
+        "bytes": 2001,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-make-presentations-and-teaching-materials-with-ai.json",
+        "bytes": 2059,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-upload-student-work-or-private-business-documents-into-an-ai-prese.json",
+        "bytes": 2017,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-legally-sell-an-ai-generated-presentation-course-or-workbook-in-the-us.json",
+        "bytes": 2060,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-sure-ai-generated-educational-content-actually-teaches-something.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-adapt-the-same-lesson-for-beginners-advanced-learners-and-different-readi.json",
+        "bytes": 1916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-ai-generated-presentations-automatically-accessible-for-students-with-disabi.json",
+        "bytes": 1932,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-tell-students-or-customers-that-my-presentation-was-made-with-ai.json",
+        "bytes": 1898,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-up-facts-sources-or-statistics-in-my-slides.json",
+        "bytes": 1943,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-using-ai-for-lesson-slides-or-course-content-count-as-cheating-or-plagiaris.json",
+        "bytes": 1933,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-safest-way-to-automate-recurring-educational-content-with-ai.json",
+        "bytes": 1742,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-generated-images-and-charts-in-educational-materials.json",
+        "bytes": 1907,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-give-ai-before-asking-it-to-create-a-presentation-or-l.json",
+        "bytes": 1892,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-parts-of-educational-content-creation-should-never-be-fully-automated.json",
+        "bytes": 1903,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-create-and-sell-an-online-course-from-scratch.json",
+        "bytes": 1787,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-ai-generated-slides-from-looking-generic-cluttered-or-inconsistent.json",
+        "bytes": 1875,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-low-cost-way-to-create-ai-educational-materials-when-i-am-just.json",
+        "bytes": 1845,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-need-slides-tonight-how-can-i-use-ai-quickly-without-creating-a-mess.json",
+        "bytes": 1840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-turn-a-long-pdf-or-textbook-into-accurate-teaching-slides.json",
+        "bytes": 1803,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-make-educational-materials-manually-or-use-ai.json",
+        "bytes": 1830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-check-before-i-present-or-publish-ai-generated-educational-content.json",
+        "bytes": 1779,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-ai-generated-lessons-feel-like-they-were-made-for-my-audience.json",
+        "bytes": 1833,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-ai-actually-do-for-video-creation-and-editing-and-what-still-needs-to-b.json",
+        "bytes": 2024,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-want-to-make-an-ai-video-tonight-what-should-i-do-first-so-i-don-t-waste-hours.json",
+        "bytes": 1812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-complete-beginner-use-ai-video-tools-without-knowing-editing-or-coding.json",
+        "bytes": 1816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-my-ai-generated-videos-look-impressive-in-demos-but-terrible-when-i-try-t.json",
+        "bytes": 1930,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-ai-video-tool-is-best-for-me-script-to-video-text-based-editing-or-a-norma.json",
+        "bytes": 2058,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-video-creation-really-cost-if-i-m-on-a-tight-small-business-bud.json",
+        "bytes": 1911,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-ai-video-editing-actually-save-me-time-or-will-i-spend-longer-fixing-its-mi.json",
+        "bytes": 1873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-i-let-ai-create-or-edit-my-business-videos.json",
+        "bytes": 1849,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-upload-customer-recordings-private-interviews-or-unreleased-course.json",
+        "bytes": 1901,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-an-ai-voice-avatar-cloned-customer-or-generated-music-in-a-business-vi.json",
+        "bytes": 1875,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-reliably-caption-and-translate-my-videos-or-do-i-need-to-check-every-line.json",
+        "bytes": 1786,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-a-fully-automated-ai-video-maker-or-edit-the-result-myself.json",
+        "bytes": 1840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-a-faceless-youtube-or-social-video-business-with-ai-without-showing.json",
+        "bytes": 1796,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-turn-one-long-video-newsletter-or-lesson-into-several-ai-made-short-vid.json",
+        "bytes": 1848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-ai-generated-characters-backgrounds-and-scenes-keep-changing-between-clip.json",
+        "bytes": 1872,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-remove-filler-words-silence-and-mistakes-from-my-talking-head-videos-with.json",
+        "bytes": 1830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-before-setting-up-an-ai-assistant-or-workflow-for-vid.json",
+        "bytes": 1804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-create-all-the-videos-for-an-online-course-or-will-i-still-need-to-write.json",
+        "bytes": 1872,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-and-edit-a-sales-video-for-my-digital-product-without-making-risky.json",
+        "bytes": 1864,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-tried-an-ai-video-tool-and-the-result-was-unusable-should-i-keep-trying-or-giv.json",
+        "bytes": 1859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-safest-first-ai-video-task-to-automate-in-a-small-business.json",
+        "bytes": 1819,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-make-my-video-titles-thumbnails-descriptions-and-hooks-better-or-will-the.json",
+        "bytes": 1884,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-safely-create-videos-about-local-businesses-events-or-services-in-my-u-s.json",
+        "bytes": 1842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-need-a-business-video-tomorrow-can-ai-realistically-help-me-meet-the-deadline.json",
+        "bytes": 1814,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-hire-a-professional-editor-instead-of-relying-on-ai-tools-myself.json",
+        "bytes": 1904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-create-a-lead-magnet-for-my-business.json",
+        "bytes": 2177,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-really-create-a-complete-lead-magnet-or-do-i-still-have-to-do-most-of-the.json",
+        "bytes": 2123,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-my-ai-lead-magnet-be-a-checklist-guide-template-or-ebook.json",
+        "bytes": 2041,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-an-ai-generated-business-checklist-actually-include-to-be-useful.json",
+        "bytes": 2195,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-to-give-ai-before-it-can-create-a-good-lead-magnet.json",
+        "bytes": 2073,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-create-an-ai-lead-magnet-and-checklist-that-is-actually.json",
+        "bytes": 2169,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-make-an-ai-lead-magnet-and-checklist.json",
+        "bytes": 2149,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-my-ai-lead-magnet-idea-is-something-people-actually-want.json",
+        "bytes": 2083,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-ask-for-on-an-ai-lead-magnet-opt-in-form.json",
+        "bytes": 2184,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-connect-an-ai-checklist-to-my-paid-offer-without-making-it-feel-like-a.json",
+        "bytes": 2199,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-if-i-use-ai-to-create-a-checklist-or-lead-magnet.json",
+        "bytes": 2135,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-ai-tools-should-i-use-to-create-a-lead-magnet-pdf-checklist-landing-page-a.json",
+        "bytes": 2269,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-ai-checklist-work-for-a-small-business-or-one-person-business-or-is-it-o.json",
+        "bytes": 2192,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-create-an-ai-lead-magnet-if-i-have-a-tiny-budget-and-no-technical-team.json",
+        "bytes": 2066,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-an-ai-checklist-understandable-if-my-audience-is-not-technical.json",
+        "bytes": 2009,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-turn-one-checklist-into-my-landing-page-email-sequence-and-social-media-p.json",
+        "bytes": 2132,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-an-ai-lead-magnet-work-if-i-have-a-very-small-email-list-or-almost-no-audie.json",
+        "bytes": 2121,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-ai-created-lead-magnet-actually-bring-me-qualified-leads-or-just-more-em.json",
+        "bytes": 2187,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-are-people-downloading-my-ai-checklist-but-not-taking-the-next-step.json",
+        "bytes": 1989,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-create-a-local-business-checklist-or-community-pdf-without-making-mistake.json",
+        "bytes": 2151,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-measure-whether-my-ai-lead-magnet-and-checklist-are-working.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-design-the-ai-checklist-myself-or-pay-someone-to-make-the-pdf-look-prof.json",
+        "bytes": 2203,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-tried-using-ai-for-a-lead-magnet-and-it-came-out-generic-what-should-i-change.json",
+        "bytes": 2080,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-pages-and-emails-do-i-need-around-an-ai-lead-magnet.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-putting-outdated-or-made-up-information-in-my-lead-magnet.json",
+        "bytes": 2183,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-build-my-sales-funnel.json",
+        "bytes": 1736,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-sales-funnel-planning-and-development-actually-work.json",
+        "bytes": 1770,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-an-ai-sales-funnel-if-i-only-have-a-rough-business-idea.json",
+        "bytes": 1727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-create-an-ai-sales-funnel-that-actually-works.json",
+        "bytes": 1745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-sales-funnel-development-cost-for-a-small-business.json",
+        "bytes": 1761,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-parts-of-a-sales-funnel-should-i-automate-with-ai-and-which-should-stay-hu.json",
+        "bytes": 1832,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-an-ai-generated-lead-magnet-good-enough-to-put-in-a-funnel.json",
+        "bytes": 1698,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-emails-should-an-ai-sales-funnel-include-before-i-start-selling.json",
+        "bytes": 1810,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-give-my-customer-list-to-an-ai-sales-funnel-tool.json",
+        "bytes": 1721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-coding-skills-to-build-an-ai-sales-funnel.json",
+        "bytes": 1661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-guarantee-that-my-sales-funnel-will-make-money.json",
+        "bytes": 1638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-check-if-my-ai-funnel-gets-traffic-but-no-sales.json",
+        "bytes": 1708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-for-customer-research-before-building-a-funnel.json",
+        "bytes": 1700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-when-choosing-ai-sales-funnel-software.json",
+        "bytes": 1711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-ai-to-run-ads-before-my-funnel-is-fully-tested.json",
+        "bytes": 1618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-bridge-page-in-an-ai-sales-funnel.json",
+        "bytes": 1561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-sales-funnel-task-should-a-small-business-automate-first.json",
+        "bytes": 1680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-ai-sales-funnel-prompt-libraries-worth-paying-for.json",
+        "bytes": 1634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-to-plan-my-sales-funnel-properly.json",
+        "bytes": 1634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-human-review-is-needed-for-an-ai-built-sales-funnel.json",
+        "bytes": 1670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-ai-builds-my-sales-funnel.json",
+        "bytes": 1649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-solopreneur-realistically-manage-an-ai-sales-funnel-alone.json",
+        "bytes": 1747,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-adapt-an-ai-funnel-for-a-local-us-business.json",
+        "bytes": 1691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-compliance-issues-should-i-think-about-before-automating-us-marketing-email.json",
+        "bytes": 1926,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-hire-someone-instead-of-building-my-ai-funnel-myself.json",
+        "bytes": 1816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-give-ai-before-it-writes-my-sales-page-so-i-don-t-get-generic-garb.json",
+        "bytes": 1966,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-actually-write-a-sales-page-that-converts-or-will-it-just-sound-like-a-ro.json",
+        "bytes": 1955,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-really-take-to-make-an-ai-sales-page-that-s-ready-to-publish.json",
+        "bytes": 1927,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-an-ai-landing-page-builder-chatgpt-or-a-regular-website-platform.json",
+        "bytes": 1977,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-long-ai-sales-page-or-a-simple-landing-page-for-my-offer.json",
+        "bytes": 1876,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-to-write-my-landing-page-without-making-stuff-up.json",
+        "bytes": 1847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-inventing-testimonials-statistics-or-income-claims-on-my-s.json",
+        "bytes": 1916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-ai-made-landing-page-automatically-get-me-more-leads-or-sales.json",
+        "bytes": 1890,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-paying-for-ai-sales-page-tools-worth-it-if-i-have-a-tiny-budget.json",
+        "bytes": 1927,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-create-an-ai-landing-page-when-i-can-t-afford-a-bunch-of-subscriptions.json",
+        "bytes": 1862,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-make-an-ai-sales-page-if-i-don-t-know-how-to-code.json",
+        "bytes": 1848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-let-ai-build-and-publish-my-sales-page-for-me.json",
+        "bytes": 1827,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-ai-to-use-my-customers-actual-words-instead-of-made-up-marketing-la.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-research-competitor-sales-pages-without-copying-them-or-making-false-assu.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-ai-landing-pages-all-look-the-same-and-how-do-i-make-mine-feel-like-my-br.json",
+        "bytes": 2005,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-an-ai-landing-page-works-on-phones-and-not-just-in-the-preview.json",
+        "bytes": 1861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-make-my-landing-page-accessible-or-do-i-need-to-check-everything-myself.json",
+        "bytes": 1943,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-customer-information-is-safe-to-paste-into-ai-while-building-a-sales-page.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-calls-to-action-should-an-ai-generated-landing-page-have.json",
+        "bytes": 1843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-i-put-on-my-sales-page-if-i-don-t-have-testimonials-yet.json",
+        "bytes": 1859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-an-ai-sales-page-include-for-an-online-course-or-digital-product.json",
+        "bytes": 1953,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-writing-a-feature-dump-instead-of-a-sales-page.json",
+        "bytes": 1924,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-make-one-ai-landing-page-for-everyone-or-separate-pages-for-different-a.json",
+        "bytes": 1917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-create-a-sales-page-that-also-ranks-in-google-or-are-ai-pages-bad-for-seo.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-test-whether-my-ai-landing-page-is-actually-better-than-my-old-one.json",
+        "bytes": 1950,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-give-ai-before-it-creates-my-email-follow-up-sequence.json",
+        "bytes": 2205,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-let-ai-write-and-send-my-follow-up-emails-without-checking-them.json",
+        "bytes": 2084,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-emails-should-an-ai-follow-up-sequence-have.json",
+        "bytes": 2097,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-ai-actually-save-me-time-creating-email-follow-up-sequences.json",
+        "bytes": 2084,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-prompt-should-i-use-to-create-an-ai-email-follow-up-sequence.json",
+        "bytes": 2053,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-written-follow-up-emails-damage-my-deliverability.json",
+        "bytes": 2100,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-compliance-checks-should-i-use-before-sending-an-ai-follow-up-sequence-in-t.json",
+        "bytes": 2239,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-up-personal-details-in-follow-up-emails.json",
+        "bytes": 2043,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-ai-create-a-follow-up-sequence-after-someone-downloads-my-lead-magnet.json",
+        "bytes": 2122,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-ai-use-the-same-follow-up-emails-for-prospects-and-existing-customers.json",
+        "bytes": 2168,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-make-an-ai-follow-up-sequence-stop-sending.json",
+        "bytes": 1993,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-generic-ai-email-template-enough-or-do-i-need-a-custom-sequence.json",
+        "bytes": 2090,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-create-an-ai-email-follow-up-sequence.json",
+        "bytes": 2137,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-email-follow-up-tasks-are-actually-worth-automating-with-ai.json",
+        "bytes": 2046,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-decide-how-often-my-follow-up-emails-should-be-sent.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-handle-replies-to-my-follow-up-sequence-or-do-i-need-to-answer-people-mys.json",
+        "bytes": 2113,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-create-an-ai-email-follow-up-sequence-that-actually-wor.json",
+        "bytes": 2158,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-professional-to-create-my-ai-email-follow-up-sequence.json",
+        "bytes": 2161,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-a-small-us-business-use-ai-follow-up-emails-without-a-marketing-team.json",
+        "bytes": 2177,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-one-ai-follow-up-sequence-serve-multiple-products-or-audiences.json",
+        "bytes": 2078,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-metrics-should-i-track-for-an-ai-created-follow-up-sequence.json",
+        "bytes": 2027,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-ai-follow-up-emails-get-no-replies-what-should-i-fix-first.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-test-different-follow-up-email-versions-for-me.json",
+        "bytes": 1949,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-ai-from-making-false-claims-in-my-follow-up-emails.json",
+        "bytes": 2021,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-ai-follow-up-sequence-does-not-send-on-time.json",
+        "bytes": 2065,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-find-prospects-for-my-small-business.json",
+        "bytes": 1770,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-powered-prospect-research-actually-work.json",
+        "bytes": 1577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-lead-generation-guarantee-qualified-leads-or-sales.json",
+        "bytes": 1581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-buy-an-ai-lead-generation-platform-or-build-a-workflow-myself.json",
+        "bytes": 1663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-to-find-good-prospects-instead-of-random-contacts.json",
+        "bytes": 1681,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-sending-creepy-or-inaccurate-personalized-outreach.json",
+        "bytes": 1534,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-cold-outreach-legal-for-a-us-small-business.json",
+        "bytes": 1492,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-set-up-ai-prospect-research-and-start-getting-leads.json",
+        "bytes": 1518,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-powered-lead-generation-really-cost-for-a-small-business.json",
+        "bytes": 1581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-parts-of-lead-generation-should-i-automate-and-which-should-stay-human.json",
+        "bytes": 1609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-ai-lead-generation-help-if-i-have-no-clear-offer-yet.json",
+        "bytes": 1472,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-signals-can-ai-use-to-tell-whether-a-prospect-might-need-my-service.json",
+        "bytes": 1585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-ai-prospect-scoring-accurate-enough-to-trust.json",
+        "bytes": 1506,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-solo-entrepreneur-use-ai-lead-generation-without-hiring-a-sales-team.json",
+        "bytes": 1551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-find-local-business-prospects-without-wasting-time-on-bad-listings.json",
+        "bytes": 1575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-prevent-an-ai-follow-up-system-from-emailing-someone-who-already-replie.json",
+        "bytes": 1566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proof-should-an-ai-system-provide-before-i-contact-a-prospect.json",
+        "bytes": 1508,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-create-a-lead-magnet-that-brings-in-qualified-prospects.json",
+        "bytes": 1488,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-before-choosing-an-ai-prospecting-tool.json",
+        "bytes": 1532,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-privacy-risks-should-i-worry-about-when-using-ai-for-prospect-research.json",
+        "bytes": 1605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-prospect-research-work-with-the-crm-i-already-use.json",
+        "bytes": 1431,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-email-still-the-best-channel-for-ai-generated-prospecting.json",
+        "bytes": 1547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-are-my-ai-generated-leads-low-quality-even-though-i-gave-the-system-lots-of.json",
+        "bytes": 1581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-my-business-is-ready-for-ai-powered-prospect-research.json",
+        "bytes": 1504,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-an-ai-lead-generation-report-show-me-every-week.json",
+        "bytes": 1502,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-use-ai-for-affiliate-marketing-but-feel-comp.json",
+        "bytes": 2029,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-assisted-affiliate-marketing-actually-realistic-for-a-beginner-with-no-aud.json",
+        "bytes": 2169,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-an-ai-assisted-affiliate-marketing-workflow-actually-work-from-idea-to.json",
+        "bytes": 2135,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-make-money-with-an-ai-affiliate-marketing-workflow-real.json",
+        "bytes": 2044,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-an-ai-affiliate-marketing-workflow-really-cost-if-i-am-on-a-tight.json",
+        "bytes": 2089,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-an-ai-tool-is-worth-promoting-as-an-affiliate-when-every-r.json",
+        "bytes": 2080,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-i-let-ai-run-my-affiliate-marketing-workflow.json",
+        "bytes": 1963,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-results-should-i-realistically-expect-from-an-ai-assisted-affiliate-funnel.json",
+        "bytes": 2049,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-buy-an-ai-affiliate-marketing-course-use-the-38-bot-prompts-or-just-use.json",
+        "bytes": 2175,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-build-an-affiliate-newsletter-for-my-city-or-is-local-affiliate-m.json",
+        "bytes": 2086,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-exactly-do-i-put-affiliate-disclosures-when-ai-writes-my-blog-posts-emails.json",
+        "bytes": 2120,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-write-affiliate-product-reviews-if-i-have-never-personally-used.json",
+        "bytes": 2046,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-google-punish-me-if-i-use-ai-to-create-affiliate-content.json",
+        "bytes": 1933,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-and-send-my-affiliate-emails-automatically-or-is-that-asking-for-tr.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-pages-and-emails-do-i-actually-need-in-an-ai-affiliate-funnel.json",
+        "bytes": 1874,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-find-affiliate-leads-and-sponsors-for-me-or-will-it-just-create-a-junk-li.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-an-affiliate-program-rejects-me-because-i-am-new-or-my-traffic-is-mostly.json",
+        "bytes": 2034,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-human-work-is-still-required-if-i-use-ai-for-affiliate-marketing.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-which-ai-tools-to-promote-when-there-are-hundreds-of-nearly-iden.json",
+        "bytes": 1965,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-track-to-know-whether-my-ai-affiliate-workflow-is-working.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-asking-chatgpt-for-affiliate-content-and-building.json",
+        "bytes": 2027,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-the-38-bot-prompts-enough-to-run-an-affiliate-business-or-will-i-still-need.json",
+        "bytes": 2105,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-promote-affiliate-tools-without-turning-my-ai-newsletter-into-one-long.json",
+        "bytes": 2073,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-repurpose-one-affiliate-review-into-emails-posts-and-videos-without-makin.json",
+        "bytes": 2017,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-my-ai-do-when-it-cannot-verify-an-affiliate-product-claim.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-want-to-use-ai-for-marketing-but-feel-overwhelmed-what-should-i-automate-first.json",
+        "bytes": 1888,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-really-create-marketing-content-for-my-small-business-or-will-it-sound-fa.json",
+        "bytes": 1824,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-ai-marketing-tools-when-every-review-says-something-different.json",
+        "bytes": 1776,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-marketing-automation-really-cost-for-a-one-person-business.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-if-i-let-ai-automatically-post-email-or-run-ads-for-my-busines.json",
+        "bytes": 1802,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-before-it-can-write-marketing-content-that-actuall.json",
+        "bytes": 1796,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-ai-generated-blog-posts-help-my-google-rankings-or-will-they-hurt-my-site.json",
+        "bytes": 1826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-copyright-marketing-content-created-with-ai-in-the-united-states.json",
+        "bytes": 1799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-multiple-ai-marketing-assistants-work-together-without-creating-a-confusi.json",
+        "bytes": 1750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-set-up-ai-marketing-automation-if-i-have-never-done-thi.json",
+        "bytes": 1822,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-personalize-emails-and-social-posts-without-exposing-customer-information.json",
+        "bytes": 1806,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-turn-one-newsletter-or-video-into-a-week-of-social-media-content-with.json",
+        "bytes": 1703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-build-a-lead-magnet-and-email-funnel-or-do-i-still-need-to-write-everythi.json",
+        "bytes": 1743,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-find-qualified-leads-for-my-small-business-or-will-it-just-create-a-giant.json",
+        "bytes": 1773,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-to-review-ai-marketing-content-if-the-tool-is-supposed-to-be-sm.json",
+        "bytes": 1721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-ai-marketing-automation-is-actually-working-for-my-busines.json",
+        "bytes": 1771,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-marketing-automation-if-i-do-not-know-how-to-code.json",
+        "bytes": 1789,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-marketing-automation-realistic-for-a-solopreneur-who-has-no-team.json",
+        "bytes": 1760,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-reuse-the-same-ai-marketing-prompts-for-different-brands-or-business-ideas.json",
+        "bytes": 1681,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-up-testimonials-statistics-or-impressive-marketing.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/if-ai-can-create-all-the-content-why-do-most-ai-businesses-still-fail-to-make-mo.json",
+        "bytes": 1748,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-create-trustworthy-local-marketing-content-for-a-u-s-community-newsletter.json",
+        "bytes": 1776,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-a-product-launch-next-week-can-ai-help-me-create-the-marketing-assets-fas.json",
+        "bytes": 1883,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-automate-customer-support-and-payment-reminders-with-ai.json",
+        "bytes": 1771,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-dozens-of-ai-bots-to-automate-my-marketing-or-is-one-enough.json",
+        "bytes": 1736,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-plan-and-repurpose-my-social-media-conten.json",
+        "bytes": 2167,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-turn-one-newsletter-into-a-full-week-of-social-media-posts.json",
+        "bytes": 2085,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-let-ai-write-and-publish-my-social-media-posts-automatically.json",
+        "bytes": 2038,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-ai-content-repurposing-really-take-after-setup.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-build-a-social-media-content-calendar-that-actually-supports-my-business.json",
+        "bytes": 2055,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-cheapest-way-to-use-ai-for-social-media-content-planning-and-repurpo.json",
+        "bytes": 2049,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-to-create-social-media-posts-that-sound-like-my-bu.json",
+        "bytes": 2042,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-post-the-same-ai-generated-content-on-instagram-linkedin-facebook-and-x.json",
+        "bytes": 1936,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-figure-out-what-social-media-topics-my-audience-will-care-about.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-ai-social-media-content-calendar-actually-worth-the-effort-for-a-solo-busi.json",
+        "bytes": 2019,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-ai-social-media-content-sound-generic-even-when-the-prompt-is-detail.json",
+        "bytes": 2079,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-use-ai-to-repurpose-a-podcast-webinar-or-video-into-social-posts.json",
+        "bytes": 2101,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-paste-customer-comments-testimonials-or-private-messages-into-ai-for-socia.json",
+        "bytes": 2167,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-ai-repurposed-posts-consistent-with-my-brand-voice.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-plan-social-media-content-for-a-digital-product-launch-without-making-mis.json",
+        "bytes": 2046,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-repurpose-content-into-social-posts-that-generate-leads-instead-of-ju.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-when-ai-generated-social-posts-get-no-engagement.json",
+        "bytes": 1926,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-social-media-tasks-should-ai-handle-and-which-should-stay-human.json",
+        "bytes": 2083,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-custom-ai-assistant-for-social-media-planning-and-repurposing.json",
+        "bytes": 2045,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-a-us-small-business-use-ai-to-create-local-social-media-content-without.json",
+        "bytes": 2042,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-legally-reuse-ai-generated-social-media-posts-for-my-us-business.json",
+        "bytes": 2061,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-social-posts-can-i-safely-repurpose-from-one-piece-of-content.json",
+        "bytes": 1923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-tell-me-the-best-time-to-post-on-social-media.json",
+        "bytes": 1893,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-connect-multiple-ai-assistants-for-social-media-without-creating-a-mes.json",
+        "bytes": 2037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-ai-keeps-inventing-facts-in-my-social-media-posts.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-give-ai-before-asking-it-to-research-and-draft-my-newsletter.json",
+        "bytes": 1877,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-really-research-and-write-my-entire-newsletter-without-me.json",
+        "bytes": 1797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-prompt-should-i-use-for-ai-newsletter-research-and-drafting.json",
+        "bytes": 1808,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-ai-to-research-and-draft-a-newsletter-issue.json",
+        "bytes": 1706,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-when-choosing-an-ai-newsletter-research-and-drafting-servi.json",
+        "bytes": 1878,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-for-newsletter-research-if-i-have-almost-no-budget.json",
+        "bytes": 1692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-fact-check-an-ai-written-newsletter-before-sending-it.json",
+        "bytes": 1711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/could-an-ai-drafted-newsletter-create-copyright-or-plagiarism-problems.json",
+        "bytes": 1851,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-ai-newsletter-sound-bland-even-after-i-give-it-my-brand-voice.json",
+        "bytes": 1799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-newsletter-drafting-suitable-if-i-am-not-an-expert-on-the-topic.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-to-research-a-strong-newsletter-topic.json",
+        "bytes": 1722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-create-trustworthy-newsletter-comparisons-of-ai-tools.json",
+        "bytes": 1754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-turn-one-ai-newsletter-into-social-posts-without-creating-more-errors.json",
+        "bytes": 1745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-let-ai-automatically-send-my-newsletter-to-subscribers.json",
+        "bytes": 1770,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-tell-me-what-my-newsletter-should-write-about-next.json",
+        "bytes": 1672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-sources-should-ai-use-when-researching-my-newsletter.json",
+        "bytes": 1758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-email-compliance-issues-should-i-check-when-using-ai-for-a-us-newsletter.json",
+        "bytes": 1857,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-upload-subscriber-replies-and-business-data-into-an-ai-newsletter.json",
+        "bytes": 1876,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-an-ai-drafted-newsletter-is-good-enough-to-publish.json",
+        "bytes": 1723,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-ai-researches-and-drafts-my-newsletter.json",
+        "bytes": 1667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-match-my-newsletter-voice-if-i-have-never-published-before.json",
+        "bytes": 1711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-improve-my-newsletter-subject-lines-and-open-rates.json",
+        "bytes": 1682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-research-and-draft-a-local-newsletter-for-my-city.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-ai-researched-newsletter-worth-paying-for.json",
+        "bytes": 1700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-several-ai-assistants-to-produce-a-reliable-newsletter.json",
+        "bytes": 1712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-my-ai-newsletter-is-barely-growing.json",
+        "bytes": 2151,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-to-grow-my-newsletter-without-letting-it-sound-robotic.json",
+        "bytes": 2105,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-narrow-should-my-ai-newsletter-audience-be-before-i-start.json",
+        "bytes": 2072,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-lead-magnet-actually-works-for-an-ai-newsletter.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-repurpose-one-ai-newsletter-issue-into-social-content.json",
+        "bytes": 2045,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-newsletter-swaps-worth-it-for-an-ai-newsletter-with-a-small-audience.json",
+        "bytes": 2087,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-scrape-emails-for-newsletter-growth-or-will-that-get-me-in-troub.json",
+        "bytes": 2137,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-newsletter-metrics-should-ai-help-me-track.json",
+        "bytes": 1912,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-my-ai-newsletter-welcome-emails-say.json",
+        "bytes": 1966,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-keep-my-ai-newsletter-free-or-charge-for-it.json",
+        "bytes": 2043,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-i-publish-an-ai-newsletter-if-growth-is-slow.json",
+        "bytes": 1971,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-improve-my-newsletter-subject-lines-or-does-it-just-create-clickbait.json",
+        "bytes": 1886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-an-ai-newsletter-useful-instead-of-another-generic-ai-news-roundup.json",
+        "bytes": 2031,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-help-me-find-newsletter-topics-people-actually-want.json",
+        "bytes": 1930,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-substack-notes-worth-using-to-grow-an-ai-newsletter.json",
+        "bytes": 1931,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-run-ads-to-grow-my-ai-newsletter-on-a-small-budget.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-one-ai-newsletter-workflow-for-several-audiences-without-confusing-sub.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-an-ai-newsletter-become-part-of-a-real-online-business.json",
+        "bytes": 2031,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-up-facts-in-my-newsletter.json",
+        "bytes": 1975,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-easiest-newsletter-task-to-automate-with-ai-first.json",
+        "bytes": 2009,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-ai-newsletter-tools-without-wasting-money.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-my-ai-newsletter-not-growing-even-though-i-publish-consistently.json",
+        "bytes": 2040,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-would-ai-newsletter-growth-strategies-work-for-a-local-u-s-newsletter.json",
+        "bytes": 2084,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-a-referral-program-to-grow-my-ai-newsletter.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-readers-unsubscribe-if-they-know-i-use-ai-to-write-my-newsletter.json",
+        "bytes": 2113,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-build-an-ai-assisted-paid-newsletter-but-hav.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-really-help-me-create-a-paid-newsletter-or-will-it-just-produce-generic-c.json",
+        "bytes": 1791,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-charge-for-an-ai-assisted-paid-newsletter-if-i-m-just-starting.json",
+        "bytes": 1835,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-my-ai-newsletter-be-free-paid-or-freemium-when-i-m-building-the-audience.json",
+        "bytes": 1809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-people-will-actually-pay-for-my-ai-newsletter-before-i-spend-weeks.json",
+        "bytes": 1785,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-an-ai-assisted-newsletter-valuable-enough-that-people-will-pay-instea.json",
+        "bytes": 1863,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-up-facts-in-my-paid-newsletter.json",
+        "bytes": 1720,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-an-ai-assisted-paid-newsletter-workflow-actually-look-like-from-idea-t.json",
+        "bytes": 1755,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-launch-an-ai-assisted-paid-newsletter-if-i-m-doing-it-a.json",
+        "bytes": 1729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-it-really-cost-to-develop-and-run-an-ai-assisted-paid-newsletter-on-a.json",
+        "bytes": 1741,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-tools-should-i-compare-before-choosing-a-platform-for-my-paid-ai-newslette.json",
+        "bytes": 1695,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-grow-my-paid-newsletter-automatically-or-do-i-still-need-to-market-it-mys.json",
+        "bytes": 1616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-free-lead-magnet-should-i-use-to-sell-an-ai-assisted-paid-newslette.json",
+        "bytes": 1635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-very-specific-niche-for-a-paid-ai-newsletter-or-can-i-cover-ai-for-e.json",
+        "bytes": 1689,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-summarize-articles-and-other-newsletters-without-creating-a-copy.json",
+        "bytes": 1712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-promise-on-the-sales-page-for-an-ai-assisted-paid-newsletter-witho.json",
+        "bytes": 1718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-using-ai-actually-save-enough-time-to-make-a-paid-newsletter-worth-running.json",
+        "bytes": 1628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-tell-subscribers-that-ai-helps-create-my-paid-newsletter.json",
+        "bytes": 1553,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-an-ai-newsletter-trustworthy-when-ai-tools-change-so-quickly.json",
+        "bytes": 1567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permissions-should-i-give-ai-tools-that-help-run-my-paid-newsletter.json",
+        "bytes": 1551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-ai-assisted-paid-newsletter-a-good-first-online-business-for-a-beginner.json",
+        "bytes": 1612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-fix-if-my-ai-assisted-paid-newsletter-gets-subscribers-but-nobody.json",
+        "bytes": 1618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-build-a-fully-automated-newsletter-system-or-start-manually-and-add-ai.json",
+        "bytes": 1602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/would-a-local-paid-newsletter-be-easier-to-sell-than-a-national-ai-newsletter-in.json",
+        "bytes": 1683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-turn-my-free-ai-newsletter-into-a-paid-one-without-upsetting-current-re.json",
+        "bytes": 1667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-automate-first-in-my-membership-community-if-i-m-overwhelmed-by-co.json",
+        "bytes": 2299,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-actually-run-my-paid-membership-community-while-i-m-busy.json",
+        "bytes": 2113,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-human-oversight-does-ai-content-support-need-in-a-paid-community.json",
+        "bytes": 2103,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-ai-need-before-it-can-create-useful-content-for-my-members.json",
+        "bytes": 2116,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-repurpose-my-newsletter-into-content-for-a-paid-membership-community.json",
+        "bytes": 2035,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-answer-member-questions-without-making-my-community-feel-impersonal.json",
+        "bytes": 2050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-new-ai-membership-platform-or-can-ai-work-with-the-tools-i-already-u.json",
+        "bytes": 2155,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-content-support-for-a-membership-community-really-cost.json",
+        "bytes": 2160,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-ai-content-support-is-actually-helping-my-membership-commu.json",
+        "bytes": 2102,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-content-support-worth-it-for-a-small-membership-community-with-only-a-few.json",
+        "bytes": 2018,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-put-membership-community-conversations-into-ai-tools.json",
+        "bytes": 2136,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-moderate-my-membership-community-or-will-it-wrongly-punish-members.json",
+        "bytes": 2071,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-up-facts-in-my-paid-community-content.json",
+        "bytes": 2028,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-keep-ai-from-mixing-up-free-content-paid-content-and-private-member.json",
+        "bytes": 2005,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-decide-what-kind-of-membership-community-to-create.json",
+        "bytes": 1977,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-when-choosing-a-platform-for-an-ai-supported-membership-co.json",
+        "bytes": 2108,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-set-up-ai-content-support-for-a-membership-community.json",
+        "bytes": 2031,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-i-have-to-keep-updating-the-ai-prompts-as-my-membership-community-grows.json",
+        "bytes": 2021,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-personalize-onboarding-for-new-membership-community-members.json",
+        "bytes": 2024,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-summarize-member-discussions-without-violating-trust.json",
+        "bytes": 1903,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-get-more-members-or-does-it-only-create-content.json",
+        "bytes": 1957,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-simplest-ai-content-setup-for-a-one-person-membership-community-in-t.json",
+        "bytes": 2092,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-for-my-membership-community-if-i-barely-have-any-content-or-documen.json",
+        "bytes": 2068,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-problems-can-t-ai-content-support-solve-in-a-membership-community.json",
+        "bytes": 2075,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-members-dislike-my-community-if-they-find-out-ai-helps-create-the-content.json",
+        "bytes": 2060,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-plan-my-business-website-but-have-no-idea.json",
+        "bytes": 2145,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-really-build-a-professional-website-if-i-don-t-know-how-to-code.json",
+        "bytes": 2052,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-parts-of-website-planning-should-i-give-ai-and-which-parts-should-i-keep-u.json",
+        "bytes": 2058,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-realistically-take-to-build-a-website-with-ai-if-i-m-doing-it-m.json",
+        "bytes": 2060,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-an-ai-assisted-website-really-cost-after-the-free-trial-ends.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-to-give-ai-before-it-can-plan-my-website-properly.json",
+        "bytes": 1989,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-making-up-facts-testimonials-or-impressive-sounding-claims.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-whether-my-ai-built-website-is-actually-working.json",
+        "bytes": 1928,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-an-ai-website-builder-wordpress-a-traditional-builder-or-hire-a-dev.json",
+        "bytes": 2091,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-make-a-good-website-for-my-local-business-or-will-it-miss-important-detai.json",
+        "bytes": 1964,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-m-overwhelmed-by-ai-website-tools-what-is-the-safest-first-automation-to-build.json",
+        "bytes": 1962,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-ask-ai-for-a-sitemap-wireframe-or-full-website-first.json",
+        "bytes": 1833,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-generated-website-code-safe-to-use-in-production-or-am-i-asking-for-troubl.json",
+        "bytes": 2048,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-do-i-actually-need-besides-an-ai-prompt-to-get-my-website-online.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-ai-built-website-rank-on-google-or-will-search-engines-ignore-it.json",
+        "bytes": 2126,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-generated-images-and-copy-on-my-business-website-without-creating-a.json",
+        "bytes": 1917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-give-an-ai-website-assistant-my-customer-information-and-business.json",
+        "bytes": 2047,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-sure-my-ai-generated-website-is-usable-for-people-with-disabilitie.json",
+        "bytes": 1923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-the-privacy-and-website-policies-i-need-or-is-that-too-risky.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-an-ai-chatbot-to-my-website-if-i-m-a-one-person-business.json",
+        "bytes": 1945,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-stop-trying-to-build-my-website-with-ai-and-hire-a-professional.json",
+        "bytes": 2042,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-turn-one-website-page-or-newsletter-into-my-whole-marketing-campaign.json",
+        "bytes": 1886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-an-ai-built-website-from-becoming-outdated-or-breaking-six-months.json",
+        "bytes": 2003,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-to-plan-a-website-for-my-first-digital-product.json",
+        "bytes": 1925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-a-high-converting-sales-page-or-will-it-just-sound-persuasive.json",
+        "bytes": 1941,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-build-an-ai-powered-business-directory.json",
+        "bytes": 2015,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-an-ai-business-directory-without-knowing-how-to-code.json",
+        "bytes": 1913,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-really-cost-to-build-an-ai-powered-business-directory.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-an-ai-powered-directory-that-actually-works.json",
+        "bytes": 2056,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-ai-search-make-my-business-directory-easier-for-people-to-use.json",
+        "bytes": 1887,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-ai-from-putting-fake-or-wrong-businesses-in-my-directory.json",
+        "bytes": 1908,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-data-do-i-need-before-building-an-ai-powered-business-directory.json",
+        "bytes": 1997,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-features-are-essential-in-an-ai-powered-business-directory-mvp.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-parts-of-directory-management-should-ai-automate-and-which-should-stay-hum.json",
+        "bytes": 2041,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-generated-directory-pages-rank-on-google.json",
+        "bytes": 1857,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-my-ai-business-directory-focus-on-one-us-city-one-state-or-the-whole-coun.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-an-ai-powered-business-directory-make-money-without-becoming-spammy.json",
+        "bytes": 2063,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-charge-businesses-to-be-listed-or-keep-the-directory-free.json",
+        "bytes": 1858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-let-businesses-claim-and-update-their-ai-generated-directory-listin.json",
+        "bytes": 1909,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-to-write-business-profiles-without-making-misleading-claims.json",
+        "bytes": 1916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-scrape-business-information-for-my-directory.json",
+        "bytes": 1923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-my-ai-powered-directory-include-reviews-and-ratings.json",
+        "bytes": 1858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-still-worth-building-an-ai-business-directory-when-so-many-directories-alr.json",
+        "bytes": 1924,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-niche-is-best-for-an-ai-powered-business-directory.json",
+        "bytes": 1882,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-an-ai-powered-business-directory-run-completely-on-autopilot.json",
+        "bytes": 1892,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-a-limited-budget-what-is-the-smartest-way-to-start-an-ai-directory.json",
+        "bytes": 1841,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-an-ai-directory-builder-and-custom-development.json",
+        "bytes": 1928,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-give-a-developer-before-building-my-ai-business-direct.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-listings-do-i-need-before-launching-an-ai-powered-directory.json",
+        "bytes": 1944,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-and-run-an-ai-business-directory-for-free.json",
+        "bytes": 1791,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-use-ai-to-build-software-but-have-no-idea-wh.json",
+        "bytes": 2245,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-assisted-software-development-if-i-m-not-a-programmer.json",
+        "bytes": 2091,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-ai-assisted-coding-actually-make-software-development-faster-or-will-i-spen.json",
+        "bytes": 2080,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-assisted-software-development-cost-compared-with-hiring-a-devel.json",
+        "bytes": 2136,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-turn-a-business-idea-into-a-software-specification-with-ai.json",
+        "bytes": 2036,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-software-development-tasks-are-safe-and-useful-to-give-an-ai-assistant.json",
+        "bytes": 2046,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-paste-my-company-s-code-and-customer-data-into-an-ai-coding-tool.json",
+        "bytes": 2169,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-ai-writes-my-application-code-and-how-do-i-catch-it.json",
+        "bytes": 2057,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-trust-ai-to-write-the-tests-for-the-code-it-generated.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-software-built-with-ai-less-reliable-or-lower-quality-than-software-built-by.json",
+        "bytes": 2038,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-a-good-idea-to-use-ai-to-refactor-an-existing-codebase.json",
+        "bytes": 1908,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-nontechnical-founder-build-a-real-product-with-ai-or-do-i-still-need-a-dev.json",
+        "bytes": 2178,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-chatgpt-github-copilot-an-ai-coding-editor-or-a-custom-bot.json",
+        "bytes": 2039,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-assisted-software-development-worth-it-for-a-small-business-with-a-limited.json",
+        "bytes": 2093,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-existing-software-has-no-documentation-and-i-want-ai-to-help-improve.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-access-should-i-give-an-ai-agent-that-can-modify-code-or-business-syste.json",
+        "bytes": 2065,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-build-an-mvp-or-will-i-just-end-up-with-a-fragile-demo.json",
+        "bytes": 2032,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-owns-code-created-with-ai-and-can-i-safely-sell-software-built-with-ai.json",
+        "bytes": 2199,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-good-ai-assisted-software-development-workflow-look-like-from-start.json",
+        "bytes": 2026,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-relying-on-ai-coding-tools-stop-me-from-learning-software-development.json",
+        "bytes": 2080,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-when-ai-generated-code-keeps-breaking-my-app.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-choose-ai-assisted-development-instead-of-no-code-software-or-a-tr.json",
+        "bytes": 2097,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-find-prospects-and-send-outreach-for-my-small-business.json",
+        "bytes": 1965,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-which-part-of-my-small-business-to-automate-first-with-ai.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-reliable-readme-files-and-technical-documentation-for-my-software.json",
+        "bytes": 2028,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-ai-assisted-search-engine-optimization-and-can-it-really-help-my-small-b.json",
+        "bytes": 2191,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-use-ai-for-seo-but-have-no-idea-where-to-sta.json",
+        "bytes": 2055,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-seo-tasks-can-ai-actually-handle-and-which-ones-still-need-a-human.json",
+        "bytes": 2097,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-google-penalize-my-website-if-i-use-ai-to-write-seo-content.json",
+        "bytes": 2023,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-do-keyword-research-for-me-or-will-it-just-make-up-search-volume.json",
+        "bytes": 2129,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-ai-assisted-seo-take-to-show-results.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-assisted-seo-cost-and-is-it-worth-paying-for.json",
+        "bytes": 2072,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-ai-assisted-seo-replace-a-normal-seo-strategy-or-is-it-just-a-faster-way-to.json",
+        "bytes": 2134,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-my-business-mentioned-in-chatgpt-google-ai-overviews-or-other-ai-se.json",
+        "bytes": 2206,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-stop-ai-seo-tools-from-publishing-inaccurate-information-about-my-busi.json",
+        "bytes": 2103,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-audit-my-website-for-seo-problems-and-fix-them-automatically.json",
+        "bytes": 2064,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-nontechnical-solopreneur-do-ai-assisted-seo-without-hiring-an-agency.json",
+        "bytes": 2067,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-an-ai-seo-service-guarantee-page-one-rankings-or-a-specific-number-of-leads.json",
+        "bytes": 2104,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-ai-seo-workflow-should-i-automate-first-if-my-budget-and-time-are-limited.json",
+        "bytes": 2022,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-an-ai-seo-assistant-need-from-me-to-do-a-good-job.json",
+        "bytes": 2110,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-ai-seo-mistakes-that-can-hurt-a-small-business-website.json",
+        "bytes": 2073,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-measure-whether-ai-assisted-seo-is-actually-working.json",
+        "bytes": 2060,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-a-local-business-use-ai-for-seo-without-making-fake-city-pages.json",
+        "bytes": 2172,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-manually-review-every-piece-of-ai-seo-content-before-publishing-it.json",
+        "bytes": 2103,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-create-an-seo-content-calendar-for-my-newsletter-or-digital-product-busin.json",
+        "bytes": 2062,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-good-at-building-internal-links-or-will-it-create-a-confusing-mess.json",
+        "bytes": 2096,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-ai-to-create-schema-markup-or-could-that-cause-seo-problems.json",
+        "bytes": 2045,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-connect-ai-seo-content-to-my-sales-funnel-without-making-every-article.json",
+        "bytes": 2142,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-ai-written-seo-content-original-instead-of-generic.json",
+        "bytes": 2056,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-stop-doing-ai-seo-myself-and-pay-a-professional.json",
+        "bytes": 2130,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-ai-to-research-my-competitors-and-customers.json",
+        "bytes": 1848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-actually-find-my-real-competitors-or-will-it-just-list-famous-companies.json",
+        "bytes": 1722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-help-me-understand-what-customers-actually-want.json",
+        "bytes": 1712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ai-customer-research-enough-or-do-i-still-need-interviews-and-surveys.json",
+        "bytes": 1750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-ai-competitor-and-customer-research-cost-for-a-small-business.json",
+        "bytes": 1811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-accurate-is-ai-competitor-research-and-how-do-i-catch-mistakes.json",
+        "bytes": 1690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-an-ai-competitor-research-report-include-so-it-is-actually-useful.json",
+        "bytes": 1795,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-analyze-competitor-reviews-to-improve-my-own-marketing-message.json",
+        "bytes": 1746,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-compare-competitor-prices-without-giving-me-misleading-numbers.json",
+        "bytes": 1597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-do-ai-competitor-research-if-i-have-almost-no-budget.json",
+        "bytes": 1672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-include-in-a-prompt-for-ai-competitor-and-customer-research.json",
+        "bytes": 1711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-tell-me-whether-my-business-idea-has-enough-demand.json",
+        "bytes": 1608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-ai-competitor-research-and-ai-customer-research.json",
+        "bytes": 1722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-privacy-and-safety-issues-should-i-consider-when-using-ai-for-customer-rese.json",
+        "bytes": 1731,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-i-update-ai-competitor-research.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-ai-competitor-and-customer-research-usually-take.json",
+        "bytes": 1659,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-help-me-stand-out-when-every-competitor-says-the-same-thing.json",
+        "bytes": 1690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-trust-ai-generated-competitor-rankings-traffic-estimates-and-market-share.json",
+        "bytes": 1664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-research-customers-and-prospects-without-making-my-outreach-feel-spammy.json",
+        "bytes": 1688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-ai-competitor-research-change-for-a-local-u-s-business.json",
+        "bytes": 1651,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-ai-research-look-at-if-i-am-creating-a-digital-product-or-paid-newsl.json",
+        "bytes": 1710,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-ai-research-tool-should-a-small-business-choose.json",
+        "bytes": 1650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-turn-ai-research-findings-into-actual-business-decisions.json",
+        "bytes": 1554,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-competitors-are-bigger-cheaper-and-already-dominate-search.json",
+        "bytes": 1644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-when-ai-gives-me-conflicting-answers-about-competitors-or-custo.json",
+        "bytes": 1682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-have-an-ai-business-idea-but-no-clear-offer.json",
+        "bytes": 2201,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-create-and-position-an-ai-offer-if-i-m-not-technical-or-good-at-coding.json",
+        "bytes": 2062,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-turn-an-ai-capability-into-an-offer-people-will-actually-understand.json",
+        "bytes": 2048,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-develop-and-position-an-ai-offer-from-scratch.json",
+        "bytes": 2093,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-charge-for-an-ai-powered-offer-or-workflow.json",
+        "bytes": 2022,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-whether-my-ai-offer-is-solving-a-real-problem-instead-of-just-sou.json",
+        "bytes": 2108,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-i-use-ai-to-develop-or-position-my-offer.json",
+        "bytes": 2050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-results-should-i-realistically-expect-from-ai-offer-development-and-positio.json",
+        "bytes": 2095,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-before-choosing-an-ai-offer-or-positioning-strategy.json",
+        "bytes": 2027,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-ai-offer-development-work-for-a-local-business-or-local-newsletter-in-the-u.json",
+        "bytes": 2136,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-ai-assistant-should-i-start-with-if-the-resource-library-has-too-many-opti.json",
+        "bytes": 2056,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-position-an-ai-offer-when-every-competitor-says-they-save-time-and-incr.json",
+        "bytes": 2117,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-develop-an-ai-offer-if-my-business-has-no-documented-processes-yet.json",
+        "bytes": 1989,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-need-to-launch-my-ai-offer-urgently-and-do-not-have-time-for-a-full-fu.json",
+        "bytes": 2052,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-develop-an-ai-offer-if-i-have-almost-no-budget-for-tools.json",
+        "bytes": 1957,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-tried-an-ai-tool-before-and-it-produced-generic-results-how-do-i-avoid-repeati.json",
+        "bytes": 2073,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-write-my-positioning-statement-or-do-i-need-to-do-it-myself.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-an-ai-offer-different-enough-to-stand-out-when-anyone-can-use-the-sam.json",
+        "bytes": 2070,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-help-me-create-a-digital-product-or-will-the-result-feel-generic.json",
+        "bytes": 1997,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-my-ai-offer-use-one-assistant-or-several-connected-assistants.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-use-ai-to-create-a-lead-magnet-that-supports-my-offer-instead-of-attrac.json",
+        "bytes": 2035,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-people-understand-my-ai-offer-but-still-hesitate-to-buy-it.json",
+        "bytes": 1928,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-build-the-ai-product-first-or-sell-the-offer-before-it-is-fully-automat.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-use-ai-to-build-follow-up-emails-without-sounding-spammy-or-generic.json",
+        "bytes": 1965,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-an-ai-digital-product-newsletter-service-or-affiliate-of.json",
+        "bytes": 2080,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 32357,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 115714,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 74352,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 30869,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 947636,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 69067,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 311,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 3467,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 349,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 193,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1369,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 359827,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 96598,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 96598,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 3457,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 130835,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 101219,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 775,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
+    }
+  }
+}

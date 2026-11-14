@@ -1,0 +1,7 @@
+{
+  "name": "Run My AI Biz — AI Data Package",
+  "short_name": "Run My AI Biz",
+  "start_url": "./ai-data.html",
+  "display": "browser",
+  "description": "AI Data Package for Run My AI Biz"
+}
