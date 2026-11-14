@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I avoid making unrealistic income claims when promoting an AI business idea?",
+  "description": "Label claims as sourced, estimated, anecdotal, or unknown, and remove anything you cannot verify. Do not present demonstrations or examples as typical results.",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-avoid-making-unrealistic-income-claims-when-promoting-an-ai-business-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I avoid making unrealistic income claims when promoting an AI business idea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not use AI to make unsupported financial promises or to disguise uncertainty. Run My AI Biz’s supplied context distinguishes demonstrated workflows from experimental or unused examples and restricts invented statistics, proof, and income claims. Key factors include source quality, date, geography, sample size, customer segment, and whether a result reflects revenue, profit, or time saved. Ask AI to label every claim as sourced, estimated, anecdotal, or unknown. Remove claims that cannot be verified and avoid presenting possibilities as typical outcomes. Track your own results separately from examples supplied by tools, educators, or other businesses.",
+        "description": "Label claims as sourced, estimated, anecdotal, or unknown, and remove anything you cannot verify. Do not present demonstrations or examples as typical results. Separate revenue, profit, and time savings, and track your own results independently from other people’s claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Could AI help me start a website service for small businesses in my area?",
+  "description": "Yes. AI can support prospect research, page drafts, content organization, and follow-up preparation for a focused website service. Define a narrow customer type",
+  "url": "https://runmyaibusiness.com/faq/could-ai-help-me-start-a-website-service-for-small-businesses-in-my-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Could AI help me start a website service for small businesses in my area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A narrow website service can be a practical starting point when you can identify a specific customer type and deliver a repeatable result. Run My AI Biz includes examples involving local business websites, directories, prospect research, and related marketing workflows. The service still requires discovery, accurate business information, revisions, hosting or platform decisions, and ongoing support. Key factors are the client’s existing assets, technical complexity, response time, ownership of accounts, and maintenance expectations. Create a written scope with deliverables, revision limits, handoff details, and recurring tasks before selling. Use AI for research, drafts, and checklists while personally reviewing every customer-facing page.",
+        "description": "Yes. AI can support prospect research, page drafts, content organization, and follow-up preparation for a focused website service. Define a narrow customer type, clear deliverables, revision limits, account ownership, hosting responsibilities, and ongoing support before approaching local businesses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

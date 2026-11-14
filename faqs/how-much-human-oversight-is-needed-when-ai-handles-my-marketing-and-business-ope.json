@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much human oversight is needed when AI handles my marketing and business operations?",
+  "description": "Keep human approval for customer messages, publication, spending, account changes, and claims. Use limited permissions, test environments, source checks, logs,",
+  "url": "https://runmyaibusiness.com/faq/how-much-human-oversight-is-needed-when-ai-handles-my-marketing-and-business-ope",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much human oversight is needed when AI handles my marketing and business operations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not let AI publish, send, purchase, or change accounts without an explicit review step unless the action is genuinely low-risk and tested. Run My AI Biz’s business context emphasizes approval before messages, publication, spending, and service signups. Public risk guidance also highlights inaccurate outputs, privacy concerns, and human overreliance. Key controls include least-privilege access, separate test environments, source checks, spending limits, unsubscribe handling, logs, and a manual stop process. Ask the system to produce a proposed action and rationale before execution. Review failures and near misses, not just successful runs. Keep a human responsible for final decisions and customer-impacting exceptions.",
+        "description": "Keep human approval for customer messages, publication, spending, account changes, and claims. Use limited permissions, test environments, source checks, logs, spending limits, and a manual stop process. Review failures and exceptions regularly instead of assuming successful runs prove safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when an AI assistant gives me wrong information or bad marketing copy?",
+  "description": "Pause the workflow, preserve the input and output, identify the failure point, and correct the source, prompt, or approval rule. Add uncertainty checks and miss",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-an-ai-assistant-gives-me-wrong-information-or-bad-marketin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when an AI assistant gives me wrong information or bad marketing copy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI output is inaccurate, pause the workflow, identify where the error entered, and correct the source, prompt, or approval rule before running it again. Run My AI Biz emphasizes source verification, review checkpoints, and restrictions against invented facts or proof. Key factors include whether the source was wrong, the instruction was ambiguous, the model inferred missing information, or an integration passed outdated data. Keep the original input and output so you can diagnose the failure. Add a rule requiring the assistant to state uncertainty or ask for missing information. Inform affected customers promptly when an error has already reached them and document the correction.",
+        "description": "Pause the workflow, preserve the input and output, identify the failure point, and correct the source, prompt, or approval rule. Add uncertainty checks and missing-information prompts. If customers saw the error, correct it promptly and record what changed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

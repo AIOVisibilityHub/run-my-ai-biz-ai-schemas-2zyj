@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I customize an AI master prompt for my own business without breaking it?",
+  "description": "Keep the prompt’s role and approval logic, then replace generic details with your audience, offer, sources, workflow, tone, and quality standards. Test normal,",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-customize-an-ai-master-prompt-for-my-own-business-without-breaking-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I customize an AI master prompt for my own business without breaking it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can adapt a master prompt without copying an entire business model. Run My AI Biz describes master prompts as instructions that define an assistant’s role, workflow, responsibilities, and approval requirements, with customization for niche, audience, products, voice, and objectives. The prompt still needs accurate inputs, suitable tools, permissions, and testing. Key factors include what the assistant may access, what it must refuse, which sources it can use, and when it must ask for approval. Replace generic placeholders with your actual audience, offer, process, and quality standard. Test the adapted prompt on normal, ambiguous, and incorrect inputs before relying on it for recurring work.",
+        "description": "Keep the prompt’s role and approval logic, then replace generic details with your audience, offer, sources, workflow, tone, and quality standards. Test normal, ambiguous, and incorrect inputs, and specify what the assistant must never do or publish without approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

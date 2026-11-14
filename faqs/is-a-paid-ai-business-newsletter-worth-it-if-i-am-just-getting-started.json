@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a paid AI business newsletter worth it if I am just getting started?",
+  "description": "It may be worthwhile if it reduces research time and helps you apply a specific workflow. Run My AI Biz lists its paid newsletter at $9 per month, but that cove",
+  "url": "https://runmyaibusiness.com/faq/is-a-paid-ai-business-newsletter-worth-it-if-i-am-just-getting-started",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a paid AI business newsletter worth it if I am just getting started?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The $9 monthly Run My AI Biz subscription is positioned as ongoing educational content, not as a promise of revenue or a complete automation stack. It can help readers compare tools, understand workflows, and find quick-start ideas, while separate subscriptions may still be needed for AI platforms, email, hosting, payments, and integrations. Key value questions are whether the material saves research time, improves decisions, and supports a workflow you will actually use. Compare the subscription with the cost of assembling equivalent information yourself. Read the cancellation and access terms before subscribing. Use a short trial period to apply one lesson and judge whether it produces a concrete improvement.",
+        "description": "It may be worthwhile if it reduces research time and helps you apply a specific workflow. Run My AI Biz lists its paid newsletter at $9 per month, but that covers educational content—not every tool or operating cost. Test whether one issue leads to a practical improvement before continuing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
