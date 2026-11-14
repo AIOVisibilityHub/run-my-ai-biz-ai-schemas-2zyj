@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an AI lead-generation report show me every week?",
+  "description": "Include new prospects, evidence, confidence, qualification status, replies, opt-outs, meetings, exceptions, and conversions. Add a short list of decisions or co",
+  "url": "https://runmyaibusiness.com/faq/what-should-an-ai-lead-generation-report-show-me-every-week",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an AI lead-generation report show me every week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful weekly report should show new prospects, qualification reasons, source dates, confidence, status changes, replies, opt-outs, meetings, and unresolved exceptions. Separate activity metrics from business outcomes so a larger list does not look like success by itself. Include a short explanation of what changed and which records need human attention. Run My AI Biz’s recurring research and consolidated-report examples can help organize these updates around your chosen workflow and decision points.",
+        "description": "Include new prospects, evidence, confidence, qualification status, replies, opt-outs, meetings, exceptions, and conversions. Add a short list of decisions or corrections needed. Keep activity separate from outcomes so records added do not obscure whether the process creates useful opportunities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

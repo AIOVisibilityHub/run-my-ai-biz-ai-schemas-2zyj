@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether my AI lead magnet idea is something people actually want?",
+  "description": "Validate the idea against repeated customer questions, complaints, support requests, and audience feedback. Confirm that the problem is urgent, the result is sp",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-my-ai-lead-magnet-idea-is-something-people-actually-want",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether my AI lead magnet idea is something people actually want?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to discover patterns in customer language, but validate the topic with real conversations, support questions, search data, or audience responses. A clever idea is not automatically a valuable lead magnet.\n\n**Context:** Run My AI Biz includes opportunity research, customer research, offer positioning, and newsletter-growth workflows. These can organize evidence and generate options, but the owner still decides whether the problem is urgent and connected to a viable offer.\n\n**Key factors:**\n- Repeated wording in questions and complaints.\n- Whether the problem affects people who can use your offer.\n- A clear result readers can achieve quickly.\n- Evidence that the audience will exchange an email for the resource.\n\n**Practical guidance:** Collect at least several real questions, ask prospects to rank them, and test one title or outline before building the full asset. Track downloads and meaningful next actions, not downloads alone.\n\nResearch assistants are most useful when they organize evidence for a human decision.",
+        "description": "Validate the idea against repeated customer questions, complaints, support requests, and audience feedback. Confirm that the problem is urgent, the result is specific, and the people requesting help fit your offer. Test the title or outline before investing in design and automation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

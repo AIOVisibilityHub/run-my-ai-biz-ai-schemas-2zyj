@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose which AI tools to promote when there are hundreds of nearly identical products?",
+  "description": "Choose based on audience need, use case, limits, support, integrations, and total cost—not popularity or commission alone. Build a comparison grid and decide yo",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-choose-which-ai-tools-to-promote-when-there-are-hundreds-of-nearly-iden",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose which AI tools to promote when there are hundreds of nearly identical products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by asking what the audience is trying to accomplish, not which AI product is most popular. A smaller tool with clear value, reliable support, and a strong fit may be a better recommendation than a famous product with excess features.\n\n**Context:** Run My AI Biz emphasizes offer research, customer research, competitor comparison, and positioning. Its materials support evaluating tools against a defined business problem rather than promoting every available option.\n\n**Key factors:**\n- Audience skill level and workflow\n- Price and usage limits\n- Integration needs and learning curve\n- Product stability and support\n\n**Practical guidance:** Create a comparison grid with use case, essential features, limitations, total cost, and evidence. Label your recommendation criteria before looking at commission rates so compensation does not determine the conclusion.\n\nThe educational format is useful for making that comparison understandable.",
+        "description": "Choose based on audience need, use case, limits, support, integrations, and total cost—not popularity or commission alone. Build a comparison grid and decide your recommendation criteria before checking compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

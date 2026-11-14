@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI sales funnel development cost for a small business?",
+  "description": "Pricing depends on the funnel’s stages, software, integrations, copy, design, traffic, and support. Compare scope rather than a headline fee: ask what is built,",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-ai-sales-funnel-development-cost-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI sales funnel development cost for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no single fair price for AI sales funnel planning and development because scope varies widely. Costs may include AI tools, email software, page or checkout software, integrations, copy review, design, implementation, advertising, and ongoing maintenance. Public market examples range from lower-cost self-serve tools to several-thousand-dollar implementation projects, but those figures are not a quote for Run My AI Business or its educational resources. Compare the number of funnel stages, contacts, users, integrations, revisions, and support hours rather than comparing headline prices. Ask whether the arrangement provides education, adaptable prompts, hands-on implementation, or continuing optimization.",
+        "description": "Pricing depends on the funnel’s stages, software, integrations, copy, design, traffic, and support. Compare scope rather than a headline fee: ask what is built, tested, connected, revised, and maintained. A focused self-serve workflow can cost less than custom implementation, but it requires more owner involvement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to plan and repurpose my social media content?",
+  "description": "Begin with one strong source—such as a newsletter, blog post, webinar, or podcast—and repurpose it into platform-specific drafts. Give AI your audience, goal, b",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-plan-and-repurpose-my-social-media-conten",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to plan and repurpose my social media content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Start with one substantial source, such as a newsletter issue, blog post, webinar, podcast, or product explanation, then ask AI to create platform-specific drafts rather than copying the same text everywhere. The strongest workflow keeps the original idea intact while changing the hook, length, format, call to action, and examples for each audience.\n\nContext: Run My AI Biz’s educational content covers newsletters, digital products, funnels, and social posts, so repurposing can connect those activities instead of treating each post as a separate task. AI should create working drafts, not publish unchecked material.\n\nKey factors:\n- Choose one clear source and one audience goal.\n- Define each platform’s format and tone.\n- Preserve facts, links, and the original offer.\n- Mark where human approval is required.\n\nPractical guidance: Build a reusable master prompt containing your business context, audience, voice, content pillars, forbidden claims, and approval steps. Test it on one newsletter before expanding.\n\nA focused first workflow is usually more manageable than trying to automate every channel at once.",
+        "description": "Begin with one strong source—such as a newsletter, blog post, webinar, or podcast—and repurpose it into platform-specific drafts. Give AI your audience, goal, brand voice, format requirements, and prohibited claims, then review every draft before publishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

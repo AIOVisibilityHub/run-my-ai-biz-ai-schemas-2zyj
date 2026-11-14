@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when AI researches and drafts my newsletter?",
+  "description": "Common failures include invented facts, outdated pricing, copied wording, generic tone, weak sources, missing context, broken links, and drafts that imply guara",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-ai-researches-and-drafts-my-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when AI researches and drafts my newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A newsletter research workflow can fail when the topic is too broad, sources are weak, instructions conflict, or no person owns the final decision. Run My AI Biz recommends beginning with one focused assistant and expanding only after the process works. Define what counts as a usable source, when research stops, which claims need confirmation, and who approves the issue. Add a recovery step for missing evidence: ask a narrower question, replace the source, or remove the claim. Review recurring errors each week and update the prompt rather than repeatedly correcting the same output by hand.",
+        "description": "Common failures include invented facts, outdated pricing, copied wording, generic tone, weak sources, missing context, broken links, and drafts that imply guaranteed results. Prevent them with a narrow brief, source requirements, claim flags, human approval, and a correction log. When evidence is missing, narrow the topic or remove the statement instead of guessing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

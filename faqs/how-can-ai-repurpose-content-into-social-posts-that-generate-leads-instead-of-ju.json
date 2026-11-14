@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI repurpose content into social posts that generate leads instead of just likes?",
+  "description": "Connect every post to a clear audience problem, relevant lead magnet, matching opt-in page, and specific next step. Ask AI to create a message map across the po",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-repurpose-content-into-social-posts-that-generate-leads-instead-of-ju",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI repurpose content into social posts that generate leads instead of just likes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft social content that supports a lead magnet, but the post, opt-in page, delivery message, and follow-up should make the same promise. A clever caption cannot fix an unclear resource or a disconnected landing page.\n\nContext: Run My AI Biz’s examples include local activity PDFs, checklists, opt-in pages, bridge pages, thank-you pages, and email sequences. Repurposing should keep the audience, problem, and next step consistent across each asset.\n\nKey factors:\n- State who the lead magnet is for.\n- Describe the actual benefit without exaggeration.\n- Match the call to action to the landing page.\n- Check delivery and follow-up before promotion.\n\nPractical guidance: Ask AI to create a message map showing the post claim, landing-page promise, resource contents, and follow-up purpose. Review every handoff before scheduling the campaign.\n\nMessage consistency matters more than producing a larger number of promotional posts.",
+        "description": "Connect every post to a clear audience problem, relevant lead magnet, matching opt-in page, and specific next step. Ask AI to create a message map across the post, landing page, resource, and follow-up, then verify that each promise is accurate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

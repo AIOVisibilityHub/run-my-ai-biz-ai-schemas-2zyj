@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I buy an AI lead-generation platform or build a workflow myself?",
+  "description": "Buy a platform when you need packaged data, integrations, and support. Build a workflow when your process is unusual or you want more control over prompts and r",
+  "url": "https://runmyaibusiness.com/faq/should-i-buy-an-ai-lead-generation-platform-or-build-a-workflow-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I buy an AI lead-generation platform or build a workflow myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right choice depends on whether you need research, enrichment, scoring, messaging, follow-up, or all four. A simple workflow may be enough if you already have a CRM and only need organized research; a broader system may help when repeated tasks span prospecting, email drafts, content, and follow-up. Compare data sources, export options, review controls, integration requirements, and total operating cost rather than counting features. Ask whether the system can show why a prospect was included and allow you to correct errors. Run My AI Biz emphasizes task-specific assistants and coordinated workflows, so begin with one assistant before combining several.",
+        "description": "Buy a platform when you need packaged data, integrations, and support. Build a workflow when your process is unusual or you want more control over prompts and review steps. Compare data quality, permissions, exports, costs, and human-approval features before deciding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

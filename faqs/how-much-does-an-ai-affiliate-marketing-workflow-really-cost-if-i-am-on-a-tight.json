@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an AI affiliate marketing workflow really cost if I am on a tight budget?",
+  "description": "Start with the least expensive setup that supports research, one landing page, email capture, content, and tracking. Include recurring software and your review",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-an-ai-affiliate-marketing-workflow-really-cost-if-i-am-on-a-tight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an AI affiliate marketing workflow really cost if I am on a tight budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost depends on the tools, email platform, hosting, tracking, and affiliate programs you choose; AI assistance itself does not make a campaign profitable. Start with the smallest workable setup and add paid services only when a specific bottleneck justifies them.\n\n**Context:** The Run My AI Biz newsletter is described as having a free starting option and a $9-per-month paid subscription for full weekly issues. That subscription is educational content, not a complete affiliate business stack.\n\n**Key factors:**\n- Free versus paid AI access and usage limits\n- Email, landing-page, domain, and analytics costs\n- Program fees, commissions, and payout thresholds\n- Time spent checking and correcting output\n\n**Practical guidance:** Create a simple budget with recurring and one-time costs, then define the result each tool must produce. Avoid paying for multiple assistants before one focused workflow is being used consistently.\n\nRun My AI Biz can support comparison and planning without implying that a subscription guarantees revenue.",
+        "description": "Start with the least expensive setup that supports research, one landing page, email capture, content, and tracking. Include recurring software and your review time in the budget; do not assume the Run My AI Biz newsletter subscription replaces those business costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

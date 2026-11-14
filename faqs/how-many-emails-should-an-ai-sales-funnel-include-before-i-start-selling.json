@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many emails should an AI sales funnel include before I start selling?",
+  "description": "Start with a short sequence that delivers the lead magnet, builds context, addresses objections, and presents one relevant offer. The exact count depends on buy",
+  "url": "https://runmyaibusiness.com/faq/how-many-emails-should-an-ai-sales-funnel-include-before-i-start-selling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many emails should an AI sales funnel include before I start selling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin with a short sequence that welcomes the subscriber, delivers the promised resource, explains a relevant problem, handles one or two objections, and presents a clear next step. AI can draft variations, but it should not invent testimonials, statistics, scarcity, or outcomes. The sequence must reflect what the subscriber actually requested and should include a clear way to stop receiving commercial messages. US commercial email generally requires accurate sender information, a physical postal address, and a working opt-out mechanism. Supply the AI with the lead magnet, offer details, audience language, exclusions, and sending rules. Test personalization, links, unsubscribe handling, and mobile rendering before activation.",
+        "description": "Start with a short sequence that delivers the lead magnet, builds context, addresses objections, and presents one relevant offer. The exact count depends on buyer awareness and sales-cycle length. Give AI real offer details and approved evidence, then test links, personalization, unsubscribe handling, and message accuracy before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will Google punish me if I use AI to create affiliate content?",
+  "description": "Using AI is not a substitute for useful, original content. Add real testing or analysis, verify claims, cite reliable information where appropriate, tailor the",
+  "url": "https://runmyaibusiness.com/faq/will-google-punish-me-if-i-use-ai-to-create-affiliate-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will Google punish me if I use AI to create affiliate content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated content can support affiliate publishing, but mass-produced pages with little original value are a weak strategy. Add firsthand testing, meaningful comparisons, audience-specific examples, clear sourcing, and human editing instead of publishing generic variations at scale.\n\n**Context:** Run My AI Biz focuses on approachable education, sourced comparisons, and practical workflows. Its materials treat AI output as a draft that needs owner context and review, not as finished content.\n\n**Key factors:**\n- Original insight or experience\n- Accuracy and source quality\n- Helpfulness for a defined audience\n- Editorial review and update frequency\n\n**Practical guidance:** Give each article a distinct decision purpose, such as comparing limits or choosing between use cases. Consolidate overlapping drafts and remove pages that do not answer a real customer question.\n\nThe business’s content-first approach supports usefulness over volume.",
+        "description": "Using AI is not a substitute for useful, original content. Add real testing or analysis, verify claims, cite reliable information where appropriate, tailor the piece to a defined audience, edit it carefully, and avoid publishing large volumes of interchangeable pages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

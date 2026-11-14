@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare when choosing an AI newsletter research and drafting service?",
+  "description": "Compare source quality, research notes, fact-checking, voice customization, revision limits, email-platform compatibility, turnaround, ownership of drafts, and",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-compare-when-choosing-an-ai-newsletter-research-and-drafting-servi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare when choosing an AI newsletter research and drafting service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI newsletter services vary widely because some provide simple text generation while others include source collection, workflow setup, editing, design, scheduling, or ongoing support. Compare the actual deliverables rather than the phrase “AI newsletter.” Run My AI Biz focuses on educational content, sourced tool comparisons, practical examples, and adaptable workflows; it is not presented as a done-for-you publishing guarantee. Ask whether research links and notes are included, who verifies claims, how revisions work, and whether your approval is required before sending. Also check whether the workflow fits your email platform and preserves your voice. A small pilot issue can reveal more than a feature list.",
+        "description": "Compare source quality, research notes, fact-checking, voice customization, revision limits, email-platform compatibility, turnaround, ownership of drafts, and approval controls. Distinguish educational workflow guidance from done-for-you publishing. A pilot issue should show whether the service produces useful evidence and preserves your perspective instead of delivering generic summaries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

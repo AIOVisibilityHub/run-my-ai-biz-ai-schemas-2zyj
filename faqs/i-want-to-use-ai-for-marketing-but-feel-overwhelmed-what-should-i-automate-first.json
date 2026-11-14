@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I want to use AI for marketing but feel overwhelmed—what should I automate first?",
+  "description": "Choose one repetitive task with a clear outcome, such as newsletter repurposing or email drafting. Define the inputs, audience, voice, review steps, and approva",
+  "url": "https://runmyaibusiness.com/faq/i-want-to-use-ai-for-marketing-but-feel-overwhelmed-what-should-i-automate-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I want to use AI for marketing but feel overwhelmed—what should I automate first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing one repeatable marketing task, such as turning a newsletter into social posts or drafting an email sequence. Run My AI Biz’s focused approach is to define the workflow, give the assistant your audience and offer details, review the output, and improve the instructions before adding more tasks. Context matters because automation works best when the inputs, approval points, and final owner are clear. Key factors include content type, publishing platform, brand voice, source material, and whether the workflow can connect to required tools. Prepare examples of content you like, your audience profile, offer details, and a simple quality checklist. Keep publishing and spending approval with a person. Run My AI Biz can help you understand how specialized assistants support a manageable first workflow.",
+        "description": "Choose one repetitive task with a clear outcome, such as newsletter repurposing or email drafting. Define the inputs, audience, voice, review steps, and approval requirements before expanding. Run My AI Biz recommends building and testing one focused assistant before coordinating several workflows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

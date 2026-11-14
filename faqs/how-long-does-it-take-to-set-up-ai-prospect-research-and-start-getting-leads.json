@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up AI prospect research and start getting leads?",
+  "description": "A basic workflow can begin after you define the audience, criteria, data fields, and review process, but meaningful results require testing. Start with a small",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-ai-prospect-research-and-start-getting-leads",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up AI prospect research and start getting leads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small test is safer than launching a large campaign immediately. Begin with a defined batch, review every record, approve a limited number of messages, and monitor bounce rates, replies, complaints, and errors. If prospects are poorly matched, stop and revise the criteria before adding volume. The timeline depends on data access, integrations, approval speed, and how much research each account requires. Run My AI Biz recommends building and using one assistant before expanding to several coordinated workflows.",
+        "description": "A basic workflow can begin after you define the audience, criteria, data fields, and review process, but meaningful results require testing. Start with a small batch, correct errors, and expand only after the research and outreach quality are acceptable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

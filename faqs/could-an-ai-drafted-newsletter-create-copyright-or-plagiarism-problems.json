@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Could an AI-drafted newsletter create copyright or plagiarism problems?",
+  "description": "Yes, especially if AI reproduces distinctive source language, private material, or substantial article content. Use original commentary, concise summaries, attr",
+  "url": "https://runmyaibusiness.com/faq/could-an-ai-drafted-newsletter-create-copyright-or-plagiarism-problems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Could an AI-drafted newsletter create copyright or plagiarism problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI should summarize and transform source material, not copy distinctive wording or reproduce full articles. A newsletter can add value through original selection, commentary, comparisons, and practical interpretation, but source attribution and permission requirements still depend on what you use. For Run My AI Biz’s educational topics, retain links to original tool documentation and clearly separate reported facts from your own guidance. Avoid feeding confidential subscriber replies, private documents, or licensed material into a tool unless the terms permit it. Review both the AI output and the source excerpts for accidental copying. When ownership or permission is unclear, use a shorter summary and original analysis rather than reproducing the source.",
+        "description": "Yes, especially if AI reproduces distinctive source language, private material, or substantial article content. Use original commentary, concise summaries, attribution, and links to primary sources; do not ask AI to imitate a living writer or copy an article. Review outputs for near-verbatim passages and keep your own editorial contribution substantial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much human work is still required if I use AI for affiliate marketing?",
+  "description": "You still need human review for offer choice, factual claims, disclosures, brand voice, customer impact, spending, and publication. Let AI prepare structured dr",
+  "url": "https://runmyaibusiness.com/faq/how-much-human-work-is-still-required-if-i-use-ai-for-affiliate-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much human work is still required if I use AI for affiliate marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Human review remains necessary for strategy, factual accuracy, brand voice, disclosures, customer impact, spending, and publication. AI can handle structured drafting and repetitive preparation, but the owner remains responsible for decisions and exceptions.\n\n**Context:** Run My AI Biz materials recommend approval before sending messages, publishing content, spending money, or signing up for services. They also describe a chief-of-staff-style assistant as a coordinator, not an autonomous business owner.\n\n**Key factors:**\n- Consequence of an incorrect output\n- Access to sensitive accounts or customer data\n- Degree of personalization required\n- Whether the task has clear exception conditions\n\n**Practical guidance:** Mark every step as AI draft, human review, or approved action. Require escalation when a source is missing, a claim is uncertain, or the request falls outside the workflow.\n\nThis division of responsibility is central to the business’s human-directed model.",
+        "description": "You still need human review for offer choice, factual claims, disclosures, brand voice, customer impact, spending, and publication. Let AI prepare structured drafts, then use approval gates and escalation rules for uncertain or unusual situations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

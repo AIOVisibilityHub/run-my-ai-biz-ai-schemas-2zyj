@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I make an AI sales page if I don’t know how to code?",
+  "description": "Yes, but you still need a page platform for hosting, forms, checkout, analytics, and email connections. AI can help with copy and step-by-step instructions, whi",
+  "url": "https://runmyaibusiness.com/faq/can-i-make-an-ai-sales-page-if-i-don-t-know-how-to-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I make an AI sales page if I don’t know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sales page can be created without coding, but you still need a platform that handles publishing, forms, checkout, analytics, or email connections. AI can provide instructions and content, yet it cannot supply missing permissions or integrations by itself.\n\nContext: Run My AI Business distinguishes prompts from actual execution, which depends on the AI platform, connected services, permissions, and supporting tools.\n\nKey factors:\n- Page builder’s editing controls\n- Form and payment connections\n- Domain and hosting access\n- Ability to test mobile and desktop versions\n\nPractical guidance: Ask AI for a platform-specific setup checklist, then complete each step manually and test the visitor path. Keep credentials secure and avoid granting broader access than needed.\n\nThis supports a practical, no-code-friendly workflow without implying that prompts alone create a working business.",
+        "description": "Yes, but you still need a page platform for hosting, forms, checkout, analytics, and email connections. AI can help with copy and step-by-step instructions, while you must provide access, configure integrations, test the page, and keep credentials secure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do multiple AI marketing assistants work together without creating a confusing mess?",
+  "description": "Map the workflow first, assign each assistant a defined responsibility, specify inputs and outputs, and require approval at key handoffs. Build and test one ass",
+  "url": "https://runmyaibusiness.com/faq/how-do-multiple-ai-marketing-assistants-work-together-without-creating-a-confusi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do multiple AI marketing assistants work together without creating a confusing mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin with a workflow map, not a large collection of assistants. Run My AI Biz describes a chief-of-staff-style assistant that can organize projects and coordinate specialized assistants, but it also recommends identifying relevant workflows, building one assistant, using it, and expanding gradually. Key factors include dependencies, shared business information, account permissions, handoffs, failure alerts, and approval points. Write down what each assistant receives, produces, and cannot do. Test each handoff separately before connecting the full sequence. Run My AI Biz’s 38-bot resource is a library of adaptable blueprints, not 38 identical standalone products.",
+        "description": "Map the workflow first, assign each assistant a defined responsibility, specify inputs and outputs, and require approval at key handoffs. Build and test one assistant before adding others. Run My AI Biz presents its 38-bot resource as adaptable blueprints coordinated around focused business workflows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI match my newsletter voice if I have never published before?",
+  "description": "Yes, but start with a voice brief instead of assuming AI will infer your style. Describe your audience, tone, sentence preferences, recurring sections, examples",
+  "url": "https://runmyaibusiness.com/faq/can-ai-match-my-newsletter-voice-if-i-have-never-published-before",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI match my newsletter voice if I have never published before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can begin without archived newsletters, but AI will need more explicit direction and your first few issues will require closer editing. Provide a written description of the audience, promise, tone, recurring sections, examples you admire, and phrases or claims to avoid. Run My AI Biz’s approachable educational style can be defined through practical explanations and conversational workflows even before a large writing sample exists. Draft a short pilot issue, mark what feels right or wrong, and turn those decisions into prompt rules. Do not ask AI to invent a history or pretend to know your personal experience.",
+        "description": "Yes, but start with a voice brief instead of assuming AI will infer your style. Describe your audience, tone, sentence preferences, recurring sections, examples, boundaries, and desired level of technical detail. Edit a pilot issue, note what feels authentic, and convert those observations into reusable instructions. Keep personal stories and opinions under your control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

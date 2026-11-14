@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I make one AI landing page for everyone or separate pages for different audiences?",
+  "description": "Use one page when audiences share the same problem, outcome, offer, and proof. Create separate pages when their needs, objections, buying stage, or traffic sour",
+  "url": "https://runmyaibusiness.com/faq/should-i-make-one-ai-landing-page-for-everyone-or-separate-pages-for-different-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I make one AI landing page for everyone or separate pages for different audiences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one audience and one offer unless the differences between segments genuinely require separate messaging. A single page trying to speak equally to everyone often becomes vague and difficult to test.\n\nContext: Run My AI Business encourages focused implementation before expanding to multiple workflows or projects. Its reusable prompts can be adapted later while keeping each brand, audience, and offer distinct.\n\nKey factors:\n- Different problems or desired outcomes\n- Differences in buying stage\n- Separate proof or objections\n- Traffic source and campaign intent\n\nPractical guidance: Ask AI to identify where audiences share a problem and where their needs diverge. Create separate sections or pages only when the message, offer, or evidence must materially change.\n\nThis keeps AI-assisted page production manageable for a small business owner.",
+        "description": "Use one page when audiences share the same problem, outcome, offer, and proof. Create separate pages when their needs, objections, buying stage, or traffic sources differ enough to change the message. Start with the clearest audience and expand after learning from results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

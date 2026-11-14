@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire someone instead of building my AI funnel myself?",
+  "description": "DIY may work for a focused opt-in funnel and simple offer. Consider help when you have many platforms, complex segmentation, custom integrations, paid traffic,",
+  "url": "https://runmyaibusiness.com/faq/when-should-i-hire-someone-instead-of-building-my-ai-funnel-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire someone instead of building my AI funnel myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider professional implementation help when the funnel crosses several platforms, has complex segmentation, handles substantial paid traffic, requires custom integrations, or repeatedly fails despite structured testing. DIY education may be sufficient for a focused lead magnet, email sequence, and simple offer when you can review every step. Run My AI Business is oriented toward approachable education, adaptable workflows, and owner-directed implementation rather than promising that every project needs a custom build. Before hiring help, define the business goal, required deliverables, access boundaries, acceptance tests, and handoff documentation. Ask whether the provider will explain the system and leave you able to maintain it.",
+        "description": "DIY may work for a focused opt-in funnel and simple offer. Consider help when you have many platforms, complex segmentation, custom integrations, paid traffic, sensitive data, or repeated technical failures. Before hiring, define deliverables, access limits, tests, documentation, and whether you will be able to maintain the workflow afterward."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

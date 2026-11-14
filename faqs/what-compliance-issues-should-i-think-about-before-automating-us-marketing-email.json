@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compliance issues should I think about before automating US marketing emails with AI?",
+  "description": "Check sender identification, physical address, unsubscribe handling, data practices, vendor access, privacy disclosures, and any state requirements affecting yo",
+  "url": "https://runmyaibusiness.com/faq/what-compliance-issues-should-i-think-about-before-automating-us-marketing-email",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compliance issues should I think about before automating US marketing emails with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep commercial email practices, customer data handling, and AI processing under regular review rather than assuming a platform makes the funnel compliant. US email rules commonly require accurate sender information, a physical postal address, and a working opt-out; state privacy requirements can add data rights and obligations. If you use AI for profiling or personalization, document what data enters each tool and why, because permission to receive email may not answer every question about secondary data use. Run My AI Business’s safeguards support approval, source checks, and secure account connections, but they are not a substitute for advice specific to your operation. Maintain an inventory of vendors, data fields, consent records, disclosures, and unsubscribe tests.",
+        "description": "Check sender identification, physical address, unsubscribe handling, data practices, vendor access, privacy disclosures, and any state requirements affecting your audience. AI personalization may involve a different data use than simply sending email. Document tools and permissions, minimize data, test opt-outs, and obtain specialized guidance for your situation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

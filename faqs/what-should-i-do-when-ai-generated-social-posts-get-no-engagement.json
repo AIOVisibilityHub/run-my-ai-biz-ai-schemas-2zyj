@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do when AI-generated social posts get no engagement?",
+  "description": "Do not discard the topic immediately. Check audience fit, hook, format, timing, visual quality, call to action, and distribution. Ask AI to propose a small test",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-when-ai-generated-social-posts-get-no-engagement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do when AI-generated social posts get no engagement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help identify low-performing content patterns, but a weak result does not automatically mean the topic failed. The problem may be the hook, format, timing, audience fit, visual, call to action, or distribution.\n\nContext: Run My AI Biz’s educational approach favors testing and refinement rather than treating AI-generated drafts as guaranteed growth tools. Performance findings should guide the next experiment, not become unsupported claims about what will work.\n\nKey factors:\n- Compare similar formats and audiences.\n- Check meaningful actions, not only views.\n- Test one major change at a time.\n- Record what was changed and when.\n\nPractical guidance: Ask AI to summarize patterns from your analytics and propose a small test plan. Keep the original and revised versions so you can identify whether improvement came from the topic or the presentation.\n\nUse performance data to make better decisions, not to ask AI for certainty.",
+        "description": "Do not discard the topic immediately. Check audience fit, hook, format, timing, visual quality, call to action, and distribution. Ask AI to propose a small test plan, change one major variable at a time, and compare meaningful actions rather than views alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

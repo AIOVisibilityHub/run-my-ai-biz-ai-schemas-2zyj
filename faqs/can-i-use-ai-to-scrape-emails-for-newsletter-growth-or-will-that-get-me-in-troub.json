@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to scrape emails for newsletter growth, or will that get me in trouble?",
+  "description": "Avoid scraped or purchased lists. Collect addresses through clear, permission-based signup forms, state what subscribers will receive, honor unsubscribes, and m",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-scrape-emails-for-newsletter-growth-or-will-that-get-me-in-troub",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to scrape emails for newsletter growth, or will that get me in trouble?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not buy a large list or send unsolicited promotional email. Build permission through a clear signup form, explain what subscribers will receive, provide an easy unsubscribe option, and use an email platform with deliverability controls.\n\nContext: Growth tactics that rely on scraped contacts or unclear consent can damage trust and inbox placement. For a U.S. newsletter, review current requirements with qualified compliance professionals when your collection, advertising, or data practices become complex.\n\nKey factors:\n- Where each address came from.\n- What the signup promise said.\n- Whether promotional messages are expected.\n- How unsubscribes, bounces, and complaints are handled.\n\nPractical guidance: Keep records of signup sources and suppress unsubscribed or repeatedly bouncing addresses. Ask AI to help organize compliance questions and documentation, but do not let it make unsupported legal conclusions or send campaigns automatically.\n\nRun My AI Biz can teach responsible workflow design by retaining approval checkpoints for outreach and publication.",
+        "description": "Avoid scraped or purchased lists. Collect addresses through clear, permission-based signup forms, state what subscribers will receive, honor unsubscribes, and monitor bounces and complaints. Use AI to organize compliant workflows, not to decide whether questionable outreach is acceptable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need before it can write marketing content that actually fits my business?",
+  "description": "Provide your audience, offer, positioning, brand voice, examples, sources, required claims, prohibited wording, format, and approval rules. Run My AI Biz treats",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-before-it-can-write-marketing-content-that-actuall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need before it can write marketing content that actually fits my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give the assistant a clear role, audience, offer, voice, workflow, source policy, output format, and approval rules. Run My AI Biz calls these written instructions master prompts and shows how they can be adapted to a niche, product, audience, and objective. Key factors include examples of approved content, words to avoid, required calls to action, factual boundaries, and what the assistant must ask before proceeding. Provide real business context rather than a vague request for promotional copy. Test the instructions against several scenarios and revise them when the output misses the mark. Run My AI Biz can help you learn how specialized prompts become repeatable workflows.",
+        "description": "Provide your audience, offer, positioning, brand voice, examples, sources, required claims, prohibited wording, format, and approval rules. Run My AI Biz treats these details as part of a reusable master prompt. Test the instructions with real scenarios and refine them instead of expecting one vague prompt to work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

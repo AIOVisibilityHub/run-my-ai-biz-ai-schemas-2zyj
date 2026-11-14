@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I keep my AI newsletter free or charge for it?",
+  "description": "Keep enough free content to demonstrate clear value, then charge only for a distinct benefit such as deeper weekly issues, practical templates, or structured wo",
+  "url": "https://runmyaibusiness.com/faq/should-i-keep-my-ai-newsletter-free-or-charge-for-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I keep my AI newsletter free or charge for it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A free newsletter can grow an audience and build trust, while a paid tier can provide deeper instruction, curated comparisons, templates, or ongoing workflow support. The right choice depends on whether readers already perceive a recurring problem worth paying to solve.\n\nContext: Run My AI Biz describes a free starting option and a $9-per-month paid subscription for full weekly issues. That price is a business-specific detail, not a guarantee that every reader will see equal value.\n\nKey factors:\n- How much distinctive material sits behind the paywall.\n- Whether free issues demonstrate useful results.\n- The cost of producing consistent premium content.\n- Churn, support expectations, and subscriber feedback.\n\nPractical guidance: Define the paid benefit before promoting it and compare upgrades with reading and retention data. Explain what is included without promising income, automation, or guaranteed business growth.\n\nRun My AI Biz’s educational positioning is strongest when paid content helps readers apply AI more thoughtfully, not merely receive more generated text.",
+        "description": "Keep enough free content to demonstrate clear value, then charge only for a distinct benefit such as deeper weekly issues, practical templates, or structured workflow guidance. Run My AI Biz lists a free option and a $9-per-month paid subscription for full weekly issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

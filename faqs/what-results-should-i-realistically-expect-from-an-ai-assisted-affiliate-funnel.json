@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What results should I realistically expect from an AI-assisted affiliate funnel?",
+  "description": "Expect faster drafting and more organized testing before expecting revenue. Measure qualified traffic, opt-ins, email engagement, and conversions against a manu",
+  "url": "https://runmyaibusiness.com/faq/what-results-should-i-realistically-expect-from-an-ai-assisted-affiliate-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What results should I realistically expect from an AI-assisted affiliate funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A workflow can improve efficiency, consistency, and the amount of testing you can manage, but it cannot promise clicks, commissions, rankings, or profitable campaigns. Outcomes depend on offer quality, audience fit, distribution, trust, and execution.\n\n**Context:** The resource library includes research, content, funnel, and campaign assistants, yet the business description explicitly presents them as possible applications rather than guaranteed outcomes. Some examples are demonstrations or experimental workflows.\n\n**Key factors:**\n- Quality and relevance of the recommendation\n- Whether content solves a specific audience problem\n- Conversion experience after the click\n- Measurement accuracy and iteration discipline\n\n**Practical guidance:** Define success with leading indicators such as qualified visits, opt-in rate, email engagement, and approved conversions. Compare results against a manual baseline before claiming that AI improved performance.\n\nThe educational approach supports testing instead of income promises.",
+        "description": "Expect faster drafting and more organized testing before expecting revenue. Measure qualified traffic, opt-ins, email engagement, and conversions against a manual baseline; results still depend on audience fit, offer quality, trust, and distribution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

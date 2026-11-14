@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI turn one newsletter into a full week of social media posts?",
+  "description": "Yes, but provide the newsletter’s main lesson, audience, content goal, voice, and platform requirements. AI can draft posts, carousel concepts, video scripts, a",
+  "url": "https://runmyaibusiness.com/faq/can-ai-turn-one-newsletter-into-a-full-week-of-social-media-posts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI turn one newsletter into a full week of social media posts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can turn a newsletter into a content package, but it cannot reliably decide what matters to your audience without direction. A useful package might include several short posts, a discussion question, a carousel outline, a short-video script, and an email or community teaser.\n\nContext: Run My AI Biz’s newsletter and educational materials are especially suitable source content because they explain AI workflows, business ideas, and practical examples. Repurposing should preserve the distinction between an educational demonstration and a guaranteed result.\n\nKey factors:\n- Identify the issue’s main lesson and supporting points.\n- Separate facts from opinions and examples.\n- Create different openings for different platforms.\n- Keep the original source available for verification.\n\nPractical guidance: Ask for a content matrix showing source section, platform, format, objective, draft, and review notes. Have AI flag unsupported statistics, income claims, or statements requiring a source.\n\nThis approach makes the newsletter a dependable starting point without making every post sound identical.",
+        "description": "Yes, but provide the newsletter’s main lesson, audience, content goal, voice, and platform requirements. AI can draft posts, carousel concepts, video scripts, and discussion prompts, while you verify facts and remove claims that overstate results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

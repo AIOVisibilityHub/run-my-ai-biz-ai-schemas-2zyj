@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI improve my newsletter subject lines, or does it just create clickbait?",
+  "description": "AI can produce useful subject-line options when you provide the audience, issue promise, and factual limits. Choose specific, accurate wording and measure click",
+  "url": "https://runmyaibusiness.com/faq/can-ai-improve-my-newsletter-subject-lines-or-does-it-just-create-clickbait",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI improve my newsletter subject lines, or does it just create clickbait?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help generate subject-line options, but the best subject line usually names a specific problem, tool, result, or decision. Avoid exaggerated claims that attract opens but disappoint readers.\n\nContext: Newsletter creators report that specific titles can outperform ambiguous ones, especially for research and tool-focused issues. Subject-line testing is useful only when the audience and issue content remain comparable.\n\nKey factors:\n- Accuracy relative to the issue.\n- Clarity on mobile screens.\n- Relevance to a defined reader.\n- Consistent measurement beyond opens.\n\nPractical guidance: Ask AI for several factual variants, then choose the clearest one and test a single element at a time. Compare clicks, replies, subscriptions, and unsubscribes alongside opens.\n\nRun My AI Biz can make subject lines more actionable by tying them to concrete AI workflows, product decisions, or business tasks.",
+        "description": "AI can produce useful subject-line options when you provide the audience, issue promise, and factual limits. Choose specific, accurate wording and measure clicks, subscriptions, replies, and unsubscribes—not opens alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

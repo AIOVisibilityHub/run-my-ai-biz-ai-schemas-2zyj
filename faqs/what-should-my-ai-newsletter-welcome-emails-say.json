@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should my AI newsletter welcome emails say?",
+  "description": "Confirm the signup, deliver the promised resource, explain what readers will receive, share one useful quick win, and point to the next issue. Use AI to draft v",
+  "url": "https://runmyaibusiness.com/faq/what-should-my-ai-newsletter-welcome-emails-say",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should my AI newsletter welcome emails say?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A welcome sequence should confirm the subscription, explain the newsletter’s promise, deliver any promised resource, and guide the reader toward a useful next step. Keep it short enough to respect attention while giving new subscribers a reason to open the next issue.\n\nContext: Community advice specifically recommends introducing the newsletter within a welcome flow when it supports a broader business. For an AI education newsletter, the sequence can also clarify that examples are educational and require human review.\n\nKey factors:\n- The exact signup source and promise.\n- The reader’s current skill level.\n- The most useful first action.\n- A clear preference or unsubscribe path.\n\nPractical guidance: Draft the sequence from your best introductory issue, then use AI to create variants for different lead magnets or audiences. Review every link, claim, and call to action before activation.\n\nRun My AI Biz can use the welcome flow to connect subscribers with relevant topics such as AI tools, digital products, funnels, and operations.",
+        "description": "Confirm the signup, deliver the promised resource, explain what readers will receive, share one useful quick win, and point to the next issue. Use AI to draft variations, but check every claim, link, audience assumption, and unsubscribe mechanism."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

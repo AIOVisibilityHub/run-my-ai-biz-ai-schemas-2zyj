@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will AI lead generation help if I have no clear offer yet?",
+  "description": "Not reliably. Clarify the audience, problem, offer, and reason to respond before increasing outreach volume. AI can research demand and help organize a test, bu",
+  "url": "https://runmyaibusiness.com/faq/will-ai-lead-generation-help-if-i-have-no-clear-offer-yet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will AI lead generation help if I have no clear offer yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can reduce research and drafting time, but it cannot replace a clear offer or a credible reason to contact someone. If your audience, problem, or value proposition is unclear, faster outreach may simply produce faster rejection. Use research to test whether a recurring need exists and whether your offer addresses it. Review a small set of conversations before building a larger system. Run My AI Biz connects prospect research with offer positioning, lead magnets, funnels, and follow-up so the workflow supports a real business objective.",
+        "description": "Not reliably. Clarify the audience, problem, offer, and reason to respond before increasing outreach volume. AI can research demand and help organize a test, but it cannot compensate for an offer that prospects do not understand or need."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

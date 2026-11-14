@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if my AI newsletter is barely growing?",
+  "description": "Choose one specific audience and recurring problem before adding more tools or posting more frequently. Publish a consistent, useful format—such as a real AI wo",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-my-ai-newsletter-is-barely-growing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if my AI newsletter is barely growing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one clearly defined reader and one recurring problem, then use AI to support research, drafting, repurposing, and measurement. For Run My AI Biz, that might mean helping solopreneurs apply AI to a specific business task rather than covering every AI development.\n\nContext: Broad AI newsletters compete with a large volume of general news. Community discussions commonly point toward narrow audiences, practical issue formats, interviews, collaborations, and lead magnets as more useful growth levers than simply posting more often.\n\nKey factors:\n- Define the reader, job, and outcome.\n- Select a repeatable issue structure, such as a workflow, prompt, and implementation checklist.\n- Track subscriber conversions, not only views or likes.\n- Keep human review for accuracy, voice, and recommendations.\n\nPractical guidance: Use AI to suggest topics from reader questions, but validate each idea against your expertise and audience. Test one focused format for four to six issues before changing direction.\n\nRun My AI Biz can make this approachable by connecting newsletter education with practical workflows for products, funnels, and recurring business tasks.",
+        "description": "Choose one specific audience and recurring problem before adding more tools or posting more frequently. Publish a consistent, useful format—such as a real AI workflow, reusable prompt, and same-day checklist—and measure which issues turn visitors into subscribers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

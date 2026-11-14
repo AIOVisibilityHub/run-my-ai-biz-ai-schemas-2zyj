@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find qualified leads for my small business, or will it just create a giant list of names?",
+  "description": "AI can organize prospect research, but quality depends on clear criteria, current information, relevance, and human review. Ask it to explain each prospect’s fi",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-qualified-leads-for-my-small-business-or-will-it-just-create-a-giant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find qualified leads for my small business, or will it just create a giant list of names?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is most useful for finding and organizing potential prospects, not for guaranteeing leads or sales. Run My AI Biz describes workflows for researching sponsors, local businesses, YouTube prospects, and other opportunities, followed by relevant outreach prepared for review. Key factors are prospect fit, current information, contact permission, personalization, and a clear reason for the message. Require the assistant to show how each prospect matches your criteria and flag uncertain information. Review every outreach message and remove unsupported claims before sending. Run My AI Biz frames prospect research as decision support, not automatic customer acquisition.",
+        "description": "AI can organize prospect research, but quality depends on clear criteria, current information, relevance, and human review. Ask it to explain each prospect’s fit, flag uncertainty, and draft tailored outreach for approval. Run My AI Biz presents lead research as support for judgment, not guaranteed leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

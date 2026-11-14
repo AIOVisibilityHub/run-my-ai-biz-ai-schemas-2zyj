@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare before choosing an AI prospecting tool?",
+  "description": "Compare data freshness, accuracy, evidence, coverage, exports, integrations, limits, support, and review controls. Also calculate the time needed to correct rec",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-compare-before-choosing-an-ai-prospecting-tool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare before choosing an AI prospecting tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume the cheapest tool is the best value. Compare data freshness, geographic coverage, contact accuracy, evidence visibility, export rights, CRM compatibility, usage limits, support, and controls for opt-outs and review. A tool that produces many records but requires heavy correction may cost more than a smaller, better-targeted process. Ask for a trial or sample evaluation when available. Run My AI Biz’s comparison-focused educational content can help you assess how a tool fits your workflow rather than treating one product as universally best.",
+        "description": "Compare data freshness, accuracy, evidence, coverage, exports, integrations, limits, support, and review controls. Also calculate the time needed to correct records. The best option is the one that produces usable, relevant opportunities within your budget and workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

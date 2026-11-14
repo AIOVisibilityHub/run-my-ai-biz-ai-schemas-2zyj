@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether AI marketing automation is actually working for my business?",
+  "description": "Measure the process and the business result: drafting time, editing time, errors, publishing consistency, qualified responses, sign-ups, conversions, or other d",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-ai-marketing-automation-is-actually-working-for-my-busines",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether AI marketing automation is actually working for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI marketing system should improve a measurable business process, not merely generate more text. Run My AI Biz’s examples support goals such as consistent newsletter production, lead-magnet development, funnel preparation, content repurposing, research, and recurring administrative checks. Key factors include time saved, editing effort, error rate, qualified responses, subscriber actions, and revenue-related outcomes. Establish a baseline before automating and compare results after a defined test period. Stop or revise workflows that increase corrections without improving the target outcome. Run My AI Biz encourages practical experimentation instead of guaranteed growth claims.",
+        "description": "Measure the process and the business result: drafting time, editing time, errors, publishing consistency, qualified responses, sign-ups, conversions, or other defined outcomes. Establish a baseline first and revise workflows that create more correction work than value. Run My AI Biz treats testing as essential."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

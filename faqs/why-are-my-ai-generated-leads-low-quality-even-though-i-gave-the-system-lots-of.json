@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why are my AI-generated leads low quality even though I gave the system lots of data?",
+  "description": "More data does not guarantee better prospects. Check targeting, freshness, qualification rules, personalization evidence, and offer fit. Review records from the",
+  "url": "https://runmyaibusiness.com/faq/why-are-my-ai-generated-leads-low-quality-even-though-i-gave-the-system-lots-of",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are my AI-generated leads low quality even though I gave the system lots of data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poor results usually come from weak targeting, stale data, generic messaging, unsupported personalization, or an offer that does not match the observed need. Review a sample from the beginning of the workflow instead of only editing the final email. Check whether the qualification rule selected real buying signals and whether the message explains a specific benefit. Pause volume increases until the root problem is fixed. Run My AI Biz encourages focused implementation and refinement rather than adding more assistants to compensate for a flawed process.",
+        "description": "More data does not guarantee better prospects. Check targeting, freshness, qualification rules, personalization evidence, and offer fit. Review records from the first research step, pause expansion, and correct the workflow before generating a larger list."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

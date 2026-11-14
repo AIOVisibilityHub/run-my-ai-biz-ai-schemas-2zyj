@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to give AI before it can create a good lead magnet?",
+  "description": "Provide the audience, urgent problem, desired result, offer, tone, format, length, examples, exclusions, source material, and follow-up action. Also tell AI wha",
+  "url": "https://runmyaibusiness.com/faq/what-information-do-i-need-to-give-ai-before-it-can-create-a-good-lead-magnet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to give AI before it can create a good lead magnet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give AI a detailed brief before asking for content. Include the audience, problem, desired result, offer, tone, format, length, exclusions, source material, and the action readers should take afterward.\n\n**Context:** Run My AI Biz’s materials emphasize master prompts that define an assistant’s role, workflow, responsibilities, and approval requirements. That structure is more reliable than asking a general chatbot to “make a lead magnet.”\n\n**Key factors:**\n- State what the assistant may do and what requires approval.\n- Supply authentic customer questions and business examples.\n- Require uncertainty flags and prohibit invented proof or income claims.\n- Request separate drafts for the asset, opt-in page, and emails.\n\n**Practical guidance:** Start with an outline and sample checklist items, review them, and only then request the full draft. Save the approved instructions so later versions remain consistent with your brand and audience.\n\nA reusable master prompt can reduce repeated setup while preserving owner control.",
+        "description": "Provide the audience, urgent problem, desired result, offer, tone, format, length, examples, exclusions, source material, and follow-up action. Also tell AI what requires approval and instruct it not to invent statistics, testimonials, income claims, or unsupported facts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

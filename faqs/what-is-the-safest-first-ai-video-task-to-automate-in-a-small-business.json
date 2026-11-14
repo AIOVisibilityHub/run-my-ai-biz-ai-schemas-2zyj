@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the safest first AI video task to automate in a small business?",
+  "description": "Start with a low-risk, repeatable task such as captioning, transcript-based clipping, audio cleanup, or creating short versions from approved content. Document",
+  "url": "https://runmyaibusiness.com/faq/what-is-the-safest-first-ai-video-task-to-automate-in-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the safest first AI video task to automate in a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business should begin with one repetitive video task that has a clear input and output, such as captioning, transcript-based clipping, audio cleanup, or turning an approved lesson into short versions. Avoid automating publication, spending, outreach, or customer-facing claims until review and approval steps are reliable. The Run My AI Business approach recommends focused implementation before expanding across multiple assistants or projects. Write the current manual process, mark judgment points, gather sample inputs, and define what counts as an acceptable output. Run several real examples, record errors and time saved, then refine the instructions. Expansion makes sense only when the first workflow is repeatable and someone owns exception handling.",
+        "description": "Start with a low-risk, repeatable task such as captioning, transcript-based clipping, audio cleanup, or creating short versions from approved content. Document the input, output, review points, and failure conditions. Test several real examples before automating publication, outreach, spending, or customer-facing claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

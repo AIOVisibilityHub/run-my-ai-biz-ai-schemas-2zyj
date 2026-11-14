@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How narrow should my AI newsletter audience be before I start?",
+  "description": "Start with one audience that shares a recurring problem, such as solopreneurs trying to automate routine work. You can broaden later, but early issues should ma",
+  "url": "https://runmyaibusiness.com/faq/how-narrow-should-my-ai-newsletter-audience-be-before-i-start",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How narrow should my AI newsletter audience be before I start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A narrow audience usually gives an early AI newsletter a better starting point than a general promise to cover everything. Choose a group with a recognizable job or challenge, then make every issue solve a related problem.\n\nContext: People asking how to grow AI newsletters often recommend specific personas and immediately usable formats rather than broad news coverage. For Run My AI Biz, possible audience definitions include first-time entrepreneurs, solopreneurs, digital product creators, or small businesses reducing repetitive work.\n\nKey factors:\n- The reader’s current skill level.\n- Whether the problem occurs frequently.\n- Your access to examples and credible sources.\n- A clear connection to future products or education.\n\nPractical guidance: Interview or survey potential readers and ask what they tried, where they got stuck, and what result they need next. Turn repeated answers into issue categories and a short editorial promise.\n\nRun My AI Biz can use its existing practical focus to connect audience research with business planning, product creation, funnels, and operations.",
+        "description": "Start with one audience that shares a recurring problem, such as solopreneurs trying to automate routine work. You can broaden later, but early issues should make readers immediately recognize who the newsletter is for and what practical result they can expect."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

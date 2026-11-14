@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which newsletter metrics should AI help me track?",
+  "description": "Track subscriber source, landing-page conversion, welcome-email engagement, issue-level unsubscribes, and meaningful actions such as paid upgrades or replies. A",
+  "url": "https://runmyaibusiness.com/faq/which-newsletter-metrics-should-ai-help-me-track",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which newsletter metrics should AI help me track?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to identify patterns in your own performance data, then make one controlled editorial change at a time. Review which topics, formats, sources, and calls to action generate subscribers and engaged readers—not just clicks.\n\nContext: Newsletter creators often distinguish visibility from conversion and recommend tracking which channels produce sign-ups. A high open rate can still produce weak growth if readers do not share, subscribe, or take the next relevant action.\n\nKey factors:\n- New subscribers by source.\n- Landing-page conversion rate.\n- Welcome-email engagement.\n- Unsubscribes and complaints by issue.\n\nPractical guidance: Maintain a simple weekly scorecard and ask AI to summarize changes, anomalies, and promising experiments. Confirm the underlying numbers yourself and avoid treating correlation as proof that one tactic caused growth.\n\nRun My AI Biz can use this measurement approach across newsletter education, lead magnets, funnels, and paid content decisions.",
+        "description": "Track subscriber source, landing-page conversion, welcome-email engagement, issue-level unsubscribes, and meaningful actions such as paid upgrades or replies. AI can summarize patterns, but keep the source data visible and test one change at a time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI sales funnel planning and development actually work?",
+  "description": "AI supports research, funnel mapping, copy drafts, email sequences, and testing plans, but it does not replace strategy or review. Give it a clear audience, off",
+  "url": "https://runmyaibusiness.com/faq/how-does-ai-sales-funnel-planning-and-development-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI sales funnel planning and development actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help plan the funnel structure, research audience questions, draft a lead magnet, outline landing-page copy, prepare email follow-up, and organize testing ideas. It does not automatically create a complete, reliable business from a prompt. The actual process depends on your offer, customer data, email platform, checkout system, integrations, and review standards. Run My AI Business describes specialized assistants for research, lead magnets, pages, email sequences, launch preparation, and related tasks rather than one universal system. Start with a written brief containing the audience, problem, promise, offer, proof, objections, and call to action. Keep approval before publishing, messaging contacts, spending money, or connecting accounts.",
+        "description": "AI supports research, funnel mapping, copy drafts, email sequences, and testing plans, but it does not replace strategy or review. Give it a clear audience, offer, customer problem, proof, and goal. Build one connected workflow first, test every step, and approve anything before it is published or sent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

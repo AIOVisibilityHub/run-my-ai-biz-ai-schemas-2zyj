@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of a sales funnel should I automate with AI and which should stay human?",
+  "description": "Automate structured drafting, research organization, content repurposing, checklists, and routine reporting. Keep offer decisions, claims, customer interpretati",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-a-sales-funnel-should-i-automate-with-ai-and-which-should-stay-hu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of a sales funnel should I automate with AI and which should stay human?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is most useful for repeatable, structured work: organizing research, drafting copy variations, outlining lead magnets, preparing email sequences, repurposing content, and creating checklists. It is less dependable for deciding whether an offer is genuinely valuable, interpreting ambiguous customer feedback, verifying claims, or making high-impact decisions without review. Run My AI Business specifically frames bot resources as adaptable blueprints and distinguishes demonstrations from guaranteed income-producing businesses. Give the assistant source material, forbidden claims, voice rules, and acceptance criteria. Require a human to verify facts, customer promises, links, segmentation, and final sends.",
+        "description": "Automate structured drafting, research organization, content repurposing, checklists, and routine reporting. Keep offer decisions, claims, customer interpretation, data permissions, approvals, and final publishing under human control. AI can accelerate preparation, but it cannot reliably judge fit, truth, or business risk without an owner’s review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

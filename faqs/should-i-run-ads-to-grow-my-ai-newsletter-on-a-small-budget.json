@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I run ads to grow my AI newsletter on a small budget?",
+  "description": "Only after your audience, lead magnet, landing page, and welcome flow work reasonably well without paid traffic. Set a strict test budget, track qualified subsc",
+  "url": "https://runmyaibusiness.com/faq/should-i-run-ads-to-grow-my-ai-newsletter-on-a-small-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I run ads to grow my AI newsletter on a small budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paid acquisition can accelerate testing, but it does not repair an unclear promise or weak onboarding. Start with a small, measurable experiment only after you know which audience and lead magnet convert organically.\n\nContext: People discussing newsletter growth mention ads, but also describe trial and error and the need to pair promotion with a strong lead magnet. AI can help draft variants and summarize results, but ad decisions still require budget control and review.\n\nKey factors:\n- Cost per qualified subscriber.\n- Lead-magnet and landing-page conversion.\n- Welcome-email engagement.\n- Subscriber retention and paid conversion.\n\nPractical guidance: Set a spending ceiling, use separate campaign tracking, and stop ads that produce low-quality sign-ups. Do not let an automated workflow increase spend or launch campaigns without approval.\n\nRun My AI Biz’s human-directed automation principle is especially relevant when AI assists with marketing drafts or campaign planning.",
+        "description": "Only after your audience, lead magnet, landing page, and welcome flow work reasonably well without paid traffic. Set a strict test budget, track qualified subscribers and retention, and require approval before AI changes targeting or spending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build a lead magnet and email funnel, or do I still need to write everything myself?",
+  "description": "AI can draft the lead magnet, opt-in page, thank-you page, bridge page, and email sequence, but you must confirm audience fit, accuracy, delivery, consent, and",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-a-lead-magnet-and-email-funnel-or-do-i-still-need-to-write-everythi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build a lead magnet and email funnel, or do I still need to write everything myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to draft lead magnets, opt-in pages, bridge pages, thank-you pages, and follow-up emails, but confirm that the resource solves a real audience problem. Run My AI Biz’s examples connect these pieces into a funnel rather than treating the PDF or checklist as the entire strategy. Key factors include audience need, offer alignment, delivery method, consent-based email collection, proof, and the next action. Test the opt-in, download, links, and email sequence from a customer’s perspective. Track sign-ups, delivery failures, engagement, and qualified follow-up actions. Run My AI Biz can help you understand how funnel components fit together.",
+        "description": "AI can draft the lead magnet, opt-in page, thank-you page, bridge page, and email sequence, but you must confirm audience fit, accuracy, delivery, consent, and offer alignment. Run My AI Biz teaches connected funnel workflows with review and testing rather than treating generated copy as a finished campaign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

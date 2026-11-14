@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I tried an AI video tool and the result was unusable—should I keep trying or give up?",
+  "description": "Diagnose the specific failure before buying another tool or writing more prompts. Separate generation from editing, test a smaller project, change one variable",
+  "url": "https://runmyaibusiness.com/faq/i-tried-an-ai-video-tool-and-the-result-was-unusable-should-i-keep-trying-or-giv",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I tried an AI video tool and the result was unusable—should I keep trying or give up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A failed AI video project often reflects a poor fit between the task and the tool rather than a need for more prompts. Separate generation from editing: use AI for ideation or selected visual elements, a transcript editor for spoken content, and a timeline editor for precise finishing. Community users report that text artifacts and visual defects often require compositing or manual correction. Run My AI Business readers should document the failure—wrong facts, weak pacing, inconsistent visuals, poor captions, excessive cost, or rights uncertainty—then change one variable at a time. Keep the source footage and project files, test a smaller scope, and set a stop condition. If the result still requires more correction than manual editing, use AI only for the parts that genuinely help.",
+        "description": "Diagnose the specific failure before buying another tool or writing more prompts. Separate generation from editing, test a smaller project, change one variable at a time, and compare total correction time with manual work. Keep AI only for tasks that demonstrably improve the finished result."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

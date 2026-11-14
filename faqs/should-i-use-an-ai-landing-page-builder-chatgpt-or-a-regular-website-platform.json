@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use an AI landing-page builder, ChatGPT, or a regular website platform?",
+  "description": "Use an AI assistant for research, structure, and copy; use a page platform for design, hosting, forms, checkout, and analytics. Choose based on the full workflo",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-an-ai-landing-page-builder-chatgpt-or-a-regular-website-platform",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use an AI landing-page builder, ChatGPT, or a regular website platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right tool depends on whether you need copy, design, funnel setup, research, or ongoing updates. A prompt library or specialized assistant may help with planning and drafts, while a visual page platform may still be needed for layout, hosting, forms, and publishing.\n\nContext: People comparing AI builders often care about speed, customization, editing, integrations, and the ability to fix pages after generation. No single tool automatically solves every part of a launch.\n\nKey factors:\n- Editing control and platform compatibility\n- Form, checkout, analytics, and email support\n- Ability to reuse approved brand information\n- Export, ownership, and ongoing maintenance\n\nPractical guidance: List the required deliverables before choosing a tool. Test a small page with your actual offer instead of relying only on demonstrations.\n\nRun My AI Business helps readers compare workflows and understand how specialized assistants fit together.",
+        "description": "Use an AI assistant for research, structure, and copy; use a page platform for design, hosting, forms, checkout, and analytics. Choose based on the full workflow, not the fastest demo. Check editing control, integrations, ownership, and maintenance before committing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

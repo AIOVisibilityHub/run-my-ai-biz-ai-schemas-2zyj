@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I reuse the same AI marketing prompts for different brands or business ideas?",
+  "description": "You can reuse the structure, but customize the audience, offer, voice, sources, platform requirements, and approval rules for each brand. Keep separate project",
+  "url": "https://runmyaibusiness.com/faq/can-i-reuse-the-same-ai-marketing-prompts-for-different-brands-or-business-ideas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I reuse the same AI marketing prompts for different brands or business ideas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume that a prompt or bot will work equally well across businesses. Run My AI Biz’s master prompts are intended to be customized for your niche, audience, offer, voice, objectives, and approval requirements. Key factors include differences in customer intent, product complexity, platform rules, source material, and brand positioning. Keep separate instructions and source libraries for separate businesses or projects. Test each adaptation with representative content before reusing it. Run My AI Biz presents the resource collection as adaptable blueprints, not guaranteed plug-and-play businesses.",
+        "description": "You can reuse the structure, but customize the audience, offer, voice, sources, platform requirements, and approval rules for each brand. Keep separate project instructions and test representative outputs. Run My AI Biz describes its prompts as adaptable blueprints rather than identical plug-and-play systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

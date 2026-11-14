@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI tell me what my newsletter should write about next?",
+  "description": "AI can generate and rank topic ideas from reader questions, trends, gaps, and business goals, but it cannot prove that a topic will perform. Score ideas for aud",
+  "url": "https://runmyaibusiness.com/faq/can-ai-tell-me-what-my-newsletter-should-write-about-next",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI tell me what my newsletter should write about next?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help select topics by analyzing reader questions, recurring support issues, search themes, competitor coverage, and gaps in existing content, but popularity alone does not establish value. Run My AI Biz’s opportunity-research examples are useful as starting points for evaluating ideas, not as proof of demand or income. Ask AI to rank topics by audience problem, evidence available, business relevance, freshness, and effort. Confirm the shortlist with subscriber replies, click data, or a small poll. Keep an editorial record explaining why a topic was chosen. This creates a feedback loop instead of publishing whatever an AI system suggests.",
+        "description": "AI can generate and rank topic ideas from reader questions, trends, gaps, and business goals, but it cannot prove that a topic will perform. Score ideas for audience need, evidence quality, freshness, relevance, and effort. Validate the shortlist with replies, clicks, or a poll, then record what you learned for future issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

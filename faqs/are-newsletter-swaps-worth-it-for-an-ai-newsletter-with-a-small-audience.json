@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are newsletter swaps worth it for an AI newsletter with a small audience?",
+  "description": "They can be worthwhile when the partner serves a closely related audience and both newsletters offer a clear benefit. Test a small collaboration, use trackable",
+  "url": "https://runmyaibusiness.com/faq/are-newsletter-swaps-worth-it-for-an-ai-newsletter-with-a-small-audience",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are newsletter swaps worth it for an AI newsletter with a small audience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Collaborate with adjacent creators whose audiences overlap but whose newsletters are not identical. Good options include interviews, shared workshops, guest contributions, resource swaps, and carefully matched recommendations.\n\nContext: People growing AI newsletters often describe expert interviews and cross-promotion as practical ways to reach relevant readers. The value comes from audience fit and trust, not merely the size of a partner’s list.\n\nKey factors:\n- Similar reader needs without direct duplication.\n- A concrete benefit for both audiences.\n- Transparent promotion and consent.\n- A method for measuring referrals.\n\nPractical guidance: Prepare a short collaboration proposal explaining the shared topic, deliverable, audience benefit, and tracking method. Start with one small experiment, such as a joint issue or workshop, before committing to a continuing exchange.\n\nRun My AI Biz can pursue collaborations around AI education, digital products, automation, or small-business workflows while keeping its own editorial identity distinct.",
+        "description": "They can be worthwhile when the partner serves a closely related audience and both newsletters offer a clear benefit. Test a small collaboration, use trackable referral links or signup questions, and judge the result by qualified subscribers and engagement rather than raw impressions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

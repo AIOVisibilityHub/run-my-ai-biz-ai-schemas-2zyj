@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should AI create a follow-up sequence after someone downloads my lead magnet?",
+  "description": "Confirm delivery first, help the subscriber use the resource, answer likely questions, and then offer a closely related next step. Tell AI exactly what the lead",
+  "url": "https://runmyaibusiness.com/faq/how-should-ai-create-a-follow-up-sequence-after-someone-downloads-my-lead-magnet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should AI create a follow-up sequence after someone downloads my lead magnet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a lead-magnet sequence, begin by delivering or confirming the promised resource, then help the subscriber use it before presenting a closely related next step. The sequence should reflect what the person requested instead of immediately switching to an unrelated pitch.\n\nContext: Run My AI Biz’s examples connect lead magnets with opt-in pages, bridge pages, offers, and follow-up materials. Its educational focus is on understanding how those parts work together.\n\nKey factors:\n- The resource must match the signup promise.\n- Follow-ups should address likely questions or implementation obstacles.\n- The next offer should logically extend the resource.\n- Engagement and unsubscribe behavior should influence future messages.\n\nPractical guidance: Ask AI to map each email to one section, lesson, or outcome from the lead magnet. Include a clear path for people who are not ready to buy, such as educational content or a preference option.\n\nRun My AI Biz can help entrepreneurs connect a sequence to a broader funnel without treating the draft as finished marketing.",
+        "description": "Confirm delivery first, help the subscriber use the resource, answer likely questions, and then offer a closely related next step. Tell AI exactly what the lead magnet covers and what the paid offer adds. Include stop rules and a non-sales path for subscribers who are not ready."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

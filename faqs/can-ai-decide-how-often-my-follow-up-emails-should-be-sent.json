@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI decide how often my follow-up emails should be sent?",
+  "description": "AI can suggest a cadence, but it should not choose blindly. Timing depends on the trigger, offer, urgency, sales cycle, audience expectations, and engagement. A",
+  "url": "https://runmyaibusiness.com/faq/can-ai-decide-how-often-my-follow-up-emails-should-be-sent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI decide how often my follow-up emails should be sent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. AI can suggest timing based on a strategy, but the schedule should reflect the trigger, urgency, customer expectations, sales cycle, and engagement data. A fixed cadence is only a starting hypothesis.\n\nContext: Current guidance recommends spacing and content that vary by sequence, while stressing that cadence should match purchase complexity and interest level. Run My AI Biz’s approach supports testing and refinement rather than treating one schedule as universal.\n\nKey factors:\n- Inquiry responses usually differ from cold outreach.\n- A time-sensitive launch may need a different rhythm from evergreen education.\n- More messages do not compensate for weak relevance.\n- Replies, bookings, bounces, and opt-outs should alter the path.\n\nPractical guidance: Ask AI to propose a schedule with reasons and alternatives, then test one variable at a time. Document when each branch pauses, resumes, or ends.\n\nRun My AI Biz can help owners turn timing decisions into explicit workflow instructions.",
+        "description": "AI can suggest a cadence, but it should not choose blindly. Timing depends on the trigger, offer, urgency, sales cycle, audience expectations, and engagement. Ask for alternatives, test carefully, and define pause and exit rules for replies, bookings, opt-outs, and bounces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

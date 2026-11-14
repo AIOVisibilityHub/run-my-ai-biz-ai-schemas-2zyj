@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I let AI write and send my follow-up emails without checking them?",
+  "description": "No. AI can prepare drafts and workflow logic, but a person should verify facts, personalization, claims, links, pricing, sender details, and stop rules before s",
+  "url": "https://runmyaibusiness.com/faq/can-i-let-ai-write-and-send-my-follow-up-emails-without-checking-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I let AI write and send my follow-up emails without checking them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can create a strong first draft, but it should not be trusted to send messages without human approval. It may invent proof, misunderstand an offer, use outdated information, personalize from a false assumption, or omit an opt-out path.\n\nContext: Run My AI Biz specifically emphasizes approval before messages are sent, published, or connected to consequential actions. Its resource library treats prompts as adaptable instructions, not self-sufficient software.\n\nKey factors:\n- Accuracy of customer and product data.\n- Whether claims, statistics, prices, and testimonials are verified.\n- Whether the AI knows when to stop after a reply or unsubscribe.\n- Whether account permissions and integrations are correctly configured.\n\nPractical guidance: Require a review checkpoint for every new sequence and sample-test merge fields with fictional records. Keep the owner responsible for final approval and exception handling.\n\nRun My AI Biz is best suited to education about supervised workflows rather than promises of hands-free selling.",
+        "description": "No. AI can prepare drafts and workflow logic, but a person should verify facts, personalization, claims, links, pricing, sender details, and stop rules before sending. Run My AI Biz’s stated approach keeps approval with the business owner, especially before messages are published or accounts are connected."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

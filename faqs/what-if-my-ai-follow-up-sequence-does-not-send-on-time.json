@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my AI follow-up sequence does not send on time?",
+  "description": "Check the trigger, audience filter, time zone, sending window, platform queue, account permissions, approval status, and stop conditions. Test with one controll",
+  "url": "https://runmyaibusiness.com/faq/what-if-my-ai-follow-up-sequence-does-not-send-on-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my AI follow-up sequence does not send on time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the sequence is delayed, first check the trigger, audience filter, time zone, sending window, platform status, queue, integration permissions, and stop conditions. Do not immediately duplicate the workflow, because that can create duplicate messages or bypass an unsubscribe.\n\nContext: Run My AI Biz’s materials explain that prompts alone do not execute a workflow; suitable platforms, integrations, permissions, and supporting services are also required. Its approach favors secure connections and review checkpoints.\n\nKey factors:\n- Whether the triggering event was recorded correctly.\n- Whether the contact is suppressed, bounced, or already in another sequence.\n- Whether a connected account token or permission expired.\n- Whether the message is waiting for approval.\n\nPractical guidance: Test one controlled record and inspect the event log from trigger through send. Pause duplicate automation while diagnosing the original path.\n\nRun My AI Biz can help owners understand the operational checks around AI-assisted email rather than treating copy generation as the whole system.",
+        "description": "Check the trigger, audience filter, time zone, sending window, platform queue, account permissions, approval status, and stop conditions. Test with one controlled record and review the event trail. Avoid duplicating the automation until you know why the original message was delayed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

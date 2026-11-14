@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I paste customer comments, testimonials, or private messages into AI for social media repurposing?",
+  "description": "Only when the information is appropriate for that tool and the intended publication. Remove unnecessary identifying details, check data settings, restrict acces",
+  "url": "https://runmyaibusiness.com/faq/can-i-paste-customer-comments-testimonials-or-private-messages-into-ai-for-socia",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I paste customer comments, testimonials, or private messages into AI for social media repurposing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not paste private customer information, unpublished business records, passwords, payment details, or sensitive conversations into an AI tool unless the tool, settings, and business process are appropriate for that use. Remove unnecessary identifying details and consider whether the original permission covered this new form of publication.\n\nContext: Repurposing may involve testimonials, comments, screenshots, or newsletter replies. Run My AI Biz’s emphasis on human-directed workflows supports using clear inputs, secure connections, source checks, and approval before content is published.\n\nKey factors:\n- Minimize personal information before processing.\n- Check the tool’s data controls and retention terms.\n- Keep raw files access-restricted.\n- Confirm consent for new formats or channels.\n\nPractical guidance: Create a simple intake rule separating public, internal, confidential, and prohibited material. Ask AI to use placeholders until a reviewer confirms what can appear publicly.\n\nPrivacy protection should be designed into the workflow before repurposing begins.",
+        "description": "Only when the information is appropriate for that tool and the intended publication. Remove unnecessary identifying details, check data settings, restrict access, and confirm permission for reuse. Use placeholders during drafting until a human approves the final wording."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

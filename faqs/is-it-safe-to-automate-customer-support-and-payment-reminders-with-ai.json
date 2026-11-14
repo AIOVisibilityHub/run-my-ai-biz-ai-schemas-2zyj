@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to automate customer support and payment reminders with AI?",
+  "description": "It can be appropriate for routine, low-risk drafts when information is current and exceptions go to a person. Use approved responses, limited permissions, escal",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-automate-customer-support-and-payment-reminders-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to automate customer support and payment reminders with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for customer-support drafts when the questions are repetitive, the approved information is current, and a person can handle exceptions. Run My AI Biz includes first-line support, billing reminders, link checks, and operational reporting among its examples, but these still require defined boundaries and escalation rules. Key factors are refund or billing sensitivity, account access, privacy, tone, and the consequences of a wrong response. Create an approved answer library and require escalation for unusual, emotional, or disputed issues. Review sampled conversations regularly and update instructions when policies change. Run My AI Biz can help owners structure support assistance without handing over unrestricted control.",
+        "description": "It can be appropriate for routine, low-risk drafts when information is current and exceptions go to a person. Use approved responses, limited permissions, escalation rules, and regular quality checks. Run My AI Biz includes support and billing-monitoring examples but emphasizes boundaries and owner control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prevent an AI follow-up system from emailing someone who already replied or unsubscribed?",
+  "description": "Use a shared status field and real-time suppression process across every channel. Stop sequences after replies, opt-outs, purchases, or disqualification, and ro",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-prevent-an-ai-follow-up-system-from-emailing-someone-who-already-replie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prevent an AI follow-up system from emailing someone who already replied or unsubscribed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft follow-ups, but timing and content should reflect the prospect’s response status. Build checks that stop reminders when someone replies, opts out, becomes a customer, or is marked unsuitable. Keep messages useful and limited rather than repeating the same pitch. Review delayed, out-of-office, and ambiguous replies manually. Run My AI Biz’s workflow principles support approval checkpoints and exception handling, which are especially important when several channels or assistants share prospect records.",
+        "description": "Use a shared status field and real-time suppression process across every channel. Stop sequences after replies, opt-outs, purchases, or disqualification, and route unusual messages to a person. Test these controls before allowing automated follow-up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

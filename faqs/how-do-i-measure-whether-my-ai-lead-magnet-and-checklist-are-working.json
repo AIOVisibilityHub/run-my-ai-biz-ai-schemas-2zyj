@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure whether my AI lead magnet and checklist are working?",
+  "description": "Track the complete path: page visits, form completion, delivery success, engagement, relevant replies, qualified next actions, and unsubscribes. Define success",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-measure-whether-my-ai-lead-magnet-and-checklist-are-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure whether my AI lead magnet and checklist are working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat the first version as an experiment with a defined hypothesis, not as proof that the idea will grow the business. Set a baseline, measure the full path, and change one major variable at a time.\n\n**Context:** Run My AI Biz’s growth examples include subscriber acquisition, offer positioning, landing-page review, and campaign planning. These workflows support testing and decisions; they do not establish guaranteed growth.\n\n**Key factors:**\n- Page visits, form completion, and delivery success.\n- Resource use or completion when measurable.\n- Replies, qualified actions, and offer interest.\n- Errors, unsubscribe activity, and audience mismatch.\n\n**Practical guidance:** Before launch, write down the audience, promise, traffic source, and success measure. After a meaningful test, inspect a sample of subscribers and ask what they expected, used, and wanted next.\n\nMeasurement turns AI content production into a repeatable improvement process.",
+        "description": "Track the complete path: page visits, form completion, delivery success, engagement, relevant replies, qualified next actions, and unsubscribes. Define success before launch and review subscriber quality, not just volume. Use the results to improve the promise, content, or follow-up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

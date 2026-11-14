@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof should an AI system provide before I contact a prospect?",
+  "description": "Require the source, access date, relevant detail, qualification reason, and confidence level for each prospect. Review the original information before outreach.",
+  "url": "https://runmyaibusiness.com/faq/what-proof-should-an-ai-system-provide-before-i-contact-a-prospect",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof should an AI system provide before I contact a prospect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A credible workflow should make its research auditable. Keep the prospect’s source, access date, relevant evidence, qualification reason, confidence level, and reviewer decision. If AI produces a summary, compare it with the underlying page rather than storing only the conclusion. This makes corrections easier when websites change or the model misunderstands context. Run My AI Biz’s educational materials emphasize source verification and restrictions against invented statistics, proof, and income claims.",
+        "description": "Require the source, access date, relevant detail, qualification reason, and confidence level for each prospect. Review the original information before outreach. Store the evidence with the record so someone can understand why the prospect was selected and correct errors later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

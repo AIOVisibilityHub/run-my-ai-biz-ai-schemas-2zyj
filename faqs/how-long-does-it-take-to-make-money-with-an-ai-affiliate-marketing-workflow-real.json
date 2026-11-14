@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to make money with an AI affiliate marketing workflow, realistically?",
+  "description": "There is no dependable fixed timeline. AI may speed research and drafting, but traffic, trust, program approval, and conversions require testing. Track complete",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-make-money-with-an-ai-affiliate-marketing-workflow-real",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to make money with an AI affiliate marketing workflow, realistically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A basic workflow can be assembled quickly, but reliable affiliate results usually take longer because audience trust, search visibility, email engagement, and offer fit must be tested. Avoid promises of instant commissions based solely on prompt setup.\n\n**Context:** Run My AI Biz distinguishes educational examples from proven outcomes. AI can shorten drafting and research time, but it cannot guarantee traffic, rankings, approvals, or conversions.\n\n**Key factors:**\n- Existing audience and distribution channel\n- Complexity of the funnel and integrations\n- Publishing consistency and content usefulness\n- Affiliate-program review or approval requirements\n\n**Practical guidance:** Set milestones for a completed offer review, first useful asset, first qualified click, and first conversion rather than a fixed income deadline. Review performance weekly and change one major variable at a time.\n\nThe newsletter and resource library can help structure learning while keeping expectations grounded.",
+        "description": "There is no dependable fixed timeline. AI may speed research and drafting, but traffic, trust, program approval, and conversions require testing. Track completed assets, qualified clicks, email signups, and sales rather than expecting instant commissions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

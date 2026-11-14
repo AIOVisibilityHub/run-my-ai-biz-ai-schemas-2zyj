@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare when choosing AI sales funnel software?",
+  "description": "Compare workflow fit, integrations, data practices, permissions, analytics, testing, exports, support, and total cost. More AI features do not compensate for br",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-compare-when-choosing-ai-sales-funnel-software",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare when choosing AI sales funnel software?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose tools by workflow fit, data handling, integration support, export options, testing ability, and total cost—not by the number of AI features. A useful stack may include separate tools for pages, email, checkout, analytics, and AI-assisted drafting, but too many connections create failure points. Run My AI Business’s resource model uses specialized assistants for specific responsibilities and recommends expanding only after one works in practice. List your required handoffs, contact volume, approval steps, and future needs before comparing vendors. Test whether each tool can preserve your brand voice, source references, tags, permissions, and customer data controls.",
+        "description": "Compare workflow fit, integrations, data practices, permissions, analytics, testing, exports, support, and total cost. More AI features do not compensate for broken handoffs or poor email and checkout controls. Write your required funnel steps first, then test each platform against those needs and your expected contact volume."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI really create marketing content for my small business, or will it sound fake?",
+  "description": "AI can create strong drafts, but human direction and editing determine whether the content feels credible. Supply real customer insights, examples, brand guidan",
+  "url": "https://runmyaibusiness.com/faq/can-ai-really-create-marketing-content-for-my-small-business-or-will-it-sound-fa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI really create marketing content for my small business, or will it sound fake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can produce useful first drafts for marketing content, but it should not be treated as a finished campaign. Run My AI Biz’s educational workflows use AI for research, outlines, sales copy, lead magnets, email sequences, social posts, and repurposing, while the owner checks accuracy, relevance, tone, and claims. Key factors are the quality of your source material, the specificity of your instructions, the audience, and the level of human editing. Ask the assistant to identify unsupported claims and cite or preserve supplied sources where appropriate. Review every customer-facing asset before publication. Run My AI Biz is suited to learning how AI-assisted content fits into a broader business workflow rather than promising automatic results.",
+        "description": "AI can create strong drafts, but human direction and editing determine whether the content feels credible. Supply real customer insights, examples, brand guidance, and offer details, then review facts, tone, and claims before publishing. Run My AI Biz focuses on practical, human-directed workflows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

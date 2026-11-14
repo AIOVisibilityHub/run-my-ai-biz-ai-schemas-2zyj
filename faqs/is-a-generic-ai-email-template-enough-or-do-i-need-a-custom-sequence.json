@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a generic AI email template enough, or do I need a custom sequence?",
+  "description": "A generic template can provide a starting point, but a custom sequence is safer when your offer, audience, trigger, or sales cycle differs from the example. Com",
+  "url": "https://runmyaibusiness.com/faq/is-a-generic-ai-email-template-enough-or-do-i-need-a-custom-sequence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a generic AI email template enough, or do I need a custom sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sequence should be tailored to the offer, audience, sales cycle, trigger, and available evidence before you compare tools or templates. A generic prompt may be faster initially, but it usually needs more editing and may miss important business rules.\n\nContext: Run My AI Biz presents reusable master prompts and specialized assistants that can be adapted to a niche, audience, product, and objective. The collection is a library of blueprints, not 38 identical software products.\n\nKey factors:\n- A simple newsletter offer may need less branching than a course launch.\n- Existing customer data affects personalization quality.\n- Integration needs can matter more than copy-generation quality.\n- Review controls and approval checkpoints should be compared explicitly.\n\nPractical guidance: Compare outputs using the same brief, then score accuracy, editing time, workflow clarity, and stop-rule coverage. Choose the least complex setup that solves the immediate problem.\n\nRun My AI Biz can help readers evaluate whether a focused assistant or broader workflow is appropriate.",
+        "description": "A generic template can provide a starting point, but a custom sequence is safer when your offer, audience, trigger, or sales cycle differs from the example. Compare tools on accuracy, editing time, integration needs, approval controls, and stop rules—not just writing quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

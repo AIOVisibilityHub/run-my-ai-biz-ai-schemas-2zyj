@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What signals can AI use to tell whether a prospect might need my service?",
+  "description": "Useful signals include a visible business change, outdated customer-facing material, hiring activity, a relevant launch, or an identified sponsorship need. Reco",
+  "url": "https://runmyaibusiness.com/faq/what-signals-can-ai-use-to-tell-whether-a-prospect-might-need-my-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What signals can AI use to tell whether a prospect might need my service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can identify public signs of a possible need, such as a missing service page, outdated content, hiring activity, a new launch, or sponsorship opportunity. These are clues—not proof that the company has budget, authority, or urgency. Require the workflow to record the signal, date, source, and confidence level, then verify the detail before writing. Exclude prospects when the evidence is stale or too weak. Run My AI Biz includes examples for website prospects, newsletter sponsors, and YouTube research, which should be treated as starting points for human review.",
+        "description": "Useful signals include a visible business change, outdated customer-facing material, hiring activity, a relevant launch, or an identified sponsorship need. Record the source and date for each signal, then verify it. A signal suggests relevance but does not prove buying intent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

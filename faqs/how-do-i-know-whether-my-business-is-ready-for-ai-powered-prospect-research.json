@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether my business is ready for AI-powered prospect research?",
+  "description": "You are more ready when you have a defined audience, repeatable qualification criteria, reliable business information, and time to review outputs. Run a small m",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-my-business-is-ready-for-ai-powered-prospect-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether my business is ready for AI-powered prospect research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI may be useful when you have a repeatable audience, recurring research need, and enough capacity to review results. It is a poor fit when the offer is still undefined, the market is extremely small, the data is sensitive, or every opportunity requires highly customized judgment. A manual pilot can reveal whether repeated patterns exist before you automate them. Run My AI Biz recommends starting with one assistant and expanding only after the workflow proves manageable.",
+        "description": "You are more ready when you have a defined audience, repeatable qualification criteria, reliable business information, and time to review outputs. Run a small manual or assisted pilot first. If every prospect needs unique judgment or the offer is unclear, automation may be premature."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

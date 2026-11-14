@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI prospect research work with the CRM I already use?",
+  "description": "Usually, if the tools support compatible imports, exports, or integrations. Keep the CRM as the main record, define permitted updates, prevent duplicates, and t",
+  "url": "https://runmyaibusiness.com/faq/can-ai-prospect-research-work-with-the-crm-i-already-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI prospect research work with the CRM I already use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A CRM can remain the system of record while AI handles research, summaries, scoring suggestions, and draft preparation. Avoid creating a second disconnected database unless you have a clear reason. Define which fields AI may update, how duplicates are handled, and when a human must approve changes. Begin with one integration and test records before syncing a full database. Run My AI Biz’s coordinated-assistant approach is most useful when each tool’s responsibility and handoff are explicit.",
+        "description": "Usually, if the tools support compatible imports, exports, or integrations. Keep the CRM as the main record, define permitted updates, prevent duplicates, and test a small batch first. Add complexity only after the basic handoff works reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

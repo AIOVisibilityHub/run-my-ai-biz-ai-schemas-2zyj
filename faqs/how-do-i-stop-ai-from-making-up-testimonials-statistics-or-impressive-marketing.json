@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up testimonials, statistics, or impressive marketing claims?",
+  "description": "Provide approved evidence, require source verification, and instruct AI to flag missing support instead of guessing. Review every testimonial, statistic, case s",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-testimonials-statistics-or-impressive-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up testimonials, statistics, or impressive marketing claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI should not invent customer reviews, statistics, case studies, testimonials, income claims, or performance results. Run My AI Biz’s stated safeguards restrict assistants from inventing proof or income claims and require source verification. Key factors include the origin of every factual statement, whether a claim can be substantiated, and how prominently it appears in marketing. Give the assistant approved evidence and instruct it to flag missing support instead of filling gaps. Review testimonials and claims before publication, and label drafts that still need verification. Run My AI Biz can help structure a content workflow that separates evidence collection from copywriting.",
+        "description": "Provide approved evidence, require source verification, and instruct AI to flag missing support instead of guessing. Review every testimonial, statistic, case study, and income-related claim before publication. Run My AI Biz specifically emphasizes safeguards against invented proof and unsupported claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

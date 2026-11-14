@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI write and edit a sales video for my digital product without making risky claims?",
+  "description": "AI can draft structure, hooks, captions, and edits, but it should not invent testimonials, statistics, results, scarcity, or product features. Supply approved f",
+  "url": "https://runmyaibusiness.com/faq/can-ai-write-and-edit-a-sales-video-for-my-digital-product-without-making-risky",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI write and edit a sales video for my digital product without making risky claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI may help prepare sales videos, but it should not invent testimonials, results, scarcity, statistics, or product capabilities. Start with an approved offer description, audience problem, evidence you can substantiate, clear limitations, and a truthful call to action. Use AI for structure, alternate hooks, captions, scene suggestions, and editing variations, then compare every claim with your source material. Run My AI Business’s stated safeguards require approval before publishing or taking consequential actions, which is especially useful for funnel content. Keep a human reviewer responsible for the final script, links, disclosures, and export. Test the video with a small audience and revise based on comprehension rather than promising a specific conversion outcome.",
+        "description": "AI can draft structure, hooks, captions, and edits, but it should not invent testimonials, statistics, results, scarcity, or product features. Supply approved facts and limitations, verify every claim, check links and disclosures, and require human approval before publishing or connecting the video to a funnel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

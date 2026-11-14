@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should AI use the same follow-up emails for prospects and existing customers?",
+  "description": "No. Prospects need education and decision support, while customers need confirmation, delivery, onboarding, and useful next steps. Give AI separate audience sta",
+  "url": "https://runmyaibusiness.com/faq/should-ai-use-the-same-follow-up-emails-for-prospects-and-existing-customers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should AI use the same follow-up emails for prospects and existing customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A customer sequence should confirm the purchase or request, explain the next step, and reduce uncertainty before asking for another action. It should not continue using prospecting language after someone becomes a customer.\n\nContext: Run My AI Biz’s educational workflows cover digital products, launches, delivery, support, and recurring operations. That makes the customer’s current stage a key input when creating the sequence.\n\nKey factors:\n- Purchase, onboarding, delivery, and support messages have different purposes.\n- The sequence should check for failed delivery or unresolved questions.\n- Cross-sells should follow a useful customer outcome, not an immediate assumption.\n- Stop or change rules should account for refunds, complaints, and support requests.\n\nPractical guidance: Ask AI to create separate branches for delivered, unopened, refunded, and support-request states. Have the owner approve any cross-sell, testimonial request, or review invitation before sending.\n\nRun My AI Biz can help owners see email follow-up as part of ongoing business operations, not only lead conversion.",
+        "description": "No. Prospects need education and decision support, while customers need confirmation, delivery, onboarding, and useful next steps. Give AI separate audience states and stop rules for purchases, refunds, support requests, and complaints. Reusing one sequence can create confusing or inappropriate messages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

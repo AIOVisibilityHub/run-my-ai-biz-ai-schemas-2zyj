@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What privacy risks should I worry about when using AI for prospect research?",
+  "description": "Risks include inaccurate personal data, excessive collection, unclear vendor retention, unsecured integrations, and unauthorized outreach. Use only necessary in",
+  "url": "https://runmyaibusiness.com/faq/what-privacy-risks-should-i-worry-about-when-using-ai-for-prospect-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What privacy risks should I worry about when using AI for prospect research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI should not be treated as a substitute for permission, judgment, or secure data handling. Limit the information supplied to a tool, avoid uploading unnecessary sensitive data, review connected-account permissions, and define who can access prospect records. Verify vendor terms, retention practices, and integration settings before using customer information. Keep approval required for sending, publishing, or spending. Run My AI Biz’s resource guidance stresses secure account connections and human oversight rather than assuming a prompt alone makes a workflow safe.",
+        "description": "Risks include inaccurate personal data, excessive collection, unclear vendor retention, unsecured integrations, and unauthorized outreach. Use only necessary information, review permissions and vendor settings, restrict access, and require approval before AI sends or publishes anything."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

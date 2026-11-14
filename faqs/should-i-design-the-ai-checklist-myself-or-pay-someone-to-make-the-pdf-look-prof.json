@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I design the AI checklist myself or pay someone to make the PDF look professional?",
+  "description": "Use a template yourself when the checklist is simple, frequently updated, and visually straightforward. Consider design help when branding, diagrams, accessibil",
+  "url": "https://runmyaibusiness.com/faq/should-i-design-the-ai-checklist-myself-or-pay-someone-to-make-the-pdf-look-prof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I design the AI checklist myself or pay someone to make the PDF look professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can create the content with AI and hand the final file to a designer, or use a template-based workflow yourself. The better choice depends on how distinctive the brand must be, how often the asset will be updated, and whether layout work is a bottleneck.\n\n**Context:** Run My AI Biz focuses on practical AI-assisted business workflows, including digital products, sales pages, and marketing materials. Its educational guidance supports owners who want to direct AI in everyday language, but design quality still requires review.\n\n**Key factors:**\n- Brand consistency and accessibility.\n- Number of charts, screenshots, tables, or interactive elements.\n- Frequency of updates and need for reusable templates.\n- Owner time versus external design cost.\n\n**Practical guidance:** Ask AI to produce clean, structured copy with layout notes, then use a repeatable template and review the exported PDF on multiple devices. Hire specialized help when visual hierarchy, complex diagrams, or repeated production becomes the limiting factor.\n\nAI is often most valuable for content structure while humans protect presentation quality.",
+        "description": "Use a template yourself when the checklist is simple, frequently updated, and visually straightforward. Consider design help when branding, diagrams, accessibility, or production volume matters. Let AI structure the content and layout notes, but inspect the final PDF on mobile and desktop."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

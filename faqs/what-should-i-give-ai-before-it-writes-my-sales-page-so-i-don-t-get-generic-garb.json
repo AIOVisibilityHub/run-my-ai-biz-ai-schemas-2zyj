@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I give AI before it writes my sales page so I don’t get generic garbage?",
+  "description": "Give AI your audience, problem, offer, desired result, proof, objections, tone, and primary call to action. Ask for an outline before full copy, then review eve",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-give-ai-before-it-writes-my-sales-page-so-i-don-t-get-generic-garb",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I give AI before it writes my sales page so I don’t get generic garbage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the audience, offer, problem, desired result, and one primary action. AI can then help organize the page and draft copy, but Run My AI Business’s educational approach treats the output as a working draft that needs your review.\n\nContext: A vague prompt often produces generic claims and disconnected sections. Better inputs give the assistant enough context to match the message to a real buyer.\n\nKey factors:\n- Customer awareness and urgency\n- Offer price and buying friction\n- Available proof, examples, or demonstrations\n- The action you want visitors to take\n\nPractical guidance: Prepare a one-page brief before asking for copy. Include customer language, objections, differentiators, delivery details, and claims you can substantiate.\n\nRun My AI Business can help you think through the offer, page copy, funnel pieces, and review checkpoints as connected tasks.",
+        "description": "Give AI your audience, problem, offer, desired result, proof, objections, tone, and primary call to action. Ask for an outline before full copy, then review every claim and edit the draft using real customer language. A focused brief produces a more useful page than a one-line product description."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

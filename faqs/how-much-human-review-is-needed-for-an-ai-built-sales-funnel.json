@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much human review is needed for an AI-built sales funnel?",
+  "description": "Review every customer-facing asset and every consequential action. Check facts, claims, links, price, tone, segmentation, privacy language, accessibility, email",
+  "url": "https://runmyaibusiness.com/faq/how-much-human-review-is-needed-for-an-ai-built-sales-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much human review is needed for an AI-built sales funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can make a useful first draft, but human review should cover factual accuracy, customer promises, tone, accessibility, links, pricing, segmentation, privacy disclosures, and technical behavior. The review depth should increase when the funnel handles sensitive information, high-value purchases, automated decisions, or paid traffic. Run My AI Business specifically recommends approval before bots send messages, publish content, spend money, or sign up for services. Use a release checklist, test account, versioned copy, and a named approver. Do not treat fluent wording as evidence that a claim or workflow is correct.",
+        "description": "Review every customer-facing asset and every consequential action. Check facts, claims, links, price, tone, segmentation, privacy language, accessibility, email delivery, checkout, and fulfillment. Require approval before sending, publishing, spending, or connecting accounts, and use a checklist plus test account for repeatable quality control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

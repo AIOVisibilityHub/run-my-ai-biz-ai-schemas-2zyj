@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to create an AI email follow-up sequence?",
+  "description": "Costs vary from existing tools plus your time to additional AI, email, automation, data, and implementation fees. Run My AI Biz lists a $9-per-month paid newsle",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-create-an-ai-email-follow-up-sequence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to create an AI email follow-up sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost can range from using an existing AI account and email platform to paying for additional automation, data, integration, or consulting support. There is no reliable single price because the required setup depends on sequence complexity and the tools already in place.\n\nContext: Run My AI Biz offers educational content through a free starting option and a paid newsletter subscription listed at $9 per month; that education should not be confused with the cost of other platforms or implementation work. The promoted bot resources also require suitable AI platforms and supporting services.\n\nKey factors:\n- Number of sequences, branches, and audiences.\n- Email-platform and automation fees.\n- Data cleanup, integration, and testing requirements.\n- Ongoing review and optimization time.\n\nPractical guidance: Price the whole workflow, including setup, monitoring, revisions, and failed-test costs. Start with one high-value sequence before paying for a broad automation stack.\n\nRun My AI Biz can help owners understand the components they are evaluating without promising a particular return.",
+        "description": "Costs vary from existing tools plus your time to additional AI, email, automation, data, and implementation fees. Run My AI Biz lists a $9-per-month paid newsletter subscription, but that is educational content, not the total cost of building or sending sequences. Price setup, testing, monitoring, and revisions together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

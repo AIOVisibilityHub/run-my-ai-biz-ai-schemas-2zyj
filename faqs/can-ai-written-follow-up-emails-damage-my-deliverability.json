@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI-written follow-up emails damage my deliverability?",
+  "description": "Yes. Repetitive or misleading copy, poor data, invalid addresses, excessive volume, complaints, and missing authentication can all create problems. AI is only o",
+  "url": "https://runmyaibusiness.com/faq/can-ai-written-follow-up-emails-damage-my-deliverability",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI-written follow-up emails damage my deliverability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated emails can hurt deliverability when they produce repetitive copy, misleading subjects, poor personalization, invalid addresses, excessive volume, or messages that trigger complaints. Deliverability also depends on authentication, sending practices, engagement, and compliance—not wording alone.\n\nContext: Run My AI Biz’s workflow approach calls for source verification, secure connections, review checkpoints, and owner approval. Those safeguards should apply before a sequence is attached to a mailing or outreach platform.\n\nKey factors:\n- List quality, bounce rate, complaints, and engagement.\n- SPF, DKIM, and DMARC configuration where relevant.\n- Whether the content matches the recipient’s expectations.\n- Whether inactive or opted-out contacts are suppressed.\n\nPractical guidance: Test with a small, permission-appropriate audience and monitor bounces, complaints, replies, and unsubscribes. Pause the sequence if quality signals deteriorate rather than simply changing subject lines.\n\nRun My AI Biz can help owners learn the operational checks that belong around AI-generated copy.",
+        "description": "Yes. Repetitive or misleading copy, poor data, invalid addresses, excessive volume, complaints, and missing authentication can all create problems. AI is only one part of deliverability. Test carefully, suppress opted-out contacts, monitor bounces and complaints, and keep a human review step."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

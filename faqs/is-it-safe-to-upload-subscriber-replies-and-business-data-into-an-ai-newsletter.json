@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to upload subscriber replies and business data into an AI newsletter tool?",
+  "description": "Only when the tool’s data practices and your controls permit it. Remove unnecessary names and identifiers, never share credentials or payment details, and revie",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-upload-subscriber-replies-and-business-data-into-an-ai-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to upload subscriber replies and business data into an AI newsletter tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not paste confidential customer information, unpublished strategy, credentials, payment details, or private subscriber messages into an AI tool unless the service’s data terms and your internal controls permit it. Run My AI Biz emphasizes secure account connections and clear safeguards around business workflows. Remove names and identifying details when they are unnecessary. Separate public research from private business data and limit access to the smallest useful set. Check retention, training-use, export, and deletion settings before adopting a tool for recurring work. Keep sensitive approvals and account actions outside the drafting assistant unless the controls are understood and tested.",
+        "description": "Only when the tool’s data practices and your controls permit it. Remove unnecessary names and identifiers, never share credentials or payment details, and review retention, training-use, access, export, and deletion settings. Keep private subscriber information separate from public research. Run My AI Biz’s secure-workflow approach favors limited access and human approval for sensitive actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

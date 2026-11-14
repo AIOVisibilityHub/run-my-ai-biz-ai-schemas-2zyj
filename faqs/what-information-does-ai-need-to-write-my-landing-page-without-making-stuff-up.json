@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need to write my landing page without making stuff up?",
+  "description": "Provide the audience, problem, offer, outcome, price, delivery, proof, objections, tone, and call to action. Give AI an approved facts sheet and instruct it to",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-to-write-my-landing-page-without-making-stuff-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need to write my landing page without making stuff up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give AI a structured brief containing the offer, audience, customer problem, desired outcome, mechanism, price, delivery, proof, objections, tone, and call to action. Also specify what AI must not claim.\n\nContext: The resource description for Run My AI Business stresses master prompts that define roles, workflows, responsibilities, and approval requirements. A reusable brief makes revisions more consistent.\n\nKey factors:\n- Exact customer wording\n- Differentiation from alternatives\n- Evidence available today\n- Required review and approval points\n\nPractical guidance: Ask for an outline, assumptions, missing-information list, and draft separately. Store approved facts in a reference document and tell AI to use only that material for factual claims.\n\nThis turns a one-off request into a repeatable, owner-controlled workflow.",
+        "description": "Provide the audience, problem, offer, outcome, price, delivery, proof, objections, tone, and call to action. Give AI an approved facts sheet and instruct it to flag missing evidence rather than invent statistics, testimonials, results, or credentials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

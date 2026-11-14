@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is an AI social media content calendar actually worth the effort for a solo business owner?",
+  "description": "It can be worthwhile when it connects posts to real goals and reduces repeated planning. Use a simple calendar containing the objective, audience, source asset,",
+  "url": "https://runmyaibusiness.com/faq/is-an-ai-social-media-content-calendar-actually-worth-the-effort-for-a-solo-busi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an AI social media content calendar actually worth the effort for a solo business owner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good content calendar is worth keeping when it reduces repeated decisions, connects posts to business priorities, and makes review easier. It is not worth maintaining when it becomes a rigid list of posts with no audience purpose, evidence, or room for timely changes.\n\nContext: Run My AI Biz focuses on practical workflows and ongoing business management. A calendar can document source assets, approval status, links, and next actions instead of functioning only as a list of dates.\n\nKey factors:\n- Include objective, audience, source, format, owner, and status.\n- Review performance at a consistent interval.\n- Keep unused ideas separate from approved content.\n- Record revisions when facts or offers change.\n\nPractical guidance: Start with a simple spreadsheet or project board. Ask AI to identify missing fields and duplicate ideas, but keep final scheduling decisions with the owner.\n\nThe calendar should make work clearer, not create another system to maintain.",
+        "description": "It can be worthwhile when it connects posts to real goals and reduces repeated planning. Use a simple calendar containing the objective, audience, source asset, format, approval status, and link. Avoid building a complex system before proving it saves time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

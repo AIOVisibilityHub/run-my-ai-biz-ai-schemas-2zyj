@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to create an AI sales funnel that actually works?",
+  "description": "The timeline depends on your offer, assets, platforms, integrations, and testing needs. A focused opt-in funnel is faster than one with paid ads, webinars, upse",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-create-an-ai-sales-funnel-that-actually-works",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to create an AI sales funnel that actually works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A basic funnel may be planned quickly, but dependable development usually takes longer because copy, integrations, email delivery, checkout, and testing all need attention. The timeline depends on whether your offer, brand assets, platform accounts, and customer research already exist. A simple lead magnet and email sequence is less involved than a funnel with webinars, paid traffic, upsells, or several audience segments. Run My AI Business’s resource examples emphasize connected tasks and review checkpoints, so preparation affects speed. Inventory existing assets, choose one platform, define approval points, and reserve time for test purchases, mobile checks, and revisions.",
+        "description": "The timeline depends on your offer, assets, platforms, integrations, and testing needs. A focused opt-in funnel is faster than one with paid ads, webinars, upsells, and multiple segments. Prepare your offer brief and accounts first, then allow time to test forms, emails, links, mobile pages, checkout, and delivery before launch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

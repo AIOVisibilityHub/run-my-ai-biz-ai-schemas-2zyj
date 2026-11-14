@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is paying for AI sales-page tools worth it if I have a tiny budget?",
+  "description": "It can be worthwhile if it saves meaningful time on research, drafts, revisions, or updates without replacing your judgment. Start with one page, calculate tota",
+  "url": "https://runmyaibusiness.com/faq/is-paying-for-ai-sales-page-tools-worth-it-if-i-have-a-tiny-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is paying for AI sales-page tools worth it if I have a tiny budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-assisted page work can be worthwhile when it reduces repetitive research and drafting while leaving strategic decisions and approval with you. It is less valuable when the offer is unclear or you expect a generated page to replace customer research and testing.\n\nContext: Run My AI Business serves solopreneurs and small businesses that need practical help connecting offers, pages, funnels, and follow-up. The value comes from a repeatable workflow, not simply from producing text faster.\n\nKey factors:\n- Hours saved on recurring work\n- Cost of the platform and supporting tools\n- Quality of your existing inputs\n- Need for custom design or technical setup\n\nPractical guidance: Estimate the time spent on research, drafting, revisions, and updates. Start with one page and compare the result with your current process.\n\nThe business’s educational content can help assess fit before expanding into multiple assistants.",
+        "description": "It can be worthwhile if it saves meaningful time on research, drafts, revisions, or updates without replacing your judgment. Start with one page, calculate total tool costs, and compare the result with your current process before adding subscriptions or multiple assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

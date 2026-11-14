@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI for customer research before building a funnel?",
+  "description": "Use AI to organize interviews, reviews, search questions, and competitor observations, then verify every conclusion against the original sources. Separate facts",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-for-customer-research-before-building-a-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI for customer research before building a funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI as a structured assistant, not as a replacement for customer research. Ask it to cluster interview notes, summarize repeated objections, compare language across sources, and suggest questions; then verify conclusions against the underlying material. Avoid asking it to invent a market, testimonials, demand statistics, or competitor facts. Run My AI Business includes opportunity research, competitor research, demand research, and offer-positioning examples that can support this work. Keep a source log, separate observed facts from hypotheses, and test important assumptions with conversations, waitlists, small offers, or measured campaigns.",
+        "description": "Use AI to organize interviews, reviews, search questions, and competitor observations, then verify every conclusion against the original sources. Separate facts from assumptions, prohibit invented proof, and test the most important claims with real conversations, a waitlist, a small offer, or measured traffic before building extensively."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

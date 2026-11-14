@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can a small US business use AI follow-up emails without a marketing team?",
+  "description": "Start with one audience, one trigger, and one outcome. Use AI for planning, drafts, approved-field personalization, reply summaries, and reporting, while the ow",
+  "url": "https://runmyaibusiness.com/faq/how-can-a-small-us-business-use-ai-follow-up-emails-without-a-marketing-team",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can a small US business use AI follow-up emails without a marketing team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business can use AI for sequence planning, drafting, personalization from approved fields, reply classification, and performance summaries while keeping final decisions with the owner. The best first workflow is narrow enough to review consistently.\n\nContext: Run My AI Biz specifically addresses solopreneurs and small business owners who may coordinate specialized assistants for research, marketing, content, and administration. Its focused-start approach avoids attempting every workflow simultaneously.\n\nKey factors:\n- One owner may need a central checklist for approvals.\n- Limited staff increases the importance of clear exceptions and handoffs.\n- Several tools can create hidden complexity.\n- The business must retain control of spending, publishing, and account access.\n\nPractical guidance: Choose one sequence, one audience, and one primary outcome. Keep a weekly review of replies, bounces, unsubscribes, conversions, and errors before expanding to another workflow.\n\nRun My AI Biz can help a small operator organize AI assistance without implying that automation runs the business independently.",
+        "description": "Start with one audience, one trigger, and one outcome. Use AI for planning, drafts, approved-field personalization, reply summaries, and reporting, while the owner approves messages and handles exceptions. Keep a simple review checklist for accuracy, links, opt-outs, bounces, replies, and conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

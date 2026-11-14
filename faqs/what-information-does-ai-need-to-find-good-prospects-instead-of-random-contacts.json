@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need to find good prospects instead of random contacts?",
+  "description": "Provide your ideal customer profile, qualifying signals, exclusions, target market, required data fields, and outreach rules. Add a review standard that explain",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-to-find-good-prospects-instead-of-random-contacts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need to find good prospects instead of random contacts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful workflow normally needs a clear customer profile, target geography or market, qualifying signals, exclusions, preferred data fields, and an approved outreach style. If you want AI to review websites or public profiles, specify what evidence counts and require source links or notes internally. Also decide which actions require approval, including sending messages, updating records, or spending money. Without these instructions, the system may produce broad, inconsistent lists. Run My AI Biz’s customizable master prompts can provide a starting structure, but they must be adapted to your offer, audience, and tools.",
+        "description": "Provide your ideal customer profile, qualifying signals, exclusions, target market, required data fields, and outreach rules. Add a review standard that explains what evidence is acceptable. Clear instructions help AI produce useful research rather than a large but poorly matched contact list."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

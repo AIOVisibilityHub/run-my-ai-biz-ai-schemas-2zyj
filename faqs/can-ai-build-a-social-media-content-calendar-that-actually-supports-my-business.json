@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI build a social media content calendar that actually supports my business goals?",
+  "description": "Yes, if you provide business priorities, audience stages, content pillars, offers, platforms, and desired actions. Ask AI to explain why each post belongs in th",
+  "url": "https://runmyaibusiness.com/faq/can-ai-build-a-social-media-content-calendar-that-actually-supports-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI build a social media content calendar that actually supports my business goals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help plan a content calendar by organizing themes, formats, publication dates, source material, and calls to action. It should not independently decide your entire marketing strategy without business goals, audience information, current offers, and performance data.\n\nContext: Run My AI Biz covers business planning, newsletters, lead magnets, funnels, and social content. A useful calendar can connect those pieces—for example, an educational post may lead to a newsletter, which may support a relevant digital product.\n\nKey factors:\n- Define monthly business priorities first.\n- Assign content pillars and audience stages.\n- Balance educational, promotional, and community content.\n- Leave room for timely events and revisions.\n\nPractical guidance: Ask AI to propose a calendar with a reason for every post, the source asset, intended audience, and desired action. Approve the strategy before asking for captions.\n\nPlanning around business priorities prevents a full calendar from becoming busywork.",
+        "description": "Yes, if you provide business priorities, audience stages, content pillars, offers, platforms, and desired actions. Ask AI to explain why each post belongs in the calendar and connect posts to source materials such as newsletters, lead magnets, or product launches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

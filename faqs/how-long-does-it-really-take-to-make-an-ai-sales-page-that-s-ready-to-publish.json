@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it really take to make an AI sales page that’s ready to publish?",
+  "description": "AI can draft a page quickly, but publish-ready work also includes offer decisions, editing, proof checks, design, forms, checkout, email follow-up, and testing.",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-really-take-to-make-an-ai-sales-page-that-s-ready-to-publish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it really take to make an AI sales page that’s ready to publish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a first draft, AI may produce a page in minutes; a publishable page usually takes longer because the offer, assets, integrations, editing, testing, and approval still need attention. Run My AI Business presents page creation as one part of a broader launch workflow.\n\nContext: The initial generation is rarely the main time commitment. Revising the message, checking links, connecting forms or checkout, and preparing follow-up often require more work.\n\nKey factors:\n- Whether your offer is already defined\n- Availability of testimonials, images, and FAQs\n- Complexity of checkout or email connections\n- Number of audiences or page versions\n\nPractical guidance: Create one focused page first. Review the copy, test every form and button, then add variations only after the main path works.\n\nThe business’s recommended progression is to build one assistant or workflow, use it, refine it, and expand.",
+        "description": "AI can draft a page quickly, but publish-ready work also includes offer decisions, editing, proof checks, design, forms, checkout, email follow-up, and testing. Start with one audience and one call to action, then expand after the full visitor path works."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

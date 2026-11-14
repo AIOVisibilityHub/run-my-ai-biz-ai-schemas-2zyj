@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to set up AI marketing automation if I have never done this before?",
+  "description": "A simple draft workflow may be tested quickly, but dependable automation requires setup, examples, tool connections, permissions, testing, and revision. The tim",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-set-up-ai-marketing-automation-if-i-have-never-done-thi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to set up AI marketing automation if I have never done this before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small marketing workflow can often be tested quickly, but a dependable system takes longer because it requires content examples, tool connections, permission settings, test cases, and revisions. Run My AI Biz does not present one universal implementation timeline; complexity depends on the number of platforms and actions involved. Key factors include whether you already have source content, the condition of your customer data, automation triggers, and the amount of human review. Start with a draft-only workflow and define success before adding scheduled actions. Track setup time, editing time, errors, and missed approvals. Run My AI Biz helps you plan the learning process rather than promising instant automation.",
+        "description": "A simple draft workflow may be tested quickly, but dependable automation requires setup, examples, tool connections, permissions, testing, and revision. The time varies with platform complexity and available source material. Start with one draft-only process and measure errors and editing time before adding live actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from inventing testimonials, statistics, or income claims on my sales page?",
+  "description": "Give AI an approved facts sheet, prohibit invented proof, and require every statistic, testimonial, income claim, and result statement to be verified before pub",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-inventing-testimonials-statistics-or-income-claims-on-my-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from inventing testimonials, statistics, or income claims on my sales page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not publish AI-generated testimonials, statistics, customer stories, credentials, guarantees, or performance claims unless you can verify them independently. Replace unsupported material with transparent explanations, real evidence, or clearly labeled examples.\n\nContext: Run My AI Business specifically describes safeguards against invented statistics, proof, and income claims. This is especially important when a page could influence a purchase.\n\nKey factors:\n- Whether a statement is factual or promotional\n- Source quality and date\n- Permission to use customer material\n- Whether the claim implies a typical result\n\nPractical guidance: Create a claim-review checklist and mark every factual statement for approval. Ask AI to separate supplied facts from suggested wording.\n\nThe business’s educational model supports review checkpoints before content goes live.",
+        "description": "Give AI an approved facts sheet, prohibit invented proof, and require every statistic, testimonial, income claim, and result statement to be verified before publication. Ask the system to flag unsupported claims and label hypothetical examples clearly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI safely create videos about local businesses, events, or services in my U.S. city?",
+  "description": "It can draft local video content, but local facts may be outdated or invented. Verify hours, prices, events, addresses, services, and other changing details aga",
+  "url": "https://runmyaibusiness.com/faq/can-ai-safely-create-videos-about-local-businesses-events-or-services-in-my-u-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI safely create videos about local businesses, events, or services in my U.S. city?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Location matters when a video includes local events, businesses, services, prices, hours, regulations, or other details that can change. AI may produce outdated or invented local information, so verify each location-specific statement against a current first-party or authoritative source before publishing. For a Run My AI Business workflow, add a date, source field, and reviewer to local scripts or newsletters that become videos. Separate evergreen explanations from changeable details so one update does not require rebuilding the entire video. Keep a versioned record of the checked information and schedule a recheck when the content remains public. Do not assume a generated local recommendation is current simply because it sounds plausible.",
+        "description": "It can draft local video content, but local facts may be outdated or invented. Verify hours, prices, events, addresses, services, and other changing details against current authoritative sources. Add source dates and a reviewer, separate evergreen material from changeable facts, and recheck public videos periodically."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from making up personal details in follow-up emails?",
+  "description": "Use only verified fields, require AI to identify the source of each personalized statement, and instruct it to flag missing or conflicting data. Ban guesses abo",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-making-up-personal-details-in-follow-up-emails",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from making up personal details in follow-up emails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can personalize responsibly when it uses verified, relevant information and avoids sensitive or speculative assumptions. Personalization should clarify why the message matters, not pretend the sender knows details that were never confirmed.\n\nContext: Run My AI Biz emphasizes source verification and restrictions against inventing statistics, proof, or income claims. Those safeguards are especially important when a workflow draws from prospect research or form data.\n\nKey factors:\n- Use only current information from an approved source.\n- Avoid guessing budgets, pain points, job changes, or intent.\n- Keep personalization proportionate to the relationship.\n- Provide a correction or review step when data is incomplete.\n\nPractical guidance: Ask AI to show the source field behind each personalized statement and to replace uncertain details with neutral wording. Test blank, outdated, and conflicting data before launch.\n\nRun My AI Biz can help owners design supervised personalization rather than unsupported automation.",
+        "description": "Use only verified fields, require AI to identify the source of each personalized statement, and instruct it to flag missing or conflicting data. Ban guesses about budget, intent, pain points, or personal circumstances. Test blank and outdated records before enabling the sequence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

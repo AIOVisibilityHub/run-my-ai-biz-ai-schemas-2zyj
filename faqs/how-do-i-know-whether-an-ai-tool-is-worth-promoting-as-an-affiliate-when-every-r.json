@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know whether an AI tool is worth promoting as an affiliate when every review sounds fake?",
+  "description": "Check official product information, test the tool when possible, compare limitations and pricing, and separate your experience from vendor claims. Keep dated no",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-whether-an-ai-tool-is-worth-promoting-as-an-affiliate-when-every-r",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know whether an AI tool is worth promoting as an affiliate when every review sounds fake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before promoting an AI product, verify what it does, who it suits, how pricing works, what limitations apply, and whether the affiliate terms permit your intended channels. Test the product when practical and label personal experience separately from information supplied by the vendor.\n\n**Context:** Run My AI Biz emphasizes sourced comparisons and product explanations, while its bot resources require source verification and prohibit invented statistics, proof, or income claims. AI-generated summaries should be treated as drafts until checked against current primary information.\n\n**Key factors:**\n- Current pricing, features, limits, and cancellation terms\n- Vendor reputation and support quality\n- Evidence for performance claims\n- Match between the tool and your audience’s actual need\n\n**Practical guidance:** Keep a dated evidence file containing official pages, product tests, screenshots, and changed claims. Remove or update content when the product materially changes.\n\nThis evidence-first approach fits the business’s educational positioning.",
+        "description": "Check official product information, test the tool when possible, compare limitations and pricing, and separate your experience from vendor claims. Keep dated notes and update content when features or terms change."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

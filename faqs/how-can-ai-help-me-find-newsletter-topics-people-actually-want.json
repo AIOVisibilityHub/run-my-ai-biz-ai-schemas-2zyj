@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI help me find newsletter topics people actually want?",
+  "description": "Feed AI real reader questions, replies, interviews, support requests, and performance data, then ask it to group recurring problems. Validate the patterns with",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-help-me-find-newsletter-topics-people-actually-want",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI help me find newsletter topics people actually want?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to find and cluster reader questions, but do not let it invent demand. Combine replies, interviews, search behavior, support requests, and performance data to identify topics that deserve repeated coverage.\n\nContext: Newsletter-growth discussions recommend interviewing potential readers and using recurring pain points to shape issue titles. Research assistants are most useful when they organize evidence rather than replace judgment.\n\nKey factors:\n- Frequency of the problem.\n- Specificity of the requested outcome.\n- Reader willingness to try a solution.\n- Fit with your available expertise and sources.\n\nPractical guidance: Create a topic backlog with the question, audience, evidence, proposed format, and result to measure. Review it monthly and retire topics that consistently produce attention without meaningful engagement.\n\nRun My AI Biz’s opportunity-research and business-idea themes can help readers turn audience questions into focused educational experiments.",
+        "description": "Feed AI real reader questions, replies, interviews, support requests, and performance data, then ask it to group recurring problems. Validate the patterns with people and measurable engagement before building an editorial series."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to create an AI email follow-up sequence that actually works?",
+  "description": "A draft may be produced quickly, but a reliable sequence also requires strategy, data cleanup, prompt design, platform setup, testing, and revisions. Separate t",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-to-create-an-ai-email-follow-up-sequence-that-actually-wor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to create an AI email follow-up sequence that actually works?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first version often takes longer than expected because the work includes strategy, data cleanup, prompt design, platform setup, testing, and revisions—not just writing email copy. A simple draft may be quick, while a reliable connected workflow requires more preparation.\n\nContext: Run My AI Biz’s resources distinguish prompts from actual execution: integrations, permissions, supporting services, source verification, and approval are also required. The recommended approach is to start focused and expand after use.\n\nKey factors:\n- Number of branches and connected tools.\n- Quality of customer and offer information.\n- Amount of approval and testing required.\n- Whether the sequence supports a launch, funnel, newsletter, or recurring operation.\n\nPractical guidance: Separate the project into brief, draft, review, setup, test, and launch stages. Do not promise a launch date until links, merge fields, stop rules, and fallback handling have been tested.\n\nRun My AI Biz can help owners plan the work as a repeatable business process rather than a single AI prompt.",
+        "description": "A draft may be produced quickly, but a reliable sequence also requires strategy, data cleanup, prompt design, platform setup, testing, and revisions. Separate those stages and test links, merge fields, replies, opt-outs, and stop rules before launch. Complexity and integrations determine the real timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

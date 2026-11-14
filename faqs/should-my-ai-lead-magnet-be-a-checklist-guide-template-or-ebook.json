@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my AI lead magnet be a checklist, guide, template, or ebook?",
+  "description": "Use a checklist for a defined task, a guide for explanation, and a template when readers need a starting document. For a first AI lead magnet, choose the smalle",
+  "url": "https://runmyaibusiness.com/faq/should-my-ai-lead-magnet-be-a-checklist-guide-template-or-ebook",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my AI lead magnet be a checklist, guide, template, or ebook?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A checklist is usually the better first format when the audience needs to complete a defined task or confirm that nothing was missed. A guide is more suitable when readers need explanation, examples, or background before taking action.\n\n**Context:** Run My AI Biz covers lead magnets as part of broader funnel and digital-product workflows, including examples such as an affiliate-related checklist and a local activities PDF. The correct format depends on the problem, not on which format AI can generate fastest.\n\n**Key factors:**\n- Checklist: repeatable steps, launch preparation, audits, and setup tasks.\n- Guide: complex concepts, comparisons, and educational foundations.\n- Template: writing or implementation where a starting document saves time.\n\n**Practical guidance:** Ask three people in the target audience whether they would prefer steps, explanations, or a ready-to-edit example. If answers differ, create a short checklist first and link to deeper education later.\n\nChoosing the smallest useful format keeps the first experiment focused.",
+        "description": "Use a checklist for a defined task, a guide for explanation, and a template when readers need a starting document. For a first AI lead magnet, choose the smallest format that delivers a visible result in one sitting, then connect it to deeper content or an offer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

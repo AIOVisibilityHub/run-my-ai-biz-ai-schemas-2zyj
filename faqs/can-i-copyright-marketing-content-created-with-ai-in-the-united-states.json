@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I copyright marketing content created with AI in the United States?",
+  "description": "Human-authored contributions, creative edits, selection, and arrangement may receive protection, while purely AI-generated material may not. Use AI as an assist",
+  "url": "https://runmyaibusiness.com/faq/can-i-copyright-marketing-content-created-with-ai-in-the-united-states",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I copyright marketing content created with AI in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for idea generation, outlining, repurposing, and first drafts, while preserving your own perspective, examples, decisions, and final edits. The U.S. Copyright Office states that copyright protection depends on human authorship and can cover human contributions, creative selection, arrangement, or modification, but not purely AI-generated material. Run My AI Biz’s workflows are designed around owner direction and review rather than treating prompts as a substitute for judgment. Keep records of your source material, edits, and approvals. Avoid copying recognizable third-party text or unsupported claims into published work. Run My AI Biz can help explain where human contribution belongs in an AI-assisted process.",
+        "description": "Human-authored contributions, creative edits, selection, and arrangement may receive protection, while purely AI-generated material may not. Use AI as an assistant, retain meaningful human control, document your contributions, and avoid copying third-party material. The U.S. Copyright Office provides current guidance on these distinctions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

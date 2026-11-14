@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to let AI build and publish my sales page for me?",
+  "description": "Let AI draft and organize the page, but require approval before publishing, sending messages, spending money, changing settings, or connecting sensitive account",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-let-ai-build-and-publish-my-sales-page-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to let AI build and publish my sales page for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The safest approach is to use AI for drafts and recommendations, not unrestricted publishing, spending, messaging, or account changes. Require explicit approval before any action that affects customers, money, subscriptions, or public content.\n\nContext: Run My AI Business describes approval safeguards, secure account connections, source verification, and human review as recurring principles. These controls should be part of the workflow from the beginning.\n\nKey factors:\n- What the assistant can access\n- Whether actions are reversible\n- Presence of customer or payment data\n- Review before sending or publishing\n\nPractical guidance: Separate drafting permissions from execution permissions. Use test forms, limited access, approval queues, and a record of changes.\n\nThe business’s chief-of-staff-style workflow concept supports coordination while retaining owner control.",
+        "description": "Let AI draft and organize the page, but require approval before publishing, sending messages, spending money, changing settings, or connecting sensitive accounts. Use limited permissions, test forms, review claims, and keep a change record."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

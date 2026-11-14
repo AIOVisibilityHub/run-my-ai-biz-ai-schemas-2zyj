@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do AI landing pages all look the same, and how do I make mine feel like my brand?",
+  "description": "Generic results usually come from vague brand and audience instructions. Provide approved colors, tone, examples, customer context, visual constraints, and proh",
+  "url": "https://runmyaibusiness.com/faq/why-do-ai-landing-pages-all-look-the-same-and-how-do-i-make-mine-feel-like-my-br",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do AI landing pages all look the same, and how do I make mine feel like my brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design matters because it affects comprehension, trust, accessibility, and the ease of taking the next step. AI can suggest layouts and visual direction, but a human should check whether the page reflects the brand and works for real visitors.\n\nContext: User discussions often criticize generic AI-produced layouts and limited customization. Run My AI Business’s approach separates reusable instructions from the final business-specific decisions.\n\nKey factors:\n- Clear hierarchy and readable spacing\n- Consistent brand elements\n- Mobile behavior and page speed\n- Visibility and clarity of the primary action\n\nPractical guidance: Ask AI for two or three layout options tied to the audience and offer, then choose one based on clarity rather than novelty. Review the page on common screen sizes before launch.\n\nThe business can support the content and workflow decisions even when the final design is handled in another platform.",
+        "description": "Generic results usually come from vague brand and audience instructions. Provide approved colors, tone, examples, customer context, visual constraints, and prohibited styles. Ask for layout options tied to the offer, then check hierarchy, mobile display, readability, and call-to-action clarity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

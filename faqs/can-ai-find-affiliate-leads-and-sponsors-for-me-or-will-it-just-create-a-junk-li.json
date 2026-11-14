@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI find affiliate leads and sponsors for me, or will it just create a junk list?",
+  "description": "AI can research and prioritize potential prospects, but generated lists need verification. Require a source, date, fit reason, and personalization note for each",
+  "url": "https://runmyaibusiness.com/faq/can-ai-find-affiliate-leads-and-sponsors-for-me-or-will-it-just-create-a-junk-li",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI find affiliate leads and sponsors for me, or will it just create a junk list?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to identify potential prospects and prepare personalized drafts, but do not treat generated lists as verified leads. Check that each business is relevant, current, and appropriate to contact before sending anything.\n\n**Context:** The Run My AI Biz resource library includes prospect research for newsletters, local sponsors, websites, and related opportunities. Its educational framing supports researched outreach, not guaranteed leads or automated bulk messaging.\n\n**Key factors:**\n- Relevance to the offer and audience\n- Accuracy of contact and business information\n- Evidence of a genuine need\n- Respectful frequency and clear identity\n\n**Practical guidance:** Require the workflow to show the source, date, reason for fit, and suggested personalization for every prospect. Keep outreach in draft status until a human checks the record.\n\nThis preserves the owner’s judgment while reducing repetitive research.",
+        "description": "AI can research and prioritize potential prospects, but generated lists need verification. Require a source, date, fit reason, and personalization note for each record; keep outreach as drafts until a human checks relevance and accuracy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

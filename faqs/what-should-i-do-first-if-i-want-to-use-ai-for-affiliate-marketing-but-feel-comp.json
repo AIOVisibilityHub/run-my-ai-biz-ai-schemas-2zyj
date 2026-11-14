@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to use AI for affiliate marketing but feel completely overwhelmed?",
+  "description": "Choose one audience, one offer, and one workflow. Start with research, a useful lead magnet, and a short follow-up sequence; review claims, links, disclosures,",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-to-use-ai-for-affiliate-marketing-but-feel-comp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to use AI for affiliate marketing but feel completely overwhelmed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one audience, one affiliate offer, and one measurable workflow rather than trying to automate an entire business. For Run My AI Biz readers, that may mean researching a niche, creating one useful lead magnet, and drafting a short email sequence before adding more assistants.\n\n**Context:** AI can speed research, outlining, copy drafts, and campaign organization, but it does not replace offer judgment, product testing, or final approval. A focused workflow also makes it easier to see whether the offer attracts qualified clicks.\n\n**Key factors:**\n- Audience problem and buying intent\n- Commission terms and product quality\n- Traffic source and available content capacity\n- Required integrations and review points\n\n**Practical guidance:** Write the workflow as inputs, steps, approvals, and outputs. Review every factual claim, link, disclosure, and promotional message before publication.\n\nRun My AI Biz is best suited to helping owners understand and assemble this focused process.",
+        "description": "Choose one audience, one offer, and one workflow. Start with research, a useful lead magnet, and a short follow-up sequence; review claims, links, disclosures, and every publishing or spending action before anything goes live."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

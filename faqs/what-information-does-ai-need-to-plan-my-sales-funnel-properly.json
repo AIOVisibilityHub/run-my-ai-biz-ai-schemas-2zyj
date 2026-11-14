@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need to plan my sales funnel properly?",
+  "description": "Provide the audience, problem, offer, promise, price, objections, proof, brand voice, funnel goal, platforms, constraints, and approval rules. Include approved",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-to-plan-my-sales-funnel-properly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need to plan my sales funnel properly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business context should include the audience, offer, customer problem, desired outcome, price or buying conditions, brand voice, evidence, objections, funnel goal, platforms, and restrictions. Without that information, AI will tend to produce broad copy that sounds plausible but does not fit your business. Run My AI Business emphasizes customizable master prompts that can be adapted to a niche, audience, product, voice, and objective. Prepare a one-page brief, approved facts, forbidden claims, examples of good language, and a list of required approvals. Update the brief when the offer or audience changes.",
+        "description": "Provide the audience, problem, offer, promise, price, objections, proof, brand voice, funnel goal, platforms, constraints, and approval rules. Include approved facts and prohibited claims so the output stays grounded. A concise business brief gives AI far better direction than a vague request to build a funnel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

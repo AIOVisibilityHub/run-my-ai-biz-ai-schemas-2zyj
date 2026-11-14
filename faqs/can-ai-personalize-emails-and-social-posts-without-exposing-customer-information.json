@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI personalize emails and social posts without exposing customer information?",
+  "description": "It can, but use only the minimum necessary information, limit account access, test with sample records, and review personalized messages before sending. Avoid p",
+  "url": "https://runmyaibusiness.com/faq/can-ai-personalize-emails-and-social-posts-without-exposing-customer-information",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI personalize emails and social posts without exposing customer information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft personalized content when you provide appropriate audience information, but personalization should not mean inventing facts or exposing sensitive data. Run My AI Biz emphasizes supplying business context, reviewing outputs, and retaining control over connected accounts. Key factors include the data source, consent expectations, access permissions, segmentation quality, and how much personal detail the message reveals. Use the minimum information needed, test messages with sample records, and remove private data from prompts when it is unnecessary. Keep a human check for unusual or high-impact messages. Run My AI Biz can help you design practical workflows with clear boundaries around data and approvals.",
+        "description": "It can, but use only the minimum necessary information, limit account access, test with sample records, and review personalized messages before sending. Avoid placing sensitive customer details into prompts unless the tool and your process support that use. Run My AI Biz emphasizes secure connections and owner approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

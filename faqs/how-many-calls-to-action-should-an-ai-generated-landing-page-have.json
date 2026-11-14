@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many calls to action should an AI-generated landing page have?",
+  "description": "Choose one primary call to action that matches the page’s role. Supporting links may answer objections, but several equal-weight actions can dilute attention. A",
+  "url": "https://runmyaibusiness.com/faq/how-many-calls-to-action-should-an-ai-generated-landing-page-have",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many calls to action should an AI-generated landing page have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A page should usually have one primary action, even if it contains supporting links or secondary information. Too many equal-weight buttons can make visitors unsure whether to buy, subscribe, book, or keep reading.\n\nContext: Run My AI Business’s funnel examples connect specific pages to specific steps, such as an opt-in page, bridge page, thank-you page, checkout, or follow-up. The page’s job should be clear within that sequence.\n\nKey factors:\n- Visitor intent and traffic source\n- Stage of the funnel\n- Amount of trust needed\n- Whether secondary actions help or distract\n\nPractical guidance: Ask AI to list every action on the page, rank them, and recommend one primary CTA. Use secondary links only when they answer a meaningful objection or support the main decision.\n\nThis keeps the workflow focused without requiring every page to follow the same template.",
+        "description": "Choose one primary call to action that matches the page’s role. Supporting links may answer objections, but several equal-weight actions can dilute attention. Ask AI to rank all actions and remove anything that does not help the main decision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

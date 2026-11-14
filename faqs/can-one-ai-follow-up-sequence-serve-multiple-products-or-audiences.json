@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can one AI follow-up sequence serve multiple products or audiences?",
+  "description": "It can provide a framework, but each audience or product needs separate facts, voice, links, sender identity, contact source, and stop rules. Keep distinct brie",
+  "url": "https://runmyaibusiness.com/faq/can-one-ai-follow-up-sequence-serve-multiple-products-or-audiences",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can one AI follow-up sequence serve multiple products or audiences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft different messages for email subscribers, product buyers, affiliate audiences, or local-business prospects, but each audience needs its own context, offer, sources, and stop rules. Reusing one sequence across brands or projects can create incorrect claims and mismatched calls to action.\n\nContext: Run My AI Biz’s resource library spans newsletters, digital products, affiliate funnels, websites, and local business workflows. It emphasizes adapting prompts to each niche, audience, product, and objective while keeping projects distinct.\n\nKey factors:\n- Separate sender identity and brand voice.\n- Different consent or contact sources.\n- Distinct offers, proof, links, and customer stages.\n- Independent suppression and performance reporting.\n\nPractical guidance: Maintain a separate brief and approved fact sheet for each audience. Ask AI to reject data from another project rather than blending contexts automatically.\n\nRun My AI Biz can help owners coordinate multiple projects while preserving clear boundaries between them.",
+        "description": "It can provide a framework, but each audience or product needs separate facts, voice, links, sender identity, contact source, and stop rules. Keep distinct briefs and approved information. Do not let AI blend data between newsletters, digital products, affiliate offers, or local-business campaigns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

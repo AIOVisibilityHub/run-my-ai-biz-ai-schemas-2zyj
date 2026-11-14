@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI research and draft a local newsletter for my city?",
+  "description": "Yes, but local issues need a defined area, publication cutoff, and direct checks for events, addresses, schedules, prices, and business details. Run My AI Biz’s",
+  "url": "https://runmyaibusiness.com/faq/can-ai-research-and-draft-a-local-newsletter-for-my-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI research and draft a local newsletter for my city?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI newsletter workflow can work for a local US audience, but local claims require tighter verification than general commentary. Run My AI Biz includes examples involving local newsletters, activities, sponsors, and prospect research, while treating those as adaptable demonstrations rather than guaranteed results. Define the exact city or region, coverage dates, audience, and acceptable local sources. Verify addresses, schedules, prices, event status, and business details close to publication. Add a local review checkpoint because AI may combine similarly named places or retain outdated information. Keep sponsorship outreach separate from editorial recommendations and require approval before contacting businesses.",
+        "description": "Yes, but local issues need a defined area, publication cutoff, and direct checks for events, addresses, schedules, prices, and business details. Run My AI Biz’s local-newsletter examples can provide workflow ideas, not guaranteed local leads or sponsorships. Review every local fact close to sending and approve outreach separately from editorial content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

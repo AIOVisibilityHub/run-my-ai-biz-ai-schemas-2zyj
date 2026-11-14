@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from putting outdated or made-up information in my lead magnet?",
+  "description": "Separate research from drafting, provide approved sources, request dates and uncertainty flags, and manually verify important claims. Check prices, tool feature",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-putting-outdated-or-made-up-information-in-my-lead-magnet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from putting outdated or made-up information in my lead magnet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but separate research from writing and require AI to show what is known, uncertain, or still needs checking. Current tool features, prices, local details, and platform instructions should not be copied from an unverified draft.\n\n**Context:** Run My AI Biz’s educational content includes sourced tool comparisons and pricing explanations, and its workflow principles include source verification and restrictions on invented claims. A research assistant can organize findings, but an owner must decide which sources are trustworthy and current.\n\n**Key factors:**\n- Source authority and publication date.\n- Whether the fact changes frequently.\n- The claim’s importance to the reader’s decision.\n- Conflicts between sources or unclear applicability.\n\n**Practical guidance:** Give AI approved sources, request a fact table with dates, and manually verify the claims that appear in the title, checklist, or call to action. If evidence is weak, phrase the material as a general framework rather than an exact fact.\n\nSource discipline protects the credibility of both the asset and the business.",
+        "description": "Separate research from drafting, provide approved sources, request dates and uncertainty flags, and manually verify important claims. Check prices, tool features, local details, statistics, and platform instructions before publication. If evidence is unclear, use general educational wording instead of exact claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

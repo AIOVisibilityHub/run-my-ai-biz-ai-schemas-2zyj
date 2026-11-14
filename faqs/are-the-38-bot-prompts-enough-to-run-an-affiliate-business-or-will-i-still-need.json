@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are the 38 bot prompts enough to run an affiliate business, or will I still need a lot of setup?",
+  "description": "You will still need setup. The prompts are adaptable blueprints, not 38 complete software products; customize them, connect suitable platforms, supply accurate",
+  "url": "https://runmyaibusiness.com/faq/are-the-38-bot-prompts-enough-to-run-an-affiliate-business-or-will-i-still-need",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are the 38 bot prompts enough to run an affiliate business, or will I still need a lot of setup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt library can reduce starting time, but it does not eliminate customization, testing, platform setup, or ongoing review. Treat the prompts as adaptable blueprints rather than finished software or guaranteed business models.\n\n**Context:** The 38 Bot Empire includes examples across planning, research, content, funnels, sales, websites, and operations; some prompts are in supporting materials, and the collection is not 38 identical functioning products. Run My AI Biz presents these resources as educational opportunities.\n\n**Key factors:**\n- Fit with your niche, offer, and audience\n- AI platform capabilities and limits\n- Required integrations and account permissions\n- Quality of the supplied examples and your review process\n\n**Practical guidance:** Select one relevant blueprint, replace generic context with your own facts, run a small test, and document corrections. Do not purchase additional resources until the first workflow produces a repeatable useful output.\n\nThis focused implementation matches the business’s recommended starting approach.",
+        "description": "You will still need setup. The prompts are adaptable blueprints, not 38 complete software products; customize them, connect suitable platforms, supply accurate business context, test outputs, and keep approval before publishing or spending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

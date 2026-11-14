@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Substack Notes worth using to grow an AI newsletter?",
+  "description": "Yes, it can be useful when your audience is active there and your Notes provide genuine value. Repurpose an issue into distinct observations, questions, or chec",
+  "url": "https://runmyaibusiness.com/faq/is-substack-notes-worth-using-to-grow-an-ai-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Substack Notes worth using to grow an AI newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Substack Notes can help discovery, but it should support a clear newsletter promise rather than replace one. Post useful excerpts, questions, observations, and practical takeaways that lead naturally to the full issue.\n\nContext: Community discussions identify Notes as a useful Substack growth channel, while other creators describe turning issues into multiple Notes. Results depend on relevance, consistency, and the quality of the source issue.\n\nKey factors:\n- Whether your audience already uses the platform.\n- How much value the public Note provides.\n- The relationship between Note and full issue.\n- Subscriber conversions, not only reactions.\n\nPractical guidance: Create several distinct Notes from each approved issue and record which formats generate profile visits and sign-ups. Avoid publishing repetitive AI-generated variations that add no new insight.\n\nRun My AI Biz’s weekly Substack newsletter can use Notes to extend practical lessons about AI tools and online-business workflows.",
+        "description": "Yes, it can be useful when your audience is active there and your Notes provide genuine value. Repurpose an issue into distinct observations, questions, or checklists, then track profile visits and subscribers rather than reactions alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

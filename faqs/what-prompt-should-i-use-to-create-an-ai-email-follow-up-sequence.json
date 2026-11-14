@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What prompt should I use to create an AI email follow-up sequence?",
+  "description": "Tell AI the role, audience, trigger, offer, customer problem, sequence goal, tone, timing, approved facts, prohibited claims, call to action, stop conditions, a",
+  "url": "https://runmyaibusiness.com/faq/what-prompt-should-i-use-to-create-an-ai-email-follow-up-sequence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What prompt should I use to create an AI email follow-up sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful AI prompt should specify the role, task, guardrails, audience, offer, sequence stages, and output format. It should also require the system to flag missing information instead of filling gaps with assumptions.\n\nContext: Run My AI Biz highlights customizable master prompts that define responsibilities, workflows, and approval requirements. That structure is more reliable than asking AI to “write some follow-ups” with no business context.\n\nKey factors:\n- State the trigger and intended customer action.\n- Provide verified product facts and prohibited claims.\n- Define the voice, length, timing, and number of messages.\n- Require stop rules and a review checklist.\n\nPractical guidance: Ask AI to label assumptions, identify unsupported claims, and create a separate rationale for each message. Test the prompt against several realistic scenarios before connecting it to a live workflow.\n\nRun My AI Biz can help beginners understand how a reusable assistant differs from a one-off chatbot request.",
+        "description": "Tell AI the role, audience, trigger, offer, customer problem, sequence goal, tone, timing, approved facts, prohibited claims, call to action, stop conditions, and output format. Require it to flag missing information instead of guessing. Review the prompt with realistic scenarios before using it in a live workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

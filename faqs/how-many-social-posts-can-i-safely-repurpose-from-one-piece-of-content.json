@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many social posts can I safely repurpose from one piece of content?",
+  "description": "There is no fixed number. Create as many versions as provide different value through a new angle, audience question, format, or call to action. Avoid near-dupli",
+  "url": "https://runmyaibusiness.com/faq/how-many-social-posts-can-i-safely-repurpose-from-one-piece-of-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many social posts can I safely repurpose from one piece of content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may use AI to create alternatives for a post, but avoid publishing many near-identical versions that offer no additional value. Repetition can make the account feel automated and may confuse the audience about what action to take.\n\nContext: Run My AI Biz’s educational workflows favor adapting content to different audiences and formats, not mass-producing indistinguishable posts. A single source can support several useful angles when each one has a distinct purpose.\n\nKey factors:\n- Change the audience problem or learning point.\n- Use different formats and examples.\n- Space related posts appropriately.\n- Retain only versions with a clear reason to exist.\n\nPractical guidance: Ask AI for a set of angles, then select the few that add genuinely different value. Label each draft by objective—education, discussion, proof, invitation, or follow-up—before scheduling.\n\nVariation should improve usefulness, not merely increase volume.",
+        "description": "There is no fixed number. Create as many versions as provide different value through a new angle, audience question, format, or call to action. Avoid near-duplicates, space related posts apart, and keep only drafts with a clear purpose."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

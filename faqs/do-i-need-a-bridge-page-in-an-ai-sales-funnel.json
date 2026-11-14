@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a bridge page in an AI sales funnel?",
+  "description": "Not always. Use a bridge page when visitors need context, education, or a clear connection between the lead magnet and paid offer. Skip it when it only repeats",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-a-bridge-page-in-an-ai-sales-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a bridge page in an AI sales funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bridge page can help explain why a visitor should consider a particular offer after opting in, especially when the lead magnet and paid product need context. It is not automatically necessary; adding a page can also create another drop-off point. Run My AI Business describes funnel components such as opt-in pages, bridge pages, thank-you pages, and email follow-up as pieces that should be tailored to the niche and offer. Decide based on buyer awareness, offer complexity, trust requirements, and whether the thank-you page can do the job clearly. Compare a direct offer path with a bridge-page version and measure the next action.",
+        "description": "Not always. Use a bridge page when visitors need context, education, or a clear connection between the lead magnet and paid offer. Skip it when it only repeats the opt-in page and adds friction. Compare direct and bridge-page paths using clicks, sales, and drop-off data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

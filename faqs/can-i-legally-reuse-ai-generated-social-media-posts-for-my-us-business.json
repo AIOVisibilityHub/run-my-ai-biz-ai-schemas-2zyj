@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I legally reuse AI-generated social media posts for my US business?",
+  "description": "Reuse may be possible, but do not assume every AI output receives the same ownership treatment as human-authored work. Keep records of human creative contributi",
+  "url": "https://runmyaibusiness.com/faq/can-i-legally-reuse-ai-generated-social-media-posts-for-my-us-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I legally reuse AI-generated social media posts for my US business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume that adding human edits automatically gives you ownership of every element in an AI-generated post. Keep records of your original source material, creative decisions, substantial edits, selected arrangements, and any third-party assets or licenses.\n\nContext: Run My AI Biz’s workflows use AI as an assistant within human-directed business processes. Its educational content should distinguish AI assistance from a claim that every generated output is exclusively human-authored or automatically protected.\n\nKey factors:\n- Identify what humans created or substantially changed.\n- Keep source and revision records.\n- Check licenses for images, music, fonts, and templates.\n- Avoid copying recognizable third-party expression.\n\nPractical guidance: Use original business material where possible and have a reviewer confirm the provenance of each visual and quotation. For important ownership questions, obtain advice suited to the specific asset and use.\n\nGood records make content decisions easier to explain and repeat.",
+        "description": "Reuse may be possible, but do not assume every AI output receives the same ownership treatment as human-authored work. Keep records of human creative contributions, source material, edits, and third-party licenses, and verify images, music, quotations, and templates before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

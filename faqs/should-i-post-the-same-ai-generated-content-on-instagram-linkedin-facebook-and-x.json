@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I post the same AI-generated content on Instagram, LinkedIn, Facebook, and X?",
+  "description": "Use the same core idea, not the same finished post. Adapt the hook, length, format, tone, visual treatment, and call to action for each platform. Ask AI to show",
+  "url": "https://runmyaibusiness.com/faq/should-i-post-the-same-ai-generated-content-on-instagram-linkedin-facebook-and-x",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I post the same AI-generated content on Instagram, LinkedIn, Facebook, and X?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repurposing is not simply copying one caption across every network. Keep the central idea, then adapt the opening, length, visual format, conversation style, call to action, and terminology to the platform and audience.\n\nContext: Run My AI Biz’s resource examples include Facebook content, X posts and threads, newsletter repurposing, and community content. These are adaptable workflows, not a reason to assume one draft fits every channel.\n\nKey factors:\n- Use shorter hooks where attention is faster.\n- Match the platform’s native format.\n- Change calls to action based on user intent.\n- Avoid posting identical wording everywhere.\n\nPractical guidance: Ask AI for a platform adaptation table rather than one universal caption. Require it to explain what changed and why, then edit the versions so they retain a recognizable but natural voice.\n\nPlatform-specific adaptation improves relevance without losing the original message.",
+        "description": "Use the same core idea, not the same finished post. Adapt the hook, length, format, tone, visual treatment, and call to action for each platform. Ask AI to show the changes so you can check that the message remains accurate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

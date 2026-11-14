@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which sales funnel task should a small business automate first?",
+  "description": "Start with a frequent, well-defined task that takes time and has a clear review point, such as research organization, lead-magnet drafting, email preparation, o",
+  "url": "https://runmyaibusiness.com/faq/which-sales-funnel-task-should-a-small-business-automate-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which sales funnel task should a small business automate first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best starting workflow is usually the one that is frequent, clearly defined, costly in time, and easy to review. For many small businesses, that may be research collection, lead-magnet drafting, email preparation, content repurposing, or routine reporting rather than fully automated selling. Run My AI Business recommends choosing relevant workflows, building one assistant, using it, and expanding afterward. Document the current process, inputs, expected output, exceptions, and approval point before automating. Measure time saved and error rates, not only revenue, because a dependable support workflow may create value before it directly produces sales.",
+        "description": "Start with a frequent, well-defined task that takes time and has a clear review point, such as research organization, lead-magnet drafting, email preparation, or content repurposing. Document inputs, output standards, exceptions, and approvals first. Expand only after the workflow is dependable and measurable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

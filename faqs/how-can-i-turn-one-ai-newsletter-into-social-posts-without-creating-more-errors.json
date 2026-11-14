@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I turn one AI newsletter into social posts without creating more errors?",
+  "description": "Repurpose only the approved newsletter, then give each channel its own format, audience, length, call to action, and claim limits. Ask AI to preserve qualifiers",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-turn-one-ai-newsletter-into-social-posts-without-creating-more-errors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I turn one AI newsletter into social posts without creating more errors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can repurpose one approved newsletter into social posts, an email teaser, a checklist, or a discussion prompt, but each format should preserve the original meaning and audience fit. Run My AI Biz’s resource examples include newsletter repurposing and social content workflows, with review before publication. Start from the final issue, not an unverified research draft. Give each channel its own length, tone, call to action, and prohibited claims. Compare every derivative against the source issue for altered numbers, missing qualifications, or exaggerated promises. Keep platform-specific drafts separate so one correction can be applied consistently.",
+        "description": "Repurpose only the approved newsletter, then give each channel its own format, audience, length, call to action, and claim limits. Ask AI to preserve qualifiers and flag every statistic or product statement. Review the derivatives against the source issue before publishing, and update all versions if the original is corrected."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if AI keeps inventing facts in my social media posts?",
+  "description": "Pause publishing, audit recent posts, identify the source of the error, and add source fields, uncertainty flags, and mandatory human review. Correct published",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-if-ai-keeps-inventing-facts-in-my-social-media-posts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if AI keeps inventing facts in my social media posts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If AI-generated content has been inaccurate, stop the workflow, identify the failure pattern, correct the source instructions, and review any already-published material. Do not simply ask the same system to “be more accurate” without changing its inputs or controls.\n\nContext: Run My AI Biz’s process emphasizes source verification, human checkpoints, and restrictions against invented statistics, proof, or income claims. Those controls can be written directly into a social-content prompt and checklist.\n\nKey factors:\n- Identify whether the error came from the source, prompt, model, or editor.\n- Add required citations or source fields internally.\n- Flag uncertain statements instead of filling gaps.\n- Correct public errors promptly and transparently.\n\nPractical guidance: Build a failure log showing the original output, error, corrected version, and prevention rule. Run a small test batch before restoring regular scheduling.\n\nA documented correction loop is more reliable than trusting a polished draft.",
+        "description": "Pause publishing, audit recent posts, identify the source of the error, and add source fields, uncertainty flags, and mandatory human review. Correct published mistakes promptly, document the failure, and test a small batch before resuming the workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

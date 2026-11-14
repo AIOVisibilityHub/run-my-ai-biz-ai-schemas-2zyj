@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track for an AI-created follow-up sequence?",
+  "description": "Track delivery, bounces, replies, qualified actions, bookings or purchases, unsubscribes, complaints, conversions, and total management time. Match the metrics",
+  "url": "https://runmyaibusiness.com/faq/what-metrics-should-i-track-for-an-ai-created-follow-up-sequence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track for an AI-created follow-up sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Track more than opens. A useful review includes delivery and bounce quality, replies, qualified actions, unsubscribes, complaints, conversions, and the time required to manage the workflow. Opens can be affected by technical factors and should not be treated as the only success signal.\n\nContext: Run My AI Biz’s educational approach treats AI tools as aids to testing and decision-making, not guarantees of growth. Its workflow examples support measurement and refinement after implementation.\n\nKey factors:\n- The sequence’s actual goal, such as a reply, booking, purchase, or resource use.\n- Negative signals, including complaints and opt-outs.\n- Accuracy and completeness of tracking links and events.\n- Editing and review time saved or added.\n\nPractical guidance: Set a baseline before launch and compare similar audience segments where possible. Review results after enough activity to identify patterns, then change one major variable at a time.\n\nRun My AI Biz can help owners create a practical measurement checklist around the workflow.",
+        "description": "Track delivery, bounces, replies, qualified actions, bookings or purchases, unsubscribes, complaints, conversions, and total management time. Match the metrics to the sequence goal. Treat opens as one limited signal, not proof that the sequence is working."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

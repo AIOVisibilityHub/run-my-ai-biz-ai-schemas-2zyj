@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need coding skills to build an AI sales funnel?",
+  "description": "No, many funnel components can be assembled with no-code platforms and conversational AI instructions. You still need to configure forms, email tags, checkout,",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-coding-skills-to-build-an-ai-sales-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need coding skills to build an AI sales funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can create a funnel without coding by using a page builder, email platform, checkout tool, and AI assistants that generate instructions or drafts. However, no-code does not mean no setup: forms, domains, payment settings, tags, delivery, permissions, and integrations still need configuration. Run My AI Business emphasizes conversational workflows for people who do not want to learn coding, while also noting that execution depends on the underlying platform and connections. Make a simple system map before building, identify each handoff, and run a complete test as a new subscriber and buyer. Keep credentials private and avoid granting unnecessary permissions.",
+        "description": "No, many funnel components can be assembled with no-code platforms and conversational AI instructions. You still need to configure forms, email tags, checkout, delivery, permissions, and integrations. Map the handoffs first, use least-privilege access, and test the entire subscriber and buyer experience before launch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

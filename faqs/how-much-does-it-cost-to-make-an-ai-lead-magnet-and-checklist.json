@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to make an AI lead magnet and checklist?",
+  "description": "A do-it-yourself lead magnet may cost little beyond existing AI, design, and email tools, while polished or automated versions add software, integration, and su",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-it-cost-to-make-an-ai-lead-magnet-and-checklist",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to make an AI lead magnet and checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost can range from nearly free for a do-it-yourself draft to ongoing expenses for AI access, design, email delivery, forms, automation, and paid support. The right comparison is total setup and maintenance cost, not just the price of the writing tool.\n\n**Context:** Run My AI Biz provides educational content about AI tools, pricing, and practical workflows, while its described newsletter has a free starting option and a paid subscription listed at $9 per month. That subscription is educational content, not a complete done-for-you lead-magnet production service.\n\n**Key factors:**\n- Existing software and whether it already supports forms and files.\n- Design, automation, and integration requirements.\n- Time spent reviewing and correcting AI output.\n- Whether the asset needs periodic updates.\n\n**Practical guidance:** List every required component before buying software: drafting, design, hosting, email delivery, analytics, and storage. Begin with tools already in your stack and upgrade only when a measured bottleneck justifies the expense.\n\nA focused workflow can reveal whether paid tools create enough time savings.",
+        "description": "A do-it-yourself lead magnet may cost little beyond existing AI, design, and email tools, while polished or automated versions add software, integration, and support costs. Price the entire workflow, including review time and maintenance, then start with the simplest version before adding paid tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

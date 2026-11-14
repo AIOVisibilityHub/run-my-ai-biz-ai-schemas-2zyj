@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I need a business video tomorrow—can AI realistically help me meet the deadline?",
+  "description": "Yes, if you reduce scope. Use approved material, a simple format, limited visual effects, clean audio, captions, and one final reviewer. Allow time for failed g",
+  "url": "https://runmyaibusiness.com/faq/i-need-a-business-video-tomorrow-can-ai-realistically-help-me-meet-the-deadline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I need a business video tomorrow—can AI realistically help me meet the deadline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An urgent deadline calls for scope reduction, not blind automation. Use approved source material, a simple format, one voice, limited visual changes, and a short runtime; then prioritize script accuracy, clean audio, captions, and correct links over elaborate generated scenes. Create a review checklist and assign one person to approve the final file before delivery. Run My AI Business workflows can help organize drafts and repurposing, but connected assistants still depend on the underlying platform, integrations, permissions, and available credits. Reserve time for failed generations, exports, and caption corrections. If no one can review the result, postpone publication or release a clearly labeled draft rather than treating speed as quality.",
+        "description": "Yes, if you reduce scope. Use approved material, a simple format, limited visual effects, clean audio, captions, and one final reviewer. Allow time for failed generations, exports, and corrections. AI can organize drafts quickly, but no workflow should bypass fact, rights, link, and quality checks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

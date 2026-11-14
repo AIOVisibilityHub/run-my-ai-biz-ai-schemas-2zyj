@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an AI sales page include for an online course or digital product?",
+  "description": "Explain the audience, problem, outcome, contents, format, access, required effort, support, price, and next step. Give AI the real module or file inventory so i",
+  "url": "https://runmyaibusiness.com/faq/what-should-an-ai-sales-page-include-for-an-online-course-or-digital-product",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an AI sales page include for an online course or digital product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A page for a digital product should explain who it is for, the problem it addresses, what is included, how delivery works, what the buyer can do next, and why the offer is credible. AI can organize these sections, but you must confirm the product actually contains what the page promises.\n\nContext: Run My AI Business covers digital products, courses, lessons, videos, supporting materials, lead magnets, and launch preparation. These components can require different page details.\n\nKey factors:\n- Product format and access method\n- Skill level and expected effort\n- Included resources and support\n- Refund, update, or availability information you choose to state\n\nPractical guidance: Give AI the actual module or file inventory and ask it to identify gaps between the product and the page. Review the page after every product change.\n\nThe business’s product-to-launch workflow helps connect creation, sales copy, and delivery expectations.",
+        "description": "Explain the audience, problem, outcome, contents, format, access, required effort, support, price, and next step. Give AI the real module or file inventory so it cannot promise material you do not provide. Review the page whenever the product changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

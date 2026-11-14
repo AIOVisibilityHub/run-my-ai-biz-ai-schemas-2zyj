@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can I put on my sales page if I don’t have testimonials yet?",
+  "description": "Do not invent testimonials. Use a product demonstration, sample, transparent process, founder background, pilot feedback with permission, clear deliverables, an",
+  "url": "https://runmyaibusiness.com/faq/what-can-i-put-on-my-sales-page-if-i-don-t-have-testimonials-yet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can I put on my sales page if I don’t have testimonials yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have no testimonials, do not ask AI to manufacture them. Use other honest evidence, such as a demonstration, sample, process explanation, founder experience, transparent limitations, pilot feedback, or a clear description of what buyers receive.\n\nContext: Run My AI Business specifically distinguishes educational examples and experimental workflows from proven outcomes. That same distinction should appear in sales-page evidence.\n\nKey factors:\n- Stage of the offer\n- Type of customer risk\n- Demonstrable product value\n- Difference between experience and results\n\nPractical guidance: Ask AI to create an evidence section using only supplied facts and to label examples as examples. Invite early users to provide feedback with permission rather than promising results.\n\nThe business’s emphasis on avoiding invented proof supports a credible early-stage page.",
+        "description": "Do not invent testimonials. Use a product demonstration, sample, transparent process, founder background, pilot feedback with permission, clear deliverables, and honest limitations. Label hypothetical examples clearly and explain what buyers can expect to receive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

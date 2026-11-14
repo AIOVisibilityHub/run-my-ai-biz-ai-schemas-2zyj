@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI find local business prospects without wasting time on bad listings?",
+  "description": "Give AI a defined service area, business type, qualification signal, and exclusion list. Ask it to record current evidence and flag uncertain listings for revie",
+  "url": "https://runmyaibusiness.com/faq/how-can-ai-find-local-business-prospects-without-wasting-time-on-bad-listings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI find local business prospects without wasting time on bad listings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local prospecting, include service area, business category, neighborhood or ZIP code, operating status, website condition, and the specific local problem you can address. Confirm that the business actually serves the area and that the information is current. Avoid treating every business in a directory as a qualified lead. A local newsletter sponsor workflow may need audience fit and sponsorship relevance in addition to geography. Run My AI Biz’s examples can help structure local-business research, but local records still require checking.",
+        "description": "Give AI a defined service area, business type, qualification signal, and exclusion list. Ask it to record current evidence and flag uncertain listings for review. Geography alone is not enough; the business must also match your offer and show a plausible reason to respond."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

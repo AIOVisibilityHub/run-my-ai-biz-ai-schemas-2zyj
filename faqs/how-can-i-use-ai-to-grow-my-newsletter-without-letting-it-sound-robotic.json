@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I use AI to grow my newsletter without letting it sound robotic?",
+  "description": "Use AI for research, outlines, repurposing, and pattern analysis, but retain human control over examples, opinions, claims, and final edits. Train it with your",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-use-ai-to-grow-my-newsletter-without-letting-it-sound-robotic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I use AI to grow my newsletter without letting it sound robotic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI as a research and production assistant, not as the final editor. A practical workflow is to collect audience questions, identify patterns, draft an outline, create supporting posts, and then personally check claims, examples, sources, and tone.\n\nContext: AI can reduce repetitive work across topic research, issue drafting, social repurposing, and performance analysis. It does not automatically know whether a claim is current, suitable for your audience, or consistent with your business promise.\n\nKey factors:\n- Give the system past issues and clear voice instructions.\n- Require source checking for tools, pricing, and capabilities.\n- Separate idea generation from publication approval.\n- Keep sensitive customer or account data out of prompts.\n\nPractical guidance: Build one assistant around a defined task first, such as turning an approved issue into social posts. Keep a checklist requiring approval before publication, spending, outreach, or account changes.\n\nRun My AI Biz’s educational model fits readers who want conversational, no-code workflows without treating a prompt as a complete business system.",
+        "description": "Use AI for research, outlines, repurposing, and pattern analysis, but retain human control over examples, opinions, claims, and final edits. Train it with your strongest past issues and require a review step before anything is published."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

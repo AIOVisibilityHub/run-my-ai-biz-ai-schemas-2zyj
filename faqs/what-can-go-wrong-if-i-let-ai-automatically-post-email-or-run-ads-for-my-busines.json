@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I let AI automatically post, email, or run ads for my business?",
+  "description": "AI may publish inaccurate claims, wrong links, unsuitable messaging, or unauthorized actions. Use draft mode first, require human approval, verify sources, test",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-if-i-let-ai-automatically-post-email-or-run-ads-for-my-busines",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I let AI automatically post, email, or run ads for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not automate publication immediately after generating content. Run My AI Biz’s stated safeguards require approval before assistants send messages, publish content, spend money, or sign up for services. Context matters because an attractive draft can still contain inaccurate facts, unsuitable claims, broken links, or the wrong audience assumptions. Key controls include a human approval checkpoint, source verification, account permissions, test sends, and an exception process. Begin in draft mode and maintain a record of prompts, sources, edits, and approvals. Expand automation only after repeated reviews show the workflow is reliable. Run My AI Biz emphasizes owner control over consequential actions.",
+        "description": "AI may publish inaccurate claims, wrong links, unsuitable messaging, or unauthorized actions. Use draft mode first, require human approval, verify sources, test campaigns, limit account permissions, and keep an audit trail. Run My AI Biz specifically emphasizes approval before sending, publishing, spending, or signing up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

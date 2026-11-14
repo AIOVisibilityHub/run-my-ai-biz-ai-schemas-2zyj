@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get AI to use my customers’ actual words instead of made-up marketing language?",
+  "description": "Provide real customer comments from interviews, reviews, support messages, surveys, or sales calls. Ask AI to group recurring phrases, identify contradictions,",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-get-ai-to-use-my-customers-actual-words-instead-of-made-up-marketing-la",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get AI to use my customers’ actual words instead of made-up marketing language?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use real customer language from interviews, support questions, reviews, surveys, and sales calls, then ask AI to organize recurring themes without treating every comment as universal truth. The owner should decide which audience and problem matter most.\n\nContext: Run My AI Business includes customer research, opportunity research, offer positioning, and landing-page review among its possible workflows. Research supports decisions; it does not replace them.\n\nKey factors:\n- Recurring problem language\n- Customer urgency and desired outcome\n- Differences between segments\n- Evidence that people will take the intended action\n\nPractical guidance: Collect a small, relevant set of comments and label the source and date. Ask AI to identify patterns, contradictions, and unanswered questions before drafting copy.\n\nThis creates a stronger foundation than asking AI to guess the market from a product description.",
+        "description": "Provide real customer comments from interviews, reviews, support messages, surveys, or sales calls. Ask AI to group recurring phrases, identify contradictions, and separate observations from assumptions. Choose the priority audience yourself before turning those insights into copy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

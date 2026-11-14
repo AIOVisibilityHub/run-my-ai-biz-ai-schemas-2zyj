@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need to review AI marketing content if the tool is supposed to be smart?",
+  "description": "Yes. Review facts, links, tone, claims, audience fit, permissions, and calls to action before publication or sending. Run My AI Biz requires approval for conseq",
+  "url": "https://runmyaibusiness.com/faq/do-i-really-need-to-review-ai-marketing-content-if-the-tool-is-supposed-to-be-sm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need to review AI marketing content if the tool is supposed to be smart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Human review remains necessary whenever content represents your business, makes factual claims, uses customer data, or triggers an external action. Run My AI Biz’s workflows include approval before messages are sent, content is published, money is spent, or services are joined. Key factors are the risk of the claim, audience sensitivity, source quality, and whether the action can be reversed. Use a checklist covering facts, links, tone, offer details, permissions, and calls to action. Keep final sign-off with the owner or an assigned reviewer. Run My AI Biz’s educational model is human-directed automation, not unattended publishing.",
+        "description": "Yes. Review facts, links, tone, claims, audience fit, permissions, and calls to action before publication or sending. Run My AI Biz requires approval for consequential actions because AI can misunderstand context or produce unsupported content. Automation should reduce drafting work, not remove accountability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

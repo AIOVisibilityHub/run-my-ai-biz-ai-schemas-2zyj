@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI figure out what social media topics my audience will care about?",
+  "description": "AI can identify possible themes from your content, audience questions, offers, and performance data, but it cannot guarantee audience interest. Have it group to",
+  "url": "https://runmyaibusiness.com/faq/can-ai-figure-out-what-social-media-topics-my-audience-will-care-about",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI figure out what social media topics my audience will care about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can suggest content themes by analyzing your existing material, audience questions, offers, seasonal priorities, and performance data. It cannot reliably identify your best themes from generic industry trends alone, and engagement is not the same as business value.\n\nContext: Run My AI Biz publishes sourced comparisons, practical AI explanations, and example workflows. Those areas can become content pillars, but each topic still needs a clear audience problem and business purpose.\n\nKey factors:\n- Review recurring questions from customers or readers.\n- Separate awareness topics from conversion topics.\n- Use performance data as evidence, not as the only criterion.\n- Retire themes that attract attention but no useful action.\n\nPractical guidance: Ask AI to group existing content into pillars and flag gaps. Score each proposed topic for relevance, evidence, effort, and connection to a current offer.\n\nA smaller set of useful pillars is easier to maintain than an endless list of trends.",
+        "description": "AI can identify possible themes from your content, audience questions, offers, and performance data, but it cannot guarantee audience interest. Have it group topics into content pillars, identify gaps, and explain each topic’s relevance and intended business action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

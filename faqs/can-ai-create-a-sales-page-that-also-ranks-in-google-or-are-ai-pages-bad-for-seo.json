@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI create a sales page that also ranks in Google, or are AI pages bad for SEO?",
+  "description": "AI can help plan and draft an SEO-aware page, but rankings are not automatic. Match one search intent, provide original useful information, review titles and he",
+  "url": "https://runmyaibusiness.com/faq/can-ai-create-a-sales-page-that-also-ranks-in-google-or-are-ai-pages-bad-for-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI create a sales page that also ranks in Google, or are AI pages bad for SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A page can still support organic discovery, but AI-generated copy should not be treated as an SEO plan. Search visibility depends on useful content, clear information architecture, technical setup, page experience, and ongoing review.\n\nContext: Run My AI Business includes website development, search optimization, competitor research, and landing-page analysis among possible workflows. These activities support page quality but do not guarantee rankings.\n\nKey factors:\n- Searcher intent and page usefulness\n- Clear title, headings, and description\n- Original information and strong internal links\n- Technical performance and indexing controls\n\nPractical guidance: Ask AI to align the page with one search intent, then verify the resulting title, headings, links, and claims. Avoid producing large numbers of near-identical pages without a distinct user purpose.\n\nThe business’s educational framework supports research and review rather than promises of search performance.",
+        "description": "AI can help plan and draft an SEO-aware page, but rankings are not automatic. Match one search intent, provide original useful information, review titles and headings, check links and technical settings, and avoid publishing near-duplicate pages without a clear purpose."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

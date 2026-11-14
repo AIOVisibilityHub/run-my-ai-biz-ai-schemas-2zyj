@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I create an AI lead magnet if I have a tiny budget and no technical team?",
+  "description": "Start with a simple PDF checklist, one form, one delivery email, and one follow-up message using tools you already have. Use AI for drafting and organization, t",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-create-an-ai-lead-magnet-if-i-have-a-tiny-budget-and-no-technical-team",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I create an AI lead magnet if I have a tiny budget and no technical team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Build a minimum viable version first: one audience, one problem, one asset, one delivery path, and one follow-up action. Add quizzes, personalization, multiple sequences, or several assistants only after the basic workflow works.\n\n**Context:** Run My AI Biz’s recommended approach is to identify relevant workflows, build one assistant, use it, and then expand. Its bot library includes many possible functions, but the collection should not be treated as a requirement to deploy all of them at once.\n\n**Key factors:**\n- Whether the asset can be completed with existing tools.\n- The number of handoffs between assistants or platforms.\n- Who reviews content and handles exceptions.\n- What success metric will justify expansion.\n\n**Practical guidance:** Create a simple PDF checklist and email delivery path before adding automation. Track completion, replies, qualified next actions, and errors for the first group of users, then improve the weakest step.\n\nStarting small reduces technical and editorial risk.",
+        "description": "Start with a simple PDF checklist, one form, one delivery email, and one follow-up message using tools you already have. Use AI for drafting and organization, then review everything yourself. Add automation only after you identify a repeated task that saves enough time to justify it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

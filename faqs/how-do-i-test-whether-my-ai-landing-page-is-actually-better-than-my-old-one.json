@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I test whether my AI landing page is actually better than my old one?",
+  "description": "Define one conversion goal, record the original page, and test one meaningful change at a time. Keep the audience and traffic source comparable, then review bot",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-test-whether-my-ai-landing-page-is-actually-better-than-my-old-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I test whether my AI landing page is actually better than my old one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to create a first version, then test the page with a defined audience and measurable goal. Do not change headlines, pricing, design, and offer at the same time because you will not know which change affected the result.\n\nContext: Run My AI Business describes landing-page analysis and conversion-focused improvements as support for testing and prioritization. A test needs enough relevant traffic and a stable comparison to be informative.\n\nKey factors:\n- Primary conversion event\n- Traffic source and audience consistency\n- Sample size and test duration\n- Quality of leads, not only quantity\n\nPractical guidance: Record the original version and choose one high-priority hypothesis, such as clearer audience wording or a shorter form. Review results alongside customer quality and follow-up behavior.\n\nThe business can help draft variants and organize the review process without claiming a guaranteed winner.",
+        "description": "Define one conversion goal, record the original page, and test one meaningful change at a time. Keep the audience and traffic source comparable, then review both conversion rate and lead quality. AI can propose variants, but your measurement plan determines what the test means."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

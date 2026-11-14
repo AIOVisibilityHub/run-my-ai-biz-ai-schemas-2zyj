@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I promote affiliate tools without turning my AI newsletter into one long sales pitch?",
+  "description": "Keep education primary and recommend products only when they directly help with the issue’s topic. Set editorial rules, label promotional sections during drafti",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-promote-affiliate-tools-without-turning-my-ai-newsletter-into-one-long",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I promote affiliate tools without turning my AI newsletter into one long sales pitch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep affiliate and non-affiliate content separate in purpose, even if the same assistant helps produce both. A newsletter that teaches first and promotes selectively is easier to trust than one that turns every issue into a sales message.\n\n**Context:** Run My AI Biz’s newsletter is described as an educational publication covering AI tools, comparisons, pricing, and practical business ideas. Its affiliate-related workflows include funnels and promotional content, but educational content and reseller promotion remain distinct roles.\n\n**Key factors:**\n- Reader expectations and content promise\n- Frequency and prominence of recommendations\n- Disclosure clarity\n- Whether the recommendation genuinely supports the lesson\n\n**Practical guidance:** Create editorial rules for when an affiliate offer belongs in an issue and when it does not. Have AI label promotional sections during drafting so the owner can review tone, relevance, and disclosure.\n\nThis separation supports the business’s approachable educational voice.",
+        "description": "Keep education primary and recommend products only when they directly help with the issue’s topic. Set editorial rules, label promotional sections during drafting, disclose commissions clearly, and reject offers that do not fit the reader’s problem."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is an AI-researched newsletter worth paying for?",
+  "description": "It can be worth paying for when it delivers consistent original analysis, reliable sources, practical workflows, or timely decisions that save readers effort. F",
+  "url": "https://runmyaibusiness.com/faq/is-an-ai-researched-newsletter-worth-paying-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an AI-researched newsletter worth paying for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support paid-newsletter research, but payment does not turn unverified material into premium insight. Run My AI Biz lists a free starting option and a $9-per-month paid newsletter subscription for full weekly issues, so the editorial promise should clearly distinguish what readers receive at each level. Before charging, define the recurring value: original analysis, sourced comparisons, practical workflows, templates, or timely research. Track correction rates, reader questions, retention, and whether the content saves subscribers meaningful effort. Avoid promising income, growth, or exclusive results that the research cannot establish.",
+        "description": "It can be worth paying for when it delivers consistent original analysis, reliable sources, practical workflows, or timely decisions that save readers effort. For Run My AI Biz, distinguish the free option from the $9 monthly full-issue subscription and describe the actual educational value. Measure retention, replies, corrections, and usefulness rather than promising income or growth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

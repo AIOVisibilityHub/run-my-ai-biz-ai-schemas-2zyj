@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a long AI sales page or a simple landing page for my offer?",
+  "description": "Use a detailed sales page when the offer is complex, expensive, or unfamiliar. Use a focused landing page when one action—such as joining a list or registering—",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-a-long-ai-sales-page-or-a-simple-landing-page-for-my-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a long AI sales page or a simple landing page for my offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a sales page when visitors need detailed persuasion before buying, and a landing page when one focused action matters most, such as joining a list, registering, or requesting information. The distinction is practical rather than absolute.\n\nContext: Run My AI Business connects sales pages with opt-in pages, bridge pages, thank-you pages, checkout, and follow-up. The appropriate format depends on visitor awareness and offer complexity.\n\nKey factors:\n- Price and perceived risk\n- Amount of explanation required\n- Traffic source and visitor intent\n- Whether the goal is a sale or lead\n\nPractical guidance: Ask AI to recommend a page structure based on the visitor’s next decision. Keep one primary action and move secondary details into supporting sections.\n\nThe business’s funnel-focused education can help organize the page with the next step in mind.",
+        "description": "Use a detailed sales page when the offer is complex, expensive, or unfamiliar. Use a focused landing page when one action—such as joining a list or registering—is the priority. Decide based on visitor awareness, risk, traffic source, and how much explanation buyers need."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

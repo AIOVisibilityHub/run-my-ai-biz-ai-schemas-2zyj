@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many pages and emails do I actually need in an AI affiliate funnel?",
+  "description": "Start with an opt-in page, useful lead magnet, thank-you or bridge page, and short follow-up sequence. Test the complete path on mobile and expand only when dat",
+  "url": "https://runmyaibusiness.com/faq/how-many-pages-and-emails-do-i-actually-need-in-an-ai-affiliate-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many pages and emails do I actually need in an AI affiliate funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need a complex funnel at the beginning. A simple page, useful lead magnet, thank-you or bridge page, and short follow-up sequence are often enough to test whether the audience and offer match.\n\n**Context:** Run My AI Biz describes affiliate examples involving opt-in pages, lead magnets, bridge pages, thank-you pages, and email follow-up. The purpose is to connect steps logically, not to add pages simply because automation makes them easy.\n\n**Key factors:**\n- The visitor’s problem and next decision\n- Whether the lead magnet matches the promoted offer\n- Clarity of the call to action\n- Tracking from opt-in to affiliate click\n\n**Practical guidance:** Build the smallest complete path, test it yourself on mobile, and remove unnecessary steps. Expand only when data shows a specific drop-off or unanswered question.\n\nThe business’s focused-start recommendation fits this low-complexity testing approach.",
+        "description": "Start with an opt-in page, useful lead magnet, thank-you or bridge page, and short follow-up sequence. Test the complete path on mobile and expand only when data shows a specific drop-off or missing explanation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

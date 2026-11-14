@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if an affiliate program rejects me because I am new or my traffic is mostly AI-generated?",
+  "description": "Rejection can result from program fit, traffic source, incomplete information, or prohibited promotion methods. Review the current terms, provide a clear site o",
+  "url": "https://runmyaibusiness.com/faq/what-if-an-affiliate-program-rejects-me-because-i-am-new-or-my-traffic-is-mostly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if an affiliate program rejects me because I am new or my traffic is mostly AI-generated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Affiliate programs may reject applications or limit promotion methods for reasons unrelated to AI, including audience fit, traffic quality, prohibited channels, or incomplete business information. Read each program’s current terms before building content around it.\n\n**Context:** Run My AI Biz can help with offer research and campaign planning, but it does not control third-party approval decisions. A workflow should keep program rules as a reference input and update them when terms change.\n\n**Key factors:**\n- Accepted traffic sources and advertising restrictions\n- Brand bidding, coupon, email, or incentive rules\n- Required disclosures and tracking parameters\n- Payout, refund, and attribution conditions\n\n**Practical guidance:** Maintain a program-specific checklist and save the approval email or account record. Do not assume that permission on one platform applies to another.\n\nThe educational process can help compare options without promising acceptance.",
+        "description": "Rejection can result from program fit, traffic source, incomplete information, or prohibited promotion methods. Review the current terms, provide a clear site or channel description, document your audience plan, and never assume one program’s rules apply elsewhere."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

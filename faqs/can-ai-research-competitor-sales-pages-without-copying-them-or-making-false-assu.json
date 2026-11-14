@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI research competitor sales pages without copying them or making false assumptions?",
+  "description": "Yes, if you limit the review to public information and use it to compare positioning, structure, proof, objections, and calls to action. Do not copy wording or",
+  "url": "https://runmyaibusiness.com/faq/can-ai-research-competitor-sales-pages-without-copying-them-or-making-false-assu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI research competitor sales pages without copying them or making false assumptions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can compare competitor pages for positioning, structure, offers, and visible messaging, but it should not copy wording, imply private knowledge, or treat a competitor’s claims as verified facts. Use the comparison to identify gaps and choices for your own offer.\n\nContext: The resource library includes competitor research and landing-page analysis, with source verification and review checkpoints. These workflows are most useful when the output becomes a decision document rather than a copied page.\n\nKey factors:\n- Publicly available information\n- Differences in audience and offer\n- Evidence behind competitor claims\n- Distinctive value you can actually deliver\n\nPractical guidance: Ask AI for a side-by-side matrix covering audience, promise, proof, price presentation, objections, and calls to action. Verify important observations manually.\n\nRun My AI Business can help connect research findings to offer positioning and page planning.",
+        "description": "Yes, if you limit the review to public information and use it to compare positioning, structure, proof, objections, and calls to action. Do not copy wording or accept competitor claims as verified facts. Turn findings into your own offer decisions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

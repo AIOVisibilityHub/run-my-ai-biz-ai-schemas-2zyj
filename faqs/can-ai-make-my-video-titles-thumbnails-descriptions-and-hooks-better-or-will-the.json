@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI make my video titles, thumbnails, descriptions, and hooks better, or will they become clickbait?",
+  "description": "AI can generate useful variations, but every title, thumbnail, description, and hook must accurately reflect the video. Use the approved source brief, check nam",
+  "url": "https://runmyaibusiness.com/faq/can-ai-make-my-video-titles-thumbnails-descriptions-and-hooks-better-or-will-the",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI make my video titles, thumbnails, descriptions, and hooks better, or will they become clickbait?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help with video thumbnails, titles, descriptions, and hooks, but these elements should accurately represent the finished video. Ask for several options based on the approved message and audience, then remove sensational wording that creates a mismatch. For Run My AI Business content, connect the metadata workflow to the same source brief used for the video so the title, thumbnail, description, and call to action remain consistent. Check names, product details, links, accessibility text, and platform limits manually. Test alternatives where the platform permits, but judge them by qualified viewer response and retention rather than clicks alone. A strong hook should clarify the value, not promise an outcome the video cannot deliver.",
+        "description": "AI can generate useful variations, but every title, thumbnail, description, and hook must accurately reflect the video. Use the approved source brief, check names and links, remove unsupported promises, and measure qualified engagement and retention—not clicks alone. Clear value usually outperforms misleading curiosity over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

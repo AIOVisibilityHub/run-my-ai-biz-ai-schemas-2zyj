@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check if my AI funnel gets traffic but no sales?",
+  "description": "Check the funnel stage by stage: audience quality, page promise, opt-in function, email delivery, offer clarity, trust, price, checkout, and fulfillment. Match",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-check-if-my-ai-funnel-gets-traffic-but-no-sales",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check if my AI funnel gets traffic but no sales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When results are weak, inspect the funnel in order instead of immediately adding more automation. Confirm that the traffic reaches the intended audience, the promise matches the lead magnet, the form works, the follow-up arrives, the offer is understandable, and checkout completes successfully. Low opt-ins, opens, clicks, and purchases point to different problems. Run My AI Business includes landing-page review, offer-positioning, demand-research, and growth-oriented assistants that can organize possible improvements, but recommendations still require judgment. Review real messages from prospects, compare each stage with your baseline, and change the smallest likely bottleneck first.",
+        "description": "Check the funnel stage by stage: audience quality, page promise, opt-in function, email delivery, offer clarity, trust, price, checkout, and fulfillment. Match the symptom to the metric instead of rewriting everything. Use AI to organize feedback and test ideas, but let real prospect responses guide the priority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

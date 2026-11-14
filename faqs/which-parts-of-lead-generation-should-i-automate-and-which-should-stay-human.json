@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which parts of lead generation should I automate, and which should stay human?",
+  "description": "Automate repetitive research, summaries, record organization, and draft preparation. Keep targeting decisions, fact checking, sensitive replies, final approvals",
+  "url": "https://runmyaibusiness.com/faq/which-parts-of-lead-generation-should-i-automate-and-which-should-stay-human",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which parts of lead generation should I automate, and which should stay human?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can research prospects, summarize accounts, suggest priorities, draft follow-ups, and flag unanswered messages. It should not independently decide who deserves sensitive treatment, make unsupported claims, send messages without approval, or spend money on campaigns. A practical setup separates research, drafting, approval, sending, and measurement. Add an escalation rule for replies, complaints, opt-outs, and unusual requests. Run My AI Biz’s human-directed model is suited to workflows where the owner retains control over publication, spending, and consequential actions.",
+        "description": "Automate repetitive research, summaries, record organization, and draft preparation. Keep targeting decisions, fact checking, sensitive replies, final approvals, spending, and sending under human control. Separate each stage so errors can be caught before they reach prospects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

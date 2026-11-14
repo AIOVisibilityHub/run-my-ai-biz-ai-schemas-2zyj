@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to let AI write and publish my social media posts automatically?",
+  "description": "Fully automatic publishing is risky. Review AI content for accuracy, outdated tool information, misleading claims, tone, links, privacy issues, and platform fit",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-let-ai-write-and-publish-my-social-media-posts-automatically",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to let AI write and publish my social media posts automatically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not publish AI drafts without checking accuracy, tone, context, names, links, and calls to action. AI can omit qualifications, invent details, repeat outdated information, or make a careful educational example sound like a promise.\n\nContext: This matters for Run My AI Biz because its materials discuss tools, pricing, workflows, and possible business applications. Those details may change, and the resource library includes examples that should not be presented as proven income-producing businesses.\n\nKey factors:\n- Confirm every current tool or pricing statement.\n- Check that examples remain clearly labeled as examples.\n- Review claims about earnings, performance, or automation.\n- Inspect links, formatting, and platform limits.\n\nPractical guidance: Add a required human-review stage to the prompt and use a checklist before publication. Keep a source document beside each content batch so reviewers can compare drafts with the original.\n\nHuman approval protects both accuracy and audience trust.",
+        "description": "Fully automatic publishing is risky. Review AI content for accuracy, outdated tool information, misleading claims, tone, links, privacy issues, and platform fit before anything goes live—especially when content discusses prices, business outcomes, or specific AI capabilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

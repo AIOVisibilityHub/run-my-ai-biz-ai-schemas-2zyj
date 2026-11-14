@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI marketing automation if I do not know how to code?",
+  "description": "Yes, many content and marketing workflows can begin with conversational instructions and no-code tools. You still need to understand inputs, connected platforms",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-marketing-automation-if-i-do-not-know-how-to-code",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI marketing automation if I do not know how to code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-code or low-code workflows can be a reasonable starting point, especially when your needs involve prompts, content drafts, scheduled research, email preparation, or simple handoffs. Run My AI Biz emphasizes conversational workflows that do not require users to learn coding, while also noting that actual execution depends on platforms, integrations, permissions, and supporting services. Key factors are the number of systems involved, data sensitivity, exception handling, and whether a failure could cost money or damage trust. Start with a process you can inspect manually. Document every connection and fallback step before making it live. Run My AI Biz can help you understand the difference between a prompt and a functioning system.",
+        "description": "Yes, many content and marketing workflows can begin with conversational instructions and no-code tools. You still need to understand inputs, connected platforms, permissions, review steps, and fallback actions. Run My AI Biz focuses on approachable workflows while explaining that a prompt alone does not create a complete operating system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

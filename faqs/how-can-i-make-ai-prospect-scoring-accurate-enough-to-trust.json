@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I make AI prospect scoring accurate enough to trust?",
+  "description": "Define qualification criteria and disqualifiers before scoring. Require fields for fit, need signal, source, recency, and confidence, then compare scores with h",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-make-ai-prospect-scoring-accurate-enough-to-trust",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make AI prospect scoring accurate enough to trust?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining what a qualified prospect means for your business, then assign consistent fields such as industry, size, location, need signal, decision-maker role, source, and confidence. Use scoring to prioritize review, not to make automatic judgments. Test the score against a sample of accounts and adjust it when high-ranked prospects are poor fits. Keep disqualifiers visible so the system does not reward volume alone. Run My AI Biz’s task-specific assistant model can organize this process around the workflow you actually use.",
+        "description": "Define qualification criteria and disqualifiers before scoring. Require fields for fit, need signal, source, recency, and confidence, then compare scores with human judgments on a sample. Revise the model when high-ranked accounts do not produce relevant conversations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

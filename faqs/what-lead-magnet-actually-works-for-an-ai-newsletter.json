@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What lead magnet actually works for an AI newsletter?",
+  "description": "Create a small resource that helps one audience complete one task, such as an AI workflow checklist, prompt pack, or tool-comparison worksheet. Align it with yo",
+  "url": "https://runmyaibusiness.com/faq/what-lead-magnet-actually-works-for-an-ai-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What lead magnet actually works for an AI newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful lead magnet should help a specific reader complete a small AI-related task quickly. Examples include a workflow-planning worksheet, an evaluated prompt pack, a tool comparison checklist, or a short guide connecting an idea to an offer and follow-up sequence.\n\nContext: Community discussions frequently mention lead magnets as a way to convert existing attention into email sign-ups. The best choice depends on the newsletter’s promise, reader sophistication, and the next action you want subscribers to take.\n\nKey factors:\n- Solve one urgent, bounded problem.\n- Show a result before asking for a paid upgrade.\n- Keep the resource aligned with future issues.\n- Include clear instructions and review limits.\n\nPractical guidance: Create the first version from a question readers repeatedly ask. Track landing-page visits, downloads, and whether new subscribers open the welcome sequence.\n\nRun My AI Biz can ground a lead magnet in its educational themes, such as AI-assisted product planning, lead generation, or repeatable business workflows.",
+        "description": "Create a small resource that helps one audience complete one task, such as an AI workflow checklist, prompt pack, or tool-comparison worksheet. Align it with your newsletter’s regular content and measure downloads, welcome-email engagement, and eventual paid conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep AI from making false claims in my follow-up emails?",
+  "description": "Give AI an approved claim library and prohibit invented testimonials, statistics, proof, urgency, discounts, and income claims. Require it to flag missing evide",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-keep-ai-from-making-false-claims-in-my-follow-up-emails",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep AI from making false claims in my follow-up emails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI should not invent testimonials, statistics, customer results, scarcity, discounts, or income claims. If proof is missing, the email should use a transparent explanation, an educational resource, or a request for human input rather than filling the gap.\n\nContext: Run My AI Biz’s supplied workflow principles explicitly restrict invented statistics, proof, and income claims. Its materials distinguish demonstrated workflows from experimental or unused examples.\n\nKey factors:\n- Whether every claim has an approved source.\n- Whether examples are labeled as examples rather than results.\n- Whether the offer’s current price and terms are verified.\n- Whether AI is instructed to flag missing evidence.\n\nPractical guidance: Maintain a claim library with source, date, permitted wording, and owner approval. Ask AI to return a warning whenever a requested message needs proof that is not supplied.\n\nRun My AI Biz can help owners build educational sequences without overstating what an AI workflow has achieved.",
+        "description": "Give AI an approved claim library and prohibit invented testimonials, statistics, proof, urgency, discounts, and income claims. Require it to flag missing evidence instead of guessing. Label demonstrations as examples, verify current pricing and terms, and approve every final message."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

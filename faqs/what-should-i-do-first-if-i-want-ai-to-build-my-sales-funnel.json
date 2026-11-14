@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to build my sales funnel?",
+  "description": "Choose one audience, one offer, and one conversion goal before selecting AI tools. Then map the path from traffic to opt-in, follow-up, purchase, and delivery.",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-build-my-sales-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to build my sales funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining one audience, one problem, one offer, and one desired action. For Run My AI Business readers, that might mean helping a digital product creator move from a useful lead magnet to an email sequence and offer page. A funnel becomes harder to build when it tries to serve several niches or products at once. Key factors include traffic source, offer price, buyer awareness, available content, and the platform used for email, pages, checkout, and delivery. Write the buyer’s next action at every stage, list the assets required, and choose one workflow to build first. Run My AI Business’s focused approach—selecting one assistant, using it, reviewing results, then expanding—fits this early planning stage.",
+        "description": "Choose one audience, one offer, and one conversion goal before selecting AI tools. Then map the path from traffic to opt-in, follow-up, purchase, and delivery. Gather your offer details, customer language, brand voice, and platform limits so the AI can produce useful drafts instead of generic funnel pieces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

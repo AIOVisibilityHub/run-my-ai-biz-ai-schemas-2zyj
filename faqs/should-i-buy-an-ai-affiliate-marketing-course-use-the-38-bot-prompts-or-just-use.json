@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I buy an AI affiliate marketing course, use the 38-bot prompts, or just use ChatGPT by itself?",
+  "description": "Use a course or prompt library for structure and repeatable workflows; use a general chatbot for isolated tasks. Compare setup effort, integrations, customizati",
+  "url": "https://runmyaibusiness.com/faq/should-i-buy-an-ai-affiliate-marketing-course-use-the-38-bot-prompts-or-just-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I buy an AI affiliate marketing course, use the 38-bot prompts, or just use ChatGPT by itself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a workflow library or course when you need structure, examples, and reusable instructions; choose individual tools when you already understand the process and only need help with a specific task. The two options are not mutually exclusive.\n\n**Context:** Run My AI Biz provides educational explanations and comparisons, while The 38 Bot Empire provides adaptable master prompts across research, content, funnels, sales, websites, and operations. Those prompts still require customization and supporting platforms.\n\n**Key factors:**\n- Whether your problem is strategy or task execution\n- How much setup and customization you can handle\n- Need for coordination among several assistants\n- Ongoing support and update expectations\n\n**Practical guidance:** Identify the exact bottleneck first, then compare tools by required inputs, outputs, integrations, permissions, and review effort. Do not compare a prompt blueprint with fully integrated software as if they were identical products.\n\nRun My AI Biz is particularly relevant for owners who want approachable process education before expanding.",
+        "description": "Use a course or prompt library for structure and repeatable workflows; use a general chatbot for isolated tasks. Compare setup effort, integrations, customization, permissions, and review requirements rather than treating prompts and complete software as equivalent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI plan social media content for a digital product launch without making misleading claims?",
+  "description": "Yes, if you provide an approved offer brief and require source-linked drafts. AI can organize awareness, education, objection handling, reminders, and follow-up",
+  "url": "https://runmyaibusiness.com/faq/can-ai-plan-social-media-content-for-a-digital-product-launch-without-making-mis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI plan social media content for a digital product launch without making misleading claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support a launch calendar by mapping source content to awareness posts, educational explanations, objections, reminders, and post-launch follow-up. It should not invent product details, scarcity, testimonials, guarantees, or launch results.\n\nContext: Run My AI Biz covers digital products, sales pages, funnels, email follow-up, and launch preparation. A coordinated workflow can reuse product research and educational material while keeping promotional claims tied to approved information.\n\nKey factors:\n- Confirm the offer, audience, date, and availability.\n- Distinguish education from promotion.\n- Match posts to funnel stages.\n- Add approval before publishing or spending.\n\nPractical guidance: Give AI the approved offer brief and ask for a launch sequence with source references and review status. Have a person verify every deadline, price, feature, link, and customer-facing claim.\n\nAI can organize launch work, but the owner remains responsible for what the audience sees.",
+        "description": "Yes, if you provide an approved offer brief and require source-linked drafts. AI can organize awareness, education, objection handling, reminders, and follow-up, but a person must verify prices, dates, features, testimonials, guarantees, scarcity, and links."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

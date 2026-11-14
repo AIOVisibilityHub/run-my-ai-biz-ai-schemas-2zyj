@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI-powered lead generation really cost for a small business?",
+  "description": "Budget for AI software, data or contact credits, integrations, sending infrastructure, and human review. Evaluate cost per qualified opportunity rather than cos",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-ai-powered-lead-generation-really-cost-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI-powered lead generation really cost for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs can include software subscriptions, contact or data credits, email infrastructure, CRM access, integration services, and your own review time. A low monthly price may still become expensive if the data is inaccurate or each record requires extensive correction. Compare cost per qualified opportunity, not cost per contact. For a small business, starting with existing tools and one focused workflow may limit unnecessary spending. Run My AI Biz offers educational material and examples, while actual platform, data, and service costs depend on what you choose to connect.",
+        "description": "Budget for AI software, data or contact credits, integrations, sending infrastructure, and human review. Evaluate cost per qualified opportunity rather than cost per lead. Starting with one workflow and existing tools can reveal value before you add subscriptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

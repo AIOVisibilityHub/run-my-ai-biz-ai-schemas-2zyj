@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is email still the best channel for AI-generated prospecting?",
+  "description": "Not always. Choose the channel where your audience is active and where you can monitor responses responsibly. Email may support structured follow-up, while soci",
+  "url": "https://runmyaibusiness.com/faq/is-email-still-the-best-channel-for-ai-generated-prospecting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is email still the best channel for AI-generated prospecting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support outreach on LinkedIn, websites, social platforms, and email, but each channel has different expectations, controls, and risks. Start with the channel where your audience already responds and where you can monitor conversations. Avoid copying one message everywhere; adapt the purpose and format while keeping claims truthful. Require approval before posting or sending. Run My AI Biz examples cover social content, newsletters, websites, and email-related workflows, but they are adaptable blueprints rather than permission to automate every channel.",
+        "description": "Not always. Choose the channel where your audience is active and where you can monitor responses responsibly. Email may support structured follow-up, while social or website workflows may suit discovery, but every channel needs tailored content, consent awareness, and human review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

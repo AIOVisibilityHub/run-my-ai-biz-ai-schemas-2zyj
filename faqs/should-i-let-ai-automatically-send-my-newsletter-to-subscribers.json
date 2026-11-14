@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I let AI automatically send my newsletter to subscribers?",
+  "description": "Usually, begin with AI preparing drafts rather than sending them. Require a human checkpoint for source review, links, claims, personalization, unsubscribe sett",
+  "url": "https://runmyaibusiness.com/faq/should-i-let-ai-automatically-send-my-newsletter-to-subscribers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I let AI automatically send my newsletter to subscribers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not let an AI assistant send the newsletter automatically until the workflow has passed repeated human review. Run My AI Biz’s business-automation guidance requires approval before consequential actions such as sending messages, publishing content, spending money, or signing up for services. Begin with drafts delivered to a review folder or document rather than direct publishing. Add checks for sources, links, subject line accuracy, unsubscribe settings, personalization fields, and prohibited claims. Use automation for collection and reminders before granting any publishing permission. Expand access only after exceptions are understood and a rollback plan exists.",
+        "description": "Usually, begin with AI preparing drafts rather than sending them. Require a human checkpoint for source review, links, claims, personalization, unsubscribe settings, and final approval. Run My AI Biz’s workflow principles keep publishing and other consequential actions under owner control. Automation can collect research and prepare reminders before it receives permission to send."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

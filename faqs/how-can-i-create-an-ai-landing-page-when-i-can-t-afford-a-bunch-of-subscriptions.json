@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I create an AI landing page when I can’t afford a bunch of subscriptions?",
+  "description": "Start with one offer, one audience, one page, and one primary action. Use available AI tools for the brief, outline, copy, and review checklist; keep the page a",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-create-an-ai-landing-page-when-i-can-t-afford-a-bunch-of-subscriptions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I create an AI landing page when I can’t afford a bunch of subscriptions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small budget is not a reason to skip message quality, but it may favor a simple page and a focused workflow. Use AI for research, outlining, copy variations, and checklists while keeping design, integrations, and testing as limited as the offer requires.\n\nContext: Run My AI Business includes free educational starting options and explains how owners can begin with one assistant before expanding. The exact platform mix depends on your offer and existing tools.\n\nKey factors:\n- One audience and one offer\n- A single primary call to action\n- Existing email or checkout tools\n- Time available for manual review\n\nPractical guidance: Build the minimum complete path: page, form or checkout, confirmation, and follow-up. Delay advanced automation until the basic path works.\n\nThe focused-start approach helps reduce unnecessary tool and setup costs.",
+        "description": "Start with one offer, one audience, one page, and one primary action. Use available AI tools for the brief, outline, copy, and review checklist; keep the page and follow-up simple. Add paid tools only when they solve a measured bottleneck."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

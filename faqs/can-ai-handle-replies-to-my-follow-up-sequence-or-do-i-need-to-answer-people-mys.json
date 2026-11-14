@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI handle replies to my follow-up sequence, or do I need to answer people myself?",
+  "description": "AI can summarize and classify replies, but humans should handle ambiguous, sensitive, angry, support-related, or high-value messages. Create clear labels and es",
+  "url": "https://runmyaibusiness.com/faq/can-ai-handle-replies-to-my-follow-up-sequence-or-do-i-need-to-answer-people-mys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI handle replies to my follow-up sequence, or do I need to answer people myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI should summarize replies and suggest classifications, but a person should handle ambiguous, sensitive, angry, high-value, or support-related responses. Automatic branching is most appropriate when the reply categories are simple, well-defined, and tested.\n\nContext: Run My AI Biz emphasizes a chief-of-staff-style workflow that organizes tasks while the owner retains control of decisions and consequential actions. That model fits reply triage better than unrestricted autonomous responses.\n\nKey factors:\n- Whether the reply expresses interest, refusal, confusion, support need, or complaint.\n- Whether a purchase or account decision is involved.\n- Whether the system has enough verified context.\n- Whether escalation rules are clear.\n\nPractical guidance: Create labels such as interested, not now, unsubscribe, support, and human review. Require AI to quote the relevant reply and explain its proposed next step before any automated response.\n\nRun My AI Biz can help owners design a supervised handoff process for one-person businesses.",
+        "description": "AI can summarize and classify replies, but humans should handle ambiguous, sensitive, angry, support-related, or high-value messages. Create clear labels and escalation rules. Require AI to show the reply, explain its classification, and request approval before sending an uncertain response."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

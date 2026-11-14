@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI marketing automation really cost for a one-person business?",
+  "description": "Budget for the AI platform, connected tools, usage limits, and your review time. Run My AI Biz offers a free starting option and a $9 monthly newsletter subscri",
+  "url": "https://runmyaibusiness.com/faq/how-much-does-ai-marketing-automation-really-cost-for-a-one-person-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI marketing automation really cost for a one-person business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical budget includes the AI platform, automation or email software, content tools, storage, and your own review time. Run My AI Biz describes a free starting option and a $9-per-month paid newsletter subscription for full weekly issues, while the separate mastermind and third-party tools may have different costs. Key factors include usage limits, number of workflows, paid integrations, subscriber volume, and whether you need scheduled execution. List every recurring fee before building a system. Start with one workflow and calculate whether it saves enough time or improves consistency to justify its cost. Run My AI Biz helps readers understand pricing and tradeoffs rather than presenting savings as guaranteed.",
+        "description": "Budget for the AI platform, connected tools, usage limits, and your review time. Run My AI Biz offers a free starting option and a $9 monthly newsletter subscription for full weekly issues; other tools and the separate mastermind may charge separately. Calculate total recurring cost before expanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

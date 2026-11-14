@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI tell me the best time to post on social media?",
+  "description": "AI can suggest posting times from your analytics, audience locations, platform activity, and campaign goals, but there is no universal best time. Run a controll",
+  "url": "https://runmyaibusiness.com/faq/can-ai-tell-me-the-best-time-to-post-on-social-media",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI tell me the best time to post on social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can propose posting times from your audience data, platform analytics, and campaign priorities, but generic “best time” advice is only a starting point. Your own audience behavior and content type matter more than a universal schedule.\n\nContext: Run My AI Biz’s workflows include recurring research, daily updates, newsletter growth, and social content. A scheduling assistant can organize recommendations, but it should show the data or assumption behind each recommendation.\n\nKey factors:\n- Use your account’s recent audience activity when available.\n- Compare time zones and audience locations.\n- Distinguish live conversations from evergreen posts.\n- Test timing alongside content quality.\n\nPractical guidance: Ask AI for a test schedule with a reason for each time slot and a review date. Change one timing variable at a time and record meaningful results.\n\nTiming should be tested as part of a broader content experiment.",
+        "description": "AI can suggest posting times from your analytics, audience locations, platform activity, and campaign goals, but there is no universal best time. Run a controlled test, change one timing variable at a time, and judge results alongside topic, format, and audience fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

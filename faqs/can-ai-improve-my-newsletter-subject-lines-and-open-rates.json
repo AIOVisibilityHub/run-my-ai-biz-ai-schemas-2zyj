@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI improve my newsletter subject lines and open rates?",
+  "description": "AI can generate and classify subject-line variants, but performance still depends on audience fit, deliverability, timing, and the promise inside the issue. Ask",
+  "url": "https://runmyaibusiness.com/faq/can-ai-improve-my-newsletter-subject-lines-and-open-rates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI improve my newsletter subject lines and open rates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help with subject-line ideas, preview text, and variant planning, but it cannot reliably predict which version will win for every audience. Run My AI Biz’s content workflows support preparation and testing rather than guaranteed growth. Ask for variants based on distinct angles such as usefulness, curiosity, specificity, or urgency, while banning unsupported promises and misleading clickbait. Test one meaningful difference at a time when your email platform permits it. Evaluate clicks, replies, conversions, and unsubscribes alongside opens because a high-open subject line can still attract the wrong audience.",
+        "description": "AI can generate and classify subject-line variants, but performance still depends on audience fit, deliverability, timing, and the promise inside the issue. Ask for several honest angles and avoid unsupported urgency or clickbait. Test meaningful differences and review clicks, replies, conversions, and unsubscribes—not opens alone—before changing your process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

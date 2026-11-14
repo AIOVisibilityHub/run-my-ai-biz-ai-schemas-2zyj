@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from writing a feature dump instead of a sales page?",
+  "description": "Give AI the audience, urgent problem, desired outcome, buying objections, and proof before listing features. Ask it to map each feature to a customer need and r",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-writing-a-feature-dump-instead-of-a-sales-page",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from writing a feature dump instead of a sales page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Build the page around the customer’s decision, not around every feature your product has. AI can turn features into possible benefits, but you should confirm which benefits matter to the intended audience and whether the product can deliver them.\n\nContext: Run My AI Business includes offer positioning, customer research, opportunity research, and page analysis as separate but related applications. Connecting them helps prevent feature-heavy copy.\n\nKey factors:\n- Customer problem and urgency\n- Cost of staying with the current approach\n- Distinctive mechanism or process\n- Proof that the promised improvement is plausible\n\nPractical guidance: Ask AI to map each feature to a customer problem, desired outcome, objection, and evidence source. Remove features that do not support the primary buying decision.\n\nThe business’s practical, audience-centered approach can help turn product details into a clearer offer.",
+        "description": "Give AI the audience, urgent problem, desired outcome, buying objections, and proof before listing features. Ask it to map each feature to a customer need and remove anything unrelated to the main decision. Lead with the problem and outcome, not the product inventory."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

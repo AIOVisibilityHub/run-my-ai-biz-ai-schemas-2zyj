@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which sources should AI use when researching my newsletter?",
+  "description": "Prioritize original documentation, official announcements, research papers, and reputable reporting. Use forums and social discussions to discover real question",
+  "url": "https://runmyaibusiness.com/faq/which-sources-should-ai-use-when-researching-my-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which sources should AI use when researching my newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a source hierarchy: primary documentation and original research first, reputable reporting next, and community discussion mainly for questions, experiences, or leads to investigate. AI should show which level supports each claim. This is especially important for Run My AI Biz coverage of tool capabilities, pricing, integrations, and business workflows, where provider pages can change. Ask for publication dates, direct evidence, conflicts, and missing context. Do not treat an AI summary, search snippet, or anonymous comment as sufficient support for a consequential statement. Keep community insights clearly labeled as experiences rather than universal results.",
+        "description": "Prioritize original documentation, official announcements, research papers, and reputable reporting. Use forums and social discussions to discover real questions or user experiences, then verify those points elsewhere. Ask AI to record dates, evidence, conflicts, and gaps. For Run My AI Biz tool coverage, check provider documentation directly for features, pricing, limits, and integrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

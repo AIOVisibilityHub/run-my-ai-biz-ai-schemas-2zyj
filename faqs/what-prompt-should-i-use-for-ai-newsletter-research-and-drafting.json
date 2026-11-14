@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What prompt should I use for AI newsletter research and drafting?",
+  "description": "Use a staged prompt: define the audience and angle, gather and compare sources, extract evidence, create an outline, draft in your voice, and flag claims needin",
+  "url": "https://runmyaibusiness.com/faq/what-prompt-should-i-use-for-ai-newsletter-research-and-drafting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What prompt should I use for AI newsletter research and drafting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best prompt asks AI to perform separate stages instead of jumping straight to polished prose: identify the reader’s question, gather sources, extract evidence, outline the issue, draft it, and run a quality check. This structure matches Run My AI Biz’s emphasis on task-specific assistants and repeatable workflows. A useful prompt should state the audience, angle, length, reading level, section order, source requirements, prohibited claims, and approval checkpoint. Tell AI to distinguish confirmed facts, reasonable interpretation, and unanswered questions. Require a research log and a list of every statement that needs human confirmation. Once the workflow performs consistently, save the instructions as a reusable master prompt.",
+        "description": "Use a staged prompt: define the audience and angle, gather and compare sources, extract evidence, create an outline, draft in your voice, and flag claims needing review. Include length, structure, tone, source standards, prohibited assumptions, and a rule that AI must say when evidence is missing. Save the tested instructions as a reusable workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

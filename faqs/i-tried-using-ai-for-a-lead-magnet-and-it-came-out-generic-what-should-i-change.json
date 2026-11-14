@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I tried using AI for a lead magnet and it came out generic—what should I change?",
+  "description": "Find the specific failure first: wrong audience, broad topic, weak promise, vague steps, unsupported claims, poor design, or irrelevant follow-up. Give AI real",
+  "url": "https://runmyaibusiness.com/faq/i-tried-using-ai-for-a-lead-magnet-and-it-came-out-generic-what-should-i-change",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I tried using AI for a lead magnet and it came out generic—what should I change?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A previous weak result usually means the brief, audience, evidence, format, or review process needs improvement—not that AI cannot help. Diagnose where the asset failed before generating another version.\n\n**Context:** Run My AI Biz emphasizes iterative prompts, customization, approval checkpoints, and adapting workflows to the owner’s circumstances. The 38-bot resources are blueprints that require context and refinement rather than automatic results.\n\n**Key factors:**\n- Did the resource solve a real and narrow problem?\n- Were examples and steps specific enough to use?\n- Did the title attract the intended audience?\n- Was the follow-up relevant and technically functional?\n\n**Practical guidance:** Interview a few intended readers, mark the exact point where they lost interest, and revise one weakness at a time. Feed the findings into a new prompt with explicit examples of what was unclear and what a successful completion looks like.\n\nA failed first draft can become useful research when reviewed systematically.",
+        "description": "Find the specific failure first: wrong audience, broad topic, weak promise, vague steps, unsupported claims, poor design, or irrelevant follow-up. Give AI real customer language, examples, constraints, and completion criteria, then revise one weakness at a time with human feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

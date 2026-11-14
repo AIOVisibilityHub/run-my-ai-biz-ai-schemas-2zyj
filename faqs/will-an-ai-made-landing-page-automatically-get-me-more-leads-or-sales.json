@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an AI-made landing page automatically get me more leads or sales?",
+  "description": "No. AI can speed up research and drafting, but leads and sales depend on audience fit, offer quality, traffic, trust, page experience, and follow-up. Set one me",
+  "url": "https://runmyaibusiness.com/faq/will-an-ai-made-landing-page-automatically-get-me-more-leads-or-sales",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an AI-made landing page automatically get me more leads or sales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can suggest headlines, sections, calls to action, and objection-handling language, but it cannot guarantee conversion. Results depend on the offer, traffic quality, audience fit, page experience, trust, and follow-up.\n\nContext: A polished page may still fail if visitors are the wrong audience or the promised outcome is unclear. Run My AI Business describes AI tools as support for testing and decision-making, not guaranteed growth.\n\nKey factors:\n- Alignment between ad, audience, and page\n- Clarity of the offer and next step\n- Speed, readability, and mobile usability\n- Quality of evidence and follow-up\n\nPractical guidance: Define one measurable goal, record a baseline, and test one meaningful change at a time. Review both page behavior and lead or sales quality.\n\nThe business can help organize research, page drafts, funnel materials, and iteration as one workflow.",
+        "description": "No. AI can speed up research and drafting, but leads and sales depend on audience fit, offer quality, traffic, trust, page experience, and follow-up. Set one measurable goal, establish a baseline, and test meaningful changes instead of assuming the first draft will perform."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

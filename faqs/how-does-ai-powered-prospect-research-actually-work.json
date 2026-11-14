@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI-powered prospect research actually work?",
+  "description": "AI gathers public information, summarizes likely needs, and helps rank possible prospects against criteria you define. It does not reliably confirm buying inten",
+  "url": "https://runmyaibusiness.com/faq/how-does-ai-powered-prospect-research-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI-powered prospect research actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI prospect research is usually more useful for identifying and prioritizing possible buyers than for proving they are ready to purchase. A workflow may review a company website, public announcements, services, size indicators, or visible problems, then assign a reason for considering the account. The result still needs human verification because AI can misread outdated pages, infer the wrong decision-maker, or treat weak signals as strong intent. Define required fields, confidence levels, and disqualifiers before collecting data. A Run My AI Biz workflow can help structure this review, but the final qualification decision remains yours.",
+        "description": "AI gathers public information, summarizes likely needs, and helps rank possible prospects against criteria you define. It does not reliably confirm buying intent on its own, so review sources, check current details, and approve the final list before outreach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

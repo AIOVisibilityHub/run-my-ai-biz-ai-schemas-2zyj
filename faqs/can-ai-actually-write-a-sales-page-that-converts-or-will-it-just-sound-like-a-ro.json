@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI actually write a sales page that converts, or will it just sound like a robot?",
+  "description": "AI can produce a useful sales-page draft, but conversion depends on the offer, audience, proof, and editing. Use AI for structure, research, and alternate wordi",
+  "url": "https://runmyaibusiness.com/faq/can-ai-actually-write-a-sales-page-that-converts-or-will-it-just-sound-like-a-ro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI actually write a sales page that converts, or will it just sound like a robot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can create a strong first draft, but it cannot reliably decide what is true, persuasive, or appropriate for your particular audience without direction. Treat it as an assistant for research, structure, and variations—not as the final decision-maker.\n\nContext: Research discussions commonly raise concerns about bland templates, weak customization, and uncertainty about how much control AI should have. Run My AI Business emphasizes human-directed workflows and approval before publication.\n\nKey factors:\n- Quality of your source information\n- Specificity of the customer problem\n- Strength of your proof\n- Amount of human editing\n\nPractical guidance: Ask AI to show assumptions, flag unsupported claims, and explain why each section exists. Keep final approval with the business owner.\n\nThis fits Run My AI Business’s focus on practical, reviewable workflows rather than unattended publishing.",
+        "description": "AI can produce a useful sales-page draft, but conversion depends on the offer, audience, proof, and editing. Use AI for structure, research, and alternate wording; verify claims, add genuine customer language, remove vague promises, and approve the final page yourself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

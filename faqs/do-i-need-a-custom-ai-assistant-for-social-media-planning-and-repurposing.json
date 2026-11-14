@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a custom AI assistant for social media planning and repurposing?",
+  "description": "Not necessarily. Use a custom assistant when the task repeats and has clear inputs, outputs, voice rules, and approval steps. Start with one workflow and expand",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-a-custom-ai-assistant-for-social-media-planning-and-repurposing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a custom AI assistant for social media planning and repurposing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A specialized workflow can be useful when the task repeats, has clear inputs and outputs, and benefits from consistent instructions. It is less useful when the work changes daily, depends on confidential context, or requires nuanced judgment in every step.\n\nContext: Run My AI Biz’s resource library includes social content, newsletter repurposing, research, and chief-of-staff-style coordination examples. These are customizable blueprints that require an underlying AI platform, integrations, permissions, and owner oversight.\n\nKey factors:\n- Define the exact task before choosing an assistant.\n- Check whether the required tools can connect securely.\n- Estimate review time and exception handling.\n- Avoid building several assistants for one unclear process.\n\nPractical guidance: Document the current manual workflow first, then automate one repeatable portion. Expand only after the assistant produces useful drafts under normal conditions.\n\nA narrowly defined assistant usually delivers more dependable value than a broad “run my marketing” prompt.",
+        "description": "Not necessarily. Use a custom assistant when the task repeats and has clear inputs, outputs, voice rules, and approval steps. Start with one workflow and expand only after testing; a general AI tool may be enough for occasional drafts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

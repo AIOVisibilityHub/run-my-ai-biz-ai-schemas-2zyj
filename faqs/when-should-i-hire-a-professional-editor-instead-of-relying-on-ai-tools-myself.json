@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a professional editor instead of relying on AI tools myself?",
+  "description": "Consider professional help when the video affects major revenue or reputation, requires complex continuity, multilingual work, advanced sound or color, or stric",
+  "url": "https://runmyaibusiness.com/faq/when-should-i-hire-a-professional-editor-instead-of-relying-on-ai-tools-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a professional editor instead of relying on AI tools myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professional editor becomes valuable when the video carries substantial brand risk, requires complex continuity, involves multiple speakers or languages, needs precise sound and color work, or must meet demanding delivery specifications. Before hiring, prepare the source footage, script, brand guide, rights information, reference examples, required formats, deadline, and approval process. Ask whether the person uses AI for selected tasks and how they protect source files, verify outputs, and document licensed assets. For Run My AI Business projects, outside help may be more efficient for a flagship course, major launch, or high-volume production than for early experiments. Start with a paid test or small deliverable and judge communication, revisions, quality, and reliability.",
+        "description": "Consider professional help when the video affects major revenue or reputation, requires complex continuity, multilingual work, advanced sound or color, or strict delivery specifications. Prepare source files, scripts, brand rules, rights information, references, and deadlines. Test the editor with a small paid project before committing to a larger production."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

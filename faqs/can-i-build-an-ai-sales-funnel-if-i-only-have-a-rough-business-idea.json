@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build an AI sales funnel if I only have a rough business idea?",
+  "description": "Yes, but use the funnel to test demand rather than assume the idea is validated. Define the audience and problem, research real customer language, create a smal",
+  "url": "https://runmyaibusiness.com/faq/can-i-build-an-ai-sales-funnel-if-i-only-have-a-rough-business-idea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build an AI sales funnel if I only have a rough business idea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can begin with AI funnel planning even if the offer is not finished, but do not treat the funnel as proof that the offer will sell. Early research can help clarify the audience, problem, promise, format, and objections before you create every asset. The risk is producing polished pages for an offer people do not want or understand. Run My AI Business includes opportunity research, demand research, offer positioning, and product-development examples that can support this earlier stage. Interview potential buyers, review recurring questions, define a small test offer, and use the funnel to collect meaningful feedback. Keep claims and customer evidence separate from AI-generated assumptions.",
+        "description": "Yes, but use the funnel to test demand rather than assume the idea is validated. Define the audience and problem, research real customer language, create a small offer or waitlist, and measure responses before investing in a large funnel. AI can organize research and drafts, not confirm demand by itself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a product launch next week—can AI help me create the marketing assets fast without breaking everything?",
+  "description": "AI can speed up drafts and launch checklists, but keep all publishing and spending actions under approval. Test sales pages, forms, checkout, delivery, emails,",
+  "url": "https://runmyaibusiness.com/faq/i-have-a-product-launch-next-week-can-ai-help-me-create-the-marketing-assets-fas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a product launch next week—can AI help me create the marketing assets fast without breaking everything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a time-sensitive campaign, use AI to accelerate research, drafts, repurposing, and checklist creation, but keep the workflow in approval mode until it passes testing. Run My AI Biz’s launch examples cover sales pages, checkout and delivery setup, upsells, downsells, thank-you pages, and promotional copy, with review before anything goes live. Key factors are the launch date, number of assets, platform dependencies, payment and delivery testing, and available review time. Build a minimum viable campaign first and prepare fallback copy manually for critical steps. Confirm links, forms, checkout, email delivery, and tracking before promotion. Run My AI Biz can help organize launch preparation without treating speed as a substitute for verification.",
+        "description": "AI can speed up drafts and launch checklists, but keep all publishing and spending actions under approval. Test sales pages, forms, checkout, delivery, emails, links, and tracking before promotion. Run My AI Biz’s launch workflows cover these assets while requiring review before anything goes live."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

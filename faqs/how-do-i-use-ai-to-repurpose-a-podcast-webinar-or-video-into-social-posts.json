@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I use AI to repurpose a podcast, webinar, or video into social posts?",
+  "description": "Provide a transcript or recording, then ask AI to identify independent ideas, questions, clips, captions, carousel panels, and short-video scripts. Require time",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-use-ai-to-repurpose-a-podcast-webinar-or-video-into-social-posts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I use AI to repurpose a podcast, webinar, or video into social posts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a transcript, outline, or clean recording and ask AI to identify distinct ideas, useful quotations, questions, and moments that can stand alone. Then adapt each idea into captions, short-video scripts, carousel panels, or discussion prompts while checking that the shortened version keeps the speaker’s meaning.\n\nContext: Run My AI Biz’s content and video-related examples support a workflow that can connect educational material with social promotion. The output should remain faithful to the source and should not imply that an example, claim, or testimonial is broader than it is.\n\nKey factors:\n- Confirm transcript accuracy and speaker identity.\n- Preserve qualifiers and context.\n- Obtain permission for personal stories or customer material.\n- Match clips to platform length and format.\n\nPractical guidance: Ask AI to provide timestamps and source excerpts for every proposed clip. Review subtitles, names, links, and visual framing before publication.\n\nSource traceability makes video repurposing faster to approve and easier to correct.",
+        "description": "Provide a transcript or recording, then ask AI to identify independent ideas, questions, clips, captions, carousel panels, and short-video scripts. Require timestamps for every draft, preserve context, verify subtitles and names, and confirm permission for personal or customer material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

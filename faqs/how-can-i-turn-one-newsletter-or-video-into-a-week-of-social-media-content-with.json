@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I turn one newsletter or video into a week of social media content with AI?",
+  "description": "Use one approved source asset as the input, then request separate drafts for each platform with its format, audience, length, voice, and call to action. Require",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-turn-one-newsletter-or-video-into-a-week-of-social-media-content-with",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I turn one newsletter or video into a week of social media content with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Create one source asset, such as a newsletter issue, webinar outline, or product lesson, and ask AI to produce platform-specific drafts from it. Run My AI Biz includes examples for newsletter repurposing, Facebook, X, email sequences, lead magnets, and promotional content. Key factors are each platform’s format, audience expectations, length, call to action, and brand voice. Require the assistant to preserve the source’s meaning and flag anything it cannot verify. Review each version instead of posting the same text everywhere. Run My AI Biz can show how a single approved asset can feed several connected content tasks.",
+        "description": "Use one approved source asset as the input, then request separate drafts for each platform with its format, audience, length, voice, and call to action. Require meaning preservation and fact checks. Run My AI Biz includes newsletter-repurposing and social-content workflows that keep review before publication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

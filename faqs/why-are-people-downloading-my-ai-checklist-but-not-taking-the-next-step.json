@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why are people downloading my AI checklist but not taking the next step?",
+  "description": "The checklist may be attracting curiosity rather than the right audience, or its next step may not match the result it delivers. Tighten the title and promise,",
+  "url": "https://runmyaibusiness.com/faq/why-are-people-downloading-my-ai-checklist-but-not-taking-the-next-step",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are people downloading my AI checklist but not taking the next step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Give the checklist a specific promise and a visible result, then make the content scannable and easy to finish. A reader should understand who it is for, what it helps accomplish, and what to do next without reading a long introduction.\n\n**Context:** Public lead-magnet guidance commonly emphasizes a narrow question, a one-sentence promise, and quick use. That fits Run My AI Biz’s practical educational voice and its focus on helping owners move from research to action.\n\n**Key factors:**\n- Title based on the reader’s desired outcome.\n- Short sections and checkboxes that work on mobile.\n- Examples relevant to the intended business stage.\n- One clear next action after completion.\n\n**Practical guidance:** Ask AI for several titles, then test them with actual audience language rather than choosing the cleverest option. Remove any page that does not help the reader complete the promised task.\n\nUseful specificity is more persuasive than exaggerated urgency.",
+        "description": "The checklist may be attracting curiosity rather than the right audience, or its next step may not match the result it delivers. Tighten the title and promise, make the tasks actionable, connect the follow-up to the reader’s next problem, and remove unrelated calls to action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

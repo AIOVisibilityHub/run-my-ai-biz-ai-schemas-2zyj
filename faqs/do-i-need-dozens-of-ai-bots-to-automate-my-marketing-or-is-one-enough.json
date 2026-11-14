@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need dozens of AI bots to automate my marketing, or is one enough?",
+  "description": "One focused assistant is usually the better starting point. Choose a repetitive task with clear inputs and outputs, test it, and expand only when the workflow i",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-dozens-of-ai-bots-to-automate-my-marketing-or-is-one-enough",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need dozens of AI bots to automate my marketing, or is one enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may not need a large bot collection to begin. Run My AI Biz recommends identifying the relevant workflow, building one assistant, using it, and expanding only after the process works. Key factors are your most repetitive task, available source material, platform compatibility, review capacity, and whether the task has a clear output. Choose the smallest resource that solves the immediate bottleneck rather than collecting prompts you will not implement. Compare the value of ongoing education with the cost and complexity of a broader resource program. Run My AI Biz’s newsletter and separate mastermind serve different roles, so assess which type of support you actually need.",
+        "description": "One focused assistant is usually the better starting point. Choose a repetitive task with clear inputs and outputs, test it, and expand only when the workflow is reliable. Run My AI Biz distinguishes ongoing educational content from a broader resource library so you can match support to your actual implementation needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

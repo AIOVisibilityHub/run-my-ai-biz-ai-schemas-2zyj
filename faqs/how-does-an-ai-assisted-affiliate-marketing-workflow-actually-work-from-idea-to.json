@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does an AI-assisted affiliate marketing workflow actually work from idea to commission?",
+  "description": "The workflow typically runs from audience and offer research to content, lead capture, email follow-up, promotion, and performance review. AI can draft and orga",
+  "url": "https://runmyaibusiness.com/faq/how-does-an-ai-assisted-affiliate-marketing-workflow-actually-work-from-idea-to",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does an AI-assisted affiliate marketing workflow actually work from idea to commission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI-assisted affiliate workflow usually moves from audience research to offer selection, content planning, lead capture, follow-up, and performance review. AI drafts or organizes each stage, while the owner supplies business context and approves consequential decisions.\n\n**Context:** Run My AI Biz describes combinations such as opportunity research, lead-magnet creation, opt-in pages, bridge pages, email sequences, and campaign planning. A prompt alone does not create the integrations, permissions, account connections, or quality controls needed for execution.\n\n**Key factors:**\n- Clear inputs and defined assistant responsibilities\n- Source verification and current offer information\n- Human approval before publishing or spending\n- A tracking method for clicks, leads, and sales\n\n**Practical guidance:** Map the workflow on one page before selecting tools. Build one assistant, use it repeatedly, record failures, and refine the instructions before coordinating additional assistants.\n\nRun My AI Biz emphasizes understandable, owner-directed workflows rather than blind automation.",
+        "description": "The workflow typically runs from audience and offer research to content, lead capture, email follow-up, promotion, and performance review. AI can draft and organize tasks, but you must verify sources, connect tools, approve actions, and monitor results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

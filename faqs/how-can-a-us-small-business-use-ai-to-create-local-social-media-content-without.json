@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can a US small business use AI to create local social media content without making up facts?",
+  "description": "Give AI a defined location, date range, and verified source material. Require a verification column for addresses, dates, hours, names, availability, and event",
+  "url": "https://runmyaibusiness.com/faq/how-can-a-us-small-business-use-ai-to-create-local-social-media-content-without",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can a US small business use AI to create local social media content without making up facts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help draft local content, but it should not invent local facts, event details, business information, or community sentiment. Verify dates, addresses, hours, names, availability, and claims with current sources before publishing.\n\nContext: Run My AI Biz’s examples include local newsletters, local activity resources, local business websites, and sponsor research. Location-specific content therefore needs a source field and a review step rather than relying on AI’s memory.\n\nKey factors:\n- Record the location and date range.\n- Use current first-party or authoritative information.\n- Separate researched facts from promotional language.\n- Recheck details near publication.\n\nPractical guidance: Ask AI to produce a draft with a verification column for every local claim. Do not publish until a reviewer confirms the facts and checks that the call to action is still valid.\n\nLocal relevance is valuable only when the details are current and accurate.",
+        "description": "Give AI a defined location, date range, and verified source material. Require a verification column for addresses, dates, hours, names, availability, and event details, then recheck every local claim before publication. Never rely on AI’s memory for current community information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

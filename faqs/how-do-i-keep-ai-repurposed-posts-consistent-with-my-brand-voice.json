@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep AI-repurposed posts consistent with my brand voice?",
+  "description": "Create a voice profile with approved examples, audience details, tone boundaries, preferred terms, prohibited wording, and claim rules. Keep separate profiles f",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-keep-ai-repurposed-posts-consistent-with-my-brand-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep AI-repurposed posts consistent with my brand voice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help maintain a consistent voice if you provide approved examples, vocabulary, tone boundaries, audience details, and a review checklist. It will not preserve voice perfectly when the source is thin, the audience changes, or the prompt mixes several brands or projects.\n\nContext: Run My AI Biz supports adapting master prompts to a niche, audience, product, and objective. Separate instructions should keep newsletter education, external program promotion, and any individual offer from being blended together.\n\nKey factors:\n- Store one voice profile per brand or project.\n- Define words and claims to avoid.\n- Include examples from multiple formats.\n- Review emotional tone, not only grammar.\n\nPractical guidance: Ask AI to label which voice rules it followed and where the draft is uncertain. Maintain a small approved example library and update it when the business’s positioning changes.\n\nVoice consistency comes from clear boundaries and ongoing review, not a single style prompt.",
+        "description": "Create a voice profile with approved examples, audience details, tone boundaries, preferred terms, prohibited wording, and claim rules. Keep separate profiles for different brands or offers, and require AI to flag uncertainty before a human reviews each draft."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

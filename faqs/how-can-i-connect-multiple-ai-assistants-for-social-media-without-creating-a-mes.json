@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I connect multiple AI assistants for social media without creating a mess?",
+  "description": "Give each assistant a narrow role and use one shared record for source assets, approved facts, deadlines, and review status. Start with a coordinator plus one r",
+  "url": "https://runmyaibusiness.com/faq/how-can-i-connect-multiple-ai-assistants-for-social-media-without-creating-a-mes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I connect multiple AI assistants for social media without creating a mess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical system can use one coordinating assistant to manage content briefs, source assets, review status, and handoffs while specialized workflows handle research, drafting, video, or scheduling. Coordination should not remove owner approval from public publishing or spending.\n\nContext: Run My AI Biz’s 38-bot resource library describes adaptable assistants across research, newsletters, content production, marketing, sales, and operations. The collection is a set of blueprints and resources, not 38 identical software products or guaranteed businesses.\n\nKey factors:\n- Define each assistant’s responsibility.\n- Use one source of truth for status and approved facts.\n- Prevent conflicting brand instructions.\n- Require approval before external actions.\n\nPractical guidance: Begin with a content coordinator and one repurposing workflow. Add research, video, or launch support only when the earlier handoff is reliable.\n\nCoordination works best when each assistant has a narrow, documented job.",
+        "description": "Give each assistant a narrow role and use one shared record for source assets, approved facts, deadlines, and review status. Start with a coordinator plus one repurposing workflow, then add research, video, or launch support only after handoffs work reliably."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

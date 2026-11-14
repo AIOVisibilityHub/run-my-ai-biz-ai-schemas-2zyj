@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI repurpose one affiliate review into emails, posts, and videos without making everything sound robotic?",
+  "description": "Yes, if it repurposes your approved research and viewpoint rather than copying competitors. Use a source brief, preserve qualifications and disclosures, review",
+  "url": "https://runmyaibusiness.com/faq/can-ai-repurpose-one-affiliate-review-into-emails-posts-and-videos-without-makin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI repurpose one affiliate review into emails, posts, and videos without making everything sound robotic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for routine transformation, not for copying competitors or disguising borrowed work. It can turn your own approved research into an outline, checklist, email, or social draft while preserving your chosen facts, examples, and point of view.\n\n**Context:** Run My AI Biz covers newsletter repurposing, social content, sales copy, and content development. Its approach depends on owner-supplied context and review rather than indiscriminate content generation.\n\n**Key factors:**\n- Ownership and permission for source material\n- Originality of examples and analysis\n- Accuracy after shortening or reformatting\n- Preservation of disclosures and links\n\n**Practical guidance:** Store an approved source brief and require every derivative asset to trace back to it. Compare the final version with the original so AI has not changed qualifications, pricing, or calls to action.\n\nThe workflow can reduce repetition while keeping editorial control with the owner.",
+        "description": "Yes, if it repurposes your approved research and viewpoint rather than copying competitors. Use a source brief, preserve qualifications and disclosures, review each format separately, and add channel-specific examples or commentary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

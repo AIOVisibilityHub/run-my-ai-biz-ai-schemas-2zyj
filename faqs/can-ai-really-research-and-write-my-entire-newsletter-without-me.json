@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI really research and write my entire newsletter without me?",
+  "description": "AI can handle much of the collection, organization, summarizing, and first-draft work, but a person should select sources, verify important claims, add judgment",
+  "url": "https://runmyaibusiness.com/faq/can-ai-really-research-and-write-my-entire-newsletter-without-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI really research and write my entire newsletter without me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI can collect article ideas, summarize sources, identify themes, and prepare a first newsletter draft, but it should not be treated as an independent editor. Run My AI Biz’s educational model emphasizes owner direction, source verification, and approval before publication. AI output is useful when the research question and selection criteria are specific. Key factors are source quality, freshness, topic complexity, and the consequences of getting a claim wrong. Ask for a source table containing the publication date, original link, central claim, supporting evidence, and uncertainty notes. Then compare important facts with the original material and add your own interpretation before sending.",
+        "description": "AI can handle much of the collection, organization, summarizing, and first-draft work, but a person should select sources, verify important claims, add judgment, and approve the final issue. A practical Run My AI Biz workflow uses AI for assistance rather than hands-off publishing, especially when covering prices, product capabilities, research findings, or business outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

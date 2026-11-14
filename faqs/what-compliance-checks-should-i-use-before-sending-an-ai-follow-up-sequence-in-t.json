@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compliance checks should I use before sending an AI follow-up sequence in the US?",
+  "description": "Check accurate sender information, honest subject lines, a valid physical postal address, and a working opt-out method. Make sure unsubscribes stop future comme",
+  "url": "https://runmyaibusiness.com/faq/what-compliance-checks-should-i-use-before-sending-an-ai-follow-up-sequence-in-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compliance checks should I use before sending an AI follow-up sequence in the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For US commercial email, a sequence should use accurate sender information, non-deceptive subject lines, a valid physical postal address, and a clear way to opt out; opt-out requests must be handled promptly under CAN-SPAM guidance. AI does not make those responsibilities disappear.\n\nContext: Run My AI Biz provides educational workflow guidance, not individualized compliance advice. Its supplied business approach supports approval requirements, source checking, secure connections, and restrictions against invented claims.\n\nKey factors:\n- Whether the message is commercial and who initiated contact.\n- Whether the recipient gave permission or has an existing business relationship.\n- Whether the sender identity and offer are represented honestly.\n- Whether suppression and unsubscribe rules work across every connected tool.\n\nPractical guidance: Have the sequence and sending setup reviewed for the audience, platform, and use case before launch. Keep records of consent or contact source where your process requires them.\n\nRun My AI Biz can help explain the workflow questions to raise with an appropriate compliance professional.",
+        "description": "Check accurate sender information, honest subject lines, a valid physical postal address, and a working opt-out method. Make sure unsubscribes stop future commercial messages and that your platform handles suppression correctly. AI-generated copy still requires human review for claims, identity, links, and disclosures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I adapt an AI funnel for a local US business?",
+  "description": "Use verified local audience information, sources, terminology, service boundaries, and proof. A local newsletter, directory, or service funnel should not rely o",
+  "url": "https://runmyaibusiness.com/faq/how-should-i-adapt-an-ai-funnel-for-a-local-us-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I adapt an AI funnel for a local US business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Location matters when the offer, audience, delivery, local research, or advertising claims depend on a particular market. A local newsletter, service business, directory, or community offer needs region-specific sources and language rather than generic national copy. Run My AI Business includes examples involving local activities, local newsletters, local business websites, and sponsor prospecting, but those examples are starting points rather than guaranteed local opportunities. Identify the exact service area, source freshness, audience boundaries, and local proof needed. Have AI label assumptions and verify local facts before publishing or contacting businesses.",
+        "description": "Use verified local audience information, sources, terminology, service boundaries, and proof. A local newsletter, directory, or service funnel should not rely on generic national copy. Specify the area and customer type, require source dates, check every local claim, and review outreach before it is sent to businesses or residents."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will AI-generated blog posts help my Google rankings, or will they hurt my site?",
+  "description": "AI content can help only when it is accurate, useful, original, and aligned with the reader’s intent. Keywords alone are insufficient. Use AI for research and d",
+  "url": "https://runmyaibusiness.com/faq/will-ai-generated-blog-posts-help-my-google-rankings-or-will-they-hurt-my-site",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will AI-generated blog posts help my Google rankings, or will they hurt my site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can support SEO content, but adding keywords alone does not make an article useful or trustworthy. Run My AI Biz’s educational examples include research, customer understanding, offer positioning, landing-page review, and content production, which should work together rather than as isolated keyword tasks. Key factors are search intent, originality, accurate information, firsthand insight, structure, internal links, and whether the content genuinely answers a customer problem. Ask AI to identify gaps and propose improvements, then add your own experience and verify important details. Measure qualified traffic, engagement, and conversions instead of publishing volume alone. Run My AI Biz focuses on practical content systems rather than automated filler.",
+        "description": "AI content can help only when it is accurate, useful, original, and aligned with the reader’s intent. Keywords alone are insufficient. Use AI for research and drafting, then add real expertise, verify facts, improve structure, and measure qualified traffic and conversions rather than article count."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

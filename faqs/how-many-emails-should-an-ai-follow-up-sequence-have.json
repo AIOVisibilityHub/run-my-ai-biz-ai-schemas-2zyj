@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many emails should an AI follow-up sequence have?",
+  "description": "There is no universal number. Start with a focused sequence tied to one trigger and action, with each email adding a different useful angle. Stop when the perso",
+  "url": "https://runmyaibusiness.com/faq/how-many-emails-should-an-ai-follow-up-sequence-have",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many emails should an AI follow-up sequence have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical starting sequence is usually short, purposeful, and tied to one customer action rather than a long chain of repetitive reminders. The right number depends on the trigger, sales cycle, offer complexity, and how much useful information can be added.\n\nContext: Current sequence guidance commonly stresses changing the angle in each follow-up and stopping after replies, bounces, or opt-outs. Run My AI Biz’s educational examples support building a focused workflow before coordinating several assistants.\n\nKey factors:\n- Immediate inquiries generally need faster acknowledgment than cold prospects.\n- A complex digital product may need education before a direct offer.\n- Every message should add context, proof, an answer, or a useful resource.\n- A sequence should end when the person replies, books, buys, declines, or opts out.\n\nPractical guidance: Draft a small test sequence first, then measure replies and unsubscribes before adding steps. Avoid extending a sequence merely because AI can produce more copy.\n\nRun My AI Biz can help owners connect the sequence to a lead magnet, funnel, or digital-product launch plan.",
+        "description": "There is no universal number. Start with a focused sequence tied to one trigger and action, with each email adding a different useful angle. Stop when the person replies, books, buys, declines, or unsubscribes. Test a small sequence before expanding it across a larger funnel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

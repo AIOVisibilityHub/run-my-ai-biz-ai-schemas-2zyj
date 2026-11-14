@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when AI builds my sales funnel?",
+  "description": "Common failures include poor audience fit, a weak lead magnet, mismatched emails, unclear offers, broken integrations, generic copy, and unsupported claims. Tes",
+  "url": "https://runmyaibusiness.com/faq/what-can-go-wrong-when-ai-builds-my-sales-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when AI builds my sales funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A funnel may fail because the wrong people enter it, the lead magnet attracts freebie seekers, the offer is unclear, the emails do not match expectations, or the technical handoffs break. AI-generated copy can also sound generic, repeat unsupported claims, or overlook objections that matter to buyers. Run My AI Business highlights source verification, secure account connections, review checkpoints, and restrictions against invented statistics, proof, or income claims. Test the funnel as a visitor, subscriber, and buyer, then inspect actual support questions and drop-off points. Fix the highest-impact issue before adding more assistants or stages.",
+        "description": "Common failures include poor audience fit, a weak lead magnet, mismatched emails, unclear offers, broken integrations, generic copy, and unsupported claims. Test every role from visitor through buyer, verify sources and links, and review support questions. Fix the largest bottleneck before adding more automation or funnel stages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

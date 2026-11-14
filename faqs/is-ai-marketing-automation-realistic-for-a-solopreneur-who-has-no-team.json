@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI marketing automation realistic for a solopreneur who has no team?",
+  "description": "Yes, if you begin with one bottleneck and keep decisions and approvals under your control. AI can support research, drafts, funnels, repurposing, and recurring",
+  "url": "https://runmyaibusiness.com/faq/is-ai-marketing-automation-realistic-for-a-solopreneur-who-has-no-team",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI marketing automation realistic for a solopreneur who has no team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help a one-person business coordinate research, content, funnels, customer-support drafts, and recurring administrative work, but the owner remains responsible for priorities and approvals. Run My AI Biz describes a chief-of-staff-style assistant as a central point of contact for organizing specialized assistants. Key factors include workload, task repetition, account access, response expectations, and how much time you can spend checking outputs. Choose one bottleneck instead of attempting to automate every business function. Create a weekly review for stalled tasks, errors, and outdated instructions. Run My AI Biz is designed for practical support without implying that AI replaces business judgment.",
+        "description": "Yes, if you begin with one bottleneck and keep decisions and approvals under your control. AI can support research, drafts, funnels, repurposing, and recurring checks, while a coordinating assistant organizes work. Run My AI Biz recommends focused implementation before expanding across several business functions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

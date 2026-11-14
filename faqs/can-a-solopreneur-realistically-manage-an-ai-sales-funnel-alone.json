@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a solopreneur realistically manage an AI sales funnel alone?",
+  "description": "Yes, if the workflow is focused and review responsibilities are clear. AI can help organize research, copy, content, product tasks, and routine administration,",
+  "url": "https://runmyaibusiness.com/faq/can-a-solopreneur-realistically-manage-an-ai-sales-funnel-alone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a solopreneur realistically manage an AI sales funnel alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A one-person business can use AI to coordinate research, content, marketing, product development, and administration, but the owner remains responsible for priorities, approvals, account access, and customer experience. A chief-of-staff-style assistant can organize tasks and route work to specialized assistants, yet it does not eliminate the need for review. Run My AI Business presents this coordinated model for solopreneurs while recommending focused implementation rather than launching every possible project at once. Set weekly priorities, define which actions require approval, and keep a simple status record. Begin with one funnel or workflow before coordinating several business projects.",
+        "description": "Yes, if the workflow is focused and review responsibilities are clear. AI can help organize research, copy, content, product tasks, and routine administration, while the owner controls priorities, permissions, spending, and publication. Start with one funnel, define approval points, and expand only after the first workflow is manageable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to create a lead magnet for my business?",
+  "description": "Pick one audience, one urgent problem, and one usable result. Start with a focused checklist, template, or short guide, then use AI for outlining and drafting.",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-create-a-lead-magnet-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to create a lead magnet for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one specific audience problem and one immediate result, then choose the simplest useful format—often a checklist, template, or short guide. For Run My AI Biz readers, the starting point might be an AI-assisted launch task, funnel step, or repetitive business workflow rather than a broad “AI for business” topic.\n\n**Context:** A lead magnet works best when it answers a question the intended reader already asks and can be used quickly. AI can help brainstorm, outline, draft, and format the asset, but it should not replace audience research or human review.\n\n**Key factors:**\n- Audience role, business stage, and urgent problem.\n- The next offer or action the asset should support.\n- Whether the content needs current facts, examples, or source checking.\n\n**Practical guidance:** Write the promise in one sentence, test it against five real audience questions, and create only the first version. Run My AI Biz’s focused workflow—choose one assistant, use it, refine it, then expand—can prevent an oversized project.\n\nA focused brief and review checklist can make AI-assisted creation much more manageable.",
+        "description": "Pick one audience, one urgent problem, and one usable result. Start with a focused checklist, template, or short guide, then use AI for outlining and drafting. Review every claim, example, and call to action before publishing, and connect the magnet to the next step you want readers to take."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

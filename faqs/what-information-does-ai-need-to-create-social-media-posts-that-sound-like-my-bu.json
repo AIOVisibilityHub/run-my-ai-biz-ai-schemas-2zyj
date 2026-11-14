@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does AI need to create social media posts that sound like my business?",
+  "description": "Give AI your audience, offer, platform, objective, brand voice, approved examples, source content, key facts, prohibited claims, and review rules. A reusable ma",
+  "url": "https://runmyaibusiness.com/faq/what-information-does-ai-need-to-create-social-media-posts-that-sound-like-my-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does AI need to create social media posts that sound like my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI works best when it receives a detailed brief instead of a vague request to “make posts.” Supply your business description, audience, offer, platform, objective, voice, examples of approved writing, source material, and rules for claims and review.\n\nContext: Run My AI Biz’s model uses customizable master prompts that define an assistant’s role, workflow, and approval requirements. That makes a structured prompt more useful than repeatedly asking isolated questions.\n\nKey factors:\n- State what the content must accomplish.\n- Include platform-specific limits and conventions.\n- Provide approved terminology and prohibited wording.\n- Require uncertainty flags and human approval.\n\nPractical guidance: Save the prompt as a working template, then revise it after each batch. Keep brand facts separate from temporary campaign details so the workflow can be reused without mixing projects.\n\nBetter instructions usually produce more consistent drafts than longer instructions alone.",
+        "description": "Give AI your audience, offer, platform, objective, brand voice, approved examples, source content, key facts, prohibited claims, and review rules. A reusable master prompt can keep these details consistent across newsletters, digital products, funnels, and social posts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

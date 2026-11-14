@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a professional to create my AI email follow-up sequence?",
+  "description": "Not always. A focused, low-risk sequence can start with an AI draft and careful owner review. Professional help becomes more useful when branching, integrations",
+  "url": "https://runmyaibusiness.com/faq/do-i-need-a-professional-to-create-my-ai-email-follow-up-sequence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a professional to create my AI email follow-up sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can begin with an AI draft, but a professional review becomes more valuable when the sequence affects revenue, uses complex branching, handles sensitive data, or connects several platforms. Outside help should improve strategy and controls, not simply produce more words.\n\nContext: Run My AI Biz serves beginners, solopreneurs, and small business owners through educational explanations and adaptable workflows. Its resources emphasize owner direction, secure connections, source checking, and review before consequential actions.\n\nKey factors:\n- Risk of inaccurate claims or inappropriate personalization.\n- Number of integrations and permissions.\n- Importance of the customer journey and offer.\n- Owner’s ability to test and monitor performance.\n\nPractical guidance: Before hiring help, gather the offer details, audience description, existing emails, platform list, metrics, and approval requirements. Ask for a test sequence and a documented handoff process, not only finished copy.\n\nRun My AI Biz can help owners understand what to prepare before deciding whether outside implementation support is needed.",
+        "description": "Not always. A focused, low-risk sequence can start with an AI draft and careful owner review. Professional help becomes more useful when branching, integrations, sensitive data, revenue impact, or compliance concerns are substantial. Bring your offer, audience, existing emails, platforms, metrics, and approval rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are AI sales funnel prompt libraries worth paying for?",
+  "description": "They can be useful if they provide clear roles, adaptable instructions, examples, review rules, and a process for applying outputs. Prompts are not complete sof",
+  "url": "https://runmyaibusiness.com/faq/are-ai-sales-funnel-prompt-libraries-worth-paying-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are AI sales funnel prompt libraries worth paying for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A prompt library becomes useful when each prompt has a defined role, inputs, output format, quality standard, and approval rule. A collection of prompts alone is not a functioning funnel or software system. Run My AI Business describes The 38 Bot Empire as adaptable bot blueprints, with some prompts in the guide and others in supporting materials; execution still depends on platforms, integrations, permissions, and oversight. Store prompts with version dates, examples, prohibited claims, and the business context they require. Review outputs regularly as your offer, audience, tools, and policies change.",
+        "description": "They can be useful if they provide clear roles, adaptable instructions, examples, review rules, and a process for applying outputs. Prompts are not complete software, guaranteed businesses, or substitutes for platforms and integrations. Judge value by time saved, workflow clarity, customization, and whether the materials fit your actual funnel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

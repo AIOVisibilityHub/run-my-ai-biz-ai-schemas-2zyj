@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI make my landing page accessible, or do I need to check everything myself?",
+  "description": "AI can suggest accessibility improvements, but you still need to verify the published page. Check headings, contrast, alternative text, keyboard access, form la",
+  "url": "https://runmyaibusiness.com/faq/can-ai-make-my-landing-page-accessible-or-do-i-need-to-check-everything-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI make my landing page accessible, or do I need to check everything myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a page-specific accessibility review rather than assuming an AI builder handled it correctly. Check heading order, contrast, alternative text, keyboard access, form labels, link purpose, captions where needed, and readable text sizes.\n\nContext: AI-generated design may prioritize appearance over usable structure. Accessibility needs can vary by audience, platform, and use case, so review should be part of publishing rather than an afterthought.\n\nKey factors:\n- Semantic headings and logical reading order\n- Keyboard and screen-reader access\n- Color contrast and non-color cues\n- Clear errors and form instructions\n\nPractical guidance: Ask AI to produce an accessibility checklist, then verify the published page with manual checks and appropriate testing tools. Fix barriers before promotion.\n\nRun My AI Business can help organize the checklist and content review while the page platform handles implementation.",
+        "description": "AI can suggest accessibility improvements, but you still need to verify the published page. Check headings, contrast, alternative text, keyboard access, form labels, error messages, captions, and readable text. Treat accessibility as a required review step."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I fact-check an AI-written newsletter before sending it?",
+  "description": "Require a source for every important claim, then open the original material and check the wording, date, context, numbers, and product details. Ask AI to flag u",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-fact-check-an-ai-written-newsletter-before-sending-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I fact-check an AI-written newsletter before sending it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can produce a plausible newsletter while still getting names, dates, prices, product features, or statistics wrong. Treat every externally verifiable claim as unconfirmed until checked against the original source. Run My AI Biz specifically emphasizes source verification and restrictions against invented statistics, proof, or income claims. Ask AI to attach a source to each material claim and label statements it cannot verify. Check the original page, publication date, context, and whether the source actually supports the wording. Keep the research record so corrections can be made efficiently if a reader identifies an error.",
+        "description": "Require a source for every important claim, then open the original material and check the wording, date, context, numbers, and product details. Ask AI to flag unsupported statements instead of filling gaps. Keep a research log and remove claims that cannot be verified. Run My AI Biz’s workflow guidance favors review before publication and rejects invented evidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

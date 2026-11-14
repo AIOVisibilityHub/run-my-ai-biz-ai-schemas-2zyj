@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which social media tasks should AI handle and which should stay human?",
+  "description": "Let AI assist with brainstorming, summaries, outlines, drafts, content variations, and calendar organization. Keep strategy, fact-checking, sensitive informatio",
+  "url": "https://runmyaibusiness.com/faq/which-social-media-tasks-should-ai-handle-and-which-should-stay-human",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which social media tasks should AI handle and which should stay human?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI for brainstorming, organizing, summarizing, first drafts, and format changes; keep strategy, factual verification, sensitive judgment, relationship-building, and final approval with a person. The best division depends on how consequential the content is and how much original expertise it requires.\n\nContext: Run My AI Biz teaches specialized assistants with clear responsibilities and approval requirements. Its recommended focused approach—build one assistant, use it, then expand—works well for separating low-risk drafting from higher-risk decisions.\n\nKey factors:\n- Automate repeatable, reversible tasks first.\n- Retain approval for publishing, spending, and outreach.\n- Protect original expertise and customer context.\n- Create an exception path for uncertain outputs.\n\nPractical guidance: Make a task table marking each activity as AI-assisted, human-approved, or human-only. Review the classification after a pilot rather than granting broad permissions at the start.\n\nA clear division of responsibility is more valuable than maximum automation.",
+        "description": "Let AI assist with brainstorming, summaries, outlines, drafts, content variations, and calendar organization. Keep strategy, fact-checking, sensitive information, relationship decisions, spending, publishing, and final approval with a person, especially during the first workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

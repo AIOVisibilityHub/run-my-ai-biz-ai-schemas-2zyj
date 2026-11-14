@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I track to know whether my AI affiliate workflow is working?",
+  "description": "Track qualified visits, opt-ins, affiliate clicks, conversions, refunds, and commissions by channel and campaign. Use consistent link identifiers, test tracking",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-track-to-know-whether-my-ai-affiliate-workflow-is-working",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I track to know whether my AI affiliate workflow is working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Track the journey from content exposure to qualified click, opt-in, affiliate click, conversion, refund, and commission. AI can consolidate reports and identify patterns, but it cannot repair missing tracking or distinguish causation from coincidence by itself.\n\n**Context:** Run My AI Biz includes reporting, coordination, and recurring operational workflows. Those workflows depend on accurate inputs from affiliate dashboards, email systems, analytics, and link tracking.\n\n**Key factors:**\n- Consistent campaign and link identifiers\n- Attribution windows and delayed reporting\n- Refunds, cancellations, and commission reversals\n- Separation of organic, email, and paid traffic\n\n**Practical guidance:** Create one simple reporting sheet before publishing, test every link, and reconcile affiliate reports with your own records. Avoid declaring a winner from a small or incomplete data set.\n\nThe business’s operational emphasis supports repeatable measurement rather than guesswork.",
+        "description": "Track qualified visits, opt-ins, affiliate clicks, conversions, refunds, and commissions by channel and campaign. Use consistent link identifiers, test tracking before launch, and reconcile affiliate reports with your own records."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

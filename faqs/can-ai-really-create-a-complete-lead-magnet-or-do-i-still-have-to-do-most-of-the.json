@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI really create a complete lead magnet, or do I still have to do most of the work?",
+  "description": "AI can draft much of a lead magnet, including the outline, checklist, landing-page copy, and emails, but you still need to define the audience, verify informati",
+  "url": "https://runmyaibusiness.com/faq/can-ai-really-create-a-complete-lead-magnet-or-do-i-still-have-to-do-most-of-the",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI really create a complete lead magnet, or do I still have to do most of the work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but AI should support the process rather than produce an unreviewed final file. It can help turn a defined audience problem into an outline, checklist items, opt-in copy, delivery email, and follow-up sequence.\n\n**Context:** Run My AI Biz presents AI as a set of specialized, customizable assistants, not as a one-click business generator. The quality of the result depends on the instructions, source material, platform setup, and owner’s decisions.\n\n**Key factors:**\n- Whether the topic requires current research or expert judgment.\n- How specific the audience and desired outcome are.\n- Whether the workflow includes approval before publication or sending.\n\n**Practical guidance:** Give AI your offer, audience, voice, exclusions, and evidence requirements. Ask it to flag uncertainty, cite supplied sources internally, and produce a review checklist before you export the PDF or activate the form.\n\nRun My AI Biz’s educational approach is a good fit for owners who want practical AI workflows while retaining control.",
+        "description": "AI can draft much of a lead magnet, including the outline, checklist, landing-page copy, and emails, but you still need to define the audience, verify information, edit the voice, test the download, and approve publication. AI creates a working draft; it does not guarantee a useful or accurate business asset."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

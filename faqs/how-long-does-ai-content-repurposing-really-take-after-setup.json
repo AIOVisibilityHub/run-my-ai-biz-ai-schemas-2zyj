@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does AI content repurposing really take after setup?",
+  "description": "Timing varies with source length, platform count, media formats, and review requirements. AI can speed up first drafts, but editing, fact-checking, visual creat",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-ai-content-repurposing-really-take-after-setup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does AI content repurposing really take after setup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right amount depends on your source material, number of platforms, approval standards, and how much original visual or video work is required. AI may reduce drafting time, but reviewing, editing, formatting, and creating platform-ready media still take effort.\n\nContext: Run My AI Biz emphasizes repeatable workflows and specialized assistants, so a small pilot can reveal where time is actually saved. A prompt alone does not create a complete system; supporting tools, permissions, and human decisions remain necessary.\n\nKey factors:\n- Length and quality of the source content.\n- Number of platforms and formats.\n- Need for captions, clips, graphics, or accessibility text.\n- Number of review and revision rounds.\n\nPractical guidance: Track time for research, drafting, editing, approvals, scheduling, and performance review separately. Use the results to narrow the workflow instead of assuming every task should be automated.\n\nMeasure the whole process, not just the first draft.",
+        "description": "Timing varies with source length, platform count, media formats, and review requirements. AI can speed up first drafts, but editing, fact-checking, visual creation, accessibility checks, scheduling, and approvals still require time. Track each stage during a small pilot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

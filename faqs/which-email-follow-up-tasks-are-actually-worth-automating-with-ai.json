@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which email follow-up tasks are actually worth automating with AI?",
+  "description": "Start with repeatable, low-ambiguity tasks such as drafting lead-magnet follow-ups, organizing sequence variations, summarizing replies for review, and preparin",
+  "url": "https://runmyaibusiness.com/faq/which-email-follow-up-tasks-are-actually-worth-automating-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which email follow-up tasks are actually worth automating with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI is most valuable when the sequence repeats a defined process and has stable inputs, such as delivering a resource, educating a subscriber, or following up on a clear inquiry. It is less suitable when every contact requires complex judgment or highly sensitive information.\n\nContext: Run My AI Biz recommends identifying one workflow, building one assistant, using it, and expanding later. Its examples include lead magnets, funnels, newsletters, sales copy, and recurring operational tasks.\n\nKey factors:\n- Repetition and volume of the task.\n- Consistency of the offer and audience.\n- Availability of accurate source material.\n- Consequences of an incorrect or mistimed message.\n\nPractical guidance: List recurring email tasks and rank them by frequency, business value, and risk. Begin with drafting or organization if full sending automation would be too difficult to supervise.\n\nRun My AI Biz can help a solopreneur identify a manageable first use rather than automate everything at once.",
+        "description": "Start with repeatable, low-ambiguity tasks such as drafting lead-magnet follow-ups, organizing sequence variations, summarizing replies for review, and preparing customer reminders. Avoid fully automating messages that require sensitive judgment or uncertain claims. Choose one workflow with clear inputs and approval points."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

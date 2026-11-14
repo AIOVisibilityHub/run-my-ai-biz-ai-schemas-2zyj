@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What email compliance issues should I check when using AI for a US newsletter?",
+  "description": "AI does not handle compliance automatically. For US commercial email, review truthful headers and subject lines, a valid postal address, a working opt-out metho",
+  "url": "https://runmyaibusiness.com/faq/what-email-compliance-issues-should-i-check-when-using-ai-for-a-us-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What email compliance issues should I check when using AI for a US newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI does not automatically make a newsletter compliant with email rules, platform policies, privacy expectations, or disclosure requirements. For US commercial email, review current requirements around truthful headers and subject lines, a valid postal address, a working opt-out method, and honoring opt-out requests; the Federal Trade Commission is the authoritative place to confirm current guidance. Run My AI Biz should frame this as educational information, not individualized compliance advice. Keep approval before sending, document consent and suppression handling, and disclose affiliate relationships when relevant. Have a qualified compliance professional review unusual campaigns, sensitive data practices, or uncertain obligations.",
+        "description": "AI does not handle compliance automatically. For US commercial email, review truthful headers and subject lines, a valid postal address, a working opt-out method, and prompt suppression of opted-out recipients using current FTC guidance. Also review privacy, data handling, affiliate disclosures, and platform rules. Keep a human approval step before every send."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

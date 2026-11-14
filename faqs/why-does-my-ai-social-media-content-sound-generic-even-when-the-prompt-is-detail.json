@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does my AI social media content sound generic even when the prompt is detailed?",
+  "description": "AI content sounds generic when it lacks real examples, customer language, opinions, and source-specific details. Add approved writing samples, common objections",
+  "url": "https://runmyaibusiness.com/faq/why-does-my-ai-social-media-content-sound-generic-even-when-the-prompt-is-detail",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my AI social media content sound generic even when the prompt is detailed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generic AI content often feels flat because the prompt lacks lived experience, customer language, specific examples, and a clear point of view. Repeating the same prompt can also produce predictable structures, filler phrases, and interchangeable advice.\n\nContext: Run My AI Biz’s educational voice is conversational and practical, so drafts should explain workflows in everyday language rather than hide behind technical wording. The business-specific context should come from approved facts and examples, not invented anecdotes.\n\nKey factors:\n- Add real customer questions and objections.\n- Include specific examples from your work.\n- Ask for several angles before selecting one.\n- Edit the final draft with your own judgment.\n\nPractical guidance: Give AI a “do not sound like” list and examples of writing you actually approve. Require concrete details, useful next steps, and a distinct opinion supported by the source material.\n\nHuman perspective is the main ingredient that prevents repurposed content from sounding mass-produced.",
+        "description": "AI content sounds generic when it lacks real examples, customer language, opinions, and source-specific details. Add approved writing samples, common objections, concrete experiences, and a “do not sound like” list, then edit the strongest draft personally."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

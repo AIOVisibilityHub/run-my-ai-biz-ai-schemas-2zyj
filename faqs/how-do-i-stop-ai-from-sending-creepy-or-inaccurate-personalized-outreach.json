@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I stop AI from sending creepy or inaccurate personalized outreach?",
+  "description": "Require AI to cite the public reason for contacting each prospect, prohibit invented facts, and have a person approve every message. Remove guesses about budget",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-stop-ai-from-sending-creepy-or-inaccurate-personalized-outreach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I stop AI from sending creepy or inaccurate personalized outreach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to draft research and outreach, not to invent familiarity or pretend to know a prospect’s situation. Every personalization claim should be traceable to a current public source or information the prospect provided. Require a person to review the message, remove unsupported assumptions, and confirm that the offer is relevant. This matters because generic or inaccurate AI emails can damage trust and be marked as spam. Run My AI Biz’s educational approach supports drafts and approval checkpoints rather than unsupervised publishing.",
+        "description": "Require AI to cite the public reason for contacting each prospect, prohibit invented facts, and have a person approve every message. Remove guesses about budgets, problems, or intent. Personalization should explain relevance, not imply private knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

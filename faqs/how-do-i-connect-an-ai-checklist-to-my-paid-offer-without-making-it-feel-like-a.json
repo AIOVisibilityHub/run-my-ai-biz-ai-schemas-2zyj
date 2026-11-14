@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I connect an AI checklist to my paid offer without making it feel like a sales pitch?",
+  "description": "Make the paid offer the logical next step for the same audience and problem. Let the checklist deliver one useful result, then address the next challenge throug",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-connect-an-ai-checklist-to-my-paid-offer-without-making-it-feel-like-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I connect an AI checklist to my paid offer without making it feel like a sales pitch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI lead magnet should lead naturally to a relevant next step, not pressure readers into an unrelated purchase. The connection can be a deeper guide, consultation, paid newsletter, digital product, or workflow resource that addresses the next stage of the same problem.\n\n**Context:** Run My AI Biz connects lead magnets with opt-in pages, bridge pages, thank-you pages, email sequences, and offers. Its educational and reseller activities should remain clearly described so readers understand whether they are receiving instruction, a recommendation, or a referral opportunity.\n\n**Key factors:**\n- Same audience and problem as the paid offer.\n- A meaningful gap between the free result and the next result.\n- Clear disclosure when a recommendation may generate a commission.\n- A follow-up sequence that adds value before asking for action.\n\n**Practical guidance:** Map the reader’s next question after completing the checklist and make that the email or offer topic. Review every transition for relevance rather than inserting a generic sales pitch.\n\nA clear progression helps the asset feel useful instead of merely promotional.",
+        "description": "Make the paid offer the logical next step for the same audience and problem. Let the checklist deliver one useful result, then address the next challenge through educational follow-up. Clearly disclose referral relationships when a recommendation may generate compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

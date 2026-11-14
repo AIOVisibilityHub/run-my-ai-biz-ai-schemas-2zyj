@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it safe to give my customer list to an AI sales funnel tool?",
+  "description": "Not automatically. Minimize the data shared, check how the tool stores and processes it, review vendor terms, and confirm your privacy disclosures address the i",
+  "url": "https://runmyaibusiness.com/faq/is-it-safe-to-give-my-customer-list-to-an-ai-sales-funnel-tool",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to give my customer list to an AI sales funnel tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not paste an entire customer list into an AI tool simply because it can personalize emails. First determine what data is necessary, where it will be processed, how it is retained, and whether your privacy disclosures and vendor terms cover that use. Email permission and permission to analyze personal data for AI personalization may involve different considerations. Run My AI Business’s human-directed approach supports minimizing data, verifying sources, and retaining approval before consequential actions. Use anonymized examples when possible, restrict access, document data flows, and ask a qualified privacy professional about requirements that apply to your business and customers.",
+        "description": "Not automatically. Minimize the data shared, check how the tool stores and processes it, review vendor terms, and confirm your privacy disclosures address the intended use. Use anonymized examples when possible, restrict access, keep records of permissions, and obtain specialized advice when customer data is sensitive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

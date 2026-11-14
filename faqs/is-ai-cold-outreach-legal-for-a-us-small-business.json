@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI cold outreach legal for a US small business?",
+  "description": "AI does not exempt a business from email, privacy, or advertising requirements. Use truthful sender information, a clear opt-out method, accurate content, and s",
+  "url": "https://runmyaibusiness.com/faq/is-ai-cold-outreach-legal-for-a-us-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI cold outreach legal for a US small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI-generated outreach still needs to follow the same applicable email and privacy requirements as human-written outreach. In the United States, review sender identification, truthful subject lines, a valid business address, and a working opt-out process before sending commercial email. Maintain a suppression list and ensure every connected tool respects it. Requirements can differ by audience, channel, and location, so obtain qualified compliance advice for your situation. Run My AI Biz workflows should keep sending disabled until your review and controls are ready.",
+        "description": "AI does not exempt a business from email, privacy, or advertising requirements. Use truthful sender information, a clear opt-out method, accurate content, and suppression controls, and review rules that apply to your audience and channel before sending."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

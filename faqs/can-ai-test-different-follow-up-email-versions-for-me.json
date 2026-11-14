@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI test different follow-up email versions for me?",
+  "description": "AI can create variations and summarize results, but the test design still needs human control. Change one major variable at a time, keep the audience and goal c",
+  "url": "https://runmyaibusiness.com/faq/can-ai-test-different-follow-up-email-versions-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI test different follow-up email versions for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use AI to draft variations, not to claim that one version will win without testing. Compare messages against the same audience and objective, and change one meaningful element at a time so the result is interpretable.\n\nContext: Run My AI Biz presents AI tools as support for testing and decision-making rather than guaranteed growth. Its educational workflows can help generate alternatives for subject lines, angles, offers, and calls to action.\n\nKey factors:\n- Test one variable such as subject line, opening, angle, or call to action.\n- Keep audience and timing reasonably consistent.\n- Define a primary success metric before testing.\n- Monitor negative signals as well as positive actions.\n\nPractical guidance: Ask AI to explain the hypothesis behind each variation and flag differences that could confuse the comparison. Keep a record of versions and outcomes for future prompt refinement.\n\nRun My AI Biz can help owners turn AI-generated options into disciplined experiments.",
+        "description": "AI can create variations and summarize results, but the test design still needs human control. Change one major variable at a time, keep the audience and goal consistent, define the success metric first, and monitor unsubscribes and complaints alongside replies or conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

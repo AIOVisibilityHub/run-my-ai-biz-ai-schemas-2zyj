@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know an AI landing page works on phones and not just in the preview?",
+  "description": "Test the live page on multiple phones and browsers, not only the builder preview. Check headline visibility, buttons, forms, images, links, confirmation message",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-know-an-ai-landing-page-works-on-phones-and-not-just-in-the-preview",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know an AI landing page works on phones and not just in the preview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design the page for the smallest useful screen first, then check larger layouts. AI can create responsive copy and layout suggestions, but it cannot confirm that your chosen platform renders every section, form, image, and button correctly.\n\nContext: Mobile readability and functional testing are part of practical page review, especially for solopreneurs using no-code platforms. A generated draft is not evidence that the published page works.\n\nKey factors:\n- Headline visibility without excessive scrolling\n- Button size and placement\n- Form length and keyboard behavior\n- Image loading and text readability\n\nPractical guidance: Test the live page on multiple phones and browsers. Submit the form, complete checkout if applicable, inspect confirmation messages, and check every link.\n\nRun My AI Business’s workflow emphasis supports review before anything goes live.",
+        "description": "Test the live page on multiple phones and browsers, not only the builder preview. Check headline visibility, buttons, forms, images, links, confirmation messages, and checkout. Submit the full path yourself before sending traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

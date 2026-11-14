@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes an AI-generated lead magnet good enough to put in a funnel?",
+  "description": "A strong lead magnet addresses one urgent problem for the same audience as your paid offer. Choose a practical format such as a checklist, worksheet, template,",
+  "url": "https://runmyaibusiness.com/faq/what-makes-an-ai-generated-lead-magnet-good-enough-to-put-in-a-funnel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes an AI-generated lead magnet good enough to put in a funnel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lead magnet should solve a narrow, immediate problem for the same audience that may later buy your offer. Good formats include a checklist, worksheet, short guide, template, or practical resource tied to the next step. The resource should be useful on its own, but naturally reveal why the paid offer may help further. Run My AI Business includes examples such as a local activities PDF and an affiliate-related checklist, showing that the asset should match a specific audience and funnel. Define the promised result, required inputs, delivery format, and follow-up offer before asking AI to draft it. Review every recommendation for accuracy and usefulness.",
+        "description": "A strong lead magnet addresses one urgent problem for the same audience as your paid offer. Choose a practical format such as a checklist, worksheet, template, or short guide, and connect it to a logical next step. Verify the advice, remove filler, test the download, and ensure the follow-up offer is relevant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

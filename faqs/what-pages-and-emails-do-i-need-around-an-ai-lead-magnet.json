@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What pages and emails do I need around an AI lead magnet?",
+  "description": "At minimum, use an opt-in page, delivery or thank-you step, and email that provides the resource. Add follow-up messages and a relevant offer when they serve th",
+  "url": "https://runmyaibusiness.com/faq/what-pages-and-emails-do-i-need-around-an-ai-lead-magnet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What pages and emails do I need around an AI lead magnet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lead-magnet funnel can include an opt-in page, confirmation or thank-you page, delivery email, follow-up sequence, and relevant offer, but each part should have one clear job. More pages do not automatically create better results.\n\n**Context:** Run My AI Biz’s affiliate and launch examples describe connected materials such as opt-in pages, bridge pages, thank-you pages, emails, and promotional copy. Its approach also requires review before anything goes live.\n\n**Key factors:**\n- The promise must match across page, file, and email.\n- Delivery should be tested before promotion.\n- Follow-up should answer the next logical question.\n- Links, permissions, and approval points must be documented.\n\n**Practical guidance:** Draw the reader’s path on one page, label the purpose of every step, and remove any component that does not improve delivery, understanding, or the next decision. Test the complete path using a fresh email address.\n\nA simple, functional funnel beats a complex funnel with broken handoffs.",
+        "description": "At minimum, use an opt-in page, delivery or thank-you step, and email that provides the resource. Add follow-up messages and a relevant offer when they serve the reader’s next question. Test the complete path, including links, permissions, delivery, and unsubscribe behavior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

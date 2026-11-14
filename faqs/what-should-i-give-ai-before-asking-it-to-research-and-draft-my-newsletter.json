@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I give AI before asking it to research and draft my newsletter?",
+  "description": "Give AI the audience, topic, newsletter promise, format, tone, length, source standards, call to action, and review rules. For a Run My AI Biz-style issue, also",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-give-ai-before-asking-it-to-research-and-draft-my-newsletter",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I give AI before asking it to research and draft my newsletter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by defining the reader, newsletter promise, issue format, and approval rules before asking AI to research or draft. For Run My AI Biz readers, that usually means connecting the topic to practical AI use in entrepreneurship, digital products, marketing, or business operations. A clear brief prevents broad summaries that do not help a specific audience. Key factors include the reader’s experience, the desired action, source standards, and whether the issue is educational or promotional. Prepare a short brand-voice sample, recurring sections, preferred source types, and a list of claims that require verification. Run My AI Biz’s focused, human-directed approach works best when one repeatable newsletter workflow is built and refined before adding more assistants.",
+        "description": "Give AI the audience, topic, newsletter promise, format, tone, length, source standards, call to action, and review rules. For a Run My AI Biz-style issue, also explain how the subject connects to practical AI use for entrepreneurs or small businesses. Provide a few examples of your voice and require unsupported claims to be flagged rather than invented."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

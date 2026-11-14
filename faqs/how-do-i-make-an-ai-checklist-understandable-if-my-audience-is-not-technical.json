@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I make an AI checklist understandable if my audience is not technical?",
+  "description": "Use plain language, explain unfamiliar terms, separate required from optional steps, and include examples. Do not assume a specific AI tool or integration. Test",
+  "url": "https://runmyaibusiness.com/faq/how-do-i-make-an-ai-checklist-understandable-if-my-audience-is-not-technical",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I make an AI checklist understandable if my audience is not technical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design the checklist around a single job that can be completed without advanced software. Explain unfamiliar terms, show an example, and identify what the reader should do if a step does not apply.\n\n**Context:** Run My AI Biz focuses on approachable AI education for people who may feel overwhelmed by technical instructions or disconnected software. That audience benefits from plain-language prompts, explicit handoffs, and visible review points.\n\n**Key factors:**\n- Define the reader’s starting point before writing step one.\n- Avoid assuming access to a particular AI platform.\n- Separate required actions from optional improvements.\n- State when human judgment or outside information is needed.\n\n**Practical guidance:** Have a nontechnical reader complete the checklist while marking every confusing phrase. Rewrite those sections, add a short glossary or example, and test the file on a phone as well as a computer.\n\nClarity and low friction matter more than sophisticated automation.",
+        "description": "Use plain language, explain unfamiliar terms, separate required from optional steps, and include examples. Do not assume a specific AI tool or integration. Test the checklist with a nontechnical reader and revise every point that requires extra explanation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

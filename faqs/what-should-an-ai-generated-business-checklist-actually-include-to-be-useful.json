@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an AI-generated business checklist actually include to be useful?",
+  "description": "Include a specific outcome, ordered actions, completion criteria, common errors, and clear approval points. Replace vague advice with observable tasks. For AI b",
+  "url": "https://runmyaibusiness.com/faq/what-should-an-ai-generated-business-checklist-actually-include-to-be-useful",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an AI-generated business checklist actually include to be useful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong checklist contains a specific outcome, ordered actions, completion criteria, and warnings about common mistakes. It should help the reader make progress without requiring a long explanation or unfamiliar software.\n\n**Context:** For Run My AI Biz’s audience, useful checklist subjects could include preparing an AI-assisted sales funnel, reviewing a digital product draft, or setting up approval points before content is published. The business context specifically emphasizes human review and secure connections.\n\n**Key factors:**\n- Each item should describe one observable action.\n- Related tasks should be grouped in a logical order.\n- The checklist should identify where owner approval is required.\n- Technical or current claims need verification.\n\n**Practical guidance:** Ask AI to challenge every item with “How would the reader know this is complete?” Remove vague statements such as “optimize your funnel,” and replace them with checkable actions such as reviewing the opt-in promise, delivery email, and follow-up link.\n\nA short, testable checklist is more useful than a long list of generic tips.",
+        "description": "Include a specific outcome, ordered actions, completion criteria, common errors, and clear approval points. Replace vague advice with observable tasks. For AI business workflows, also check sources, permissions, links, account connections, and any step that could publish content, send messages, or spend money."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

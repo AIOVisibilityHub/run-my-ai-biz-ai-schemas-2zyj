@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use AI to run ads before my funnel is fully tested?",
+  "description": "Usually not. Test the page, form, emails, offer, checkout, delivery, and tracking with controlled traffic first. AI can prepare ad variations and campaign plans",
+  "url": "https://runmyaibusiness.com/faq/should-i-use-ai-to-run-ads-before-my-funnel-is-fully-tested",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use AI to run ads before my funnel is fully tested?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paid advertising should usually come after the funnel works with a small amount of controlled traffic. Otherwise, ads can amplify a broken page, weak offer, tracking error, or poor follow-up. Start with organic outreach, existing subscribers, partners, or a small test budget when appropriate, and define a stop rule before spending. Run My AI Business includes advertising drafts and campaign planning, but its human-approval principle means AI should not independently spend money or publish ads. Verify tracking, landing-page speed, audience fit, compliance review, and conversion events before increasing spend.",
+        "description": "Usually not. Test the page, form, emails, offer, checkout, delivery, and tracking with controlled traffic first. AI can prepare ad variations and campaign plans, but keep spending and publishing behind human approval. Define a small test budget, success metric, and stop rule before launching paid traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

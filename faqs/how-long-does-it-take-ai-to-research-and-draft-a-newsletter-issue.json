@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take AI to research and draft a newsletter issue?",
+  "description": "A narrow issue may receive a first draft quickly, but dependable publication takes longer because sources must be selected, checked, edited, formatted, and appr",
+  "url": "https://runmyaibusiness.com/faq/how-long-does-it-take-ai-to-research-and-draft-a-newsletter-issue",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take AI to research and draft a newsletter issue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI newsletter research can take minutes for a narrow, well-defined topic, but the complete process still requires time for source selection, verification, editing, formatting, and approval. Run My AI Biz describes AI as support for recurring research and content workflows, not a guarantee of instant publication. Timing changes with the number of sources, how technical or current the subject is, and whether several audience segments need different versions. Set a research cutoff and a maximum source count before drafting. Use a brief source report first, then authorize a draft only after the strongest material has been checked.",
+        "description": "A narrow issue may receive a first draft quickly, but dependable publication takes longer because sources must be selected, checked, edited, formatted, and approved. Time increases with breaking news, technical claims, multiple audiences, or many sources. A research cutoff, defined source limit, and two-stage approval process make timing more predictable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a solo entrepreneur use AI lead generation without hiring a sales team?",
+  "description": "Yes, if the workflow is narrow and reviewable. Start with research summaries, prioritization, and follow-up drafts rather than full automation. A solo owner sti",
+  "url": "https://runmyaibusiness.com/faq/can-a-solo-entrepreneur-use-ai-lead-generation-without-hiring-a-sales-team",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a solo entrepreneur use AI lead generation without hiring a sales team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help a one-person business by turning repeated research, summaries, follow-up drafts, and content preparation into structured tasks. It does not remove the need to choose priorities, verify facts, approve messages, handle replies, or connect accounts securely. Keep the first workflow small enough to review personally, such as a weekly prospect brief or a follow-up reminder. Run My AI Biz’s chief-of-staff-style examples are intended to organize specialized assistants, but the owner remains responsible for direction and approval.",
+        "description": "Yes, if the workflow is narrow and reviewable. Start with research summaries, prioritization, and follow-up drafts rather than full automation. A solo owner still needs to verify prospects, approve outreach, respond to conversations, and maintain the connected tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

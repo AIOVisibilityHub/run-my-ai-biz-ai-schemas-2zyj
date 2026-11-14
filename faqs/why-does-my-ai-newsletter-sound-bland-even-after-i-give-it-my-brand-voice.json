@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does my AI newsletter sound bland even after I give it my brand voice?",
+  "description": "AI often produces bland copy when it receives only adjectives such as “friendly” or “expert.” Give it real samples, audience context, recurring viewpoints, pref",
+  "url": "https://runmyaibusiness.com/faq/why-does-my-ai-newsletter-sound-bland-even-after-i-give-it-my-brand-voice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my AI newsletter sound bland even after I give it my brand voice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A polished AI draft can still sound generic because it lacks your experiences, judgments, examples, and preferred phrasing. Community discussions commonly describe AI as more useful for organizing and polishing than for replacing the writer’s perspective. Run My AI Biz’s conversational, practical style depends on explaining how AI tools fit real business workflows, not merely listing features. Supply examples of your introductions, transitions, cautions, and conclusions. Keep the strongest human observations in the draft and ask AI to tighten around them. Compare a draft against a voice checklist covering specificity, warmth, sentence length, and acceptable claims.",
+        "description": "AI often produces bland copy when it receives only adjectives such as “friendly” or “expert.” Give it real samples, audience context, recurring viewpoints, preferred structure, and examples of what you would never say. Add your own observations and business examples, then use AI to organize and refine rather than erase the personality that makes the issue distinct."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

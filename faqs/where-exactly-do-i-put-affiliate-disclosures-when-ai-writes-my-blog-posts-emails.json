@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where exactly do I put affiliate disclosures when AI writes my blog posts, emails, and social captions?",
+  "description": "Place a clear, plain-language disclosure near the recommendation and affiliate link; include it in videos as well as descriptions. Add disclosure checks to ever",
+  "url": "https://runmyaibusiness.com/faq/where-exactly-do-i-put-affiliate-disclosures-when-ai-writes-my-blog-posts-emails",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where exactly do I put affiliate disclosures when AI writes my blog posts, emails, and social captions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disclose both the affiliate relationship and any material relationship with the promoted brand in a clear, conspicuous way near the recommendation and link. The FTC says affiliate disclosures should help people understand that a commission may result, and video disclosures should appear in the video as well as near the links.\n\n**Context:** A generic footer or hidden policy page may not clearly explain the relationship at the moment someone evaluates the recommendation. Run My AI Biz workflows include approval checkpoints, which are useful places to add disclosure review.\n\n**Key factors:**\n- Placement beside or near the recommendation\n- Plain language your audience can understand\n- Visibility on mobile, social, email, and video\n- Accuracy when the relationship or offer changes\n\n**Practical guidance:** Add a disclosure block to templates and verify it survives repurposing across channels. Keep the disclosure separate from vague phrases that do not plainly explain compensation.\n\nRun My AI Biz can help owners build disclosure checks into repeatable content workflows.",
+        "description": "Place a clear, plain-language disclosure near the recommendation and affiliate link; include it in videos as well as descriptions. Add disclosure checks to every AI content template so repurposed posts do not lose the notice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

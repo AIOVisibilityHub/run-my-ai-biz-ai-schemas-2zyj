@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI create a lead magnet that brings in qualified prospects?",
+  "description": "AI can help research a topic, draft the resource, and prepare the opt-in and follow-up materials. Qualification depends on the audience, promise, offer, and dis",
+  "url": "https://runmyaibusiness.com/faq/can-ai-create-a-lead-magnet-that-brings-in-qualified-prospects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI create a lead magnet that brings in qualified prospects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can help estimate whether a lead magnet addresses a real audience question by grouping research themes, outlining content, and preparing an opt-in page or follow-up sequence. It cannot prove that people will subscribe or buy. Test the resource with a small audience, measure opt-ins and qualified replies, and revise the topic or offer based on behavior. Keep claims accurate and make the next step clear. Run My AI Biz includes lead-magnet, funnel, and newsletter-growth examples that can be adapted to a defined niche.",
+        "description": "AI can help research a topic, draft the resource, and prepare the opt-in and follow-up materials. Qualification depends on the audience, promise, offer, and distribution. Test a small version and measure relevant replies or opportunities, not downloads alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should make an AI follow-up sequence stop sending?",
+  "description": "Stop or change it after a reply, booking, purchase, unsubscribe, bounce, complaint, human-help request, or clear “not now” response. Test each event with sample",
+  "url": "https://runmyaibusiness.com/faq/what-should-make-an-ai-follow-up-sequence-stop-sending",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should make an AI follow-up sequence stop sending?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The safest setup is to stop or change the sequence when a person replies, books, buys, unsubscribes, bounces, requests human help, or indicates that the timing is wrong. A reply should not automatically trigger another sales email without classification and review.\n\nContext: Current sequence guidance identifies replies, bounces, unsubscribes, bookings, and sequence completion as important exit conditions. Run My AI Biz also emphasizes owner approval before consequential actions.\n\nKey factors:\n- A positive reply may require a human handoff.\n- “Not now” may need a separate, permission-appropriate reminder path.\n- An unsubscribe must override other automation.\n- A complaint or support issue should take priority over promotion.\n\nPractical guidance: Write each stop condition in plain language and test it with sample events. Keep a human queue for ambiguous replies instead of asking AI to infer intent silently.\n\nRun My AI Biz can help owners document these rules before connecting specialized assistants.",
+        "description": "Stop or change it after a reply, booking, purchase, unsubscribe, bounce, complaint, human-help request, or clear “not now” response. Test each event with sample records. Ambiguous replies should go to a human review queue rather than triggering another automatic sales email."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

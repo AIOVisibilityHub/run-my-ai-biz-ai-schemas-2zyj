@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I use AI to write affiliate product reviews if I have never personally used the product?",
+  "description": "You can create an informational comparison from verified sources, but do not present it as personal experience. Clearly separate vendor claims, observed testing",
+  "url": "https://runmyaibusiness.com/faq/can-i-use-ai-to-write-affiliate-product-reviews-if-i-have-never-personally-used",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use AI to write affiliate product reviews if I have never personally used the product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can draft a review, but it should not invent hands-on experience, testimonials, results, or product capabilities. If you have not used a tool, say so and frame the content as a comparison based on verified information rather than a personal review.\n\n**Context:** Run My AI Biz specifically emphasizes source verification and restrictions on invented statistics, proof, or income claims. This is especially important when a prompt asks for confident, persuasive copy.\n\n**Key factors:**\n- Whether the writer actually used the product\n- Which claims come from the vendor versus testing\n- Whether limitations receive equal attention\n- Whether the content implies a result you cannot substantiate\n\n**Practical guidance:** Create separate fields for verified facts, observed experience, user suitability, and unresolved questions. Have a human approve every sentence that describes performance, savings, earnings, or outcomes.\n\nThis keeps educational affiliate content useful without manufacturing credibility.",
+        "description": "You can create an informational comparison from verified sources, but do not present it as personal experience. Clearly separate vendor claims, observed testing, and unknowns; never let AI invent testimonials, results, statistics, or product use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

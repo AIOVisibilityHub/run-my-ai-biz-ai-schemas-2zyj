@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI guarantee that my sales funnel will make money?",
+  "description": "No. AI can support research, copy, workflow design, and follow-up, but it cannot guarantee demand, trust, traffic, or sales. Track baseline metrics, test one ch",
+  "url": "https://runmyaibusiness.com/faq/can-ai-guarantee-that-my-sales-funnel-will-make-money",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI guarantee that my sales funnel will make money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI cannot guarantee conversions because results depend on offer-market fit, traffic quality, positioning, trust, price, timing, customer experience, and execution. It can improve the speed and consistency of research, drafts, testing ideas, and routine follow-up, but generated content may still be inaccurate or generic. Run My AI Business presents AI applications as educational opportunities rather than guaranteed outcomes and identifies some workflows as demonstrations or experiments. Set a baseline for visits, opt-ins, sales, refunds, and response rates before changing the funnel. Test one meaningful variable at a time and use actual customer feedback to decide what to revise.",
+        "description": "No. AI can support research, copy, workflow design, and follow-up, but it cannot guarantee demand, trust, traffic, or sales. Track baseline metrics, test one change at a time, gather customer feedback, and treat bot examples as starting points rather than proof of income."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

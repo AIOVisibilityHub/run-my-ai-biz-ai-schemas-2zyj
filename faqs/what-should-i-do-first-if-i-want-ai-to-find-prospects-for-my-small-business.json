@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want AI to find prospects for my small business?",
+  "description": "Choose one customer type and one buying signal first. Then use AI to collect public information, organize prospects, and draft research summaries for your appro",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-do-first-if-i-want-ai-to-find-prospects-for-my-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want AI to find prospects for my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one narrowly defined prospecting problem, such as finding local businesses with outdated websites or identifying potential newsletter sponsors. AI can collect public clues, organize them, and draft research summaries, but you should confirm fit before contacting anyone. Context matters because a large list of loosely related companies often creates more work than qualified opportunities. Key factors include your ideal customer, buying signal, geography, decision-maker role, and available evidence. Prepare a short prospect profile, a qualification checklist, and a review step before outreach. Run My AI Biz’s educational workflows are best used as a focused starting point rather than an automatic promise of leads or sales.",
+        "description": "Choose one customer type and one buying signal first. Then use AI to collect public information, organize prospects, and draft research summaries for your approval. Start with a small sample so you can test whether the prospects are genuinely relevant before expanding the workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

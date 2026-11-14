@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I ask for on an AI lead magnet opt-in form?",
+  "description": "Ask for the minimum needed, usually an email address. Clearly state what the subscriber will receive and how often. Keep optional marketing consent distinct whe",
+  "url": "https://runmyaibusiness.com/faq/what-information-should-i-ask-for-on-an-ai-lead-magnet-opt-in-form",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I ask for on an AI lead magnet opt-in form?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the minimum information needed to deliver the resource, usually an email address, and explain what messages the person will receive. Do not treat a download as permission to send unrelated marketing without an appropriate consent process.\n\n**Context:** Public guidance distinguishes delivery of a requested resource from optional marketing permission and emphasizes clear communication about message type and frequency. Run My AI Biz’s funnel examples include opt-in pages, thank-you pages, and email follow-up, so consent and delivery should be designed together.\n\n**Key factors:**\n- What data is necessary for delivery or personalization.\n- Whether optional marketing consent is separate and clear.\n- How unsubscribe requests and stored consent will be handled.\n- Whether the form, email, and privacy disclosures match.\n\n**Practical guidance:** Test the form from a new address, confirm the promised file arrives, and check that the follow-up sequence reflects the stated purpose. Avoid collecting phone numbers, company size, or other fields unless they change the next step.\n\nA simple, transparent opt-in experience supports both trust and cleaner list data.",
+        "description": "Ask for the minimum needed, usually an email address. Clearly state what the subscriber will receive and how often. Keep optional marketing consent distinct where required, test delivery and unsubscribe behavior, and avoid extra fields unless you will use them for a specific follow-up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

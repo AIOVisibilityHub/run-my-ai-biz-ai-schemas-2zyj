@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I give AI before it creates my email follow-up sequence?",
+  "description": "Give AI the sequence goal, audience, trigger, offer, customer problem, tone, approved facts, call to action, timing preferences, and stop conditions. For Run My",
+  "url": "https://runmyaibusiness.com/faq/what-should-i-give-ai-before-it-creates-my-email-follow-up-sequence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I give AI before it creates my email follow-up sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—start by defining the business goal, audience, trigger, offer, and desired next action before asking AI to draft anything. A useful sequence depends more on clear inputs and review rules than on generating several emails quickly.\n\nContext: For Run My AI Biz readers, this can connect a lead magnet, opt-in page, bridge page, offer, and email follow-up into one focused workflow. The business’s educational approach recommends building one assistant, testing it, and expanding only after the process works.\n\nKey factors:\n- Identify whether the trigger is an inquiry, download, purchase, or inactive lead.\n- Describe the audience’s problem and buying stage.\n- Define the owner-approved tone, claims, offer, and call to action.\n- Add stop rules for replies, bookings, unsubscribes, and complaints.\n\nPractical guidance: Give AI verified source material, customer language, product details, and examples of acceptable messages. Review every draft before connecting sending tools or permissions.\n\nRun My AI Biz can help owners understand how this workflow fits within a broader funnel without presenting automation as guaranteed revenue.",
+        "description": "Give AI the sequence goal, audience, trigger, offer, customer problem, tone, approved facts, call to action, timing preferences, and stop conditions. For Run My AI Biz workflows, also identify where the sequence fits—such as after a lead magnet, inquiry, or product purchase. Review the drafts before enabling any sending action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
