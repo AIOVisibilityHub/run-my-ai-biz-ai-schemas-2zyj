@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-14T01:15:17.817Z",
+  "generatedAt": "2026-11-14T04:27:34.812Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -38,6 +38,42 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "huggingface",
+      "label": "Hugging Face repository",
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "huggingface",
+      "label": "Hugging Face — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/24212493"
     }
   ],
   "destinations": {
@@ -45,6 +81,21 @@
       "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
       "pagesUrl": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/",
       "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3",
+      "pagesUrl": "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/24212493"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-14T01:15:17.833Z",
+  "generatedAt": "2026-11-14T04:27:34.824Z",
   "client": {
     "name": "Run My AI Biz",
     "canonicalUrl": "https://ai-data.runmyaibusiness.com",
@@ -76,7 +76,7 @@
   },
   "package": {
     "totalFiles": 1277,
-    "totalBytes": 5608346,
+    "totalBytes": 5614910,
     "stats": {
       "faqs": 1200,
       "helpArticles": 0,
@@ -6441,7 +6441,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3596,
+        "bytes": 4256,
         "purpose": "LLM hint"
       },
       {
@@ -6461,32 +6461,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1646,
+        "bytes": 3442,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 642897,
+        "bytes": 644365,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 170864,
+        "bytes": 171524,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 170864,
+        "bytes": 171524,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3587,
+        "bytes": 4247,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 236337,
+        "bytes": 236997,
         "purpose": "Repository README"
       },
       {
@@ -6506,6 +6506,21 @@
       "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
       "pagesUrl": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/",
       "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3",
+      "pagesUrl": "https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/24212493"
     }
   }
 }

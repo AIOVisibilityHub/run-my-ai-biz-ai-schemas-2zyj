@@ -17,6 +17,12 @@ Package contents:
 - [ai-data-hub] Run My AI Biz — AI Data Hub — https://ai-data.runmyaibusiness.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/ai-data.html
+- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/run-my-ai-biz-ai-schemas-k6e3
+- [mirror-pages] GitLab — AI Data Hub mirror — https://run-my-ai-biz-ai-schemas-k6e3-fa9e0e.gitlab.io/ai-data.html
+- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/run-my-ai-biz-ai-schemas
+- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-run-my-ai-biz-ai-schemas.static.hf.space/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/run-my-ai-biz-ai-schemas
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/24212493
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
