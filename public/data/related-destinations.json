@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-14T00:53:34.842Z",
+  "generatedAt": "2026-11-14T00:53:51.145Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -32,12 +32,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/",
       "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
     }
   }

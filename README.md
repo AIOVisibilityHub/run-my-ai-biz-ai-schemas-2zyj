@@ -20,6 +20,7 @@ Canonical AI Data Package for Run My AI Biz.
 - [canonical] Run My AI Biz — canonical website — https://ai-data.runmyaibusiness.com
 - [ai-data-hub] Run My AI Biz — AI Data Hub — https://ai-data.runmyaibusiness.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

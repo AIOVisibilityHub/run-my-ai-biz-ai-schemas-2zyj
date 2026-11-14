@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-14T00:53:34.852Z",
+  "generatedAt": "2026-11-14T00:53:51.151Z",
   "client": {
     "name": "Run My AI Biz",
     "canonicalUrl": "https://ai-data.runmyaibusiness.com",
@@ -75,7 +75,7 @@
   },
   "package": {
     "totalFiles": 727,
-    "totalBytes": 3388942,
+    "totalBytes": 3364636,
     "stats": {
       "faqs": 650,
       "helpArticles": 0,
@@ -3653,32 +3653,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 32357,
+        "bytes": 28005,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 115714,
+        "bytes": 111502,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 74352,
+        "bytes": 69687,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 30869,
+        "bytes": 26784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 947636,
+        "bytes": 943509,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 69067,
+        "bytes": 65004,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3690,7 +3690,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3467,
+        "bytes": 3596,
         "purpose": "LLM hint"
       },
       {
@@ -3710,32 +3710,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1369,
+        "bytes": 1646,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 359827,
+        "bytes": 360103,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 96598,
+        "bytes": 96727,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 96598,
+        "bytes": 96727,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3457,
+        "bytes": 3586,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 130835,
+        "bytes": 130964,
         "purpose": "Repository README"
       },
       {
@@ -3753,7 +3753,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/run-my-ai-biz-ai-schemas-2zyj/",
       "repo": "AIOVisibilityHub/run-my-ai-biz-ai-schemas-2zyj"
     }
   }
